@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T14:29:41.067Z",
+  "generated_at": "2026-06-14T14:31:04.605Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -615,11 +615,7 @@
           "rank": 1,
           "name": "Pierce The Veil",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6f8f8d13be17bf486219edc7",
-          "genres": [
-            "emo",
-            "screamo",
-            "post-hardcore"
-          ],
+          "genres": [],
           "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
           "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         },
@@ -635,13 +631,7 @@
           "rank": 3,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
-          "genres": [
-            "nu metal",
-            "alternative metal",
-            "rap metal",
-            "rock",
-            "shoegaze"
-          ],
+          "genres": [],
           "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
@@ -649,9 +639,7 @@
           "rank": 4,
           "name": "Cigarettes After Sex",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
-          "genres": [
-            "dream pop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
@@ -659,9 +647,7 @@
           "rank": 5,
           "name": "Wisp",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
-          "genres": [
-            "shoegaze"
-          ],
+          "genres": [],
           "uri": "spotify:artist:3TJZG17pjOKXwx1ELKJPfm",
           "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         },
@@ -677,11 +663,7 @@
           "rank": 7,
           "name": "Avenoir",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb4931e767936dbd7d806089c",
-          "genres": [
-            "dark r&b",
-            "alternative r&b",
-            "r&b"
-          ],
+          "genres": [],
           "uri": "spotify:artist:3Z7onAknzpinUu3KtmgeZb",
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         },
@@ -689,12 +671,7 @@
           "rank": 8,
           "name": "Bad Bunny",
           "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
-          "genres": [
-            "reggaeton",
-            "trap latino",
-            "latin",
-            "urbano latino"
-          ],
+          "genres": [],
           "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
@@ -702,10 +679,7 @@
           "rank": 9,
           "name": "My Chemical Romance",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9c00ad0308287b38b8fdabc2",
-          "genres": [
-            "emo",
-            "pop punk"
-          ],
+          "genres": [],
           "uri": "spotify:artist:7FBcuc1gsnv6Y1nwFtNRCb",
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         },
@@ -729,11 +703,7 @@
           "rank": 12,
           "name": "Sleeping With Sirens",
           "image": "https://i.scdn.co/image/ab6761610000e5eb158c15958b0b6bd270a11fbc",
-          "genres": [
-            "emo",
-            "post-hardcore",
-            "screamo"
-          ],
+          "genres": [],
           "uri": "spotify:artist:3N8Hy6xQnQv1F1XCiyGQqA",
           "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
         },
@@ -741,9 +711,7 @@
           "rank": 13,
           "name": "BTS",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf80ec63ea7a0ef0fba60957d",
-          "genres": [
-            "k-pop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX",
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         },
@@ -759,9 +727,7 @@
           "rank": 15,
           "name": "Danny Ocean",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6d11079e9ea4fd57b5df6c97",
-          "genres": [
-            "reggaeton"
-          ],
+          "genres": [],
           "uri": "spotify:artist:5H1nN1SzW0qNeUEZvuXjAj",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         },
@@ -769,10 +735,7 @@
           "rank": 16,
           "name": "Paramore",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
-          "genres": [
-            "pop punk",
-            "emo"
-          ],
+          "genres": [],
           "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF",
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         },
@@ -788,10 +751,7 @@
           "rank": 18,
           "name": "Feid",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e529f4ad13f86c69962cb12",
-          "genres": [
-            "reggaeton",
-            "urbano latino"
-          ],
+          "genres": [],
           "uri": "spotify:artist:2LRoIwlKmHjgvigdNGBHNo",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
@@ -799,10 +759,7 @@
           "rank": 19,
           "name": "Adolescent's Orquesta",
           "image": "https://i.scdn.co/image/ab6761610000e5eb85cbe9f05b11e3ea3d20ff0b",
-          "genres": [
-            "salsa",
-            "merengue"
-          ],
+          "genres": [],
           "uri": "spotify:artist:70nxnxEqDQIEWneRjg2Q4O",
           "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
         },
@@ -810,9 +767,7 @@
           "rank": 20,
           "name": "Rawayana",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5d52d93053343dc60653bbde",
-          "genres": [
-            "reggae en español"
-          ],
+          "genres": [],
           "uri": "spotify:artist:2AbQwU2cuEGfD465wCXlg2",
           "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         },
@@ -820,12 +775,7 @@
           "rank": 21,
           "name": "Rauw Alejandro",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6d72db3fd29576caa9cb821f",
-          "genres": [
-            "reggaeton",
-            "urbano latino",
-            "trap latino",
-            "latin"
-          ],
+          "genres": [],
           "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
@@ -833,9 +783,7 @@
           "rank": 22,
           "name": "The Marías",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
-          "genres": [
-            "bedroom pop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         },
@@ -843,11 +791,7 @@
           "rank": 23,
           "name": "La Isla Centeno",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf55def158ecb9a2b89f5e0bd",
-          "genres": [
-            "bolero",
-            "latin indie",
-            "latin folk"
-          ],
+          "genres": [],
           "uri": "spotify:artist:7EnLmrL4jTZKjeseaZyA0L",
           "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         },
@@ -855,10 +799,7 @@
           "rank": 24,
           "name": "Romeo Santos",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
-          "genres": [
-            "bachata",
-            "latin"
-          ],
+          "genres": [],
           "uri": "spotify:artist:5lwmRuXgjX8xIwlnauTZIP",
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         },
@@ -866,9 +807,7 @@
           "rank": 25,
           "name": "Linked Horizon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1bd3d7f70a7478c63ab91689",
-          "genres": [
-            "anime"
-          ],
+          "genres": [],
           "uri": "spotify:artist:3eNYrVLcWfjJ9JdH9kiPJO",
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         },
@@ -884,10 +823,7 @@
           "rank": 27,
           "name": "Prince Royce",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6ce83e3425a74cb9d6bdb1dc",
-          "genres": [
-            "bachata",
-            "latin"
-          ],
+          "genres": [],
           "uri": "spotify:artist:3MHaV05u0io8fQbZ2XPtlC",
           "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         },
@@ -903,10 +839,7 @@
           "rank": 29,
           "name": "maye",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc44bdd7c78e751026c67857c",
-          "genres": [
-            "latin indie",
-            "latin alternative"
-          ],
+          "genres": [],
           "uri": "spotify:artist:5ti5FPHgtaSf15KcUisZMt",
           "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         },
@@ -914,11 +847,7 @@
           "rank": 30,
           "name": "KAROL G",
           "image": "https://i.scdn.co/image/ab6761610000e5eb66041ce9eb4497057cbc3496",
-          "genres": [
-            "reggaeton",
-            "latin",
-            "urbano latino"
-          ],
+          "genres": [],
           "uri": "spotify:artist:790FomKkXshlbRYZFtlgla",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
@@ -926,9 +855,7 @@
           "rank": 31,
           "name": "Loathe",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
-          "genres": [
-            "shoegaze"
-          ],
+          "genres": [],
           "uri": "spotify:artist:4G9wSdX0klmoHfjm9i6DLd",
           "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
         },
@@ -936,10 +863,7 @@
           "rank": 32,
           "name": "J Balvin",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0405b03342c2e56751b9923d",
-          "genres": [
-            "reggaeton",
-            "latin"
-          ],
+          "genres": [],
           "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5",
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
@@ -955,13 +879,7 @@
           "rank": 34,
           "name": "Silverstein",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9d86fe497730c4c432d3ed1c",
-          "genres": [
-            "post-hardcore",
-            "screamo",
-            "emo",
-            "metalcore",
-            "pop punk"
-          ],
+          "genres": [],
           "uri": "spotify:artist:1Tsag5J854qxeOo2apszug",
           "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
         },
@@ -969,13 +887,7 @@
           "rank": 35,
           "name": "Luis Miguel",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6481401e529e475116702a29",
-          "genres": [
-            "mariachi",
-            "bolero",
-            "latin pop",
-            "ranchera",
-            "villancicos"
-          ],
+          "genres": [],
           "uri": "spotify:artist:2nszmSgqreHSdJA3zWPyrW",
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         },
@@ -983,10 +895,7 @@
           "rank": 36,
           "name": "LATIN MAFIA",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8abe977d17e650d4fa2ec093",
-          "genres": [
-            "latin r&b",
-            "latin indie"
-          ],
+          "genres": [],
           "uri": "spotify:artist:6XTGKOV9jceQ6f67lnhpbF",
           "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
         },
@@ -994,9 +903,7 @@
           "rank": 37,
           "name": "LNGSHOT",
           "image": "https://i.scdn.co/image/ab6761610000e5eb866f74c2edeb8dad4ffd7b7d",
-          "genres": [
-            "k-pop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:2F4oTJOWkcD1JaTeKEa9h6",
           "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
         }
@@ -3046,56 +2953,7 @@
     }
   },
   "genres": {
-    "short_term": [
-      {
-        "genre": "emo",
-        "weight": 0.09023668639053255
-      },
-      {
-        "genre": "reggaeton",
-        "weight": 0.08974358974358974
-      },
-      {
-        "genre": "latin",
-        "weight": 0.08086785009861933
-      },
-      {
-        "genre": "urbano latino",
-        "weight": 0.0626232741617357
-      },
-      {
-        "genre": "shoegaze",
-        "weight": 0.05621301775147929
-      },
-      {
-        "genre": "screamo",
-        "weight": 0.05226824457593689
-      },
-      {
-        "genre": "post-hardcore",
-        "weight": 0.05226824457593689
-      },
-      {
-        "genre": "pop punk",
-        "weight": 0.046351084812623275
-      },
-      {
-        "genre": "trap latino",
-        "weight": 0.03599605522682446
-      },
-      {
-        "genre": "latin indie",
-        "weight": 0.03205128205128205
-      },
-      {
-        "genre": "k-pop",
-        "weight": 0.02564102564102564
-      },
-      {
-        "genre": "bachata",
-        "weight": 0.02514792899408284
-      }
-    ],
+    "short_term": [],
     "medium_term": [],
     "long_term": []
   }
