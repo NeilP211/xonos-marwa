@@ -63,15 +63,20 @@ if (mode === 'link') {
     process.exit(1)
   }
   let code = arg
-  if (arg.includes('://')) {
-    const url = new URL(arg)
+  // Accept three shapes: a full URL (http://127.0.0.1.../callback?code=...),
+  // a scheme-less callback (127.0.0.1:8888/callback?code=...&state=...) as some
+  // phone browsers copy it, or a bare code. Parse out the code= param whenever
+  // the string carries query params so we never send the whole address bar to
+  // Spotify (that silently fails with invalid_grant).
+  if (arg.includes('code=')) {
+    const url = new URL(arg.includes('://') ? arg : `http://${arg}`)
     code = url.searchParams.get('code')
     const gotState = url.searchParams.get('state')
     if (!code) {
       console.error('No ?code= found in that URL. Make sure she copied the full address bar.')
       process.exit(1)
     }
-    if (gotState !== STATE) {
+    if (gotState && gotState !== STATE) {
       console.error('State mismatch: that URL did not come from an auth:link of this app.')
       process.exit(1)
     }
