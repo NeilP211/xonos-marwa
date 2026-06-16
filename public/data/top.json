@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T20:54:35.172Z",
+  "generated_at": "2026-06-16T22:58:15.136Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -53,18 +53,6 @@
         },
         {
           "rank": 5,
-          "name": "Nunca Más",
-          "artists": [
-            "La Isla Centeno"
-          ],
-          "album": "Canciones Para El Volcán",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739540a18191d908bf060065d0",
-          "uri": "spotify:track:5eiZ4TFyBsLOpPzBgR4oG5",
-          "url": "https://open.spotify.com/track/5eiZ4TFyBsLOpPzBgR4oG5",
-          "duration_ms": 229214
-        },
-        {
-          "rank": 6,
           "name": "Soft Spot",
           "artists": [
             "keshi"
@@ -76,7 +64,7 @@
           "duration_ms": 204223
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "Like That",
           "artists": [
             "keshi"
@@ -88,19 +76,19 @@
           "duration_ms": 180106
         },
         {
-          "rank": 8,
-          "name": "Helena",
+          "rank": 7,
+          "name": "Nunca Más",
           "artists": [
-            "My Chemical Romance"
+            "La Isla Centeno"
           ],
-          "album": "Three Cheers for Sweet Revenge",
-          "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
-          "uri": "spotify:track:5dTHtzHFPyi8TlTtzoz1J9",
-          "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9",
-          "duration_ms": 204733
+          "album": "Canciones Para El Volcán",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739540a18191d908bf060065d0",
+          "uri": "spotify:track:5eiZ4TFyBsLOpPzBgR4oG5",
+          "url": "https://open.spotify.com/track/5eiZ4TFyBsLOpPzBgR4oG5",
+          "duration_ms": 229214
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Nobody New",
           "artists": [
             "The Marías"
@@ -112,7 +100,7 @@
           "duration_ms": 215200
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "The Bomb Dot Com V2.0",
           "artists": [
             "Sleeping With Sirens"
@@ -122,6 +110,18 @@
           "uri": "spotify:track:6WBkSZbGBaIWnEgnMoXEJU",
           "url": "https://open.spotify.com/track/6WBkSZbGBaIWnEgnMoXEJU",
           "duration_ms": 211720
+        },
+        {
+          "rank": 10,
+          "name": "Helena",
+          "artists": [
+            "My Chemical Romance"
+          ],
+          "album": "Three Cheers for Sweet Revenge",
+          "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
+          "uri": "spotify:track:5dTHtzHFPyi8TlTtzoz1J9",
+          "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9",
+          "duration_ms": 204733
         },
         {
           "rank": 11,
@@ -357,18 +357,6 @@
         },
         {
           "rank": 30,
-          "name": "Virgen",
-          "artists": [
-            "Adolescent's Orquesta"
-          ],
-          "album": "Ahora Más Que Nunca",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c30c9fc1d43d8e1ca14ecbe6",
-          "uri": "spotify:track:5HCGrYR7g9u2X9Ju83yQLm",
-          "url": "https://open.spotify.com/track/5HCGrYR7g9u2X9Ju83yQLm",
-          "duration_ms": 271751
-        },
-        {
-          "rank": 31,
           "name": "Kiss Me Now",
           "artists": [
             "Pierce The Veil"
@@ -380,7 +368,7 @@
           "duration_ms": 256268
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Descifrar",
           "artists": [
             "maye"
@@ -390,6 +378,18 @@
           "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
           "url": "https://open.spotify.com/track/431vrxogdCt65ZSWfUrP1G",
           "duration_ms": 178700
+        },
+        {
+          "rank": 32,
+          "name": "Virgen",
+          "artists": [
+            "Adolescent's Orquesta"
+          ],
+          "album": "Ahora Más Que Nunca",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c30c9fc1d43d8e1ca14ecbe6",
+          "uri": "spotify:track:5HCGrYR7g9u2X9Ju83yQLm",
+          "url": "https://open.spotify.com/track/5HCGrYR7g9u2X9Ju83yQLm",
+          "duration_ms": 271751
         },
         {
           "rank": 33,
@@ -748,6 +748,14 @@
         },
         {
           "rank": 18,
+          "name": "Romeo Santos",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
+          "genres": [],
+          "uri": "spotify:artist:5lwmRuXgjX8xIwlnauTZIP",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "rank": 19,
           "name": "maye",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc44bdd7c78e751026c67857c",
           "genres": [],
@@ -755,20 +763,12 @@
           "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "The Marías",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
           "genres": [],
           "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        },
-        {
-          "rank": 20,
-          "name": "Romeo Santos",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
-          "genres": [],
-          "uri": "spotify:artist:5lwmRuXgjX8xIwlnauTZIP",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         },
         {
           "rank": 21,
@@ -820,14 +820,6 @@
         },
         {
           "rank": 27,
-          "name": "Rawayana",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb5d52d93053343dc60653bbde",
-          "genres": [],
-          "uri": "spotify:artist:2AbQwU2cuEGfD465wCXlg2",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "rank": 28,
           "name": "PRYVT",
           "image": "https://i.scdn.co/image/ab6761610000e5eb012e40962788790bb7b60f75",
           "genres": [],
@@ -835,7 +827,7 @@
           "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "Prince Royce",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6ce83e3425a74cb9d6bdb1dc",
           "genres": [],
@@ -843,7 +835,7 @@
           "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Christian Kuria",
           "image": "https://i.scdn.co/image/ab6761610000e5eb75ff26fd2e74dda556621b19",
           "genres": [],
@@ -851,12 +843,20 @@
           "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Paramore",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
           "genres": [],
           "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF",
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        },
+        {
+          "rank": 31,
+          "name": "Rawayana",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb5d52d93053343dc60653bbde",
+          "genres": [],
+          "uri": "spotify:artist:2AbQwU2cuEGfD465wCXlg2",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         },
         {
           "rank": 32,

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T20:54:35.335Z",
+  "updated_at": "2026-06-16T22:58:15.277Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -891,6 +891,75 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273586cde445b4e951ae727c536",
       "uri": "spotify:track:4Xpt2bVLKFvlL5agz7cBTj",
       "duration_ms": 203463
+    },
+    {
+      "played_at": "2026-06-16T21:06:29.101Z",
+      "name": "Después de ti",
+      "artists": [
+        "KAROL G",
+        "Greg Gonzalez"
+      ],
+      "album": "Después de ti",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd735e1302f8073b253cc71a",
+      "uri": "spotify:track:6PbhFQkpQjoojWo2b6Ghoi",
+      "duration_ms": 275898
+    },
+    {
+      "played_at": "2026-06-16T21:12:37.400Z",
+      "name": "BAILE INoLVIDABLE",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:2lTm559tuIvatlT1u0JYG2",
+      "duration_ms": 367725
+    },
+    {
+      "played_at": "2026-06-16T21:25:29.915Z",
+      "name": "Estar Contigo",
+      "artists": [
+        "Bruno Romano"
+      ],
+      "album": "Estar Contigo",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5876eb6777391b38362e2a",
+      "uri": "spotify:track:6Pj7HgPDtqCbrTlgGrlqJ4",
+      "duration_ms": 214615
+    },
+    {
+      "played_at": "2026-06-16T21:30:25.923Z",
+      "name": "Cuando Me Enamoro",
+      "artists": [
+        "Enrique Iglesias",
+        "Juan Luis Guerra 4.40"
+      ],
+      "album": "Euphoria",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f6fa4a75fccc308f26c726c6",
+      "uri": "spotify:track:4PHX6bpHDxiR9RGzAKWcyk",
+      "duration_ms": 200586
+    },
+    {
+      "played_at": "2026-06-16T21:34:45.409Z",
+      "name": "Dardos",
+      "artists": [
+        "Romeo Santos",
+        "Prince Royce"
+      ],
+      "album": "Better Late Than Never",
+      "image": "https://i.scdn.co/image/ab67616d0000b27391750ed467a5ecc14beaa03f",
+      "uri": "spotify:track:5SudOD9R1Of6CsJVWZy6CQ",
+      "duration_ms": 243070
+    },
+    {
+      "played_at": "2026-06-16T21:38:22.645Z",
+      "name": "Borro Cassette",
+      "artists": [
+        "Maluma"
+      ],
+      "album": "Pretty Boy, Dirty Boy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c7b78f86d070f52f45ad125f",
+      "uri": "spotify:track:6DUdDIRgLqCGq1DwkNWQTN",
+      "duration_ms": 207296
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-16T20:54:35.370Z",
+  "updated_at": "2026-06-16T22:58:15.368Z",
   "is_playing": false,
   "track": {
-    "name": "Carita Linda",
+    "name": "Borro Cassette",
     "artists": [
-      "Rauw Alejandro"
+      "Maluma"
     ],
-    "album": "Cosa Nuestra: Capítulo 0",
-    "image": "https://i.scdn.co/image/ab67616d0000b273586cde445b4e951ae727c536",
-    "uri": "spotify:track:4Xpt2bVLKFvlL5agz7cBTj"
+    "album": "Pretty Boy, Dirty Boy",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c7b78f86d070f52f45ad125f",
+    "uri": "spotify:track:6DUdDIRgLqCGq1DwkNWQTN"
   },
-  "played_at": "2026-06-16T17:57:27.389Z"
+  "played_at": "2026-06-16T21:38:22.645Z"
 }
