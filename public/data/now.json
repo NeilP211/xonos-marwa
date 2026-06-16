@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-16T11:14:33.398Z",
+  "updated_at": "2026-06-16T16:58:18.136Z",
   "is_playing": false,
   "track": {
-    "name": "Spring Day",
+    "name": "LIMBO",
     "artists": [
-      "BTS"
+      "keshi"
     ],
-    "album": "You Never Walk Alone",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6",
-    "uri": "spotify:track:2j1fFjWHCI9KJSwcuYAOyF"
+    "album": "GABRIEL",
+    "image": "https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb",
+    "uri": "spotify:track:2bdVgAQgosGUJoViVDNeOV"
   },
-  "played_at": "2026-06-16T04:36:43.385Z"
+  "played_at": "2026-06-16T16:51:52.011Z"
 }
