@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-16T16:58:18.136Z",
+  "updated_at": "2026-06-16T20:54:35.370Z",
   "is_playing": false,
   "track": {
-    "name": "LIMBO",
+    "name": "Carita Linda",
     "artists": [
-      "keshi"
+      "Rauw Alejandro"
     ],
-    "album": "GABRIEL",
-    "image": "https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb",
-    "uri": "spotify:track:2bdVgAQgosGUJoViVDNeOV"
+    "album": "Cosa Nuestra: Capítulo 0",
+    "image": "https://i.scdn.co/image/ab67616d0000b273586cde445b4e951ae727c536",
+    "uri": "spotify:track:4Xpt2bVLKFvlL5agz7cBTj"
   },
-  "played_at": "2026-06-16T16:51:52.011Z"
+  "played_at": "2026-06-16T17:57:27.389Z"
 }
