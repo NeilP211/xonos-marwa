@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-06-15T23:04:10.731Z",
+  "updated_at": "2026-06-16T04:25:20.618Z",
   "is_playing": false,
   "track": {
-    "name": "Si por Mi Fuera",
+    "name": "Ides Of March",
     "artists": [
-      "Los Rumberos",
-      "Juan Pablo Vega"
+      "Silverstein"
     ],
-    "album": "Si por Mi Fuera",
-    "image": "https://i.scdn.co/image/ab67616d0000b27311b11823ccc2d14df2508d83",
-    "uri": "spotify:track:5z9a61fPYYlb2hV0GLVYaB"
+    "album": "Discovering The Waterfront",
+    "image": "https://i.scdn.co/image/ab67616d0000b273aade7ea1ce5e7f75f6d40a3c",
+    "uri": "spotify:track:3op7dCZE5j3VEmKXZcT5mR"
   },
-  "played_at": "2026-06-14T00:58:21.776Z"
+  "played_at": "2026-06-16T03:14:27.001Z"
 }

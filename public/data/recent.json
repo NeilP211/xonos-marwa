@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T23:04:10.696Z",
+  "updated_at": "2026-06-16T04:25:20.578Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -558,6 +558,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27311b11823ccc2d14df2508d83",
       "uri": "spotify:track:5z9a61fPYYlb2hV0GLVYaB",
       "duration_ms": 212680
+    },
+    {
+      "played_at": "2026-06-16T02:45:23.867Z",
+      "name": "흩어진나날들",
+      "artists": [
+        "강수지"
+      ],
+      "album": "강수지2집",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336baac318c4aac27ed3a54ea",
+      "uri": "spotify:track:3IuA2jGGOgZCGwQBiLhRuP",
+      "duration_ms": 262126
+    },
+    {
+      "played_at": "2026-06-16T03:10:03.579Z",
+      "name": "흩어진나날들",
+      "artists": [
+        "강수지"
+      ],
+      "album": "강수지2집",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336baac318c4aac27ed3a54ea",
+      "uri": "spotify:track:3IuA2jGGOgZCGwQBiLhRuP",
+      "duration_ms": 262126
+    },
+    {
+      "played_at": "2026-06-16T03:14:27.001Z",
+      "name": "Ides Of March",
+      "artists": [
+        "Silverstein"
+      ],
+      "album": "Discovering The Waterfront",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aade7ea1ce5e7f75f6d40a3c",
+      "uri": "spotify:track:3op7dCZE5j3VEmKXZcT5mR",
+      "duration_ms": 206986
     }
   ]
 }
