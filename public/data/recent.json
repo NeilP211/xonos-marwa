@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T04:25:20.578Z",
+  "updated_at": "2026-06-16T11:14:33.327Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -591,6 +591,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273aade7ea1ce5e7f75f6d40a3c",
       "uri": "spotify:track:3op7dCZE5j3VEmKXZcT5mR",
       "duration_ms": 206986
+    },
+    {
+      "played_at": "2026-06-16T04:36:43.385Z",
+      "name": "Spring Day",
+      "artists": [
+        "BTS"
+      ],
+      "album": "You Never Walk Alone",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6",
+      "uri": "spotify:track:2j1fFjWHCI9KJSwcuYAOyF",
+      "duration_ms": 274097
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T04:25:20.368Z",
+  "generated_at": "2026-06-16T11:14:33.221Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -538,6 +538,18 @@
         },
         {
           "rank": 45,
+          "name": "Spring Day",
+          "artists": [
+            "BTS"
+          ],
+          "album": "You Never Walk Alone",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6",
+          "uri": "spotify:track:2j1fFjWHCI9KJSwcuYAOyF",
+          "url": "https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF",
+          "duration_ms": 274097
+        },
+        {
+          "rank": 46,
           "name": "Drella",
           "artists": [
             "Pierce The Veil"
@@ -549,7 +561,7 @@
           "duration_ms": 176960
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Deslocado",
           "artists": [
             "NAPA"
@@ -561,7 +573,7 @@
           "duration_ms": 179996
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "I Wish you Roses",
           "artists": [
             "Kali Uchis"
@@ -573,7 +585,7 @@
           "duration_ms": 219954
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Pistol",
           "artists": [
             "Cigarettes After Sex"
@@ -585,7 +597,7 @@
           "duration_ms": 234174
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Last Summer Whisper",
           "artists": [
             "Anri"
@@ -595,18 +607,6 @@
           "uri": "spotify:track:38LUbz74v3nmP8x0efElw2",
           "url": "https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2",
           "duration_ms": 299680
-        },
-        {
-          "rank": 50,
-          "name": "What Happened to You?",
-          "artists": [
-            "Deftones"
-          ],
-          "album": "Koi No Yokan",
-          "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
-          "uri": "spotify:track:3GXmLpYjgpjXFtDkS4wtJ7",
-          "url": "https://open.spotify.com/track/3GXmLpYjgpjXFtDkS4wtJ7",
-          "duration_ms": 233706
         }
       ],
       "artists": [
@@ -668,6 +668,14 @@
         },
         {
           "rank": 8,
+          "name": "BTS",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebf80ec63ea7a0ef0fba60957d",
+          "genres": [],
+          "uri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "rank": 9,
           "name": "Bad Bunny",
           "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
           "genres": [],
@@ -675,20 +683,12 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "The Weeknd",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
           "genres": [],
           "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "rank": 10,
-          "name": "BTS",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebf80ec63ea7a0ef0fba60957d",
-          "genres": [],
-          "uri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         },
         {
           "rank": 11,
