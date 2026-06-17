@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-06-17T20:14:47.298Z",
-  "is_playing": true,
+  "updated_at": "2026-06-17T22:45:58.578Z",
+  "is_playing": false,
   "track": {
-    "name": "A Lonely Night",
+    "name": "Hora Loca",
     "artists": [
-      "The Weeknd"
+      "Rawayana",
+      "Monsieur Periné"
     ],
-    "album": "Starboy",
-    "image": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
-    "uri": "spotify:track:0ifooM33X1iBxVYyOkSbXW"
+    "album": "¿Quién trae las cornetas?",
+    "image": "https://i.scdn.co/image/ab67616d0000b27304ee4c8e013751482ea3b958",
+    "uri": "spotify:track:3lfjd8A0DkB84yrvjzkbry"
   },
-  "played_at": "2026-06-17T20:14:47.298Z"
+  "played_at": "2026-06-17T21:26:41.884Z"
 }

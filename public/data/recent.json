@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T20:14:47.036Z",
+  "updated_at": "2026-06-17T22:45:58.464Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -1210,6 +1210,95 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
       "uri": "spotify:track:0ifooM33X1iBxVYyOkSbXW",
       "duration_ms": 220173
+    },
+    {
+      "played_at": "2026-06-17T20:17:03.073Z",
+      "name": "A Lonely Night",
+      "artists": [
+        "The Weeknd"
+      ],
+      "album": "Starboy",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+      "uri": "spotify:track:0ifooM33X1iBxVYyOkSbXW",
+      "duration_ms": 220173
+    },
+    {
+      "played_at": "2026-06-17T20:21:14.202Z",
+      "name": "Clush",
+      "artists": [
+        "Isles & Glaciers"
+      ],
+      "album": "The Hearts of Lonely People",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe96fa1d54d59f3adf4edc76",
+      "uri": "spotify:track:20Fh7atcBvxOwVmmBhen9Q",
+      "duration_ms": 250413
+    },
+    {
+      "played_at": "2026-06-17T20:27:21.123Z",
+      "name": "嘘",
+      "artists": [
+        "SID"
+      ],
+      "album": "hikari",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732246f2bb6fe78dfff00766c8",
+      "uri": "spotify:track:5hyuqT3PwqSKtH1EUSST20",
+      "duration_ms": 205973
+    },
+    {
+      "played_at": "2026-06-17T20:33:07.100Z",
+      "name": "FICTION (ORCHESTRE VER) –Japanese Version-",
+      "artists": [
+        "Beast"
+      ],
+      "album": "BEAST JAPAN BEST",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b5e622611a7b54fb5ba4de20",
+      "uri": "spotify:track:6clN9DJFGwUqM1g5jcITJg",
+      "duration_ms": 255226
+    },
+    {
+      "played_at": "2026-06-17T20:54:54.105Z",
+      "name": "Tengamos Pasado",
+      "artists": [
+        "LAGOS"
+      ],
+      "album": "Alta Fidelidad",
+      "image": "https://i.scdn.co/image/ab67616d0000b273426acdbc33190501c1ccdd10",
+      "uri": "spotify:track:6SN084DV0VI9dnRyyZEPq4",
+      "duration_ms": 181149
+    },
+    {
+      "played_at": "2026-06-17T20:58:35.041Z",
+      "name": "Gordo",
+      "artists": [
+        "Camilo"
+      ],
+      "album": "un",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bee061f5f4dcf173b3c0c880",
+      "uri": "spotify:track:0KcyU1JCY5W8WGuILa8MDv",
+      "duration_ms": 220830
+    },
+    {
+      "played_at": "2026-06-17T20:59:20.186Z",
+      "name": "So Far So Fake",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3fWibgdtgIie6LKTZ2rUoI",
+      "duration_ms": 236160
+    },
+    {
+      "played_at": "2026-06-17T21:26:41.884Z",
+      "name": "Hora Loca",
+      "artists": [
+        "Rawayana",
+        "Monsieur Periné"
+      ],
+      "album": "¿Quién trae las cornetas?",
+      "image": "https://i.scdn.co/image/ab67616d0000b27304ee4c8e013751482ea3b958",
+      "uri": "spotify:track:3lfjd8A0DkB84yrvjzkbry",
+      "duration_ms": 191825
     }
   ]
 }
