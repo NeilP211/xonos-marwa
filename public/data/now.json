@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-17T15:37:39.736Z",
-  "is_playing": false,
+  "updated_at": "2026-06-17T20:14:47.298Z",
+  "is_playing": true,
   "track": {
-    "name": "WHO DO U LUV",
+    "name": "A Lonely Night",
     "artists": [
-      "Avenoir"
+      "The Weeknd"
     ],
-    "album": "WHO DO U LUV",
-    "image": "https://i.scdn.co/image/ab67616d0000b27373dc757337bcdd30b76723c5",
-    "uri": "spotify:track:74KASQI7XvyWdsNyQcJuv9"
+    "album": "Starboy",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+    "uri": "spotify:track:0ifooM33X1iBxVYyOkSbXW"
   },
-  "played_at": "2026-06-16T23:43:28.531Z"
+  "played_at": "2026-06-17T20:14:47.298Z"
 }
