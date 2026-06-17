@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T22:58:15.277Z",
+  "updated_at": "2026-06-17T04:19:11.714Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -960,6 +960,85 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c7b78f86d070f52f45ad125f",
       "uri": "spotify:track:6DUdDIRgLqCGq1DwkNWQTN",
       "duration_ms": 207296
+    },
+    {
+      "played_at": "2026-06-16T21:48:12.610Z",
+      "name": "Otro Atardecer",
+      "artists": [
+        "Bad Bunny",
+        "The Marías"
+      ],
+      "album": "Un Verano Sin Ti",
+      "image": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+      "uri": "spotify:track:0E0DRHf5PfMeor0ZCwB3oT",
+      "duration_ms": 244444
+    },
+    {
+      "played_at": "2026-06-16T23:12:05.754Z",
+      "name": "Coleccionando Heridas",
+      "artists": [
+        "KAROL G",
+        "Marco Antonio Solís"
+      ],
+      "album": "Tropicoqueta",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
+      "uri": "spotify:track:3ddJ8Vbc5tYPxq5zKRVke6",
+      "duration_ms": 204794
+    },
+    {
+      "played_at": "2026-06-16T23:16:48.265Z",
+      "name": "Virgen",
+      "artists": [
+        "Adolescent's Orquesta"
+      ],
+      "album": "Ahora Más Que Nunca",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c30c9fc1d43d8e1ca14ecbe6",
+      "uri": "spotify:track:5HCGrYR7g9u2X9Ju83yQLm",
+      "duration_ms": 271751
+    },
+    {
+      "played_at": "2026-06-16T23:24:33.709Z",
+      "name": "BAILE INoLVIDABLE",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:2lTm559tuIvatlT1u0JYG2",
+      "duration_ms": 367725
+    },
+    {
+      "played_at": "2026-06-16T23:26:05.366Z",
+      "name": "キエンセラ",
+      "artists": [
+        "Lisa Ono"
+      ],
+      "album": "Romance Latino vol.3 -Cuba Caliente Y Su Ritmo Sabroso-",
+      "image": "https://i.scdn.co/image/ab67616d0000b27364d94d72548b885f14ea96c9",
+      "uri": "spotify:track:6pTh0DeJkVDvv1ytHlwDiA",
+      "duration_ms": 200866
+    },
+    {
+      "played_at": "2026-06-16T23:29:52.304Z",
+      "name": "Company",
+      "artists": [
+        "Justin Bieber"
+      ],
+      "album": "Purpose (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de",
+      "uri": "spotify:track:61uyGDPJ06MkxJtHgPmuyO",
+      "duration_ms": 208120
+    },
+    {
+      "played_at": "2026-06-16T23:33:58.337Z",
+      "name": "Chicago",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "XSCAPE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0",
+      "uri": "spotify:track:5BKKy9fIJL5uM9fz1SnqyP",
+      "duration_ms": 245565
     }
   ]
 }

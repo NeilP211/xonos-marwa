@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-16T22:58:15.368Z",
+  "updated_at": "2026-06-17T04:19:11.746Z",
   "is_playing": false,
   "track": {
-    "name": "Borro Cassette",
+    "name": "Chicago",
     "artists": [
-      "Maluma"
+      "Michael Jackson"
     ],
-    "album": "Pretty Boy, Dirty Boy",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c7b78f86d070f52f45ad125f",
-    "uri": "spotify:track:6DUdDIRgLqCGq1DwkNWQTN"
+    "album": "XSCAPE",
+    "image": "https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0",
+    "uri": "spotify:track:5BKKy9fIJL5uM9fz1SnqyP"
   },
-  "played_at": "2026-06-16T21:38:22.645Z"
+  "played_at": "2026-06-16T23:33:58.337Z"
 }
