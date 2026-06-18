@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T10:27:44.284Z",
+  "updated_at": "2026-06-18T15:30:19.013Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -1299,6 +1299,422 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27304ee4c8e013751482ea3b958",
       "uri": "spotify:track:3lfjd8A0DkB84yrvjzkbry",
       "duration_ms": 191825
+    },
+    {
+      "played_at": "2026-06-17T21:28:19.968Z",
+      "name": "Lo Siento BB:/",
+      "artists": [
+        "Tainy",
+        "Bad Bunny",
+        "Julieta Venegas"
+      ],
+      "album": "DATA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f885fb64a381318a1c9c14e4",
+      "uri": "spotify:track:04x1x0L8BYyIv1XlcJxWfi",
+      "duration_ms": 206343
+    },
+    {
+      "played_at": "2026-06-18T12:08:59.902Z",
+      "name": "Honest",
+      "artists": [
+        "Pino"
+      ],
+      "album": "Fortitude",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c2c7e127340c187b993045d0",
+      "uri": "spotify:track:3o4tePRNXNr7Kcoyyy2Fcd",
+      "duration_ms": 203773
+    },
+    {
+      "played_at": "2026-06-18T12:12:47.447Z",
+      "name": "Risk It All",
+      "artists": [
+        "Bruno Mars"
+      ],
+      "album": "The Romantic",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395",
+      "uri": "spotify:track:5y2ijHECwFYWqcAHKTZgzD",
+      "duration_ms": 204068
+    },
+    {
+      "played_at": "2026-06-18T12:17:19.305Z",
+      "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+      "artists": [
+        "DJ Khaled",
+        "Rihanna",
+        "Bryson Tiller"
+      ],
+      "album": "Grateful",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737a993075e27042a11896b8fb",
+      "uri": "spotify:track:45XhKYRRkyeqoW3teSOkCM",
+      "duration_ms": 204664
+    },
+    {
+      "played_at": "2026-06-18T12:43:05.155Z",
+      "name": "Nunca Más",
+      "artists": [
+        "La Isla Centeno"
+      ],
+      "album": "Canciones Para El Volcán",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739540a18191d908bf060065d0",
+      "uri": "spotify:track:5eiZ4TFyBsLOpPzBgR4oG5",
+      "duration_ms": 229214
+    },
+    {
+      "played_at": "2026-06-18T12:46:14.159Z",
+      "name": "Dile Luna",
+      "artists": [
+        "KAROL G",
+        "Eddy Lover"
+      ],
+      "album": "Tropicoqueta",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
+      "uri": "spotify:track:4n0JnrS5az8qhhQRuofBfo",
+      "duration_ms": 187508
+    },
+    {
+      "played_at": "2026-06-18T12:49:00.874Z",
+      "name": "Reggaeton",
+      "artists": [
+        "J Balvin"
+      ],
+      "album": "Reggaeton",
+      "image": "https://i.scdn.co/image/ab67616d0000b27304d849b0b580859bdb70e644",
+      "uri": "spotify:track:2D3z17LBMJ2HEHeBFFjTLi",
+      "duration_ms": 158800
+    },
+    {
+      "played_at": "2026-06-18T12:54:52.249Z",
+      "name": "WELTiTA",
+      "artists": [
+        "Bad Bunny",
+        "Chuwi"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:5WEF0icHWmAZBBMglBd599",
+      "duration_ms": 187507
+    },
+    {
+      "played_at": "2026-06-18T13:01:18.626Z",
+      "name": "EoO",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:6J5kc12BW5HuP3d7C3vvx8",
+      "duration_ms": 204768
+    },
+    {
+      "played_at": "2026-06-18T13:05:49.095Z",
+      "name": "FERXXO 151",
+      "artists": [
+        "Feid",
+        "ICON"
+      ],
+      "album": "MOR, No Le Temas a La Oscuridad",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731e76d5d8c654a8f5e640392b",
+      "uri": "spotify:track:2Cl4HCBmPddQNZEncdoXp0",
+      "duration_ms": 195386
+    },
+    {
+      "played_at": "2026-06-18T13:08:07.842Z",
+      "name": "TU VAS SIN (fav)",
+      "artists": [
+        "Rels B"
+      ],
+      "album": "afroLOVA 25'",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730e409fad9527196e73e423ba",
+      "uri": "spotify:track:6uiQ0DqbXTBc8tl0AUKZkR",
+      "duration_ms": 110495
+    },
+    {
+      "played_at": "2026-06-18T13:09:39.612Z",
+      "name": "Bellaquita",
+      "artists": [
+        "Dalex",
+        "Lenny Tavárez"
+      ],
+      "album": "Bellaquita",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a388491c6a870a4728e223bc",
+      "uri": "spotify:track:1tpbAGsGpZee5jDHMcLrUJ",
+      "duration_ms": 204786
+    },
+    {
+      "played_at": "2026-06-18T13:11:40.576Z",
+      "name": "Bellaquita",
+      "artists": [
+        "Dalex",
+        "Lenny Tavárez"
+      ],
+      "album": "Bellaquita",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a388491c6a870a4728e223bc",
+      "uri": "spotify:track:1tpbAGsGpZee5jDHMcLrUJ",
+      "duration_ms": 204786
+    },
+    {
+      "played_at": "2026-06-18T13:14:44.563Z",
+      "name": "NUEVAYoL",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
+      "duration_ms": 183685
+    },
+    {
+      "played_at": "2026-06-18T13:19:51.669Z",
+      "name": "A Mí",
+      "artists": [
+        "Rels B"
+      ],
+      "album": "A Mí",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e75742385df2e0a026001e0d",
+      "uri": "spotify:track:7MmrcXVA7A5zZ2CbDuGHNa",
+      "duration_ms": 209680
+    },
+    {
+      "played_at": "2026-06-18T13:22:44.822Z",
+      "name": "Mis Días A Tu Suerte",
+      "artists": [
+        "Rels B"
+      ],
+      "album": "afroLOVA 25'",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730e409fad9527196e73e423ba",
+      "uri": "spotify:track:0XRJc66Gcvq8F98KE1TXD8",
+      "duration_ms": 143750
+    },
+    {
+      "played_at": "2026-06-18T13:28:29.663Z",
+      "name": "Revolú",
+      "artists": [
+        "Rauw Alejandro",
+        "Feid"
+      ],
+      "album": "Cosa Nuestra",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b",
+      "uri": "spotify:track:4lqJsJd7kqWVvamQ4aFHA8",
+      "duration_ms": 215511
+    },
+    {
+      "played_at": "2026-06-18T13:30:19.369Z",
+      "name": "Florida - (Intro)",
+      "artists": [
+        "Valentina Rico"
+      ],
+      "album": "Florida Sunset",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335dc78e0a5e75fb40144a876",
+      "uri": "spotify:track:0HwcjUFHUepCdJW1Jnr6m9",
+      "duration_ms": 109397
+    },
+    {
+      "played_at": "2026-06-18T13:32:57.636Z",
+      "name": "LA PROPUESTA",
+      "artists": [
+        "Rels B",
+        "Los Sufridos"
+      ],
+      "album": "afroLOVA 25'",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730e409fad9527196e73e423ba",
+      "uri": "spotify:track:6EUfOXUQtIAHKkBBOqMS2w",
+      "duration_ms": 157714
+    },
+    {
+      "played_at": "2026-06-18T13:37:34.305Z",
+      "name": "La Última Canción",
+      "artists": [
+        "Rels B"
+      ],
+      "album": "LA ISLA LP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d0192ddc3a984fd46b28ac09",
+      "uri": "spotify:track:2mRwodUOATBk5spcUsEidB",
+      "duration_ms": 184748
+    },
+    {
+      "played_at": "2026-06-18T13:40:09.621Z",
+      "name": "lo que hay x aquí",
+      "artists": [
+        "Rels B"
+      ],
+      "album": "lo que hay x aquí",
+      "image": "https://i.scdn.co/image/ab67616d0000b27385acf6becb994eb3cf3edd15",
+      "uri": "spotify:track:5IlLm20JXhKbMtsH20NblC",
+      "duration_ms": 155031
+    },
+    {
+      "played_at": "2026-06-18T13:43:57.093Z",
+      "name": "De Dónde Es????",
+      "artists": [
+        "Rels B"
+      ],
+      "album": "afroLOVA 25'",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730e409fad9527196e73e423ba",
+      "uri": "spotify:track:2h3ygPh1i3y3mpbbRTbg2F",
+      "duration_ms": 135384
+    },
+    {
+      "played_at": "2026-06-18T13:48:01.153Z",
+      "name": "MALPORTADA",
+      "artists": [
+        "NATHY PELUSO",
+        "Rawayana"
+      ],
+      "album": "MALPORTADA",
+      "image": "https://i.scdn.co/image/ab67616d0000b27323682cfde070314c3dd2c2f3",
+      "uri": "spotify:track:1ChPtcjaki0PEjfx4YIWGt",
+      "duration_ms": 219252
+    },
+    {
+      "played_at": "2026-06-18T14:26:03.728Z",
+      "name": "Cabarete",
+      "artists": [
+        "Rawayana",
+        "Xhess"
+      ],
+      "album": "¿Quién trae las cornetas?",
+      "image": "https://i.scdn.co/image/ab67616d0000b27304ee4c8e013751482ea3b958",
+      "uri": "spotify:track:3rWwKIu80IiLkGBRuPxA4y",
+      "duration_ms": 213902
+    },
+    {
+      "played_at": "2026-06-18T14:31:50.434Z",
+      "name": "Reyimiller - A COLORS SHOW",
+      "artists": [
+        "Rawayana",
+        "COLORS"
+      ],
+      "album": "Reyimiller - A COLORS SHOW",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e788d8977f84423890db2838",
+      "uri": "spotify:track:4tkTw8GLVmn7nPKhQ0pd5i",
+      "duration_ms": 201382
+    },
+    {
+      "played_at": "2026-06-18T14:36:17.047Z",
+      "name": "Soltera (Remix)",
+      "artists": [
+        "Lunay",
+        "Daddy Yankee",
+        "Bad Bunny"
+      ],
+      "album": "Épico",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fddcbb546dd3440b1897c4c7",
+      "uri": "spotify:track:4t9a07PAghtQMRAIP9FQ7Z",
+      "duration_ms": 266086
+    },
+    {
+      "played_at": "2026-06-18T14:40:22.781Z",
+      "name": "Bendito",
+      "artists": [
+        "Rawayana"
+      ],
+      "album": "¿Dónde Es El After?",
+      "image": "https://i.scdn.co/image/ab67616d0000b273932fe6d260177091a0e115ba",
+      "uri": "spotify:track:6f00ixRBopYCszGmKhOUyp",
+      "duration_ms": 154586
+    },
+    {
+      "played_at": "2026-06-18T14:43:35.627Z",
+      "name": "Playa Pantaleta",
+      "artists": [
+        "Rawayana"
+      ],
+      "album": "¿Dónde Es El After?",
+      "image": "https://i.scdn.co/image/ab67616d0000b273932fe6d260177091a0e115ba",
+      "uri": "spotify:track:3Eu6LVgWHm3iristXeOjWf",
+      "duration_ms": 192093
+    },
+    {
+      "played_at": "2026-06-18T14:47:25.430Z",
+      "name": "Hora Loca",
+      "artists": [
+        "Rawayana",
+        "Monsieur Periné"
+      ],
+      "album": "¿Quién trae las cornetas?",
+      "image": "https://i.scdn.co/image/ab67616d0000b27304ee4c8e013751482ea3b958",
+      "uri": "spotify:track:3lfjd8A0DkB84yrvjzkbry",
+      "duration_ms": 191825
+    },
+    {
+      "played_at": "2026-06-18T14:52:13.106Z",
+      "name": "fantasmas",
+      "artists": [
+        "HUMBE"
+      ],
+      "album": "DUEÑO DEL CIELO",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730c4ef3ae1269872fe80e2154",
+      "uri": "spotify:track:3iTVjevexCuVrBwmkR4qJc",
+      "duration_ms": 287248
+    },
+    {
+      "played_at": "2026-06-18T14:57:26.826Z",
+      "name": "Querámonos lento",
+      "artists": [
+        "Manuel Lizarazo"
+      ],
+      "album": "Querámonos lento",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f5e04cbfc94eff236b5fd46",
+      "uri": "spotify:track:2GZvRXUFYY1EMJTP4nnVhW",
+      "duration_ms": 139852
+    },
+    {
+      "played_at": "2026-06-18T15:00:03.137Z",
+      "name": "Te Conozco Tan Bien",
+      "artists": [
+        "Manuel Lizarazo"
+      ],
+      "album": "Las q no te canté",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ec89aad680ba965065c7cd1b",
+      "uri": "spotify:track:1RW4Mmf8riRUZT3iWKLWM0",
+      "duration_ms": 155800
+    },
+    {
+      "played_at": "2026-06-18T15:03:52.951Z",
+      "name": "AMOR AMOR",
+      "artists": [
+        "PARDOPARDO",
+        "Thyan V"
+      ],
+      "album": "AMOR AMOR",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737e819d4788953ed5c2fc121c",
+      "uri": "spotify:track:4vuw6IbxGY5rliFeGJD0m1",
+      "duration_ms": 229333
+    },
+    {
+      "played_at": "2026-06-18T15:08:58.237Z",
+      "name": "Ateo",
+      "artists": [
+        "C. Tangana",
+        "NATHY PELUSO"
+      ],
+      "album": "El Madrileño (La Sobremesa)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27341533c81ef4793029083c205",
+      "uri": "spotify:track:5WxYU8RRzy5X0kC6Fx9SpI",
+      "duration_ms": 240000
+    },
+    {
+      "played_at": "2026-06-18T15:14:07.830Z",
+      "name": "Por Ti, Yo",
+      "artists": [
+        "La Quinna"
+      ],
+      "album": "Por Ti, Yo",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393d03e7267c3002d177f6424",
+      "uri": "spotify:track:01dfWAtKjp990rN0SM4bWZ",
+      "duration_ms": 309146
+    },
+    {
+      "played_at": "2026-06-18T15:17:20.827Z",
+      "name": "Mónaco",
+      "artists": [
+        "LAGOS",
+        "Danny Ocean"
+      ],
+      "album": "Clásicos",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734603462dd193f76ab1f98218",
+      "uri": "spotify:track:3HgvO4B5LLmdPOT2d8cSZd",
+      "duration_ms": 192313
     }
   ]
 }
