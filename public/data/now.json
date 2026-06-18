@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-06-18T20:28:29.059Z",
+  "updated_at": "2026-06-18T22:56:53.365Z",
   "is_playing": false,
   "track": {
-    "name": "LUNA",
+    "name": "hmu",
     "artists": [
-      "Feid",
-      "ATL Jacob"
+      "greek"
     ],
-    "album": "FERXXOCALIPSIS",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242",
-    "uri": "spotify:track:7bywjHOc0wSjGGbj04XbVi"
+    "album": "EXTC",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c12de4a270ee0e8c8fc2b675",
+    "uri": "spotify:track:4fC8mW8ZFQanmSHq30mgWz"
   },
-  "played_at": "2026-06-18T16:43:08.238Z"
+  "played_at": "2026-06-18T21:49:14.220Z"
 }

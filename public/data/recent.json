@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T20:28:29.021Z",
+  "updated_at": "2026-06-18T22:56:53.278Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -1750,6 +1750,40 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242",
       "uri": "spotify:track:7bywjHOc0wSjGGbj04XbVi",
       "duration_ms": 196800
+    },
+    {
+      "played_at": "2026-06-18T20:41:08.273Z",
+      "name": "Odio (feat. Drake)",
+      "artists": [
+        "Romeo Santos",
+        "Drake"
+      ],
+      "album": "Fórmula, Vol. 2 (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0e4b48b060715c9aa7fca18",
+      "uri": "spotify:track:1iLv1ieT9BZ3qsti9yTCnG",
+      "duration_ms": 225000
+    },
+    {
+      "played_at": "2026-06-18T21:10:59.844Z",
+      "name": "Nothing Compares - Bonus Track",
+      "artists": [
+        "The Weeknd"
+      ],
+      "album": "After Hours (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ef017e899c0547766997d874",
+      "uri": "spotify:track:6utQlfLooYsUkq5xUg3vxt",
+      "duration_ms": 222306
+    },
+    {
+      "played_at": "2026-06-18T21:49:14.220Z",
+      "name": "hmu",
+      "artists": [
+        "greek"
+      ],
+      "album": "EXTC",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c12de4a270ee0e8c8fc2b675",
+      "uri": "spotify:track:4fC8mW8ZFQanmSHq30mgWz",
+      "duration_ms": 235801
     }
   ]
 }
