@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T15:30:19.013Z",
+  "updated_at": "2026-06-18T20:28:29.021Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -1715,6 +1715,41 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734603462dd193f76ab1f98218",
       "uri": "spotify:track:3HgvO4B5LLmdPOT2d8cSZd",
       "duration_ms": 192313
+    },
+    {
+      "played_at": "2026-06-18T16:18:42.393Z",
+      "name": "QUE HACES",
+      "artists": [
+        "Becky G",
+        "Manuel Turizo"
+      ],
+      "album": "QUE HACES",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cfdc7c6e909ced5ff7c2b1d3",
+      "uri": "spotify:track:4ad3yFpPEMFLnvCtvbman5",
+      "duration_ms": 171813
+    },
+    {
+      "played_at": "2026-06-18T16:22:43.487Z",
+      "name": "P.Y.T. (Pretty Young Thing)",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Thriller",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+      "uri": "spotify:track:1CgmY8fVN7kstVDZmsdM5k",
+      "duration_ms": 238333
+    },
+    {
+      "played_at": "2026-06-18T16:43:08.238Z",
+      "name": "LUNA",
+      "artists": [
+        "Feid",
+        "ATL Jacob"
+      ],
+      "album": "FERXXOCALIPSIS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242",
+      "uri": "spotify:track:7bywjHOc0wSjGGbj04XbVi",
+      "duration_ms": 196800
     }
   ]
 }

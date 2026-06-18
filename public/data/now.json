@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-06-18T15:30:19.125Z",
+  "updated_at": "2026-06-18T20:28:29.059Z",
   "is_playing": false,
   "track": {
-    "name": "Mónaco",
+    "name": "LUNA",
     "artists": [
-      "LAGOS",
-      "Danny Ocean"
+      "Feid",
+      "ATL Jacob"
     ],
-    "album": "Clásicos",
-    "image": "https://i.scdn.co/image/ab67616d0000b2734603462dd193f76ab1f98218",
-    "uri": "spotify:track:3HgvO4B5LLmdPOT2d8cSZd"
+    "album": "FERXXOCALIPSIS",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242",
+    "uri": "spotify:track:7bywjHOc0wSjGGbj04XbVi"
   },
-  "played_at": "2026-06-18T15:17:20.827Z"
+  "played_at": "2026-06-18T16:43:08.238Z"
 }
