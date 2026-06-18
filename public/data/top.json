@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T04:11:43.648Z",
+  "generated_at": "2026-06-18T10:27:44.245Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2701,19 +2701,19 @@
         },
         {
           "rank": 23,
-          "name": "ATEEZ",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb630859e6682cfa878243bacc",
-          "genres": [],
-          "uri": "spotify:artist:68KmkJeZGfwe1OUaivBa2L",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        },
-        {
-          "rank": 24,
           "name": "The Weeknd",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
           "genres": [],
           "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "rank": 24,
+          "name": "ATEEZ",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb630859e6682cfa878243bacc",
+          "genres": [],
+          "uri": "spotify:artist:68KmkJeZGfwe1OUaivBa2L",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         },
         {
           "rank": 25,
@@ -2901,6 +2901,14 @@
         },
         {
           "rank": 48,
+          "name": "Avenoir",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb4931e767936dbd7d806089c",
+          "genres": [],
+          "uri": "spotify:artist:3Z7onAknzpinUu3KtmgeZb",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        },
+        {
+          "rank": 49,
           "name": "Rels B",
           "image": "https://i.scdn.co/image/ab6761610000e5eb15cc5d75a093b40a9be0ff5c",
           "genres": [],
@@ -2908,20 +2916,12 @@
           "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Evdeki Saat",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0c445a93b34624df2007ac07",
           "genres": [],
           "uri": "spotify:artist:0w92tV1EQp7sxly7UjGR4P",
           "url": "https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P"
-        },
-        {
-          "rank": 50,
-          "name": "Milena",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebf7a24a6e14e58a3106344603",
-          "genres": [],
-          "uri": "spotify:artist:2ODok2cPMF1Z1gZetfaL6n",
-          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
         }
       ]
     }
