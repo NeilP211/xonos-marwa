@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T10:40:20.728Z",
+  "generated_at": "2026-06-19T15:23:37.989Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2548,19 +2548,19 @@
         },
         {
           "rank": 6,
-          "name": "LE SSERAFIM",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd4037f03c5f92e7e6ea89b9e",
-          "genres": [],
-          "uri": "spotify:artist:4SpbR6yFEvexJuaBpgAU5p",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        },
-        {
-          "rank": 7,
           "name": "Bad Bunny",
           "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
           "genres": [],
           "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "rank": 7,
+          "name": "LE SSERAFIM",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd4037f03c5f92e7e6ea89b9e",
+          "genres": [],
+          "uri": "spotify:artist:4SpbR6yFEvexJuaBpgAU5p",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         },
         {
           "rank": 8,
@@ -2660,19 +2660,19 @@
         },
         {
           "rank": 20,
+          "name": "The Weeknd",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
+          "genres": [],
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "rank": 21,
           "name": "Adolescent's Orquesta",
           "image": "https://i.scdn.co/image/ab6761610000e5eb85cbe9f05b11e3ea3d20ff0b",
           "genres": [],
           "uri": "spotify:artist:70nxnxEqDQIEWneRjg2Q4O",
           "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        },
-        {
-          "rank": 21,
-          "name": "Maluma",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb1b0d196ca84f4a0d076b4570",
-          "genres": [],
-          "uri": "spotify:artist:1r4hJ1h58CWwUQe3MxPuau",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         },
         {
           "rank": 22,
@@ -2684,11 +2684,11 @@
         },
         {
           "rank": 23,
-          "name": "The Weeknd",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
+          "name": "Maluma",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb1b0d196ca84f4a0d076b4570",
           "genres": [],
-          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "uri": "spotify:artist:1r4hJ1h58CWwUQe3MxPuau",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         },
         {
           "rank": 24,
@@ -2812,19 +2812,19 @@
         },
         {
           "rank": 39,
-          "name": "IVE",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe9134cc9371327f8238b1840",
-          "genres": [],
-          "uri": "spotify:artist:6RHTUrRF63xao58xh9FXYJ",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        },
-        {
-          "rank": 40,
           "name": "Rawayana",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5d52d93053343dc60653bbde",
           "genres": [],
           "uri": "spotify:artist:2AbQwU2cuEGfD465wCXlg2",
           "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "rank": 40,
+          "name": "IVE",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe9134cc9371327f8238b1840",
+          "genres": [],
+          "uri": "spotify:artist:6RHTUrRF63xao58xh9FXYJ",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         },
         {
           "rank": 41,
@@ -2884,19 +2884,19 @@
         },
         {
           "rank": 48,
-          "name": "Avenoir",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb4931e767936dbd7d806089c",
-          "genres": [],
-          "uri": "spotify:artist:3Z7onAknzpinUu3KtmgeZb",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        },
-        {
-          "rank": 49,
           "name": "Rels B",
           "image": "https://i.scdn.co/image/ab6761610000e5eb15cc5d75a093b40a9be0ff5c",
           "genres": [],
           "uri": "spotify:artist:2IMZYfNi21MGqxopj9fWx8",
           "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "rank": 49,
+          "name": "Avenoir",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb4931e767936dbd7d806089c",
+          "genres": [],
+          "uri": "spotify:artist:3Z7onAknzpinUu3KtmgeZb",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         },
         {
           "rank": 50,
