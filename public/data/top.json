@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T03:53:57.869Z",
+  "generated_at": "2026-06-20T09:19:02.295Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -295,18 +295,6 @@
         },
         {
           "rank": 25,
-          "name": "Favour",
-          "artists": [
-            "Avenoir"
-          ],
-          "album": "Favour",
-          "image": "https://i.scdn.co/image/ab67616d0000b273713f9d753c8b418102db1a10",
-          "uri": "spotify:track:7lTUaX0Bs1uE9ALFsmLF8G",
-          "url": "https://open.spotify.com/track/7lTUaX0Bs1uE9ALFsmLF8G",
-          "duration_ms": 156000
-        },
-        {
-          "rank": 26,
           "name": "If Looks Could Kill",
           "artists": [
             "A Heartwell Ending"
@@ -318,7 +306,7 @@
           "duration_ms": 205576
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Deslocado",
           "artists": [
             "NAPA"
@@ -330,7 +318,7 @@
           "duration_ms": 179996
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "So Far So Fake",
           "artists": [
             "Pierce The Veil"
@@ -342,7 +330,7 @@
           "duration_ms": 236160
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "Bésame",
           "artists": [
             "El Otro Polo",
@@ -355,7 +343,7 @@
           "duration_ms": 170520
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "She Sings in the Morning",
           "artists": [
             "Pierce The Veil"
@@ -367,7 +355,7 @@
           "duration_ms": 179066
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Sugar! Honey! Love!",
           "artists": [
             "Kali Uchis"
@@ -379,7 +367,7 @@
           "duration_ms": 184871
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Cariño",
           "artists": [
             "The Marías"
@@ -391,7 +379,7 @@
           "duration_ms": 258713
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Apocalypse",
           "artists": [
             "Cigarettes After Sex"
@@ -403,7 +391,7 @@
           "duration_ms": 290146
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "Bellaquita",
           "artists": [
             "Dalex",
@@ -416,7 +404,7 @@
           "duration_ms": 204786
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "Enough for you",
           "artists": [
             "Wisp"
@@ -428,7 +416,7 @@
           "duration_ms": 185875
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "ride",
           "artists": [
             "wave to earth"
@@ -440,7 +428,7 @@
           "duration_ms": 228500
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Reggaeton",
           "artists": [
             "J Balvin"
@@ -452,7 +440,7 @@
           "duration_ms": 158800
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Back To Strangers",
           "artists": [
             "Rehash"
@@ -464,7 +452,7 @@
           "duration_ms": 270335
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "Ego Brain",
           "artists": [
             "System Of A Down"
@@ -476,7 +464,7 @@
           "duration_ms": 201906
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "Soft Spot",
           "artists": [
             "keshi"
@@ -488,7 +476,7 @@
           "duration_ms": 204223
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "Love",
           "artists": [
             "Avenoir"
@@ -500,7 +488,7 @@
           "duration_ms": 156000
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Spring Day",
           "artists": [
             "BTS"
@@ -512,7 +500,7 @@
           "duration_ms": 274097
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "Clush",
           "artists": [
             "Isles & Glaciers"
@@ -524,7 +512,7 @@
           "duration_ms": 250450
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "Last Summer Whisper",
           "artists": [
             "Anri"
@@ -536,7 +524,7 @@
           "duration_ms": 299680
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "Nobody New",
           "artists": [
             "The Marías"
@@ -548,7 +536,7 @@
           "duration_ms": 215200
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "sunny days",
           "artists": [
             "wave to earth"
@@ -560,7 +548,7 @@
           "duration_ms": 248746
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Can't Leave Alone (feat. Avenoir & Maz B)",
           "artists": [
             "Pino",
@@ -575,7 +563,7 @@
           "duration_ms": 213413
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Human Nature",
           "artists": [
             "Michael Jackson"
@@ -587,7 +575,7 @@
           "duration_ms": 245837
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "I remember how your hands felt on mine",
           "artists": [
             "Wisp"
@@ -599,7 +587,7 @@
           "duration_ms": 195968
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Tuyo (Bolero)",
           "artists": [
             "Lalo San"
@@ -609,6 +597,18 @@
           "uri": "spotify:track:4zXptrO8g4h7LRGQrQNQAI",
           "url": "https://open.spotify.com/track/4zXptrO8g4h7LRGQrQNQAI",
           "duration_ms": 187924
+        },
+        {
+          "rank": 50,
+          "name": "Que vuelta vox",
+          "artists": [
+            "Feid"
+          ],
+          "album": "EL GREEN PRINT: La Saga (Disc 1) — FEID VS FERXXO",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733e41dc74562c58462d896986",
+          "uri": "spotify:track:50QNXm5mb1sUNhI4iTSzl9",
+          "url": "https://open.spotify.com/track/50QNXm5mb1sUNhI4iTSzl9",
+          "duration_ms": 169266
         }
       ],
       "artists": [
@@ -646,14 +646,6 @@
         },
         {
           "rank": 5,
-          "name": "Avenoir",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb4931e767936dbd7d806089c",
-          "genres": [],
-          "uri": "spotify:artist:3Z7onAknzpinUu3KtmgeZb",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        },
-        {
-          "rank": 6,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -661,7 +653,7 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "Bad Bunny",
           "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
           "genres": [],
@@ -669,7 +661,7 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Kali Uchis",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdeac5367816c7ab1f607e89a",
           "genres": [],
@@ -677,7 +669,7 @@
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Cigarettes After Sex",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
           "genres": [],
@@ -685,12 +677,20 @@
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "The Weeknd",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
           "genres": [],
           "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "rank": 10,
+          "name": "Avenoir",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb4931e767936dbd7d806089c",
+          "genres": [],
+          "uri": "spotify:artist:3Z7onAknzpinUu3KtmgeZb",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         },
         {
           "rank": 11,

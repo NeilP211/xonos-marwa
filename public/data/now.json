@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-20T03:53:58.035Z",
+  "updated_at": "2026-06-20T09:19:02.508Z",
   "is_playing": false,
   "track": {
-    "name": "hmu",
+    "name": "Baby Be Mine",
     "artists": [
-      "greek"
+      "Michael Jackson"
     ],
-    "album": "EXTC",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c12de4a270ee0e8c8fc2b675",
-    "uri": "spotify:track:4fC8mW8ZFQanmSHq30mgWz"
+    "album": "Thriller",
+    "image": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+    "uri": "spotify:track:6XYbMGvtl6tlPoGWaiH7EY"
   },
-  "played_at": "2026-06-20T01:09:50.758Z"
+  "played_at": "2026-06-20T04:13:34.233Z"
 }
