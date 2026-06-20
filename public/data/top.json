@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T22:05:35.617Z",
+  "generated_at": "2026-06-20T03:53:57.869Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -41,18 +41,6 @@
         },
         {
           "rank": 4,
-          "name": "Risk It All",
-          "artists": [
-            "Bruno Mars"
-          ],
-          "album": "The Romantic",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395",
-          "uri": "spotify:track:5y2ijHECwFYWqcAHKTZgzD",
-          "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD",
-          "duration_ms": 204068
-        },
-        {
-          "rank": 5,
           "name": "Like That",
           "artists": [
             "keshi"
@@ -62,6 +50,18 @@
           "uri": "spotify:track:3pf5M9sxSecmhjT9gMPwe9",
           "url": "https://open.spotify.com/track/3pf5M9sxSecmhjT9gMPwe9",
           "duration_ms": 180106
+        },
+        {
+          "rank": 5,
+          "name": "Risk It All",
+          "artists": [
+            "Bruno Mars"
+          ],
+          "album": "The Romantic",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395",
+          "uri": "spotify:track:5y2ijHECwFYWqcAHKTZgzD",
+          "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD",
+          "duration_ms": 204068
         },
         {
           "rank": 6,
@@ -525,18 +525,6 @@
         },
         {
           "rank": 44,
-          "name": "Pistol",
-          "artists": [
-            "Cigarettes After Sex"
-          ],
-          "album": "Pistol",
-          "image": "https://i.scdn.co/image/ab67616d0000b273be7f9e6feff2e51ae547f942",
-          "uri": "spotify:track:36pMQRacz9p99OevARrvVs",
-          "url": "https://open.spotify.com/track/36pMQRacz9p99OevARrvVs",
-          "duration_ms": 234174
-        },
-        {
-          "rank": 45,
           "name": "Last Summer Whisper",
           "artists": [
             "Anri"
@@ -548,7 +536,7 @@
           "duration_ms": 299680
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "Nobody New",
           "artists": [
             "The Marías"
@@ -560,7 +548,7 @@
           "duration_ms": 215200
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "sunny days",
           "artists": [
             "wave to earth"
@@ -572,7 +560,7 @@
           "duration_ms": 248746
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Can't Leave Alone (feat. Avenoir & Maz B)",
           "artists": [
             "Pino",
@@ -587,7 +575,7 @@
           "duration_ms": 213413
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Human Nature",
           "artists": [
             "Michael Jackson"
@@ -599,7 +587,7 @@
           "duration_ms": 245837
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "I remember how your hands felt on mine",
           "artists": [
             "Wisp"
@@ -609,6 +597,18 @@
           "uri": "spotify:track:4rWWNbsiorGPfSb7B4c8sy",
           "url": "https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy",
           "duration_ms": 195968
+        },
+        {
+          "rank": 50,
+          "name": "Tuyo (Bolero)",
+          "artists": [
+            "Lalo San"
+          ],
+          "album": "Tuyo (Bolero)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2737db8aa662ca0843e7528ebbd",
+          "uri": "spotify:track:4zXptrO8g4h7LRGQrQNQAI",
+          "url": "https://open.spotify.com/track/4zXptrO8g4h7LRGQrQNQAI",
+          "duration_ms": 187924
         }
       ],
       "artists": [
@@ -622,14 +622,6 @@
         },
         {
           "rank": 2,
-          "name": "Cigarettes After Sex",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
-          "genres": [],
-          "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        },
-        {
-          "rank": 3,
           "name": "Wisp",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
           "genres": [],
@@ -637,7 +629,7 @@
           "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "name": "wave to earth",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1b579c65adea80cbbd0c9181",
           "genres": [],
@@ -645,7 +637,7 @@
           "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "keshi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3a0f8f319aeef1aa4115f5e8",
           "genres": [],
@@ -653,7 +645,7 @@
           "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "Avenoir",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb4931e767936dbd7d806089c",
           "genres": [],
@@ -661,7 +653,7 @@
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -669,7 +661,7 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Bad Bunny",
           "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
           "genres": [],
@@ -677,12 +669,20 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Kali Uchis",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdeac5367816c7ab1f607e89a",
           "genres": [],
           "uri": "spotify:artist:1U1el3k54VvEUzo3ybLPlM",
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "rank": 9,
+          "name": "Cigarettes After Sex",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
+          "genres": [],
+          "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
         {
           "rank": 10,
