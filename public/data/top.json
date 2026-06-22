@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T18:47:42.927Z",
+  "generated_at": "2026-06-22T22:48:45.343Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -29,6 +29,18 @@
         },
         {
           "rank": 3,
+          "name": "M.",
+          "artists": [
+            "Anıl Emre Daldal"
+          ],
+          "album": "M.",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d7ddae05b16e763bc82b69a5",
+          "uri": "spotify:track:6wfb4nI2Vih263JqC8WSoW",
+          "url": "https://open.spotify.com/track/6wfb4nI2Vih263JqC8WSoW",
+          "duration_ms": 223750
+        },
+        {
+          "rank": 4,
           "name": "heaven and hell",
           "artists": [
             "wave to earth"
@@ -40,7 +52,7 @@
           "duration_ms": 268388
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Like That",
           "artists": [
             "keshi"
@@ -52,7 +64,7 @@
           "duration_ms": 180106
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Risk It All",
           "artists": [
             "Bruno Mars"
@@ -64,7 +76,7 @@
           "duration_ms": 204068
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "The Bomb Dot Com V2.0",
           "artists": [
             "Sleeping With Sirens"
@@ -76,7 +88,7 @@
           "duration_ms": 211720
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Helena",
           "artists": [
             "My Chemical Romance"
@@ -88,7 +100,7 @@
           "duration_ms": 204733
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Falling Asleep on a Stranger",
           "artists": [
             "Pierce The Veil"
@@ -100,7 +112,7 @@
           "duration_ms": 223586
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Decode - Twilight Soundtrack Version",
           "artists": [
             "Paramore"
@@ -110,18 +122,6 @@
           "uri": "spotify:track:4IDfVjI1TlB1UwlC01T4Bm",
           "url": "https://open.spotify.com/track/4IDfVjI1TlB1UwlC01T4Bm",
           "duration_ms": 261959
-        },
-        {
-          "rank": 10,
-          "name": "M.",
-          "artists": [
-            "Anıl Emre Daldal"
-          ],
-          "album": "M.",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d7ddae05b16e763bc82b69a5",
-          "uri": "spotify:track:6wfb4nI2Vih263JqC8WSoW",
-          "url": "https://open.spotify.com/track/6wfb4nI2Vih263JqC8WSoW",
-          "duration_ms": 223750
         },
         {
           "rank": 11,
@@ -199,6 +199,18 @@
         },
         {
           "rank": 17,
+          "name": "日落计数器",
+          "artists": [
+            "莫非定律乐团"
+          ],
+          "album": "日落计数器",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e93dbbce3937df90318b35a1",
+          "uri": "spotify:track:3BPuq1TTqJ5lat7IKqyZTW",
+          "url": "https://open.spotify.com/track/3BPuq1TTqJ5lat7IKqyZTW",
+          "duration_ms": 291564
+        },
+        {
+          "rank": 18,
           "name": "Helena - 2025 Mix",
           "artists": [
             "My Chemical Romance"
@@ -210,7 +222,7 @@
           "duration_ms": 202181
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "嘘",
           "artists": [
             "SID"
@@ -222,7 +234,7 @@
           "duration_ms": 205973
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "It's Just Us",
           "artists": [
             "Kali Uchis"
@@ -234,7 +246,7 @@
           "duration_ms": 180015
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "LIMBO",
           "artists": [
             "keshi"
@@ -246,7 +258,7 @@
           "duration_ms": 212784
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "흩어진나날들",
           "artists": [
             "강수지"
@@ -258,7 +270,7 @@
           "duration_ms": 262126
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Honest",
           "artists": [
             "Pino"
@@ -270,7 +282,7 @@
           "duration_ms": 203773
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "No te vayas",
           "artists": [
             "Surfistas Del Sistema"
@@ -282,7 +294,7 @@
           "duration_ms": 205200
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Virgen",
           "artists": [
             "Adolescent's Orquesta"
@@ -294,7 +306,7 @@
           "duration_ms": 271751
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Kiss Me Now",
           "artists": [
             "Pierce The Veil"
@@ -306,7 +318,7 @@
           "duration_ms": 256268
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Descifrar",
           "artists": [
             "maye"
@@ -318,7 +330,7 @@
           "duration_ms": 178700
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "雨蝶 - R&B微醺版",
           "artists": [
             "微醺卡带"
@@ -330,7 +342,7 @@
           "duration_ms": 234984
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "If Looks Could Kill",
           "artists": [
             "A Heartwell Ending"
@@ -342,7 +354,7 @@
           "duration_ms": 205576
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Deslocado",
           "artists": [
             "NAPA"
@@ -354,7 +366,7 @@
           "duration_ms": 179996
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "So Far So Fake",
           "artists": [
             "Pierce The Veil"
@@ -366,7 +378,7 @@
           "duration_ms": 236160
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Bésame",
           "artists": [
             "El Otro Polo",
@@ -379,7 +391,7 @@
           "duration_ms": 170520
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "She Sings in the Morning",
           "artists": [
             "Pierce The Veil"
@@ -391,7 +403,7 @@
           "duration_ms": 179066
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Sugar! Honey! Love!",
           "artists": [
             "Kali Uchis"
@@ -403,7 +415,7 @@
           "duration_ms": 184871
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Cariño",
           "artists": [
             "The Marías"
@@ -415,7 +427,7 @@
           "duration_ms": 258713
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Apocalypse",
           "artists": [
             "Cigarettes After Sex"
@@ -427,7 +439,19 @@
           "duration_ms": 290146
         },
         {
-          "rank": 36,
+          "rank": 37,
+          "name": "顷刻之间",
+          "artists": [
+            "陈麒名"
+          ],
+          "album": "顷刻之间",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e1f3b6decbf8556601432555",
+          "uri": "spotify:track:1sgCnr54jYN33u851iGabW",
+          "url": "https://open.spotify.com/track/1sgCnr54jYN33u851iGabW",
+          "duration_ms": 214186
+        },
+        {
+          "rank": 38,
           "name": "Bellaquita",
           "artists": [
             "Dalex",
@@ -440,7 +464,19 @@
           "duration_ms": 204786
         },
         {
-          "rank": 37,
+          "rank": 39,
+          "name": "Uzunlar - V1",
+          "artists": [
+            "Evdeki Saat"
+          ],
+          "album": "Uzunlar",
+          "image": "https://i.scdn.co/image/ab67616d0000b273917b71d0a9aa3396f0031c40",
+          "uri": "spotify:track:1vLkBVAy8ZWrqcQjYTPP3a",
+          "url": "https://open.spotify.com/track/1vLkBVAy8ZWrqcQjYTPP3a",
+          "duration_ms": 282352
+        },
+        {
+          "rank": 40,
           "name": "Enough for you",
           "artists": [
             "Wisp"
@@ -452,7 +488,7 @@
           "duration_ms": 185875
         },
         {
-          "rank": 38,
+          "rank": 41,
           "name": "Peaches",
           "artists": [
             "KAI"
@@ -464,7 +500,7 @@
           "duration_ms": 198080
         },
         {
-          "rank": 39,
+          "rank": 42,
           "name": "ride",
           "artists": [
             "wave to earth"
@@ -476,7 +512,7 @@
           "duration_ms": 228500
         },
         {
-          "rank": 40,
+          "rank": 43,
           "name": "Reggaeton",
           "artists": [
             "J Balvin"
@@ -488,7 +524,7 @@
           "duration_ms": 158800
         },
         {
-          "rank": 41,
+          "rank": 44,
           "name": "Back To Strangers",
           "artists": [
             "Rehash"
@@ -500,7 +536,7 @@
           "duration_ms": 270335
         },
         {
-          "rank": 42,
+          "rank": 45,
           "name": "Ego Brain",
           "artists": [
             "System Of A Down"
@@ -512,7 +548,7 @@
           "duration_ms": 201906
         },
         {
-          "rank": 43,
+          "rank": 46,
           "name": "Lo Que Tiene",
           "artists": [
             "Morad",
@@ -526,7 +562,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 44,
+          "rank": 47,
           "name": "Soft Spot",
           "artists": [
             "keshi"
@@ -538,7 +574,7 @@
           "duration_ms": 204223
         },
         {
-          "rank": 45,
+          "rank": 48,
           "name": "Love",
           "artists": [
             "Avenoir"
@@ -550,7 +586,7 @@
           "duration_ms": 156000
         },
         {
-          "rank": 46,
+          "rank": 49,
           "name": "Spring Day",
           "artists": [
             "BTS"
@@ -562,52 +598,16 @@
           "duration_ms": 274097
         },
         {
-          "rank": 47,
-          "name": "Clush",
-          "artists": [
-            "Isles & Glaciers"
-          ],
-          "album": "The Hearts of Lonely People",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e347aa93ae66368940be31b9",
-          "uri": "spotify:track:33kVC1gAXPt7UAYR71xFWT",
-          "url": "https://open.spotify.com/track/33kVC1gAXPt7UAYR71xFWT",
-          "duration_ms": 250450
-        },
-        {
-          "rank": 48,
-          "name": "Last Summer Whisper",
-          "artists": [
-            "Anri"
-          ],
-          "album": "Heaven Beach",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e5cdab693bda0ed0bcffe334",
-          "uri": "spotify:track:38LUbz74v3nmP8x0efElw2",
-          "url": "https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2",
-          "duration_ms": 299680
-        },
-        {
-          "rank": 49,
-          "name": "Nobody New",
-          "artists": [
-            "The Marías"
-          ],
-          "album": "Nobody New",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734076c62eeace86cc7bde7aef",
-          "uri": "spotify:track:3BUc2A0MJ53FHwiy3eohBt",
-          "url": "https://open.spotify.com/track/3BUc2A0MJ53FHwiy3eohBt",
-          "duration_ms": 215200
-        },
-        {
           "rank": 50,
-          "name": "sunny days",
+          "name": "银河坠落时（电视剧《炽夏》主题曲）",
           "artists": [
-            "wave to earth"
+            "周柯宇"
           ],
-          "album": "0.1 flaws and all.",
-          "image": "https://i.scdn.co/image/ab67616d0000b27324f8c3ad20b7c6cfecb5832e",
-          "uri": "spotify:track:3URe1bi21ftFK4zh5nO1P1",
-          "url": "https://open.spotify.com/track/3URe1bi21ftFK4zh5nO1P1",
-          "duration_ms": 248746
+          "album": "银河坠落时（电视剧《炽夏》主题曲）",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b89f6f87847bae112f83056e",
+          "uri": "spotify:track:2ssUMyM3RmDk6DG3WkkU5N",
+          "url": "https://open.spotify.com/track/2ssUMyM3RmDk6DG3WkkU5N",
+          "duration_ms": 282000
         }
       ],
       "artists": [

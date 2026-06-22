@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-06-22T18:47:43.189Z",
+  "updated_at": "2026-06-22T22:48:45.573Z",
   "is_playing": false,
   "track": {
-    "name": "Peaches",
+    "name": "Sweet Dreams (feat. Miguel)",
     "artists": [
-      "KAI"
+      "j-hope",
+      "Miguel"
     ],
-    "album": "Peaches - The 2nd Mini Album",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e17d7c9f32167b7b7c8e9f21",
-    "uri": "spotify:track:237OjBs3wvamAFpHp0yItw"
+    "album": "Sweet Dreams (feat. Miguel)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273318241eacbdaee4d0f9c4316",
+    "uri": "spotify:track:1yX9gy5fK02j6nBnGJ1S3k"
   },
-  "played_at": "2026-06-22T17:34:46.886Z"
+  "played_at": "2026-06-22T20:30:27.824Z"
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T18:47:43.158Z",
+  "updated_at": "2026-06-22T22:48:45.541Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -2292,6 +2292,186 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e17d7c9f32167b7b7c8e9f21",
       "uri": "spotify:track:237OjBs3wvamAFpHp0yItw",
       "duration_ms": 198080
+    },
+    {
+      "played_at": "2026-06-22T19:04:37.228Z",
+      "name": "银河坠落时（电视剧《炽夏》主题曲）",
+      "artists": [
+        "周柯宇"
+      ],
+      "album": "银河坠落时（电视剧《炽夏》主题曲）",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b89f6f87847bae112f83056e",
+      "uri": "spotify:track:2ssUMyM3RmDk6DG3WkkU5N",
+      "duration_ms": 282000
+    },
+    {
+      "played_at": "2026-06-22T19:08:45.786Z",
+      "name": "梦与环游",
+      "artists": [
+        "徐子未",
+        "崔十八"
+      ],
+      "album": "梦与环游",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c74ca5163a7baf1752b2304",
+      "uri": "spotify:track:66iFguBWerVKgA93Bex6cZ",
+      "duration_ms": 248000
+    },
+    {
+      "played_at": "2026-06-22T19:13:52.963Z",
+      "name": "顷刻之间",
+      "artists": [
+        "陈麒名"
+      ],
+      "album": "顷刻之间",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1f3b6decbf8556601432555",
+      "uri": "spotify:track:1sgCnr54jYN33u851iGabW",
+      "duration_ms": 214186
+    },
+    {
+      "played_at": "2026-06-22T19:17:02.520Z",
+      "name": "Frozen Heart",
+      "artists": [
+        "8Bite",
+        "Dyrox"
+      ],
+      "album": "Frozen Heart",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bcdd9cb6af1eafa5244bd518",
+      "uri": "spotify:track:0GRHTkx3f6VsIoSRA0DsVZ",
+      "duration_ms": 189014
+    },
+    {
+      "played_at": "2026-06-22T19:31:39.454Z",
+      "name": "日落计数器",
+      "artists": [
+        "莫非定律乐团"
+      ],
+      "album": "日落计数器",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e93dbbce3937df90318b35a1",
+      "uri": "spotify:track:3BPuq1TTqJ5lat7IKqyZTW",
+      "duration_ms": 291564
+    },
+    {
+      "played_at": "2026-06-22T19:37:32.235Z",
+      "name": "日落计数器",
+      "artists": [
+        "莫非定律乐团"
+      ],
+      "album": "日落计数器",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e93dbbce3937df90318b35a1",
+      "uri": "spotify:track:3BPuq1TTqJ5lat7IKqyZTW",
+      "duration_ms": 291564
+    },
+    {
+      "played_at": "2026-06-22T19:44:38.147Z",
+      "name": "Uzunlar - V1",
+      "artists": [
+        "Evdeki Saat"
+      ],
+      "album": "Uzunlar",
+      "image": "https://i.scdn.co/image/ab67616d0000b273917b71d0a9aa3396f0031c40",
+      "uri": "spotify:track:1vLkBVAy8ZWrqcQjYTPP3a",
+      "duration_ms": 282352
+    },
+    {
+      "played_at": "2026-06-22T19:50:39.035Z",
+      "name": "M.",
+      "artists": [
+        "Anıl Emre Daldal"
+      ],
+      "album": "M.",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d7ddae05b16e763bc82b69a5",
+      "uri": "spotify:track:6wfb4nI2Vih263JqC8WSoW",
+      "duration_ms": 223750
+    },
+    {
+      "played_at": "2026-06-22T20:05:34.415Z",
+      "name": "Comment te dire adieu - Remasterisé en 2016",
+      "artists": [
+        "Françoise Hardy"
+      ],
+      "album": "Comment te dire adieu (Remasterisé en 2016)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3f0e9f20bfbdd1ab8752e39",
+      "uri": "spotify:track:6g5qyQrAcoBX4X7XjxBoTO",
+      "duration_ms": 148506
+    },
+    {
+      "played_at": "2026-06-22T20:09:40.518Z",
+      "name": "Chicago",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "XSCAPE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0",
+      "uri": "spotify:track:5BKKy9fIJL5uM9fz1SnqyP",
+      "duration_ms": 245565
+    },
+    {
+      "played_at": "2026-06-22T20:12:46.411Z",
+      "name": "Hopelessly Devoted To You - From “Grease”",
+      "artists": [
+        "Olivia Newton-John"
+      ],
+      "album": "Grease (The Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b68df485f3304211904548a8",
+      "uri": "spotify:track:5BUq9bdtsm3LWw5laJeJ4R",
+      "duration_ms": 185360
+    },
+    {
+      "played_at": "2026-06-22T20:17:50.266Z",
+      "name": "풀어",
+      "artists": [
+        "DEAN",
+        "ZICO"
+      ],
+      "album": "130 Mood : TRBL",
+      "image": "https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3",
+      "uri": "spotify:track:2p980qlVXYLh3HdHusbhfa",
+      "duration_ms": 211972
+    },
+    {
+      "played_at": "2026-06-22T20:20:52.547Z",
+      "name": "Gracias",
+      "artists": [
+        "Daniel, Me Estás Matando"
+      ],
+      "album": "Gracias",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a7ce3254a1642cfb296dff6d",
+      "uri": "spotify:track:52sJwN0u3ER2iko7yqV449",
+      "duration_ms": 181744
+    },
+    {
+      "played_at": "2026-06-22T20:22:53.239Z",
+      "name": "حبيبي ليه",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي",
+      "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+      "uri": "spotify:track:2OSxxCfS81wcds5RbQ0Ztq",
+      "duration_ms": 120145
+    },
+    {
+      "played_at": "2026-06-22T20:27:34.314Z",
+      "name": "bonfire",
+      "artists": [
+        "wave to earth"
+      ],
+      "album": "wave 0.01",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735082d980a6ca101771609794",
+      "uri": "spotify:track:67bFYUkeyR01cpvH4tE0dy",
+      "duration_ms": 280541
+    },
+    {
+      "played_at": "2026-06-22T20:30:27.824Z",
+      "name": "Sweet Dreams (feat. Miguel)",
+      "artists": [
+        "j-hope",
+        "Miguel"
+      ],
+      "album": "Sweet Dreams (feat. Miguel)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273318241eacbdaee4d0f9c4316",
+      "uri": "spotify:track:1yX9gy5fK02j6nBnGJ1S3k",
+      "duration_ms": 172952
     }
   ]
 }
