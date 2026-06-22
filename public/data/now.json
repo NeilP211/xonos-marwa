@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-22T12:08:47.193Z",
+  "updated_at": "2026-06-22T18:47:43.189Z",
   "is_playing": false,
   "track": {
-    "name": "Baby Be Mine",
+    "name": "Peaches",
     "artists": [
-      "Michael Jackson"
+      "KAI"
     ],
-    "album": "Thriller",
-    "image": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-    "uri": "spotify:track:6XYbMGvtl6tlPoGWaiH7EY"
+    "album": "Peaches - The 2nd Mini Album",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e17d7c9f32167b7b7c8e9f21",
+    "uri": "spotify:track:237OjBs3wvamAFpHp0yItw"
   },
-  "played_at": "2026-06-20T04:13:34.233Z"
+  "played_at": "2026-06-22T17:34:46.886Z"
 }

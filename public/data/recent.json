@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T12:08:47.100Z",
+  "updated_at": "2026-06-22T18:47:43.158Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -1828,6 +1828,470 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
       "uri": "spotify:track:6XYbMGvtl6tlPoGWaiH7EY",
       "duration_ms": 260368
+    },
+    {
+      "played_at": "2026-06-22T13:38:29.369Z",
+      "name": "A Lonely Night",
+      "artists": [
+        "The Weeknd"
+      ],
+      "album": "Starboy",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+      "uri": "spotify:track:0ifooM33X1iBxVYyOkSbXW",
+      "duration_ms": 220173
+    },
+    {
+      "played_at": "2026-06-22T13:38:52.100Z",
+      "name": "WHO DO U LUV",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "WHO DO U LUV",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373dc757337bcdd30b76723c5",
+      "uri": "spotify:track:74KASQI7XvyWdsNyQcJuv9",
+      "duration_ms": 248760
+    },
+    {
+      "played_at": "2026-06-22T13:44:52.990Z",
+      "name": "M.",
+      "artists": [
+        "Anıl Emre Daldal"
+      ],
+      "album": "M.",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d7ddae05b16e763bc82b69a5",
+      "uri": "spotify:track:6wfb4nI2Vih263JqC8WSoW",
+      "duration_ms": 223750
+    },
+    {
+      "played_at": "2026-06-22T13:49:22.019Z",
+      "name": "So Tender",
+      "artists": [
+        "Say Sue Me"
+      ],
+      "album": "Nevertheless, (Original Television Soundtrack, Pt. 8)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d859b4bb308e33eaebf172ee",
+      "uri": "spotify:track:1Qhcx4uDQ4RFy9m4mKdzUN",
+      "duration_ms": 268453
+    },
+    {
+      "played_at": "2026-06-22T13:52:27.386Z",
+      "name": "BOLO (feat. YDG)",
+      "artists": [
+        "PENOMECO",
+        "YDG"
+      ],
+      "album": "Organic",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f42dfd26f7e78b2bcb73ba3",
+      "uri": "spotify:track:77ILSQGJhqDVOfeWdtEexk",
+      "duration_ms": 171520
+    },
+    {
+      "played_at": "2026-06-22T13:56:21.315Z",
+      "name": "A Night To Remember",
+      "artists": [
+        "beabadoobee",
+        "Laufey"
+      ],
+      "album": "A Night To Remember",
+      "image": "https://i.scdn.co/image/ab67616d0000b27303ea1900840b8804f779f7b3",
+      "uri": "spotify:track:180AbZduI6bYQIzwCHRwu9",
+      "duration_ms": 233388
+    },
+    {
+      "played_at": "2026-06-22T14:02:14.908Z",
+      "name": "하루살이",
+      "artists": [
+        "DEAN",
+        "SULLI",
+        "Rad Museum"
+      ],
+      "album": "하루살이",
+      "image": "https://i.scdn.co/image/ab67616d0000b27324eb27f095031b1c29bcce20",
+      "uri": "spotify:track:2AA1f7utyvXpmtKsEvp5lz",
+      "duration_ms": 207112
+    },
+    {
+      "played_at": "2026-06-22T14:09:02.216Z",
+      "name": "Black Beauty",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:63hHlajVLQnlFMAqSyePxO",
+      "duration_ms": 314533
+    },
+    {
+      "played_at": "2026-06-22T14:11:55.756Z",
+      "name": "CONTROL",
+      "artists": [
+        "kasper"
+      ],
+      "album": "CONTROL",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6bc65579740ebe10a1a8a91",
+      "uri": "spotify:track:61aC6Zm2G2dfLLLa7gwLeZ",
+      "duration_ms": 173002
+    },
+    {
+      "played_at": "2026-06-22T14:20:12.991Z",
+      "name": "梦与环游",
+      "artists": [
+        "徐子未",
+        "崔十八"
+      ],
+      "album": "梦与环游",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c74ca5163a7baf1752b2304",
+      "uri": "spotify:track:66iFguBWerVKgA93Bex6cZ",
+      "duration_ms": 248000
+    },
+    {
+      "played_at": "2026-06-22T14:23:47.721Z",
+      "name": "顷刻之间",
+      "artists": [
+        "陈麒名"
+      ],
+      "album": "顷刻之间",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1f3b6decbf8556601432555",
+      "uri": "spotify:track:1sgCnr54jYN33u851iGabW",
+      "duration_ms": 214186
+    },
+    {
+      "played_at": "2026-06-22T14:29:12.997Z",
+      "name": "日落计数器",
+      "artists": [
+        "莫非定律乐团"
+      ],
+      "album": "日落计数器",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e93dbbce3937df90318b35a1",
+      "uri": "spotify:track:3BPuq1TTqJ5lat7IKqyZTW",
+      "duration_ms": 291564
+    },
+    {
+      "played_at": "2026-06-22T14:33:27.119Z",
+      "name": "雨蝶 - R&B微醺版",
+      "artists": [
+        "微醺卡带"
+      ],
+      "album": "雨蝶 (R&B微醺版)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27381bfa5296306a950e8b64aa0",
+      "uri": "spotify:track:4BdMTfgOY7zGwIGCqJpEnm",
+      "duration_ms": 234984
+    },
+    {
+      "played_at": "2026-06-22T14:39:49.636Z",
+      "name": "Nevertheless",
+      "artists": [
+        "Night Off"
+      ],
+      "album": "Nevertheless, (Original Television Sound Track, Pt. 2)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fca395436832407bcbd30de8",
+      "uri": "spotify:track:6fG9JVdUx4Ttks3tDwQMRs",
+      "duration_ms": 212440
+    },
+    {
+      "played_at": "2026-06-22T14:46:23.568Z",
+      "name": "是你（电视剧《难哄》片尾曲）",
+      "artists": [
+        "Chris Lee"
+      ],
+      "album": "电视剧《难哄》影视原声带·只喜欢你Love Moments",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e315e968f364d79e460d8f62",
+      "uri": "spotify:track:4YOBZGhCmlSnE131nd4sSC",
+      "duration_ms": 320284
+    },
+    {
+      "played_at": "2026-06-22T14:55:53.957Z",
+      "name": "像晴天像雨天（电视剧《难哄》心动曲）",
+      "artists": [
+        "Silence Wang"
+      ],
+      "album": "电视剧《难哄》影视原声带·只喜欢你Love Moments",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e315e968f364d79e460d8f62",
+      "uri": "spotify:track:298LjjcBvuQCAlwUWb9dKb",
+      "duration_ms": 236616
+    },
+    {
+      "played_at": "2026-06-22T15:00:19.513Z",
+      "name": "晚点（电视剧《难哄》伤痕曲）",
+      "artists": [
+        "Zhang Bichen"
+      ],
+      "album": "电视剧《难哄》影视原声带·只喜欢你Love Moments",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e315e968f364d79e460d8f62",
+      "uri": "spotify:track:31DADUJYix04d8pXDAmUUB",
+      "duration_ms": 265567
+    },
+    {
+      "played_at": "2026-06-22T15:05:04.531Z",
+      "name": "隐形人（电视剧《难哄》等待曲）",
+      "artists": [
+        "白敬亭"
+      ],
+      "album": "电视剧《难哄》影视原声带·只喜欢你Love Moments",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e315e968f364d79e460d8f62",
+      "uri": "spotify:track:11Vu9Zo7P4JXdrDRWVyrem",
+      "duration_ms": 285024
+    },
+    {
+      "played_at": "2026-06-22T15:09:46.815Z",
+      "name": "당돌한 여자",
+      "artists": [
+        "JIHYO",
+        "NAYEON",
+        "쯔위",
+        "Chaeyeong"
+      ],
+      "album": "투유 프로젝트 - 슈가맨 Pt.11",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e3c5360152c87edc29302306",
+      "uri": "spotify:track:7AqScxClmkJdqHZjWSkKH8",
+      "duration_ms": 185533
+    },
+    {
+      "played_at": "2026-06-22T15:14:39.679Z",
+      "name": "我的爱没前奏",
+      "artists": [
+        "Nana Ou-Yang"
+      ],
+      "album": "我的爱没前奏",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739fd2ca3f9a7a20035bb93ea8",
+      "uri": "spotify:track:0Gt3TmU30vJv7nAapvUPK4",
+      "duration_ms": 199596
+    },
+    {
+      "played_at": "2026-06-22T15:19:10.704Z",
+      "name": "晨昏线（《双轨》影视剧回响曲）",
+      "artists": [
+        "Jin Wenqi"
+      ],
+      "album": "《双轨》影视原声带",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736034229c072242a5519089bb",
+      "uri": "spotify:track:16bvGBhaWtFrqVsMAaI314",
+      "duration_ms": 270480
+    },
+    {
+      "played_at": "2026-06-22T15:22:11.073Z",
+      "name": "Miniskirt",
+      "artists": [
+        "AOA"
+      ],
+      "album": "MINISKIRT",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336adcea4e93245f1fec547df",
+      "uri": "spotify:track:6Yj8kVuVR3UPxx9r5eFEoV",
+      "duration_ms": 179808
+    },
+    {
+      "played_at": "2026-06-22T15:37:24.339Z",
+      "name": "雨蝶 - R&B微醺版",
+      "artists": [
+        "微醺卡带"
+      ],
+      "album": "雨蝶 (R&B微醺版)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27381bfa5296306a950e8b64aa0",
+      "uri": "spotify:track:4BdMTfgOY7zGwIGCqJpEnm",
+      "duration_ms": 234984
+    },
+    {
+      "played_at": "2026-06-22T15:42:13.510Z",
+      "name": "沉溺（你让我的心不再结冰）",
+      "artists": [
+        "邹沛沛",
+        "Pank"
+      ],
+      "album": "沉溺（你让我的心不再结冰）",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e10693b2c3d38dd7ad4299a",
+      "uri": "spotify:track:6NtVX4qwWMmAtNFaG485iq",
+      "duration_ms": 193773
+    },
+    {
+      "played_at": "2026-06-22T15:46:06.756Z",
+      "name": "Love Talk",
+      "artists": [
+        "WayV"
+      ],
+      "album": "Take Over The Moon - The 2nd Mini Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273374ed0d3862263ef52df6828",
+      "uri": "spotify:track:6bc8VmlNt5S9WJlyw8bBdd",
+      "duration_ms": 232694
+    },
+    {
+      "played_at": "2026-06-22T15:47:55.588Z",
+      "name": "Forever Star(《偷偷藏不住》电视剧插曲)",
+      "artists": [
+        "張洢豪"
+      ],
+      "album": "《偷偷藏不住》影视原声专辑",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b4457aab74a08290c3084a0a",
+      "uri": "spotify:track:4hZUa0IFUOHhvZhK1YwXHu",
+      "duration_ms": 202666
+    },
+    {
+      "played_at": "2026-06-22T15:53:19.814Z",
+      "name": "《夢的燭衣》（《大夢歸離》影視劇情殤曲）",
+      "artists": [
+        "Zhang Bichen"
+      ],
+      "album": "《大夢歸離》影視原聲帶",
+      "image": "https://i.scdn.co/image/ab67616d0000b273282babb68ec6cc6ded27cbde",
+      "uri": "spotify:track:43wT8wgMOXTBFfZwIj6UKW",
+      "duration_ms": 231949
+    },
+    {
+      "played_at": "2026-06-22T15:57:12.512Z",
+      "name": "Love Talk - English Version",
+      "artists": [
+        "WayV"
+      ],
+      "album": "Love Talk (English Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734b766593db7dbd908a97cea7",
+      "uri": "spotify:track:2e3cJdJ8xWwydl8JIYlCqB",
+      "duration_ms": 232150
+    },
+    {
+      "played_at": "2026-06-22T16:01:51.817Z",
+      "name": "越界（《双轨》影视剧人物曲）",
+      "artists": [
+        "Esther Yu"
+      ],
+      "album": "越界（《双轨》影视剧人物曲）",
+      "image": "https://i.scdn.co/image/ab67616d0000b273671226c54acb80af0fdaeef8",
+      "uri": "spotify:track:7Iod4BUsXPvTwZhNDGDQLe",
+      "duration_ms": 207364
+    },
+    {
+      "played_at": "2026-06-22T16:05:42.235Z",
+      "name": "space",
+      "artists": [
+        "The Poles"
+      ],
+      "album": "The High Tide Club",
+      "image": "https://i.scdn.co/image/ab67616d0000b273acda674910f3dd3d1820915d",
+      "uri": "spotify:track:0DHyNlgEaolgfVxPhyFDTq",
+      "duration_ms": 224000
+    },
+    {
+      "played_at": "2026-06-22T16:13:10.655Z",
+      "name": "嘘",
+      "artists": [
+        "SID"
+      ],
+      "album": "hikari",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732246f2bb6fe78dfff00766c8",
+      "uri": "spotify:track:5hyuqT3PwqSKtH1EUSST20",
+      "duration_ms": 205973
+    },
+    {
+      "played_at": "2026-06-22T16:16:28.216Z",
+      "name": "happy endings do exist",
+      "artists": [
+        "PRYVT"
+      ],
+      "album": "happy endings do exist",
+      "image": "https://i.scdn.co/image/ab67616d0000b27371d049ebd75abecaea06765e",
+      "uri": "spotify:track:3f3UiKcmfzCkeV0QxOnBK9",
+      "duration_ms": 197100
+    },
+    {
+      "played_at": "2026-06-22T16:29:13.805Z",
+      "name": "Lo Que Tiene",
+      "artists": [
+        "Morad",
+        "Beny Jr",
+        "Rvfv"
+      ],
+      "album": "Lo Que Tiene",
+      "image": "https://i.scdn.co/image/ab67616d0000b27345e6bba1ac0c5b54a9ee8121",
+      "uri": "spotify:track:6RqD0fpAaKEZvQd0QrTj7j",
+      "duration_ms": 259200
+    },
+    {
+      "played_at": "2026-06-22T16:32:30.336Z",
+      "name": "Si Antes Te Hubiera Conocido",
+      "artists": [
+        "KAROL G"
+      ],
+      "album": "Si Antes Te Hubiera Conocido",
+      "image": "https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e",
+      "uri": "spotify:track:6WatFBLVB0x077xWeoVc2k",
+      "duration_ms": 195824
+    },
+    {
+      "played_at": "2026-06-22T16:36:43.330Z",
+      "name": "Ojos Tristes (with The Marías)",
+      "artists": [
+        "Selena Gomez",
+        "benny blanco",
+        "The Marías"
+      ],
+      "album": "I Said I Love You First",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735c99217c0a33291dcd4e0242",
+      "uri": "spotify:track:1DFmBjoeQN9DpOVTEewyx0",
+      "duration_ms": 201920
+    },
+    {
+      "played_at": "2026-06-22T16:45:52.407Z",
+      "name": "浪里书（电影《毕正明的证明》插曲）",
+      "artists": [
+        "莫非定律乐团"
+      ],
+      "album": "电影《毕正明的证明》原声专辑",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d9a70bce07147276d0fb38ad",
+      "uri": "spotify:track:3xmt0fv02CRcGi3Za2hIvs",
+      "duration_ms": 218000
+    },
+    {
+      "played_at": "2026-06-22T16:52:50.792Z",
+      "name": "要不然我們就這樣一萬年 - 電視劇《長月燼明》插曲",
+      "artists": [
+        "黃霄雲"
+      ],
+      "album": "要不然我們就這樣一萬年-電視劇《長月燼明》插曲",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ee1c8e4e50314a90d259c164",
+      "uri": "spotify:track:4QouBebU7c4MJCHYJw7WL0",
+      "duration_ms": 284710
+    },
+    {
+      "played_at": "2026-06-22T16:59:00.357Z",
+      "name": "Beso",
+      "artists": [
+        "Jósean Log"
+      ],
+      "album": "Háblate de Mí",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a8659bf75fee7dc8c01afc67",
+      "uri": "spotify:track:4PpuZIMmeng6qPicveSI22",
+      "duration_ms": 211021
+    },
+    {
+      "played_at": "2026-06-22T17:00:30.388Z",
+      "name": "Beso",
+      "artists": [
+        "Jósean Log"
+      ],
+      "album": "Háblate de Mí",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a8659bf75fee7dc8c01afc67",
+      "uri": "spotify:track:4PpuZIMmeng6qPicveSI22",
+      "duration_ms": 211021
+    },
+    {
+      "played_at": "2026-06-22T17:31:04.459Z",
+      "name": "A Lonely Night",
+      "artists": [
+        "The Weeknd"
+      ],
+      "album": "Starboy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
+      "uri": "spotify:track:4UknpXoLjlB7Mao4UWcJ2o",
+      "duration_ms": 220173
+    },
+    {
+      "played_at": "2026-06-22T17:34:46.886Z",
+      "name": "Peaches",
+      "artists": [
+        "KAI"
+      ],
+      "album": "Peaches - The 2nd Mini Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e17d7c9f32167b7b7c8e9f21",
+      "uri": "spotify:track:237OjBs3wvamAFpHp0yItw",
+      "duration_ms": 198080
     }
   ]
 }
