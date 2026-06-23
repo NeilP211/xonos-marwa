@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T20:08:49.612Z",
+  "updated_at": "2026-06-23T22:16:02.764Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -2956,6 +2956,83 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
       "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
       "duration_ms": 204223
+    },
+    {
+      "played_at": "2026-06-23T20:15:32.128Z",
+      "name": "Soft Spot",
+      "artists": [
+        "keshi"
+      ],
+      "album": "Requiem",
+      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
+      "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
+      "duration_ms": 204223
+    },
+    {
+      "played_at": "2026-06-23T20:19:29.284Z",
+      "name": "Let Love Bleed Red",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "With Ears To See And Eyes To Hear",
+      "image": "https://i.scdn.co/image/ab67616d0000b273032fd22bde573d0746c87352",
+      "uri": "spotify:track:1v8RDUkhH5wR9IBrC6Hroy",
+      "duration_ms": 222493
+    },
+    {
+      "played_at": "2026-06-23T20:24:58.141Z",
+      "name": "雨蝶 - R&B微醺版",
+      "artists": [
+        "微醺卡带"
+      ],
+      "album": "雨蝶 (R&B微醺版)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27381bfa5296306a950e8b64aa0",
+      "uri": "spotify:track:4BdMTfgOY7zGwIGCqJpEnm",
+      "duration_ms": 234984
+    },
+    {
+      "played_at": "2026-06-23T20:30:36.722Z",
+      "name": "Soft Spot",
+      "artists": [
+        "keshi"
+      ],
+      "album": "Requiem",
+      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
+      "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
+      "duration_ms": 204223
+    },
+    {
+      "played_at": "2026-06-23T20:34:19.769Z",
+      "name": "Let Love Bleed Red",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "With Ears To See And Eyes To Hear",
+      "image": "https://i.scdn.co/image/ab67616d0000b273032fd22bde573d0746c87352",
+      "uri": "spotify:track:1v8RDUkhH5wR9IBrC6Hroy",
+      "duration_ms": 222493
+    },
+    {
+      "played_at": "2026-06-23T20:40:17.501Z",
+      "name": "All My Heart",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "Let's Cheers To This",
+      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
+      "duration_ms": 279293
+    },
+    {
+      "played_at": "2026-06-23T20:53:38.611Z",
+      "name": "If You Can't Hang",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "Let's Cheers To This",
+      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+      "uri": "spotify:track:2Tc9VznHtQUmfOgE3L1RdN",
+      "duration_ms": 250240
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-23T20:08:49.694Z",
-  "is_playing": true,
+  "updated_at": "2026-06-23T22:16:02.814Z",
+  "is_playing": false,
   "track": {
-    "name": "Soft Spot",
+    "name": "If You Can't Hang",
     "artists": [
-      "keshi"
+      "Sleeping With Sirens"
     ],
-    "album": "Requiem",
-    "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
-    "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7"
+    "album": "Let's Cheers To This",
+    "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+    "uri": "spotify:track:2Tc9VznHtQUmfOgE3L1RdN"
   },
-  "played_at": "2026-06-23T20:08:49.694Z"
+  "played_at": "2026-06-23T20:53:38.611Z"
 }
