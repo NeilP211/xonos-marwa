@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T14:53:13.279Z",
+  "generated_at": "2026-06-23T17:18:57.391Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -89,6 +89,19 @@
         },
         {
           "rank": 8,
+          "name": "Chica de Verde",
+          "artists": [
+            "Bruno Romano",
+            "Elisa González"
+          ],
+          "album": "Chica de Verde",
+          "image": "https://i.scdn.co/image/ab67616d0000b273da9eccf72a3e9d55e41db1f4",
+          "uri": "spotify:track:6ZxsJwY5QgN6R0mRBYWrHf",
+          "url": "https://open.spotify.com/track/6ZxsJwY5QgN6R0mRBYWrHf",
+          "duration_ms": 225694
+        },
+        {
+          "rank": 9,
           "name": "Helena",
           "artists": [
             "My Chemical Romance"
@@ -100,7 +113,7 @@
           "duration_ms": 204733
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Falling Asleep on a Stranger",
           "artists": [
             "Pierce The Veil"
@@ -112,7 +125,7 @@
           "duration_ms": 223586
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Decode - Twilight Soundtrack Version",
           "artists": [
             "Paramore"
@@ -124,7 +137,7 @@
           "duration_ms": 261959
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Art of War",
           "artists": [
             "Avenoir"
@@ -136,7 +149,19 @@
           "duration_ms": 126973
         },
         {
-          "rank": 12,
+          "rank": 13,
+          "name": "日落计数器",
+          "artists": [
+            "莫非定律乐团"
+          ],
+          "album": "日落计数器",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e93dbbce3937df90318b35a1",
+          "uri": "spotify:track:3BPuq1TTqJ5lat7IKqyZTW",
+          "url": "https://open.spotify.com/track/3BPuq1TTqJ5lat7IKqyZTW",
+          "duration_ms": 291564
+        },
+        {
+          "rank": 14,
           "name": "orióN",
           "artists": [
             "Boza",
@@ -149,7 +174,7 @@
           "duration_ms": 240964
         },
         {
-          "rank": 13,
+          "rank": 15,
           "name": "Nunca Más",
           "artists": [
             "La Isla Centeno"
@@ -161,7 +186,7 @@
           "duration_ms": 229214
         },
         {
-          "rank": 14,
+          "rank": 16,
           "name": "Después de ti",
           "artists": [
             "KAROL G",
@@ -174,7 +199,7 @@
           "duration_ms": 275898
         },
         {
-          "rank": 15,
+          "rank": 17,
           "name": "Sure Thing",
           "artists": [
             "Miguel"
@@ -186,7 +211,7 @@
           "duration_ms": 195373
         },
         {
-          "rank": 16,
+          "rank": 18,
           "name": "The Razor's Apple",
           "artists": [
             "Fleshwater"
@@ -198,19 +223,7 @@
           "duration_ms": 191236
         },
         {
-          "rank": 17,
-          "name": "日落计数器",
-          "artists": [
-            "莫非定律乐团"
-          ],
-          "album": "日落计数器",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e93dbbce3937df90318b35a1",
-          "uri": "spotify:track:3BPuq1TTqJ5lat7IKqyZTW",
-          "url": "https://open.spotify.com/track/3BPuq1TTqJ5lat7IKqyZTW",
-          "duration_ms": 291564
-        },
-        {
-          "rank": 18,
+          "rank": 19,
           "name": "Helena - 2025 Mix",
           "artists": [
             "My Chemical Romance"
@@ -222,7 +235,7 @@
           "duration_ms": 202181
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "嘘",
           "artists": [
             "SID"
@@ -234,7 +247,7 @@
           "duration_ms": 205973
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "It's Just Us",
           "artists": [
             "Kali Uchis"
@@ -246,7 +259,7 @@
           "duration_ms": 180015
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "LIMBO",
           "artists": [
             "keshi"
@@ -258,7 +271,7 @@
           "duration_ms": 212784
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "흩어진나날들",
           "artists": [
             "강수지"
@@ -270,7 +283,7 @@
           "duration_ms": 262126
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Honest",
           "artists": [
             "Pino"
@@ -282,7 +295,7 @@
           "duration_ms": 203773
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "No te vayas",
           "artists": [
             "Surfistas Del Sistema"
@@ -294,7 +307,7 @@
           "duration_ms": 205200
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Virgen",
           "artists": [
             "Adolescent's Orquesta"
@@ -306,7 +319,7 @@
           "duration_ms": 271751
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Kiss Me Now",
           "artists": [
             "Pierce The Veil"
@@ -318,7 +331,7 @@
           "duration_ms": 256268
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Descifrar",
           "artists": [
             "maye"
@@ -330,7 +343,7 @@
           "duration_ms": 178700
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "雨蝶 - R&B微醺版",
           "artists": [
             "微醺卡带"
@@ -342,7 +355,7 @@
           "duration_ms": 234984
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "If Looks Could Kill",
           "artists": [
             "A Heartwell Ending"
@@ -354,7 +367,19 @@
           "duration_ms": 205576
         },
         {
-          "rank": 30,
+          "rank": 31,
+          "name": "顷刻之间",
+          "artists": [
+            "陈麒名"
+          ],
+          "album": "顷刻之间",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e1f3b6decbf8556601432555",
+          "uri": "spotify:track:1sgCnr54jYN33u851iGabW",
+          "url": "https://open.spotify.com/track/1sgCnr54jYN33u851iGabW",
+          "duration_ms": 214186
+        },
+        {
+          "rank": 32,
           "name": "Deslocado",
           "artists": [
             "NAPA"
@@ -366,7 +391,7 @@
           "duration_ms": 179996
         },
         {
-          "rank": 31,
+          "rank": 33,
           "name": "So Far So Fake",
           "artists": [
             "Pierce The Veil"
@@ -378,7 +403,20 @@
           "duration_ms": 236160
         },
         {
-          "rank": 32,
+          "rank": 34,
+          "name": "梦与环游",
+          "artists": [
+            "徐子未",
+            "崔十八"
+          ],
+          "album": "梦与环游",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739c74ca5163a7baf1752b2304",
+          "uri": "spotify:track:66iFguBWerVKgA93Bex6cZ",
+          "url": "https://open.spotify.com/track/66iFguBWerVKgA93Bex6cZ",
+          "duration_ms": 248000
+        },
+        {
+          "rank": 35,
           "name": "Bésame",
           "artists": [
             "El Otro Polo",
@@ -391,7 +429,7 @@
           "duration_ms": 170520
         },
         {
-          "rank": 33,
+          "rank": 36,
           "name": "She Sings in the Morning",
           "artists": [
             "Pierce The Veil"
@@ -403,7 +441,7 @@
           "duration_ms": 179066
         },
         {
-          "rank": 34,
+          "rank": 37,
           "name": "Sugar! Honey! Love!",
           "artists": [
             "Kali Uchis"
@@ -415,7 +453,7 @@
           "duration_ms": 184871
         },
         {
-          "rank": 35,
+          "rank": 38,
           "name": "Cariño",
           "artists": [
             "The Marías"
@@ -427,7 +465,7 @@
           "duration_ms": 258713
         },
         {
-          "rank": 36,
+          "rank": 39,
           "name": "Apocalypse",
           "artists": [
             "Cigarettes After Sex"
@@ -439,19 +477,7 @@
           "duration_ms": 290146
         },
         {
-          "rank": 37,
-          "name": "顷刻之间",
-          "artists": [
-            "陈麒名"
-          ],
-          "album": "顷刻之间",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e1f3b6decbf8556601432555",
-          "uri": "spotify:track:1sgCnr54jYN33u851iGabW",
-          "url": "https://open.spotify.com/track/1sgCnr54jYN33u851iGabW",
-          "duration_ms": 214186
-        },
-        {
-          "rank": 38,
+          "rank": 40,
           "name": "Bellaquita",
           "artists": [
             "Dalex",
@@ -464,7 +490,7 @@
           "duration_ms": 204786
         },
         {
-          "rank": 39,
+          "rank": 41,
           "name": "Uzunlar - V1",
           "artists": [
             "Evdeki Saat"
@@ -476,7 +502,7 @@
           "duration_ms": 282352
         },
         {
-          "rank": 40,
+          "rank": 42,
           "name": "Enough for you",
           "artists": [
             "Wisp"
@@ -488,7 +514,7 @@
           "duration_ms": 185875
         },
         {
-          "rank": 41,
+          "rank": 43,
           "name": "Peaches",
           "artists": [
             "KAI"
@@ -500,7 +526,7 @@
           "duration_ms": 198080
         },
         {
-          "rank": 42,
+          "rank": 44,
           "name": "ride",
           "artists": [
             "wave to earth"
@@ -512,7 +538,19 @@
           "duration_ms": 228500
         },
         {
-          "rank": 43,
+          "rank": 45,
+          "name": "Desenfocao'",
+          "artists": [
+            "Rauw Alejandro"
+          ],
+          "album": "VICE VERSA",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f793c0c53727d8c5c950f809",
+          "uri": "spotify:track:2CEf2gU5ZJamLXa3NrgAvA",
+          "url": "https://open.spotify.com/track/2CEf2gU5ZJamLXa3NrgAvA",
+          "duration_ms": 170535
+        },
+        {
+          "rank": 46,
           "name": "Reggaeton",
           "artists": [
             "J Balvin"
@@ -524,7 +562,7 @@
           "duration_ms": 158800
         },
         {
-          "rank": 44,
+          "rank": 47,
           "name": "Back To Strangers",
           "artists": [
             "Rehash"
@@ -536,7 +574,7 @@
           "duration_ms": 270335
         },
         {
-          "rank": 45,
+          "rank": 48,
           "name": "Ego Brain",
           "artists": [
             "System Of A Down"
@@ -548,7 +586,7 @@
           "duration_ms": 201906
         },
         {
-          "rank": 46,
+          "rank": 49,
           "name": "Lo Que Tiene",
           "artists": [
             "Morad",
@@ -562,7 +600,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 47,
+          "rank": 50,
           "name": "Soft Spot",
           "artists": [
             "keshi"
@@ -572,42 +610,6 @@
           "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
           "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7",
           "duration_ms": 204223
-        },
-        {
-          "rank": 48,
-          "name": "Love",
-          "artists": [
-            "Avenoir"
-          ],
-          "album": "Medea",
-          "image": "https://i.scdn.co/image/ab67616d0000b2737e9f23dba62be42eabfb5cbe",
-          "uri": "spotify:track:2eCdZl32tNYS2rPFIwKR8R",
-          "url": "https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R",
-          "duration_ms": 156000
-        },
-        {
-          "rank": 49,
-          "name": "Spring Day",
-          "artists": [
-            "BTS"
-          ],
-          "album": "You Never Walk Alone",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6",
-          "uri": "spotify:track:2j1fFjWHCI9KJSwcuYAOyF",
-          "url": "https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF",
-          "duration_ms": 274097
-        },
-        {
-          "rank": 50,
-          "name": "银河坠落时（电视剧《炽夏》主题曲）",
-          "artists": [
-            "周柯宇"
-          ],
-          "album": "银河坠落时（电视剧《炽夏》主题曲）",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b89f6f87847bae112f83056e",
-          "uri": "spotify:track:2ssUMyM3RmDk6DG3WkkU5N",
-          "url": "https://open.spotify.com/track/2ssUMyM3RmDk6DG3WkkU5N",
-          "duration_ms": 282000
         }
       ],
       "artists": [
@@ -661,6 +663,14 @@
         },
         {
           "rank": 7,
+          "name": "The Weeknd",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
+          "genres": [],
+          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "rank": 8,
           "name": "Cigarettes After Sex",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
           "genres": [],
@@ -668,20 +678,12 @@
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Kali Uchis",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdeac5367816c7ab1f607e89a",
           "genres": [],
           "uri": "spotify:artist:1U1el3k54VvEUzo3ybLPlM",
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "rank": 9,
-          "name": "The Weeknd",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
-          "genres": [],
-          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         },
         {
           "rank": 10,
@@ -733,6 +735,14 @@
         },
         {
           "rank": 16,
+          "name": "BTS",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebf80ec63ea7a0ef0fba60957d",
+          "genres": [],
+          "uri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "rank": 17,
           "name": "Danny Ocean",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6d11079e9ea4fd57b5df6c97",
           "genres": [],
@@ -740,7 +750,7 @@
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "My Chemical Romance",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9c00ad0308287b38b8fdabc2",
           "genres": [],
@@ -748,20 +758,12 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Feid",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e529f4ad13f86c69962cb12",
           "genres": [],
           "uri": "spotify:artist:2LRoIwlKmHjgvigdNGBHNo",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "rank": 19,
-          "name": "BTS",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebf80ec63ea7a0ef0fba60957d",
-          "genres": [],
-          "uri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         },
         {
           "rank": 20,
@@ -781,6 +783,14 @@
         },
         {
           "rank": 22,
+          "name": "J Balvin",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb0405b03342c2e56751b9923d",
+          "genres": [],
+          "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "rank": 23,
           "name": "PRYVT",
           "image": "https://i.scdn.co/image/ab6761610000e5eb012e40962788790bb7b60f75",
           "genres": [],
@@ -788,7 +798,7 @@
           "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "maye",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc44bdd7c78e751026c67857c",
           "genres": [],
@@ -796,7 +806,7 @@
           "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Romeo Santos",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
           "genres": [],
@@ -804,7 +814,7 @@
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "La Isla Centeno",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf55def158ecb9a2b89f5e0bd",
           "genres": [],
@@ -812,7 +822,7 @@
           "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Rehash",
           "image": "https://i.scdn.co/image/ab6761610000e5eb45c2c498db800b38ff20471b",
           "genres": [],
@@ -820,7 +830,7 @@
           "url": "https://open.spotify.com/artist/10WfoBIKKTSqCvkeG1XW9T"
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "The Marías",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
           "genres": [],
@@ -828,7 +838,7 @@
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Manuel Lizarazo",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8dcc84acf5e98c1dbeed63e8",
           "genres": [],
@@ -836,7 +846,7 @@
           "url": "https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC"
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Rauw Alejandro",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6d72db3fd29576caa9cb821f",
           "genres": [],
@@ -844,7 +854,7 @@
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Bruno Mars",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc7688aad1bf03986934d7e26",
           "genres": [],
@@ -852,7 +862,7 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Prince Royce",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6ce83e3425a74cb9d6bdb1dc",
           "genres": [],
@@ -860,7 +870,15 @@
           "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         },
         {
-          "rank": 32,
+          "rank": 33,
+          "name": "Bruno Romano",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb048c29f827a167107701699f",
+          "genres": [],
+          "uri": "spotify:artist:5X0LwOlzNqPulEOFm9hH1k",
+          "url": "https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k"
+        },
+        {
+          "rank": 34,
           "name": "Loathe",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
           "genres": [],
@@ -868,7 +886,7 @@
           "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
         },
         {
-          "rank": 33,
+          "rank": 35,
           "name": "Paramore",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
           "genres": [],

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T14:53:13.476Z",
+  "updated_at": "2026-06-23T17:18:57.594Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -2517,6 +2517,266 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e93dbbce3937df90318b35a1",
       "uri": "spotify:track:3BPuq1TTqJ5lat7IKqyZTW",
       "duration_ms": 291564
+    },
+    {
+      "played_at": "2026-06-23T15:09:33.216Z",
+      "name": "miau",
+      "artists": [
+        "Young Cister"
+      ],
+      "album": "miau",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f1f1aa2b9d10269696d90eea",
+      "uri": "spotify:track:5osSgKDiyrzhLjsEABO6c9",
+      "duration_ms": 185972
+    },
+    {
+      "played_at": "2026-06-23T15:21:51.277Z",
+      "name": "Chica de Verde",
+      "artists": [
+        "Bruno Romano",
+        "Elisa González"
+      ],
+      "album": "Chica de Verde",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da9eccf72a3e9d55e41db1f4",
+      "uri": "spotify:track:6ZxsJwY5QgN6R0mRBYWrHf",
+      "duration_ms": 225694
+    },
+    {
+      "played_at": "2026-06-23T15:25:40.451Z",
+      "name": "Chica de Verde",
+      "artists": [
+        "Bruno Romano",
+        "Elisa González"
+      ],
+      "album": "Chica de Verde",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da9eccf72a3e9d55e41db1f4",
+      "uri": "spotify:track:6ZxsJwY5QgN6R0mRBYWrHf",
+      "duration_ms": 225694
+    },
+    {
+      "played_at": "2026-06-23T15:29:12.027Z",
+      "name": "Beso",
+      "artists": [
+        "Jósean Log"
+      ],
+      "album": "Háblate de Mí",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a8659bf75fee7dc8c01afc67",
+      "uri": "spotify:track:4PpuZIMmeng6qPicveSI22",
+      "duration_ms": 211021
+    },
+    {
+      "played_at": "2026-06-23T15:34:20.813Z",
+      "name": "Chachachá",
+      "artists": [
+        "Jósean Log"
+      ],
+      "album": "Háblate de Mí",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a8659bf75fee7dc8c01afc67",
+      "uri": "spotify:track:6aommJFM8i3iT4inKuDSXh",
+      "duration_ms": 215986
+    },
+    {
+      "played_at": "2026-06-23T15:41:26.081Z",
+      "name": "Morado",
+      "artists": [
+        "J Balvin"
+      ],
+      "album": "Colores",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335692baca45542527d742d0d",
+      "uri": "spotify:track:35KmOEIUqAGn02t7n4qaIr",
+      "duration_ms": 200266
+    },
+    {
+      "played_at": "2026-06-23T15:44:17.163Z",
+      "name": "Desenfocao'",
+      "artists": [
+        "Rauw Alejandro"
+      ],
+      "album": "VICE VERSA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f793c0c53727d8c5c950f809",
+      "uri": "spotify:track:2CEf2gU5ZJamLXa3NrgAvA",
+      "duration_ms": 170535
+    },
+    {
+      "played_at": "2026-06-23T15:48:22.671Z",
+      "name": "VOY A LLeVARTE PA PR",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ",
+      "duration_ms": 156364
+    },
+    {
+      "played_at": "2026-06-23T15:53:40.096Z",
+      "name": "Pied Piper",
+      "artists": [
+        "BTS"
+      ],
+      "album": "Love Yourself 承 'Her'",
+      "image": "https://i.scdn.co/image/ab67616d0000b27340f078d0a28bffb93e2e2c11",
+      "uri": "spotify:track:1ZPeaPDjQOOC8hw1mNjyjF",
+      "duration_ms": 245620
+    },
+    {
+      "played_at": "2026-06-23T15:55:51.387Z",
+      "name": "Tú y Yo - Original",
+      "artists": [
+        "La Misma Gente"
+      ],
+      "album": "Grandes Exitos",
+      "image": "https://i.scdn.co/image/ab67616d0000b27319bd6fc581a3fd983da52b3a",
+      "uri": "spotify:track:17LdmV5cIcTvxB0O18tD2Z",
+      "duration_ms": 282331
+    },
+    {
+      "played_at": "2026-06-23T16:01:21.489Z",
+      "name": "Tú y Yo - Original",
+      "artists": [
+        "La Misma Gente"
+      ],
+      "album": "Grandes Exitos",
+      "image": "https://i.scdn.co/image/ab67616d0000b27319bd6fc581a3fd983da52b3a",
+      "uri": "spotify:track:17LdmV5cIcTvxB0O18tD2Z",
+      "duration_ms": 282331
+    },
+    {
+      "played_at": "2026-06-23T16:05:12.103Z",
+      "name": "Volví",
+      "artists": [
+        "Aventura",
+        "Bad Bunny"
+      ],
+      "album": "Volví",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312bcec4f18ee130369ce170c",
+      "uri": "spotify:track:2vmfvSoZBFAt9hhRoEByLi",
+      "duration_ms": 230125
+    },
+    {
+      "played_at": "2026-06-23T16:10:17.306Z",
+      "name": "Borro Cassette",
+      "artists": [
+        "Maluma"
+      ],
+      "album": "Pretty Boy, Dirty Boy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c7b78f86d070f52f45ad125f",
+      "uri": "spotify:track:6DUdDIRgLqCGq1DwkNWQTN",
+      "duration_ms": 207296
+    },
+    {
+      "played_at": "2026-06-23T16:16:33.541Z",
+      "name": "Pal Agua",
+      "artists": [
+        "J Balvin",
+        "Ryan Castro"
+      ],
+      "album": "Pal Agua",
+      "image": "https://i.scdn.co/image/ab67616d0000b273376bc168ae803c37a2000235",
+      "uri": "spotify:track:5oG6xYYuukHrsK1SLagCn0",
+      "duration_ms": 206296
+    },
+    {
+      "played_at": "2026-06-23T16:19:13.412Z",
+      "name": "mi refe",
+      "artists": [
+        "Beéle",
+        "Ovy On The Drums"
+      ],
+      "album": "BORONDO",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732feb67a486bcf117e7fb15b0",
+      "uri": "spotify:track:4zhk2RS2EZODmBW6il55Qj",
+      "duration_ms": 159404
+    },
+    {
+      "played_at": "2026-06-23T16:23:25.956Z",
+      "name": "Wapa",
+      "artists": [
+        "Jerry Di"
+      ],
+      "album": "Wapa",
+      "image": "https://i.scdn.co/image/ab67616d0000b273489e394cbf5de0d68a9777ad",
+      "uri": "spotify:track:3pKQxo7IgfYkT2BmU4yr4w",
+      "duration_ms": 159776
+    },
+    {
+      "played_at": "2026-06-23T16:27:00.637Z",
+      "name": "TUS OJOS",
+      "artists": [
+        "Beto Cardenas"
+      ],
+      "album": "TUS OJOS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738ea08ca6266bdc4e994194fe",
+      "uri": "spotify:track:66iwTS1oZxQm31fBNMBUcb",
+      "duration_ms": 214333
+    },
+    {
+      "played_at": "2026-06-23T16:39:12.472Z",
+      "name": "Tiroteo - Remix",
+      "artists": [
+        "Marc Seguí",
+        "Rauw Alejandro",
+        "Pol Granch"
+      ],
+      "album": "Tiroteo (Remix)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cf206ae0c2100b85d30ab24c",
+      "uri": "spotify:track:4OwhwvKESFtuu06dTgct7i",
+      "duration_ms": 321555
+    },
+    {
+      "played_at": "2026-06-23T16:48:23.777Z",
+      "name": "Rechazame",
+      "artists": [
+        "Prince Royce"
+      ],
+      "album": "Prince Royce",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a484690118ec2c7a2e2ae124",
+      "uri": "spotify:track:07p0kLnvfQQ2bLujHyzSGK",
+      "duration_ms": 223200
+    },
+    {
+      "played_at": "2026-06-23T16:52:04.044Z",
+      "name": "Lo Arriesgo Todo",
+      "artists": [
+        "Bruno Mars"
+      ],
+      "album": "Lo Arriesgo Todo",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739452dc94f297de347c7e1e7c",
+      "uri": "spotify:track:2Kd1MT5y2CVTJsD9vUc9Yf",
+      "duration_ms": 204068
+    },
+    {
+      "played_at": "2026-06-23T17:02:28.314Z",
+      "name": "GuabanSexxx",
+      "artists": [
+        "Rauw Alejandro"
+      ],
+      "album": "Cosa Nuestra: Capítulo 0",
+      "image": "https://i.scdn.co/image/ab67616d0000b273586cde445b4e951ae727c536",
+      "uri": "spotify:track:6W2yL4Zfe2WoaSLj7xPJiM",
+      "duration_ms": 161055
+    },
+    {
+      "played_at": "2026-06-23T17:08:02.920Z",
+      "name": "ULTIMA VEZ",
+      "artists": [
+        "Becky G"
+      ],
+      "album": "ENCUENTROS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dbfbee12776b67e143bf8bcf",
+      "uri": "spotify:track:6v1lkugKv62O74e8eABtQu",
+      "duration_ms": 194706
+    },
+    {
+      "played_at": "2026-06-23T17:13:20.697Z",
+      "name": "Frances Limon",
+      "artists": [
+        "Los Enanitos Verdes"
+      ],
+      "album": "Amores Lejanos",
+      "image": "https://i.scdn.co/image/ab67616d0000b27346b6026ecb5e2c1df32e10e9",
+      "uri": "spotify:track:2BPmAFsiy6vwDceybqIAjw",
+      "duration_ms": 317320
     }
   ]
 }

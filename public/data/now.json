@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-06-23T14:53:13.975Z",
-  "is_playing": false,
+  "updated_at": "2026-06-23T17:18:57.783Z",
+  "is_playing": true,
   "track": {
-    "name": "癒合",
+    "name": "Dardos",
     "artists": [
-      "告五人"
+      "Romeo Santos",
+      "Prince Royce"
     ],
-    "album": "我們就像那些要命的傻瓜",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a632bbb07df9ad70c3411f37",
-    "uri": "spotify:track:2oEeMboZqhNpkkcQ1fz4Ai"
+    "album": "Better Late Than Never",
+    "image": "https://i.scdn.co/image/ab67616d0000b27391750ed467a5ecc14beaa03f",
+    "uri": "spotify:track:5SudOD9R1Of6CsJVWZy6CQ"
   },
-  "played_at": "2026-06-23T14:53:13.975Z"
+  "played_at": "2026-06-23T17:18:57.783Z"
 }
