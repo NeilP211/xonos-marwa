@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T09:43:29.746Z",
+  "updated_at": "2026-06-23T14:53:13.476Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -2472,6 +2472,51 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273318241eacbdaee4d0f9c4316",
       "uri": "spotify:track:1yX9gy5fK02j6nBnGJ1S3k",
       "duration_ms": 172952
+    },
+    {
+      "played_at": "2026-06-23T13:10:14.237Z",
+      "name": "Fani bu dünya",
+      "artists": [
+        "Muhabbet"
+      ],
+      "album": "Fani bu dünya",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734167eb73d481cde1f0ec3439",
+      "uri": "spotify:track:7Mgek38zO3cWVDWTcyeRdj",
+      "duration_ms": 179000
+    },
+    {
+      "played_at": "2026-06-23T14:36:45.741Z",
+      "name": "梦与环游",
+      "artists": [
+        "徐子未",
+        "崔十八"
+      ],
+      "album": "梦与环游",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c74ca5163a7baf1752b2304",
+      "uri": "spotify:track:66iFguBWerVKgA93Bex6cZ",
+      "duration_ms": 248000
+    },
+    {
+      "played_at": "2026-06-23T14:40:20.669Z",
+      "name": "顷刻之间",
+      "artists": [
+        "陈麒名"
+      ],
+      "album": "顷刻之间",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1f3b6decbf8556601432555",
+      "uri": "spotify:track:1sgCnr54jYN33u851iGabW",
+      "duration_ms": 214186
+    },
+    {
+      "played_at": "2026-06-23T14:46:28.295Z",
+      "name": "日落计数器",
+      "artists": [
+        "莫非定律乐团"
+      ],
+      "album": "日落计数器",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e93dbbce3937df90318b35a1",
+      "uri": "spotify:track:3BPuq1TTqJ5lat7IKqyZTW",
+      "duration_ms": 291564
     }
   ]
 }

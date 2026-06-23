@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-06-23T09:43:29.777Z",
+  "updated_at": "2026-06-23T14:53:13.975Z",
   "is_playing": false,
   "track": {
-    "name": "Sweet Dreams (feat. Miguel)",
+    "name": "癒合",
     "artists": [
-      "j-hope",
-      "Miguel"
+      "告五人"
     ],
-    "album": "Sweet Dreams (feat. Miguel)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273318241eacbdaee4d0f9c4316",
-    "uri": "spotify:track:1yX9gy5fK02j6nBnGJ1S3k"
+    "album": "我們就像那些要命的傻瓜",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a632bbb07df9ad70c3411f37",
+    "uri": "spotify:track:2oEeMboZqhNpkkcQ1fz4Ai"
   },
-  "played_at": "2026-06-22T20:30:27.824Z"
+  "played_at": "2026-06-23T14:53:13.975Z"
 }
