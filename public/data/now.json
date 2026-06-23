@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-06-23T17:18:57.783Z",
+  "updated_at": "2026-06-23T20:08:49.694Z",
   "is_playing": true,
   "track": {
-    "name": "Dardos",
+    "name": "Soft Spot",
     "artists": [
-      "Romeo Santos",
-      "Prince Royce"
+      "keshi"
     ],
-    "album": "Better Late Than Never",
-    "image": "https://i.scdn.co/image/ab67616d0000b27391750ed467a5ecc14beaa03f",
-    "uri": "spotify:track:5SudOD9R1Of6CsJVWZy6CQ"
+    "album": "Requiem",
+    "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
+    "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7"
   },
-  "played_at": "2026-06-23T17:18:57.783Z"
+  "played_at": "2026-06-23T20:08:49.694Z"
 }

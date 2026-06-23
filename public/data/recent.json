@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T17:18:57.594Z",
+  "updated_at": "2026-06-23T20:08:49.612Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -2777,6 +2777,185 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27346b6026ecb5e2c1df32e10e9",
       "uri": "spotify:track:2BPmAFsiy6vwDceybqIAjw",
       "duration_ms": 317320
+    },
+    {
+      "played_at": "2026-06-23T17:19:32.140Z",
+      "name": "Dardos",
+      "artists": [
+        "Romeo Santos",
+        "Prince Royce"
+      ],
+      "album": "Better Late Than Never",
+      "image": "https://i.scdn.co/image/ab67616d0000b27391750ed467a5ecc14beaa03f",
+      "uri": "spotify:track:5SudOD9R1Of6CsJVWZy6CQ",
+      "duration_ms": 243070
+    },
+    {
+      "played_at": "2026-06-23T17:22:44.694Z",
+      "name": "Mónaco",
+      "artists": [
+        "LAGOS",
+        "Danny Ocean"
+      ],
+      "album": "Clásicos",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734603462dd193f76ab1f98218",
+      "uri": "spotify:track:3HgvO4B5LLmdPOT2d8cSZd",
+      "duration_ms": 192313
+    },
+    {
+      "played_at": "2026-06-23T17:29:41.493Z",
+      "name": "Virgen",
+      "artists": [
+        "Adolescent's Orquesta"
+      ],
+      "album": "Ahora Más Que Nunca",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c30c9fc1d43d8e1ca14ecbe6",
+      "uri": "spotify:track:5HCGrYR7g9u2X9Ju83yQLm",
+      "duration_ms": 271751
+    },
+    {
+      "played_at": "2026-06-23T17:43:13.831Z",
+      "name": "Moscow Mule",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "Un Verano Sin Ti",
+      "image": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+      "uri": "spotify:track:6Xom58OOXk2SoU711L2IXO",
+      "duration_ms": 245939
+    },
+    {
+      "played_at": "2026-06-23T18:33:31.090Z",
+      "name": "Before I Go...",
+      "artists": [
+        "The Requiem"
+      ],
+      "album": "A Cure To Poison The World",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c5cf1097022937c3b46e60fd",
+      "uri": "spotify:track:1xcm3JmcCnQ7ARoXMJre6a",
+      "duration_ms": 262890
+    },
+    {
+      "played_at": "2026-06-23T18:47:10.744Z",
+      "name": "Yearn",
+      "artists": [
+        "Distressor"
+      ],
+      "album": "Yearn",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736ede6e854b1737ee2d018c26",
+      "uri": "spotify:track:0nL3IN92QFM2cveT8WG8ri",
+      "duration_ms": 200800
+    },
+    {
+      "played_at": "2026-06-23T19:15:54.541Z",
+      "name": "if it's not you",
+      "artists": [
+        "PRYVT"
+      ],
+      "album": "&SCENE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738d828cf88b8924fa6ef05774",
+      "uri": "spotify:track:6jInHQJR01A97PbhwCwMzP",
+      "duration_ms": 226350
+    },
+    {
+      "played_at": "2026-06-23T19:19:12.616Z",
+      "name": "blue salvia",
+      "artists": [
+        "PRYVT"
+      ],
+      "album": "&SCENE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738d828cf88b8924fa6ef05774",
+      "uri": "spotify:track:5g8C2rOTtUCX5GebDsnYgL",
+      "duration_ms": 197538
+    },
+    {
+      "played_at": "2026-06-23T19:23:18.873Z",
+      "name": "Art of War",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Art of War",
+      "image": "https://i.scdn.co/image/ab67616d0000b273257de814fe4a9c88e7523e62",
+      "uri": "spotify:track:7FdS8jLabsc3ym9VY8kGjK",
+      "duration_ms": 126973
+    },
+    {
+      "played_at": "2026-06-23T19:26:24.277Z",
+      "name": "Sugar! Honey! Love!",
+      "artists": [
+        "Kali Uchis"
+      ],
+      "album": "Sincerely,",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a7493f1985f820a9add223d2",
+      "uri": "spotify:track:0iIut6VJ8lIT5di5ejg78O",
+      "duration_ms": 184871
+    },
+    {
+      "played_at": "2026-06-23T19:38:55.138Z",
+      "name": "Pink Matter",
+      "artists": [
+        "Frank Ocean",
+        "André 3000"
+      ],
+      "album": "channel ORANGE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "uri": "spotify:track:1fOkmYW3ZFkkjIdOZSf596",
+      "duration_ms": 268813
+    },
+    {
+      "played_at": "2026-06-23T19:45:59.268Z",
+      "name": "Flatline",
+      "artists": [
+        "Justin Bieber"
+      ],
+      "album": "Journals",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358ae8fddecbd2630005409c9",
+      "uri": "spotify:track:2GBgiuXwY1KzJMA0gSAr9J",
+      "duration_ms": 219346
+    },
+    {
+      "played_at": "2026-06-23T19:52:05.394Z",
+      "name": "Tejano Blue",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "X's",
+      "image": "https://i.scdn.co/image/ab67616d0000b273967004d2f641e38309a0b547",
+      "uri": "spotify:track:42SKTvz8CvqTEzmADF4nI5",
+      "duration_ms": 234453
+    },
+    {
+      "played_at": "2026-06-23T19:57:04.840Z",
+      "name": "Soft Spot",
+      "artists": [
+        "keshi"
+      ],
+      "album": "Requiem",
+      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
+      "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
+      "duration_ms": 204223
+    },
+    {
+      "played_at": "2026-06-23T20:00:40.829Z",
+      "name": "Soft Spot",
+      "artists": [
+        "keshi"
+      ],
+      "album": "Requiem",
+      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
+      "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
+      "duration_ms": 204223
+    },
+    {
+      "played_at": "2026-06-23T20:06:12.991Z",
+      "name": "Soft Spot",
+      "artists": [
+        "keshi"
+      ],
+      "album": "Requiem",
+      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
+      "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
+      "duration_ms": 204223
     }
   ]
 }
