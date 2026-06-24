@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T09:34:04.295Z",
+  "generated_at": "2026-06-24T14:35:29.792Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -929,6 +929,18 @@
         },
         {
           "rank": 3,
+          "name": "A Lonely Night",
+          "artists": [
+            "The Weeknd"
+          ],
+          "album": "Starboy",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
+          "uri": "spotify:track:4UknpXoLjlB7Mao4UWcJ2o",
+          "url": "https://open.spotify.com/track/4UknpXoLjlB7Mao4UWcJ2o",
+          "duration_ms": 220173
+        },
+        {
+          "rank": 4,
           "name": "Hora Loca",
           "artists": [
             "Rawayana",
@@ -941,7 +953,7 @@
           "duration_ms": 191825
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Chica de Verde",
           "artists": [
             "Bruno Romano",
@@ -952,18 +964,6 @@
           "uri": "spotify:track:6ZxsJwY5QgN6R0mRBYWrHf",
           "url": "https://open.spotify.com/track/6ZxsJwY5QgN6R0mRBYWrHf",
           "duration_ms": 225694
-        },
-        {
-          "rank": 5,
-          "name": "A Lonely Night",
-          "artists": [
-            "The Weeknd"
-          ],
-          "album": "Starboy",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
-          "uri": "spotify:track:4UknpXoLjlB7Mao4UWcJ2o",
-          "url": "https://open.spotify.com/track/4UknpXoLjlB7Mao4UWcJ2o",
-          "duration_ms": 220173
         },
         {
           "rank": 6,
@@ -1948,6 +1948,18 @@
         },
         {
           "rank": 3,
+          "name": "Soft Spot",
+          "artists": [
+            "keshi"
+          ],
+          "album": "Requiem",
+          "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
+          "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
+          "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7",
+          "duration_ms": 204223
+        },
+        {
+          "rank": 4,
           "name": "Incondicional",
           "artists": [
             "Prince Royce"
@@ -1959,7 +1971,7 @@
           "duration_ms": 207813
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Favour",
           "artists": [
             "Avenoir"
@@ -1971,7 +1983,7 @@
           "duration_ms": 156000
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "ANGEL",
           "artists": [
             "keshi"
@@ -1983,7 +1995,7 @@
           "duration_ms": 247282
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "الليلادي",
           "artists": [
             "Amr Diab"
@@ -1995,7 +2007,7 @@
           "duration_ms": 176640
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "hero",
           "artists": [
             "starfall"
@@ -2005,18 +2017,6 @@
           "uri": "spotify:track:4mhn601d6PE1dR3QCON9bF",
           "url": "https://open.spotify.com/track/4mhn601d6PE1dR3QCON9bF",
           "duration_ms": 184142
-        },
-        {
-          "rank": 8,
-          "name": "Soft Spot",
-          "artists": [
-            "keshi"
-          ],
-          "album": "Requiem",
-          "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
-          "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
-          "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7",
-          "duration_ms": 204223
         },
         {
           "rank": 9,
@@ -2081,6 +2081,19 @@
         },
         {
           "rank": 14,
+          "name": "沉溺（你让我的心不再结冰）",
+          "artists": [
+            "邹沛沛",
+            "Pank"
+          ],
+          "album": "沉溺（你让我的心不再结冰）",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735e10693b2c3d38dd7ad4299a",
+          "uri": "spotify:track:6NtVX4qwWMmAtNFaG485iq",
+          "url": "https://open.spotify.com/track/6NtVX4qwWMmAtNFaG485iq",
+          "duration_ms": 193773
+        },
+        {
+          "rank": 15,
           "name": "CONTROL",
           "artists": [
             "kasper"
@@ -2092,7 +2105,7 @@
           "duration_ms": 173002
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "All Mine",
           "artists": [
             "PLAZA"
@@ -2104,7 +2117,7 @@
           "duration_ms": 234871
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Moonstruck",
           "artists": [
             "ENHYPEN"
@@ -2116,7 +2129,7 @@
           "duration_ms": 158660
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "LAYALINA",
           "artists": [
             "TUL8TE"
@@ -2126,19 +2139,6 @@
           "uri": "spotify:track:1yiJHrunZu2fov7OhC7vM9",
           "url": "https://open.spotify.com/track/1yiJHrunZu2fov7OhC7vM9",
           "duration_ms": 218833
-        },
-        {
-          "rank": 18,
-          "name": "沉溺（你让我的心不再结冰）",
-          "artists": [
-            "邹沛沛",
-            "Pank"
-          ],
-          "album": "沉溺（你让我的心不再结冰）",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735e10693b2c3d38dd7ad4299a",
-          "uri": "spotify:track:6NtVX4qwWMmAtNFaG485iq",
-          "url": "https://open.spotify.com/track/6NtVX4qwWMmAtNFaG485iq",
-          "duration_ms": 193773
         },
         {
           "rank": 19,
