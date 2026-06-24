@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T17:06:59.440Z",
+  "updated_at": "2026-06-24T18:04:21.732Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -3044,6 +3044,51 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
       "uri": "spotify:track:0ifooM33X1iBxVYyOkSbXW",
       "duration_ms": 220173
+    },
+    {
+      "played_at": "2026-06-24T17:47:27.350Z",
+      "name": "RAL 9002 (feat. HEIZE)",
+      "artists": [
+        "youra",
+        "Heize"
+      ],
+      "album": "RAL 9002",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d7e78f766b8f21182268ad3c",
+      "uri": "spotify:track:3P9jINw5TmUelQlm0TJGTY",
+      "duration_ms": 189533
+    },
+    {
+      "played_at": "2026-06-24T17:52:22.689Z",
+      "name": "夢境里的算法 (R&B)",
+      "artists": [
+        "JinJin"
+      ],
+      "album": "夢境里的算法 (R&B)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732a2c9595bdb1f886665c251c",
+      "uri": "spotify:track:0a8FVXJdTfcbMm7u5UDtBe",
+      "duration_ms": 234736
+    },
+    {
+      "played_at": "2026-06-24T17:57:30.338Z",
+      "name": "雨蝶（微醺版）",
+      "artists": [
+        "麦片儿"
+      ],
+      "album": "雨蝶（微醺版）",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f0d0cbb15b20d14201f09d8b",
+      "uri": "spotify:track:6KckOp3Y9zuuS8LAJSPUO5",
+      "duration_ms": 244944
+    },
+    {
+      "played_at": "2026-06-24T18:01:04.242Z",
+      "name": "给我一个理由忘记（R&B版）",
+      "artists": [
+        "夏火ww"
+      ],
+      "album": "给我一个理由忘记（R&B版）",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738de4c903288fcb38f9aeb97f",
+      "uri": "spotify:track:5CezZqPEOHGmrq0AXVfmTn",
+      "duration_ms": 213370
     }
   ]
 }

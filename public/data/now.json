@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-24T17:06:59.479Z",
+  "updated_at": "2026-06-24T18:04:21.772Z",
   "is_playing": false,
   "track": {
-    "name": "A Lonely Night",
+    "name": "给我一个理由忘记（R&B版）",
     "artists": [
-      "The Weeknd"
+      "夏火ww"
     ],
-    "album": "Starboy",
-    "image": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
-    "uri": "spotify:track:0ifooM33X1iBxVYyOkSbXW"
+    "album": "给我一个理由忘记（R&B版）",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738de4c903288fcb38f9aeb97f",
+    "uri": "spotify:track:5CezZqPEOHGmrq0AXVfmTn"
   },
-  "played_at": "2026-06-24T03:52:08.302Z"
+  "played_at": "2026-06-24T18:01:04.242Z"
 }
