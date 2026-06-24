@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-06-24T19:49:21.146Z",
+  "updated_at": "2026-06-24T22:19:33.026Z",
   "is_playing": false,
   "track": {
-    "name": "Khé?",
+    "name": "Hold On Till May",
     "artists": [
-      "Rauw Alejandro",
-      "Romeo Santos"
+      "Pierce The Veil",
+      "Lindsey Stamey"
     ],
-    "album": "Cosa Nuestra",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b",
-    "uri": "spotify:track:1YYfyJ2yCvGFCxwjsIqEK9"
+    "album": "Collide With The Sky",
+    "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+    "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J"
   },
-  "played_at": "2026-06-24T18:45:37.379Z"
+  "played_at": "2026-06-24T20:50:32.917Z"
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T19:49:21.103Z",
+  "updated_at": "2026-06-24T22:19:32.916Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -3167,6 +3167,42 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b",
       "uri": "spotify:track:1YYfyJ2yCvGFCxwjsIqEK9",
       "duration_ms": 206066
+    },
+    {
+      "played_at": "2026-06-24T19:21:17.249Z",
+      "name": "Nostálgico",
+      "artists": [
+        "Rvssian",
+        "Rauw Alejandro",
+        "Chris Brown"
+      ],
+      "album": "Nostálgico",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e4285764a057f6629bba66f",
+      "uri": "spotify:track:2BEcap3xJtmiPaHKyfQi4e",
+      "duration_ms": 209883
+    },
+    {
+      "played_at": "2026-06-24T20:44:34.705Z",
+      "name": "Let Love Bleed Red",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "With Ears To See And Eyes To Hear",
+      "image": "https://i.scdn.co/image/ab67616d0000b273032fd22bde573d0746c87352",
+      "uri": "spotify:track:1v8RDUkhH5wR9IBrC6Hroy",
+      "duration_ms": 222493
+    },
+    {
+      "played_at": "2026-06-24T20:50:32.917Z",
+      "name": "Hold On Till May",
+      "artists": [
+        "Pierce The Veil",
+        "Lindsey Stamey"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
+      "duration_ms": 278586
     }
   ]
 }
