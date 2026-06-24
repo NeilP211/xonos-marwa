@@ -126,8 +126,49 @@ body {
 /* Heatmap */
 .heatmap { display: grid; grid-template-columns: 34px repeat(24, 1fr); gap: 3px; align-items: center; }
 .heatmap .hlabel { font-family: var(--mono); font-size: 10px; color: var(--muted-2); }
-.heatmap .cell { aspect-ratio: 1 / 1; border-radius: 0; background: var(--bg-2); }
+.heatmap .cell { aspect-ratio: 1 / 1; border-radius: 0; background: var(--bg-2); border: 0; padding: 0; cursor: pointer; transition: outline 0.1s; }
+.heatmap .cell:hover { outline: 1px solid var(--muted-2); outline-offset: -1px; }
+.heatmap .cell.cell-active { outline: 2px solid var(--accent); outline-offset: -1px; }
 .heatmap .axis { grid-column: 2 / -1; display: flex; justify-content: space-between; font-family: var(--mono); font-size: 10px; color: var(--muted-2); margin-top: 4px; }
+
+/* Heatmap drill-down */
+.drill { margin-top: 14px; border: 1px solid var(--border-2); background: var(--bg); padding: 12px; }
+.drill-head { display: flex; align-items: center; justify-content: space-between; font-family: var(--mono); font-size: 12px; text-transform: uppercase; letter-spacing: 0.5px; color: var(--accent); margin-bottom: 8px; }
+.drill-x { border: 0; background: transparent; color: var(--muted); cursor: pointer; font-size: 14px; }
+.drill-x:hover { color: var(--text); }
+.drill-list { max-height: 240px; overflow-y: auto; }
+
+/* Activity scope selector */
+.scope { display: inline-flex; align-items: center; gap: 8px; }
+.scope-lbl { font-family: var(--mono); font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; color: var(--muted-2); }
+.scope select {
+  background: var(--bg); color: var(--text); border: 1px solid var(--border); border-radius: 0;
+  font-family: var(--mono); font-size: 12px; padding: 8px 10px; cursor: pointer;
+}
+
+/* Track of the Week */
+.totw-body { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+.totw-body .thumb { width: 88px; height: 88px; }
+.totw-meta { min-width: 0; flex: 1 1 200px; }
+.totw-name { font-family: var(--head); font-weight: 700; font-size: 22px; }
+.totw-artist { color: var(--muted); font-size: 14px; margin-top: 2px; }
+.totw-count { color: var(--accent); font-family: var(--mono); font-size: 12px; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 8px; }
+.totw-link { font-family: var(--mono); font-size: 12px; text-transform: uppercase; letter-spacing: 0.5px; border: 1px solid var(--border-2); padding: 8px 14px; text-decoration: none; }
+.totw-link:hover { border-color: var(--accent); }
+
+/* Compare */
+.cmp-body { margin-top: 14px; }
+.cmp-score { margin-bottom: 16px; }
+.cmp-score .big { font-size: 44px; }
+.cmp-group { margin-top: 14px; }
+.cmp-rows { display: flex; flex-direction: column; max-height: 220px; overflow-y: auto; }
+
+/* New discoveries */
+.disc-list { display: flex; flex-direction: column; max-height: 420px; overflow-y: auto; }
+.disc-row { display: flex; align-items: center; gap: 12px; padding: 8px 6px; border-bottom: 1px solid var(--border); text-decoration: none; color: inherit; }
+.disc-row:last-child { border-bottom: 0; }
+.disc-row:hover { background: var(--bg-2); }
+.disc-row .meta { flex: 1 1 auto; }
 
 /* Stat cards */
 .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; }

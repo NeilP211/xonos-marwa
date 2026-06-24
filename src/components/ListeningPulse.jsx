@@ -1,5 +1,8 @@
+import { useEffect, useState } from 'react'
 import { LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid } from 'recharts'
 import { DOW } from '../lib/format'
+import { cellPlays } from '../lib/stats'
+import Thumb from './Thumb'
 import Empty from './Empty'
 
 // Builds a 7 (weekday) x 24 (hour) play-count matrix and a per-day trend from the
@@ -30,8 +33,25 @@ function cellColor(count, max) {
   return `rgba(255, 171, 195, ${a.toFixed(3)})`
 }
 
+// Display order: Monday-first (real day indices into the Sunday-based grid).
+const ROW_ORDER = [1, 2, 3, 4, 5, 6, 0]
+
+function hourLabel(h) {
+  const ampm = h % 12 === 0 ? 12 : h % 12
+  return `${ampm}${h < 12 ? 'a' : 'p'}`
+}
+
 export default function ListeningPulse({ recent }) {
   const plays = recent?.plays || []
+  const [sel, setSel] = useState(null) // { dow, hour } of the clicked cell
+
+  useEffect(() => {
+    if (!sel) return
+    const onKey = (e) => e.key === 'Escape' && setSel(null)
+    window.addEventListener('keydown', onKey)
+    return () => window.removeEventListener('keydown', onKey)
+  }, [sel])
+
   if (!plays.length) {
     return (
       <div className="card col-12">
@@ -40,14 +60,17 @@ export default function ListeningPulse({ recent }) {
       </div>
     )
   }
+
   const { grid, max, series } = buildPulse(plays)
+  const drill = sel ? cellPlays(plays, sel.dow, sel.hour) : []
+
   return (
     <div className="card col-12">
       <h2>Listening Pulse</h2>
-      <p className="pulse-note">All-time average · by weekday &amp; hour · your local time</p>
+      <p className="pulse-note">All-time average · by weekday &amp; hour · your local time · click a cell for tracks</p>
       <div className="heatmap">
-        {[1, 2, 3, 4, 5, 6, 0].map((dow) => (
-          <Row key={dow} dow={dow} row={grid[dow]} max={max} />
+        {ROW_ORDER.map((dow) => (
+          <Row key={dow} dow={dow} row={grid[dow]} max={max} sel={sel} onPick={setSel} />
         ))}
         <div className="axis">
           <span>12a</span>
@@ -57,6 +80,36 @@ export default function ListeningPulse({ recent }) {
           <span>11p</span>
         </div>
       </div>
+
+      {sel && (
+        <div className="drill" onClick={(e) => e.target === e.currentTarget && setSel(null)}>
+          <div className="drill-head">
+            <span>
+              {DOW[sel.dow]} · {hourLabel(sel.hour)} to {hourLabel((sel.hour + 1) % 24)}
+            </span>
+            <button className="drill-x" onClick={() => setSel(null)} aria-label="Close">
+              ✕
+            </button>
+          </div>
+          {drill.length ? (
+            <div className="drill-list">
+              {drill.map((t, i) => (
+                <div className="tick" key={i}>
+                  <Thumb name={t.album || t.name} image={t.image} />
+                  <div className="meta">
+                    <div className="name">{t.name}</div>
+                    <div className="sub">{(t.artists || []).join(', ')}</div>
+                  </div>
+                  <span className="when">{t.count}x</span>
+                </div>
+              ))}
+            </div>
+          ) : (
+            <Empty text="No plays in this slot." />
+          )}
+        </div>
+      )}
+
       <div style={{ height: 16 }} />
       <ResponsiveContainer width="100%" height={150}>
         <LineChart data={series} margin={{ left: -18, right: 8, top: 8, bottom: 0 }}>
@@ -74,18 +127,23 @@ export default function ListeningPulse({ recent }) {
   )
 }
 
-function Row({ dow, row, max }) {
+function Row({ dow, row, max, sel, onPick }) {
   return (
     <>
       <span className="hlabel">{DOW[dow]}</span>
-      {row.map((count, hour) => (
-        <div
-          className="cell"
-          key={hour}
-          style={{ background: cellColor(count, max) }}
-          title={`${DOW[dow]} ${hour}:00 - ${count} play(s)`}
-        />
-      ))}
+      {row.map((count, hour) => {
+        const active = sel && sel.dow === dow && sel.hour === hour
+        return (
+          <button
+            type="button"
+            className={`cell${active ? ' cell-active' : ''}`}
+            key={hour}
+            style={{ background: cellColor(count, max) }}
+            title={`${DOW[dow]} ${hour}:00 - ${count} play(s)`}
+            onClick={() => onPick({ dow, hour })}
+          />
+        )
+      })}
     </>
   )
 }

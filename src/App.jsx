@@ -1,17 +1,31 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { loadJSON } from './lib/data'
 import { timeAgo } from './lib/format'
+import { playsInRange, monthRange } from './lib/stats'
 import RangeToggle from './components/RangeToggle'
+import TimeScope from './components/TimeScope'
+import TrackOfWeek from './components/TrackOfWeek'
 import TopTracks from './components/TopTracks'
 import TopArtists from './components/TopArtists'
 import ListeningPulse from './components/ListeningPulse'
 import RecentlyPlayed from './components/RecentlyPlayed'
 import FunStats from './components/FunStats'
+import Compare from './components/Compare'
+import NewDiscoveries from './components/NewDiscoveries'
+
+// Slice the plays log to the selected activity scope ('all' or 'YYYY-M').
+function scopePlays(plays, scope) {
+  if (!scope || scope === 'all') return plays
+  const [y, m] = scope.split('-').map(Number)
+  const [start, end] = monthRange(y, m)
+  return playsInRange(plays, start, end)
+}
 
 export default function App() {
   const [top, setTop] = useState(null)
   const [recent, setRecent] = useState(null)
   const [range, setRange] = useState('short_term')
+  const [scope, setScope] = useState('all')
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
@@ -26,6 +40,12 @@ export default function App() {
       alive = false
     }
   }, [])
+
+  const allPlays = recent?.plays || []
+  const scopedRecent = useMemo(
+    () => (recent ? { ...recent, plays: scopePlays(allPlays, scope) } : recent),
+    [recent, allPlays, scope]
+  )
 
   if (loading) {
     return (
@@ -46,6 +66,7 @@ export default function App() {
           Xonos-Marwa
         </div>
         <RangeToggle value={range} onChange={setRange} />
+        <TimeScope plays={allPlays} value={scope} onChange={setScope} />
         <div className="spacer" />
         {top?.generated_at && <div className="updated">updated {timeAgo(top.generated_at)}</div>}
       </header>
@@ -58,17 +79,19 @@ export default function App() {
       )}
 
       <div className="grid">
+        <TrackOfWeek recent={recent} />
         <TopTracks tracks={rangeData?.tracks} />
         <TopArtists artists={rangeData?.artists} />
-        <RecentlyPlayed recent={recent} />
-        <ListeningPulse recent={recent} />
-        <FunStats top={top} range={range} recent={recent} />
+        <RecentlyPlayed recent={scopedRecent} />
+        <ListeningPulse recent={scopedRecent} />
+        <Compare top={top} range={range} />
+        <NewDiscoveries top={top} />
+        <FunStats top={top} range={range} recent={scopedRecent} />
       </div>
 
       <div className="footnote">
         Xonos-Marwa · built with the Spotify Web API · data updates automatically
       </div>
-      <div className="watermark">made by Neil</div>
     </div>
   )
 }
