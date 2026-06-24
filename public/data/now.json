@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-24T03:48:04.891Z",
+  "updated_at": "2026-06-24T09:34:04.419Z",
   "is_playing": false,
   "track": {
-    "name": "If You Can't Hang",
+    "name": "A Lonely Night",
     "artists": [
-      "Sleeping With Sirens"
+      "The Weeknd"
     ],
-    "album": "Let's Cheers To This",
-    "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
-    "uri": "spotify:track:2Tc9VznHtQUmfOgE3L1RdN"
+    "album": "Starboy",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+    "uri": "spotify:track:0ifooM33X1iBxVYyOkSbXW"
   },
-  "played_at": "2026-06-23T20:53:38.611Z"
+  "played_at": "2026-06-24T03:52:08.302Z"
 }

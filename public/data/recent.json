@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T03:48:04.777Z",
+  "updated_at": "2026-06-24T09:34:04.382Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -3033,6 +3033,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
       "uri": "spotify:track:2Tc9VznHtQUmfOgE3L1RdN",
       "duration_ms": 250240
+    },
+    {
+      "played_at": "2026-06-24T03:52:08.302Z",
+      "name": "A Lonely Night",
+      "artists": [
+        "The Weeknd"
+      ],
+      "album": "Starboy",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+      "uri": "spotify:track:0ifooM33X1iBxVYyOkSbXW",
+      "duration_ms": 220173
     }
   ]
 }
