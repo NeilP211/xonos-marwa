@@ -79,6 +79,7 @@ body {
   text-transform: uppercase; letter-spacing: 1px; color: var(--accent);
   padding-bottom: 10px; border-bottom: 1px solid var(--border);
 }
+.pulse-note { margin: -8px 0 14px; font-family: var(--mono); font-size: 10px; letter-spacing: 0.5px; color: var(--muted-2); }
 .col-4 { grid-column: span 4; }
 .col-5 { grid-column: span 5; }
 .col-6 { grid-column: span 6; }

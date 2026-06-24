@@ -44,9 +44,10 @@ export default function ListeningPulse({ recent }) {
   return (
     <div className="card col-12">
       <h2>Listening Pulse</h2>
+      <p className="pulse-note">All-time average · by weekday &amp; hour · your local time</p>
       <div className="heatmap">
-        {grid.map((row, dow) => (
-          <Row key={dow} dow={dow} row={row} max={max} />
+        {[1, 2, 3, 4, 5, 6, 0].map((dow) => (
+          <Row key={dow} dow={dow} row={grid[dow]} max={max} />
         ))}
         <div className="axis">
           <span>12a</span>
