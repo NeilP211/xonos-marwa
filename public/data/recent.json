@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T18:04:21.732Z",
+  "updated_at": "2026-06-24T19:05:06.948Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -3089,6 +3089,84 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738de4c903288fcb38f9aeb97f",
       "uri": "spotify:track:5CezZqPEOHGmrq0AXVfmTn",
       "duration_ms": 213370
+    },
+    {
+      "played_at": "2026-06-24T18:06:11.558Z",
+      "name": "45.7（网剧《拜托了班长》插曲）",
+      "artists": [
+        "洪一诺"
+      ],
+      "album": "拜托了班长 影视原声专辑",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735ca1ce60379e527479a4b884",
+      "uri": "spotify:track:57hkBNYqnFUWC9Ay7MX2Yg",
+      "duration_ms": 245216
+    },
+    {
+      "played_at": "2026-06-24T18:22:00.476Z",
+      "name": "FaSHioN",
+      "artists": [
+        "CORTIS"
+      ],
+      "album": "COLOR OUTSIDE THE LINES",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734b56a34b0c2b3798fd46f855",
+      "uri": "spotify:track:4ecdsGz3Hg6TKPwQ0ZOdJz",
+      "duration_ms": 174653
+    },
+    {
+      "played_at": "2026-06-24T18:26:23.717Z",
+      "name": "GO!",
+      "artists": [
+        "CORTIS"
+      ],
+      "album": "COLOR OUTSIDE THE LINES",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734b56a34b0c2b3798fd46f855",
+      "uri": "spotify:track:6OWWZtNQORY1McaZmOrwhc",
+      "duration_ms": 170880
+    },
+    {
+      "played_at": "2026-06-24T18:29:37.865Z",
+      "name": "Never Let Go",
+      "artists": [
+        "LNGSHOT"
+      ],
+      "album": "SHOT CALLERS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739ae175cd44e09688bb7c0f4f",
+      "uri": "spotify:track:37xebnhvUyM8VyyDDeo65d",
+      "duration_ms": 193620
+    },
+    {
+      "played_at": "2026-06-24T18:33:37.997Z",
+      "name": "Still With You",
+      "artists": [
+        "Jung Kook"
+      ],
+      "album": "Still With You",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d",
+      "uri": "spotify:track:0eFMbKCRw8KByXyWBw8WO7",
+      "duration_ms": 239905
+    },
+    {
+      "played_at": "2026-06-24T18:36:59.316Z",
+      "name": "Gabriela",
+      "artists": [
+        "KATSEYE"
+      ],
+      "album": "Gabriela",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f8d4d00ffe09373efb13ce29",
+      "uri": "spotify:track:1xOqGUkyxGQRdCvGpvWKmL",
+      "duration_ms": 197226
+    },
+    {
+      "played_at": "2026-06-24T18:45:37.379Z",
+      "name": "Khé?",
+      "artists": [
+        "Rauw Alejandro",
+        "Romeo Santos"
+      ],
+      "album": "Cosa Nuestra",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b",
+      "uri": "spotify:track:1YYfyJ2yCvGFCxwjsIqEK9",
+      "duration_ms": 206066
     }
   ]
 }

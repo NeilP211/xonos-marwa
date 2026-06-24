@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-06-24T18:04:21.772Z",
+  "updated_at": "2026-06-24T19:05:07.030Z",
   "is_playing": false,
   "track": {
-    "name": "给我一个理由忘记（R&B版）",
+    "name": "Khé?",
     "artists": [
-      "夏火ww"
+      "Rauw Alejandro",
+      "Romeo Santos"
     ],
-    "album": "给我一个理由忘记（R&B版）",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738de4c903288fcb38f9aeb97f",
-    "uri": "spotify:track:5CezZqPEOHGmrq0AXVfmTn"
+    "album": "Cosa Nuestra",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b",
+    "uri": "spotify:track:1YYfyJ2yCvGFCxwjsIqEK9"
   },
-  "played_at": "2026-06-24T18:01:04.242Z"
+  "played_at": "2026-06-24T18:45:37.379Z"
 }
