@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-25T14:36:57.358Z",
-  "is_playing": true,
+  "updated_at": "2026-06-25T17:13:00.744Z",
+  "is_playing": false,
   "track": {
-    "name": "雨蝶 - R&B微醺版",
+    "name": "11 PM",
     "artists": [
-      "微醺卡带"
+      "Maluma"
     ],
-    "album": "雨蝶 (R&B微醺版)",
-    "image": "https://i.scdn.co/image/ab67616d0000b27381bfa5296306a950e8b64aa0",
-    "uri": "spotify:track:4BdMTfgOY7zGwIGCqJpEnm"
+    "album": "11:11",
+    "image": "https://i.scdn.co/image/ab67616d0000b27390a2bafda8d3147d3ff98502",
+    "uri": "spotify:track:7KbF6AdprOXEEHlsq11Z6d"
   },
-  "played_at": "2026-06-25T14:36:57.358Z"
+  "played_at": "2026-06-25T16:39:22.241Z"
 }
