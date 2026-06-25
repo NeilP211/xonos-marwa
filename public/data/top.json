@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T09:25:58.312Z",
+  "generated_at": "2026-06-25T14:36:57.127Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -41,6 +41,18 @@
         },
         {
           "rank": 4,
+          "name": "Let Love Bleed Red",
+          "artists": [
+            "Sleeping With Sirens"
+          ],
+          "album": "With Ears To See And Eyes To Hear",
+          "image": "https://i.scdn.co/image/ab67616d0000b273032fd22bde573d0746c87352",
+          "uri": "spotify:track:1v8RDUkhH5wR9IBrC6Hroy",
+          "url": "https://open.spotify.com/track/1v8RDUkhH5wR9IBrC6Hroy",
+          "duration_ms": 222493
+        },
+        {
+          "rank": 5,
           "name": "M.",
           "artists": [
             "Anıl Emre Daldal"
@@ -52,7 +64,7 @@
           "duration_ms": 223750
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "heaven and hell",
           "artists": [
             "wave to earth"
@@ -64,7 +76,7 @@
           "duration_ms": 268388
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "雨蝶 - R&B微醺版",
           "artists": [
             "微醺卡带"
@@ -76,7 +88,7 @@
           "duration_ms": 234984
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Art of War",
           "artists": [
             "Avenoir"
@@ -86,18 +98,6 @@
           "uri": "spotify:track:2RnB5R79oLcE8lCQbiaUZf",
           "url": "https://open.spotify.com/track/2RnB5R79oLcE8lCQbiaUZf",
           "duration_ms": 126973
-        },
-        {
-          "rank": 8,
-          "name": "Let Love Bleed Red",
-          "artists": [
-            "Sleeping With Sirens"
-          ],
-          "album": "With Ears To See And Eyes To Hear",
-          "image": "https://i.scdn.co/image/ab67616d0000b273032fd22bde573d0746c87352",
-          "uri": "spotify:track:1v8RDUkhH5wR9IBrC6Hroy",
-          "url": "https://open.spotify.com/track/1v8RDUkhH5wR9IBrC6Hroy",
-          "duration_ms": 222493
         },
         {
           "rank": 9,
@@ -113,6 +113,18 @@
         },
         {
           "rank": 10,
+          "name": "Kiss Me Now",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
+          "uri": "spotify:track:6yT9iNKt8fQoYpQkbWc7YR",
+          "url": "https://open.spotify.com/track/6yT9iNKt8fQoYpQkbWc7YR",
+          "duration_ms": 256268
+        },
+        {
+          "rank": 11,
           "name": "흩어진나날들",
           "artists": [
             "강수지"
@@ -124,7 +136,7 @@
           "duration_ms": 262126
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Like That",
           "artists": [
             "keshi"
@@ -136,7 +148,7 @@
           "duration_ms": 180106
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Risk It All",
           "artists": [
             "Bruno Mars"
@@ -148,7 +160,7 @@
           "duration_ms": 204068
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "The Bomb Dot Com V2.0",
           "artists": [
             "Sleeping With Sirens"
@@ -160,7 +172,7 @@
           "duration_ms": 211720
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Chica de Verde",
           "artists": [
             "Bruno Romano",
@@ -173,7 +185,7 @@
           "duration_ms": 225694
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Helena",
           "artists": [
             "My Chemical Romance"
@@ -185,7 +197,7 @@
           "duration_ms": 204733
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Falling Asleep on a Stranger",
           "artists": [
             "Pierce The Veil"
@@ -197,7 +209,7 @@
           "duration_ms": 223586
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Decode - Twilight Soundtrack Version",
           "artists": [
             "Paramore"
@@ -209,7 +221,7 @@
           "duration_ms": 261959
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "orióN",
           "artists": [
             "Boza",
@@ -222,7 +234,7 @@
           "duration_ms": 240964
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Nunca Más",
           "artists": [
             "La Isla Centeno"
@@ -234,7 +246,7 @@
           "duration_ms": 229214
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Después de ti",
           "artists": [
             "KAROL G",
@@ -247,7 +259,7 @@
           "duration_ms": 275898
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Sure Thing",
           "artists": [
             "Miguel"
@@ -259,7 +271,7 @@
           "duration_ms": 195373
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Sugar! Honey! Love!",
           "artists": [
             "Kali Uchis"
@@ -271,7 +283,7 @@
           "duration_ms": 184871
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "The Razor's Apple",
           "artists": [
             "Fleshwater"
@@ -283,7 +295,7 @@
           "duration_ms": 191236
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Helena - 2025 Mix",
           "artists": [
             "My Chemical Romance"
@@ -295,7 +307,7 @@
           "duration_ms": 202181
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "嘘",
           "artists": [
             "SID"
@@ -307,7 +319,7 @@
           "duration_ms": 205973
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "It's Just Us",
           "artists": [
             "Kali Uchis"
@@ -319,7 +331,7 @@
           "duration_ms": 180015
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Honest",
           "artists": [
             "Pino"
@@ -331,7 +343,7 @@
           "duration_ms": 203773
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "blue salvia",
           "artists": [
             "PRYVT"
@@ -343,7 +355,7 @@
           "duration_ms": 197538
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "No te vayas",
           "artists": [
             "Surfistas Del Sistema"
@@ -355,7 +367,7 @@
           "duration_ms": 205200
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Virgen",
           "artists": [
             "Adolescent's Orquesta"
@@ -367,19 +379,19 @@
           "duration_ms": 271751
         },
         {
-          "rank": 31,
-          "name": "Kiss Me Now",
+          "rank": 32,
+          "name": "If Looks Could Kill",
           "artists": [
-            "Pierce The Veil"
+            "A Heartwell Ending"
           ],
-          "album": "The Jaws Of Life (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
-          "uri": "spotify:track:6yT9iNKt8fQoYpQkbWc7YR",
-          "url": "https://open.spotify.com/track/6yT9iNKt8fQoYpQkbWc7YR",
-          "duration_ms": 256268
+          "album": "Trust Us We Lie",
+          "image": "https://i.scdn.co/image/ab67616d0000b27334cc2459402d906576e834c2",
+          "uri": "spotify:track:0iI4QJ9dVfA8qyY8g1rwcX",
+          "url": "https://open.spotify.com/track/0iI4QJ9dVfA8qyY8g1rwcX",
+          "duration_ms": 205576
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Descifrar",
           "artists": [
             "maye"
@@ -391,7 +403,7 @@
           "duration_ms": 178700
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Hold On Till May",
           "artists": [
             "Pierce The Veil",
@@ -402,18 +414,6 @@
           "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
           "url": "https://open.spotify.com/track/5u2FOoFhp495GIj5BJC77J",
           "duration_ms": 278586
-        },
-        {
-          "rank": 34,
-          "name": "If Looks Could Kill",
-          "artists": [
-            "A Heartwell Ending"
-          ],
-          "album": "Trust Us We Lie",
-          "image": "https://i.scdn.co/image/ab67616d0000b27334cc2459402d906576e834c2",
-          "uri": "spotify:track:0iI4QJ9dVfA8qyY8g1rwcX",
-          "url": "https://open.spotify.com/track/0iI4QJ9dVfA8qyY8g1rwcX",
-          "duration_ms": 205576
         },
         {
           "rank": 35,
@@ -671,14 +671,6 @@
         },
         {
           "rank": 8,
-          "name": "Kali Uchis",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebdeac5367816c7ab1f607e89a",
-          "genres": [],
-          "uri": "spotify:artist:1U1el3k54VvEUzo3ybLPlM",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "rank": 9,
           "name": "Sleeping With Sirens",
           "image": "https://i.scdn.co/image/ab6761610000e5eb158c15958b0b6bd270a11fbc",
           "genres": [],
@@ -686,20 +678,28 @@
           "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
         },
         {
-          "rank": 10,
-          "name": "Rels B",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb15cc5d75a093b40a9be0ff5c",
+          "rank": 9,
+          "name": "Kali Uchis",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebdeac5367816c7ab1f607e89a",
           "genres": [],
-          "uri": "spotify:artist:2IMZYfNi21MGqxopj9fWx8",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "uri": "spotify:artist:1U1el3k54VvEUzo3ybLPlM",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
           "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        },
+        {
+          "rank": 11,
+          "name": "Rels B",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb15cc5d75a093b40a9be0ff5c",
+          "genres": [],
+          "uri": "spotify:artist:2IMZYfNi21MGqxopj9fWx8",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         },
         {
           "rank": 12,
@@ -908,6 +908,14 @@
           "genres": [],
           "uri": "spotify:artist:4G9wSdX0klmoHfjm9i6DLd",
           "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
+        },
+        {
+          "rank": 38,
+          "name": "Paramore",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
+          "genres": [],
+          "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ]
     },
