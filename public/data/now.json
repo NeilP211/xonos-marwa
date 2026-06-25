@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-25T20:03:44.353Z",
-  "is_playing": true,
+  "updated_at": "2026-06-25T22:22:13.831Z",
+  "is_playing": false,
   "track": {
-    "name": "日落计数器",
+    "name": "Resilience",
     "artists": [
-      "莫非定律乐团"
+      "Pierce The Veil"
     ],
-    "album": "日落计数器",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e93dbbce3937df90318b35a1",
-    "uri": "spotify:track:3BPuq1TTqJ5lat7IKqyZTW"
+    "album": "The Jaws Of Life",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+    "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8"
   },
-  "played_at": "2026-06-25T20:03:44.353Z"
+  "played_at": "2026-06-25T20:55:32.874Z"
 }
