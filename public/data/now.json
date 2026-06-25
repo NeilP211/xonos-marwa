@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-25T17:13:00.744Z",
-  "is_playing": false,
+  "updated_at": "2026-06-25T20:03:44.353Z",
+  "is_playing": true,
   "track": {
-    "name": "11 PM",
+    "name": "日落计数器",
     "artists": [
-      "Maluma"
+      "莫非定律乐团"
     ],
-    "album": "11:11",
-    "image": "https://i.scdn.co/image/ab67616d0000b27390a2bafda8d3147d3ff98502",
-    "uri": "spotify:track:7KbF6AdprOXEEHlsq11Z6d"
+    "album": "日落计数器",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e93dbbce3937df90318b35a1",
+    "uri": "spotify:track:3BPuq1TTqJ5lat7IKqyZTW"
   },
-  "played_at": "2026-06-25T16:39:22.241Z"
+  "played_at": "2026-06-25T20:03:44.353Z"
 }

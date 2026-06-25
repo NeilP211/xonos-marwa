@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T17:13:00.439Z",
+  "generated_at": "2026-06-25T20:03:44.003Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2058,18 +2058,6 @@
         },
         {
           "rank": 10,
-          "name": "M.",
-          "artists": [
-            "Anıl Emre Daldal"
-          ],
-          "album": "M.",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d7ddae05b16e763bc82b69a5",
-          "uri": "spotify:track:6wfb4nI2Vih263JqC8WSoW",
-          "url": "https://open.spotify.com/track/6wfb4nI2Vih263JqC8WSoW",
-          "duration_ms": 223750
-        },
-        {
-          "rank": 11,
           "name": "Rechazame",
           "artists": [
             "Prince Royce"
@@ -2079,6 +2067,18 @@
           "uri": "spotify:track:07p0kLnvfQQ2bLujHyzSGK",
           "url": "https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK",
           "duration_ms": 223200
+        },
+        {
+          "rank": 11,
+          "name": "M.",
+          "artists": [
+            "Anıl Emre Daldal"
+          ],
+          "album": "M.",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d7ddae05b16e763bc82b69a5",
+          "uri": "spotify:track:6wfb4nI2Vih263JqC8WSoW",
+          "url": "https://open.spotify.com/track/6wfb4nI2Vih263JqC8WSoW",
+          "duration_ms": 223750
         },
         {
           "rank": 12,
@@ -2094,18 +2094,6 @@
         },
         {
           "rank": 13,
-          "name": "LIMBO",
-          "artists": [
-            "keshi"
-          ],
-          "album": "GABRIEL",
-          "image": "https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb",
-          "uri": "spotify:track:2bdVgAQgosGUJoViVDNeOV",
-          "url": "https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV",
-          "duration_ms": 212784
-        },
-        {
-          "rank": 14,
           "name": "沉溺（你让我的心不再结冰）",
           "artists": [
             "邹沛沛",
@@ -2118,7 +2106,7 @@
           "duration_ms": 193773
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "CONTROL",
           "artists": [
             "kasper"
@@ -2130,7 +2118,7 @@
           "duration_ms": 173002
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "All Mine",
           "artists": [
             "PLAZA"
@@ -2142,7 +2130,7 @@
           "duration_ms": 234871
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Moonstruck",
           "artists": [
             "ENHYPEN"
@@ -2154,7 +2142,7 @@
           "duration_ms": 158660
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "LAYALINA",
           "artists": [
             "TUL8TE"
@@ -2164,6 +2152,18 @@
           "uri": "spotify:track:1yiJHrunZu2fov7OhC7vM9",
           "url": "https://open.spotify.com/track/1yiJHrunZu2fov7OhC7vM9",
           "duration_ms": 218833
+        },
+        {
+          "rank": 18,
+          "name": "LIMBO",
+          "artists": [
+            "keshi"
+          ],
+          "album": "GABRIEL",
+          "image": "https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb",
+          "uri": "spotify:track:2bdVgAQgosGUJoViVDNeOV",
+          "url": "https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV",
+          "duration_ms": 212784
         },
         {
           "rank": 19,
@@ -2239,18 +2239,6 @@
         },
         {
           "rank": 25,
-          "name": "Ay Vamos",
-          "artists": [
-            "J Balvin"
-          ],
-          "album": "La Familia B Sides",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734277da4c011dcc87f012bbab",
-          "uri": "spotify:track:6Ges5C2IE738iJh4HyQizQ",
-          "url": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ",
-          "duration_ms": 226413
-        },
-        {
-          "rank": 26,
           "name": "Call Me By Your Name",
           "artists": [
             "Sophie Castillo"
@@ -2260,6 +2248,18 @@
           "uri": "spotify:track:6FWxFrGQ9YboLvC8vvrT07",
           "url": "https://open.spotify.com/track/6FWxFrGQ9YboLvC8vvrT07",
           "duration_ms": 168021
+        },
+        {
+          "rank": 26,
+          "name": "Ay Vamos",
+          "artists": [
+            "J Balvin"
+          ],
+          "album": "La Familia B Sides",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734277da4c011dcc87f012bbab",
+          "uri": "spotify:track:6Ges5C2IE738iJh4HyQizQ",
+          "url": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ",
+          "duration_ms": 226413
         },
         {
           "rank": 27,
@@ -2299,6 +2299,79 @@
         },
         {
           "rank": 30,
+          "name": "Ay No Puedo",
+          "artists": [
+            "The Marías"
+          ],
+          "album": "Submarine",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831",
+          "uri": "spotify:track:3L0JDlycMhSA7R0M0OfNIY",
+          "url": "https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY",
+          "duration_ms": 181546
+        },
+        {
+          "rank": 31,
+          "name": "It Will Rain",
+          "artists": [
+            "Bruno Mars"
+          ],
+          "album": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f01ba25235fb24f73605b9dd",
+          "uri": "spotify:track:0RUGuh2uSNFJpGMSsD1F5C",
+          "url": "https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C",
+          "duration_ms": 257720
+        },
+        {
+          "rank": 32,
+          "name": "Ego",
+          "artists": [
+            "Peach Luffe"
+          ],
+          "album": "Ego",
+          "image": "https://i.scdn.co/image/ab67616d0000b273802c38314330229ae9416822",
+          "uri": "spotify:track:6qWLeDClhAZYyshdF3y45Y",
+          "url": "https://open.spotify.com/track/6qWLeDClhAZYyshdF3y45Y",
+          "duration_ms": 180814
+        },
+        {
+          "rank": 33,
+          "name": "Die With A Smile",
+          "artists": [
+            "Lady Gaga",
+            "Bruno Mars"
+          ],
+          "album": "Die With A Smile",
+          "image": "https://i.scdn.co/image/ab67616d0000b27382ea2e9e1858aa012c57cd45",
+          "uri": "spotify:track:2plbrEY59IikOBgBGLjaoe",
+          "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe",
+          "duration_ms": 251667
+        },
+        {
+          "rank": 34,
+          "name": "Deseándote",
+          "artists": [
+            "Frankie Ruiz"
+          ],
+          "album": "Feliz Navidad Con Salsa",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731090772b21a561bfa6d71f86",
+          "uri": "spotify:track:5hiHDuJOcBmB8wguFDPFjD",
+          "url": "https://open.spotify.com/track/5hiHDuJOcBmB8wguFDPFjD",
+          "duration_ms": 283546
+        },
+        {
+          "rank": 35,
+          "name": "Ana Mosh Anani",
+          "artists": [
+            "Amr Diab"
+          ],
+          "album": "Shoft El Ayam",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f7e2bbc56618390edf68925a",
+          "uri": "spotify:track:0QLUpLyXFWQ1QpXS2Inxrh",
+          "url": "https://open.spotify.com/track/0QLUpLyXFWQ1QpXS2Inxrh",
+          "duration_ms": 289959
+        },
+        {
+          "rank": 36,
           "name": "Bittersweet (feat. LeeHi)",
           "artists": [
             "WONWOO",
@@ -2312,31 +2385,7 @@
           "duration_ms": 174773
         },
         {
-          "rank": 31,
-          "name": "Ay No Puedo",
-          "artists": [
-            "The Marías"
-          ],
-          "album": "Submarine",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831",
-          "uri": "spotify:track:3L0JDlycMhSA7R0M0OfNIY",
-          "url": "https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY",
-          "duration_ms": 181546
-        },
-        {
-          "rank": 32,
-          "name": "It Will Rain",
-          "artists": [
-            "Bruno Mars"
-          ],
-          "album": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f01ba25235fb24f73605b9dd",
-          "uri": "spotify:track:0RUGuh2uSNFJpGMSsD1F5C",
-          "url": "https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C",
-          "duration_ms": 257720
-        },
-        {
-          "rank": 33,
+          "rank": 37,
           "name": "Reflections",
           "artists": [
             "The Silver Roads"
@@ -2346,55 +2395,6 @@
           "uri": "spotify:track:5xe2ZJZDsy7V8Jqo5B3mHf",
           "url": "https://open.spotify.com/track/5xe2ZJZDsy7V8Jqo5B3mHf",
           "duration_ms": 200119
-        },
-        {
-          "rank": 34,
-          "name": "Ego",
-          "artists": [
-            "Peach Luffe"
-          ],
-          "album": "Ego",
-          "image": "https://i.scdn.co/image/ab67616d0000b273802c38314330229ae9416822",
-          "uri": "spotify:track:6qWLeDClhAZYyshdF3y45Y",
-          "url": "https://open.spotify.com/track/6qWLeDClhAZYyshdF3y45Y",
-          "duration_ms": 180814
-        },
-        {
-          "rank": 35,
-          "name": "Die With A Smile",
-          "artists": [
-            "Lady Gaga",
-            "Bruno Mars"
-          ],
-          "album": "Die With A Smile",
-          "image": "https://i.scdn.co/image/ab67616d0000b27382ea2e9e1858aa012c57cd45",
-          "uri": "spotify:track:2plbrEY59IikOBgBGLjaoe",
-          "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe",
-          "duration_ms": 251667
-        },
-        {
-          "rank": 36,
-          "name": "Deseándote",
-          "artists": [
-            "Frankie Ruiz"
-          ],
-          "album": "Feliz Navidad Con Salsa",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731090772b21a561bfa6d71f86",
-          "uri": "spotify:track:5hiHDuJOcBmB8wguFDPFjD",
-          "url": "https://open.spotify.com/track/5hiHDuJOcBmB8wguFDPFjD",
-          "duration_ms": 283546
-        },
-        {
-          "rank": 37,
-          "name": "Ana Mosh Anani",
-          "artists": [
-            "Amr Diab"
-          ],
-          "album": "Shoft El Ayam",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f7e2bbc56618390edf68925a",
-          "uri": "spotify:track:0QLUpLyXFWQ1QpXS2Inxrh",
-          "url": "https://open.spotify.com/track/0QLUpLyXFWQ1QpXS2Inxrh",
-          "duration_ms": 289959
         },
         {
           "rank": 38,
@@ -2461,19 +2461,6 @@
         },
         {
           "rank": 43,
-          "name": "Deje de Amar",
-          "artists": [
-            "Felipe Muñiz",
-            "Marc Anthony"
-          ],
-          "album": "Deje de Amar",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ec215d7710907714f95db464",
-          "uri": "spotify:track:4SB87vYiWYWFg9ekXay2Fo",
-          "url": "https://open.spotify.com/track/4SB87vYiWYWFg9ekXay2Fo",
-          "duration_ms": 192013
-        },
-        {
-          "rank": 44,
           "name": "New Woman (feat. ROSALÍA)",
           "artists": [
             "LISA",
@@ -2486,7 +2473,7 @@
           "duration_ms": 179789
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "Red Swan",
           "artists": [
             "YOSHIKI",
@@ -2499,7 +2486,7 @@
           "duration_ms": 263720
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "Mirada",
           "artists": [
             "Ivan Cornejo"
@@ -2511,7 +2498,7 @@
           "duration_ms": 167522
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Dream",
           "artists": [
             "keshi"
@@ -2523,7 +2510,7 @@
           "duration_ms": 210070
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Like That",
           "artists": [
             "keshi"
@@ -2533,6 +2520,19 @@
           "uri": "spotify:track:3pf5M9sxSecmhjT9gMPwe9",
           "url": "https://open.spotify.com/track/3pf5M9sxSecmhjT9gMPwe9",
           "duration_ms": 180106
+        },
+        {
+          "rank": 48,
+          "name": "Sweet Dreams (feat. Miguel)",
+          "artists": [
+            "j-hope",
+            "Miguel"
+          ],
+          "album": "Sweet Dreams (feat. Miguel)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273318241eacbdaee4d0f9c4316",
+          "uri": "spotify:track:1yX9gy5fK02j6nBnGJ1S3k",
+          "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k",
+          "duration_ms": 172952
         },
         {
           "rank": 49,
@@ -2549,16 +2549,15 @@
         },
         {
           "rank": 50,
-          "name": "Sweet Dreams (feat. Miguel)",
+          "name": "Staying",
           "artists": [
-            "j-hope",
-            "Miguel"
+            "Lizzy McAlpine"
           ],
-          "album": "Sweet Dreams (feat. Miguel)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273318241eacbdaee4d0f9c4316",
-          "uri": "spotify:track:1yX9gy5fK02j6nBnGJ1S3k",
-          "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k",
-          "duration_ms": 172952
+          "album": "Older",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731cc66d4df4e792d14dd2297b",
+          "uri": "spotify:track:3tcCT8WhAIeRW2Ey9M4bL5",
+          "url": "https://open.spotify.com/track/3tcCT8WhAIeRW2Ey9M4bL5",
+          "duration_ms": 151647
         }
       ],
       "artists": [
