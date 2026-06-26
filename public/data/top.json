@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T19:51:01.171Z",
+  "generated_at": "2026-06-26T22:15:55.080Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2675,14 +2675,6 @@
         },
         {
           "rank": 18,
-          "name": "Rocco",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebfafe10116210a495dae342fa",
-          "genres": [],
-          "uri": "spotify:artist:30gZlVVUt3gwNXlLorZjuq",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
-        },
-        {
-          "rank": 19,
           "name": "Jung Kook",
           "image": "https://i.scdn.co/image/ab6761610000e5eb71089d18c93e3a51e70ff0dc",
           "genres": [],
@@ -2690,7 +2682,7 @@
           "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "The Weeknd",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
           "genres": [],
@@ -2698,7 +2690,7 @@
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Adolescent's Orquesta",
           "image": "https://i.scdn.co/image/ab6761610000e5eb85cbe9f05b11e3ea3d20ff0b",
           "genres": [],
@@ -2706,7 +2698,7 @@
           "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "J Balvin",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0405b03342c2e56751b9923d",
           "genres": [],
@@ -2714,12 +2706,20 @@
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Maluma",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1b0d196ca84f4a0d076b4570",
           "genres": [],
           "uri": "spotify:artist:1r4hJ1h58CWwUQe3MxPuau",
           "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "rank": 23,
+          "name": "Rocco",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebfafe10116210a495dae342fa",
+          "genres": [],
+          "uri": "spotify:artist:30gZlVVUt3gwNXlLorZjuq",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
         },
         {
           "rank": 24,
@@ -2795,6 +2795,14 @@
         },
         {
           "rank": 33,
+          "name": "Pierce The Veil",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6f8f8d13be17bf486219edc7",
+          "genres": [],
+          "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        },
+        {
+          "rank": 34,
           "name": "Daniel, Me Estás Matando",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2c55dc0c5e84b17b01869558",
           "genres": [],
@@ -2802,20 +2810,12 @@
           "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "NewJeans",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8dae71b664393f38ba91f891",
           "genres": [],
           "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d",
           "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        },
-        {
-          "rank": 35,
-          "name": "Pierce The Veil",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6f8f8d13be17bf486219edc7",
-          "genres": [],
-          "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         },
         {
           "rank": 36,
