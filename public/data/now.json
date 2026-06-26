@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-26T17:01:21.670Z",
-  "is_playing": true,
+  "updated_at": "2026-06-26T19:51:01.553Z",
+  "is_playing": false,
   "track": {
-    "name": "Wonderless",
+    "name": "The New National Anthem",
     "artists": [
       "Pierce The Veil"
     ],
-    "album": "A Flair For The Dramatic",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d2d0137c32938ae8cb44e0ca",
-    "uri": "spotify:track:4QCczE24wLpDmPJ3qwwEvC"
+    "album": "Selfish Machines",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
+    "uri": "spotify:track:0LRrtw1MFASb7tgyHqVXnh"
   },
-  "played_at": "2026-06-26T17:01:21.670Z"
+  "played_at": "2026-06-26T17:18:29.192Z"
 }

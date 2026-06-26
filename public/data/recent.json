@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T17:01:21.423Z",
+  "updated_at": "2026-06-26T19:51:01.440Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -3910,6 +3910,51 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
       "uri": "spotify:track:6LhGzSZlIGxZpyIXXZn9ZV",
       "duration_ms": 292360
+    },
+    {
+      "played_at": "2026-06-26T17:04:43.559Z",
+      "name": "Wonderless",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "A Flair For The Dramatic",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d2d0137c32938ae8cb44e0ca",
+      "uri": "spotify:track:4QCczE24wLpDmPJ3qwwEvC",
+      "duration_ms": 341053
+    },
+    {
+      "played_at": "2026-06-26T17:08:40.524Z",
+      "name": "King For A Day",
+      "artists": [
+        "Pierce The Veil",
+        "Kellin Quinn"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:1IT0WQk5J8NsaeII8ktdlZ",
+      "duration_ms": 236293
+    },
+    {
+      "played_at": "2026-06-26T17:13:40.523Z",
+      "name": "Today I Saw The Whole World",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Misadventures",
+      "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+      "uri": "spotify:track:48vr34351V9Sz1QVxmbYNf",
+      "duration_ms": 221960
+    },
+    {
+      "played_at": "2026-06-26T17:18:29.192Z",
+      "name": "The New National Anthem",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Selfish Machines",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
+      "uri": "spotify:track:0LRrtw1MFASb7tgyHqVXnh",
+      "duration_ms": 239573
     }
   ]
 }
