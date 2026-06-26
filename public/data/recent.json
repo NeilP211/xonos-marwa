@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T14:28:51.902Z",
+  "updated_at": "2026-06-26T17:01:21.423Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -3844,6 +3844,72 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
       "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
       "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-06-26T16:21:34.532Z",
+      "name": "Cemetery Drive",
+      "artists": [
+        "My Chemical Romance"
+      ],
+      "album": "Three Cheers for Sweet Revenge",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
+      "uri": "spotify:track:2cViIXIe8Pbd1sOJExMJlK",
+      "duration_ms": 188066
+    },
+    {
+      "played_at": "2026-06-26T16:29:33.590Z",
+      "name": "Gold Medal Ribbon",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Misadventures",
+      "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+      "uri": "spotify:track:0yq3IiS6IbPFmqLN46WxiG",
+      "duration_ms": 238306
+    },
+    {
+      "played_at": "2026-06-26T16:38:47.741Z",
+      "name": "Emergency Contact",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:4amltxLIfFmtYEvZbdgDqO",
+      "duration_ms": 240000
+    },
+    {
+      "played_at": "2026-06-26T16:43:25.156Z",
+      "name": "Kissing in Cars (Bonus Track)",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Selfish Machines (Reissue)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733c8674afa47336f571b13ebd",
+      "uri": "spotify:track:21n769QrJtrmN0pXuBkYOm",
+      "duration_ms": 257211
+    },
+    {
+      "played_at": "2026-06-26T16:52:37.061Z",
+      "name": "Million Dollar Houses (The Painter)",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Selfish Machines",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
+      "uri": "spotify:track:0iWCpaSaiIZVPSqjZ9YB5L",
+      "duration_ms": 241640
+    },
+    {
+      "played_at": "2026-06-26T16:57:30.020Z",
+      "name": "Dive In",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Misadventures",
+      "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+      "uri": "spotify:track:6LhGzSZlIGxZpyIXXZn9ZV",
+      "duration_ms": 292360
     }
   ]
 }

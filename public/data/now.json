@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-26T14:28:51.961Z",
-  "is_playing": false,
+  "updated_at": "2026-06-26T17:01:21.670Z",
+  "is_playing": true,
   "track": {
-    "name": "Resilience",
+    "name": "Wonderless",
     "artists": [
       "Pierce The Veil"
     ],
-    "album": "The Jaws Of Life",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-    "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8"
+    "album": "A Flair For The Dramatic",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d2d0137c32938ae8cb44e0ca",
+    "uri": "spotify:track:4QCczE24wLpDmPJ3qwwEvC"
   },
-  "played_at": "2026-06-25T20:55:32.874Z"
+  "played_at": "2026-06-26T17:01:21.670Z"
 }
