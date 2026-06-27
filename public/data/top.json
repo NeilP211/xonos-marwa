@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T22:15:55.080Z",
+  "generated_at": "2026-06-27T03:38:27.888Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -932,18 +932,6 @@
         },
         {
           "rank": 3,
-          "name": "A Lonely Night",
-          "artists": [
-            "The Weeknd"
-          ],
-          "album": "Starboy",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
-          "uri": "spotify:track:4UknpXoLjlB7Mao4UWcJ2o",
-          "url": "https://open.spotify.com/track/4UknpXoLjlB7Mao4UWcJ2o",
-          "duration_ms": 220173
-        },
-        {
-          "rank": 4,
           "name": "Hora Loca",
           "artists": [
             "Rawayana",
@@ -956,7 +944,7 @@
           "duration_ms": 191825
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "Chica de Verde",
           "artists": [
             "Bruno Romano",
@@ -967,6 +955,18 @@
           "uri": "spotify:track:6ZxsJwY5QgN6R0mRBYWrHf",
           "url": "https://open.spotify.com/track/6ZxsJwY5QgN6R0mRBYWrHf",
           "duration_ms": 225694
+        },
+        {
+          "rank": 5,
+          "name": "A Lonely Night",
+          "artists": [
+            "The Weeknd"
+          ],
+          "album": "Starboy",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
+          "uri": "spotify:track:4UknpXoLjlB7Mao4UWcJ2o",
+          "url": "https://open.spotify.com/track/4UknpXoLjlB7Mao4UWcJ2o",
+          "duration_ms": 220173
         },
         {
           "rank": 6,
