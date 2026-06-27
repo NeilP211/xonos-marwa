@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-27T08:38:37.670Z",
+  "updated_at": "2026-06-27T10:58:43.039Z",
   "is_playing": false,
   "track": {
-    "name": "The New National Anthem",
+    "name": "Death Of An Executioner",
     "artists": [
       "Pierce The Veil"
     ],
-    "album": "Selfish Machines",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
-    "uri": "spotify:track:0LRrtw1MFASb7tgyHqVXnh"
+    "album": "The Jaws Of Life",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+    "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp"
   },
-  "played_at": "2026-06-26T17:18:29.192Z"
+  "played_at": "2026-06-26T17:25:03.369Z"
 }

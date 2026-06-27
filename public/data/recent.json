@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T08:38:37.635Z",
+  "updated_at": "2026-06-27T10:58:42.952Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -3955,6 +3955,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
       "uri": "spotify:track:0LRrtw1MFASb7tgyHqVXnh",
       "duration_ms": 239573
+    },
+    {
+      "played_at": "2026-06-26T17:25:03.369Z",
+      "name": "Death Of An Executioner",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
+      "duration_ms": 267800
     }
   ]
 }
