@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T04:01:31.405Z",
+  "generated_at": "2026-06-28T08:55:31.442Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -956,18 +956,6 @@
         },
         {
           "rank": 5,
-          "name": "A Lonely Night",
-          "artists": [
-            "The Weeknd"
-          ],
-          "album": "Starboy",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
-          "uri": "spotify:track:4UknpXoLjlB7Mao4UWcJ2o",
-          "url": "https://open.spotify.com/track/4UknpXoLjlB7Mao4UWcJ2o",
-          "duration_ms": 220173
-        },
-        {
-          "rank": 6,
           "name": "Soft Spot",
           "artists": [
             "keshi"
@@ -979,19 +967,19 @@
           "duration_ms": 204223
         },
         {
-          "rank": 7,
-          "name": "Shinzo wo Sasageyo !",
+          "rank": 6,
+          "name": "A Lonely Night",
           "artists": [
-            "Linked Horizon"
+            "The Weeknd"
           ],
-          "album": "Shingeki no Kiseki",
-          "image": "https://i.scdn.co/image/ab67616d0000b27374164dc6fb6a320abf6a34fd",
-          "uri": "spotify:track:5uraJqtCBvLpwt3VeomZdq",
-          "url": "https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq",
-          "duration_ms": 341413
+          "album": "Starboy",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
+          "uri": "spotify:track:4UknpXoLjlB7Mao4UWcJ2o",
+          "url": "https://open.spotify.com/track/4UknpXoLjlB7Mao4UWcJ2o",
+          "duration_ms": 220173
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Let Love Bleed Red",
           "artists": [
             "Sleeping With Sirens"
@@ -1001,6 +989,18 @@
           "uri": "spotify:track:1v8RDUkhH5wR9IBrC6Hroy",
           "url": "https://open.spotify.com/track/1v8RDUkhH5wR9IBrC6Hroy",
           "duration_ms": 222493
+        },
+        {
+          "rank": 8,
+          "name": "Shinzo wo Sasageyo !",
+          "artists": [
+            "Linked Horizon"
+          ],
+          "album": "Shingeki no Kiseki",
+          "image": "https://i.scdn.co/image/ab67616d0000b27374164dc6fb6a320abf6a34fd",
+          "uri": "spotify:track:5uraJqtCBvLpwt3VeomZdq",
+          "url": "https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq",
+          "duration_ms": 341413
         },
         {
           "rank": 9,
@@ -1322,6 +1322,18 @@
         },
         {
           "rank": 35,
+          "name": "Forever",
+          "artists": [
+            "keshi"
+          ],
+          "album": "Requiem (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733dfa5d71dad925112f5d5b9a",
+          "uri": "spotify:track:2C5nlzIMJ81NYmeGhofNNP",
+          "url": "https://open.spotify.com/track/2C5nlzIMJ81NYmeGhofNNP",
+          "duration_ms": 171415
+        },
+        {
+          "rank": 36,
           "name": "Ginza",
           "artists": [
             "J Balvin"
@@ -1333,7 +1345,7 @@
           "duration_ms": 171093
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Playa Pantaleta",
           "artists": [
             "Rawayana"
@@ -1345,7 +1357,7 @@
           "duration_ms": 192093
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "De Dónde Es????",
           "artists": [
             "Rels B"
@@ -1357,7 +1369,7 @@
           "duration_ms": 135384
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "PROVENZA",
           "artists": [
             "KAROL G"
@@ -1369,7 +1381,7 @@
           "duration_ms": 207626
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Bésame",
           "artists": [
             "El Otro Polo",
@@ -1382,7 +1394,7 @@
           "duration_ms": 170520
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "No te vayas",
           "artists": [
             "Surfistas Del Sistema"
@@ -1394,7 +1406,7 @@
           "duration_ms": 205200
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Normal",
           "artists": [
             "Feid"
@@ -1406,7 +1418,7 @@
           "duration_ms": 171880
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Por Ti, Yo",
           "artists": [
             "La Quinna"
@@ -1418,7 +1430,7 @@
           "duration_ms": 309759
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Todo De Ti",
           "artists": [
             "Rauw Alejandro"
@@ -1430,7 +1442,7 @@
           "duration_ms": 199604
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Helena - 2025 Mix",
           "artists": [
             "My Chemical Romance"
@@ -1442,7 +1454,7 @@
           "duration_ms": 202181
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "M.",
           "artists": [
             "Anıl Emre Daldal"
@@ -1454,7 +1466,7 @@
           "duration_ms": 223750
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Callaita",
           "artists": [
             "Bad Bunny",
@@ -1467,7 +1479,7 @@
           "duration_ms": 250533
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Beso",
           "artists": [
             "Jósean Log"
@@ -1479,7 +1491,7 @@
           "duration_ms": 211021
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Te Conozco Tan Bien",
           "artists": [
             "Manuel Lizarazo"
@@ -1491,7 +1503,7 @@
           "duration_ms": 155800
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Body to Body",
           "artists": [
             "BTS"
@@ -1501,18 +1513,6 @@
           "uri": "spotify:track:2rKkfc4VZ74FQDc1FF1Zo6",
           "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6",
           "duration_ms": 189725
-        },
-        {
-          "rank": 50,
-          "name": "Vitamina",
-          "artists": [
-            "Danny Ocean"
-          ],
-          "album": "Babylon Club",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734330d7d9762313dff66f1ca7",
-          "uri": "spotify:track:1ApvsxtmxgpyXOH1WQEVXI",
-          "url": "https://open.spotify.com/track/1ApvsxtmxgpyXOH1WQEVXI",
-          "duration_ms": 157755
         }
       ],
       "artists": [
