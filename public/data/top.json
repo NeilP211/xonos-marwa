@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T22:04:46.586Z",
+  "generated_at": "2026-06-28T04:01:31.405Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -222,6 +222,18 @@
         },
         {
           "rank": 19,
+          "name": "So Far So Fake",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:3fWibgdtgIie6LKTZ2rUoI",
+          "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI",
+          "duration_ms": 236160
+        },
+        {
+          "rank": 20,
           "name": "Decode - Twilight Soundtrack Version",
           "artists": [
             "Paramore"
@@ -233,7 +245,7 @@
           "duration_ms": 261959
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "orióN",
           "artists": [
             "Boza",
@@ -246,7 +258,7 @@
           "duration_ms": 240964
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Nunca Más",
           "artists": [
             "La Isla Centeno"
@@ -258,7 +270,7 @@
           "duration_ms": 229214
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Después de ti",
           "artists": [
             "KAROL G",
@@ -271,7 +283,7 @@
           "duration_ms": 275898
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Sugar! Honey! Love!",
           "artists": [
             "Kali Uchis"
@@ -283,7 +295,7 @@
           "duration_ms": 184871
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "The Razor's Apple",
           "artists": [
             "Fleshwater"
@@ -295,7 +307,7 @@
           "duration_ms": 191236
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Helena - 2025 Mix",
           "artists": [
             "My Chemical Romance"
@@ -307,7 +319,7 @@
           "duration_ms": 202181
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "嘘",
           "artists": [
             "SID"
@@ -319,7 +331,7 @@
           "duration_ms": 205973
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "UNDERSTAND",
           "artists": [
             "keshi"
@@ -331,7 +343,7 @@
           "duration_ms": 150519
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "It's Just Us",
           "artists": [
             "Kali Uchis"
@@ -343,7 +355,7 @@
           "duration_ms": 180015
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "blue salvia",
           "artists": [
             "PRYVT"
@@ -355,7 +367,7 @@
           "duration_ms": 197538
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "No te vayas",
           "artists": [
             "Surfistas Del Sistema"
@@ -367,7 +379,7 @@
           "duration_ms": 205200
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Virgen",
           "artists": [
             "Adolescent's Orquesta"
@@ -379,7 +391,7 @@
           "duration_ms": 271751
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "If Looks Could Kill",
           "artists": [
             "A Heartwell Ending"
@@ -391,7 +403,7 @@
           "duration_ms": 205576
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Descifrar",
           "artists": [
             "maye"
@@ -403,7 +415,7 @@
           "duration_ms": 178700
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Hold On Till May",
           "artists": [
             "Pierce The Veil",
@@ -416,7 +428,7 @@
           "duration_ms": 278586
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "顷刻之间",
           "artists": [
             "陈麒名"
@@ -428,7 +440,7 @@
           "duration_ms": 214186
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Deslocado",
           "artists": [
             "NAPA"
@@ -440,7 +452,7 @@
           "duration_ms": 179996
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "NOBLE",
           "artists": [
             "F3miii"
@@ -452,7 +464,7 @@
           "duration_ms": 185806
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Bésame",
           "artists": [
             "El Otro Polo",
@@ -465,7 +477,7 @@
           "duration_ms": 170520
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "She Sings in the Morning",
           "artists": [
             "Pierce The Veil"
@@ -477,7 +489,7 @@
           "duration_ms": 179066
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Sure Thing",
           "artists": [
             "Miguel"
@@ -489,7 +501,7 @@
           "duration_ms": 195373
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Cariño",
           "artists": [
             "The Marías"
@@ -501,7 +513,19 @@
           "duration_ms": 258713
         },
         {
-          "rank": 42,
+          "rank": 43,
+          "name": "New Perspective",
+          "artists": [
+            "Panic! At The Disco"
+          ],
+          "album": "New Perspective",
+          "image": "https://i.scdn.co/image/ab67616d0000b273978e6d08c5581b9ec3627c64",
+          "uri": "spotify:track:1AT5viFqaGU9Hu5smdNlgB",
+          "url": "https://open.spotify.com/track/1AT5viFqaGU9Hu5smdNlgB",
+          "duration_ms": 226786
+        },
+        {
+          "rank": 44,
           "name": "Bellaquita",
           "artists": [
             "Dalex",
@@ -514,7 +538,7 @@
           "duration_ms": 204786
         },
         {
-          "rank": 43,
+          "rank": 45,
           "name": "Uzunlar - V1",
           "artists": [
             "Evdeki Saat"
@@ -526,7 +550,7 @@
           "duration_ms": 282352
         },
         {
-          "rank": 44,
+          "rank": 46,
           "name": "Peaches",
           "artists": [
             "KAI"
@@ -538,7 +562,7 @@
           "duration_ms": 198080
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "ride",
           "artists": [
             "wave to earth"
@@ -550,7 +574,7 @@
           "duration_ms": 228500
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "Desenfocao'",
           "artists": [
             "Rauw Alejandro"
@@ -562,7 +586,7 @@
           "duration_ms": 170535
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "Reggaeton",
           "artists": [
             "J Balvin"
@@ -574,7 +598,7 @@
           "duration_ms": 158800
         },
         {
-          "rank": 48,
+          "rank": 50,
           "name": "Flatline",
           "artists": [
             "Justin Bieber"
@@ -584,32 +608,6 @@
           "uri": "spotify:track:2GBgiuXwY1KzJMA0gSAr9J",
           "url": "https://open.spotify.com/track/2GBgiuXwY1KzJMA0gSAr9J",
           "duration_ms": 219346
-        },
-        {
-          "rank": 49,
-          "name": "Back To Strangers",
-          "artists": [
-            "Rehash"
-          ],
-          "album": "Mourning Star",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a9ac020c767f08ea7490fa21",
-          "uri": "spotify:track:2GpNjyQO67Ss38PmPaL6uA",
-          "url": "https://open.spotify.com/track/2GpNjyQO67Ss38PmPaL6uA",
-          "duration_ms": 270335
-        },
-        {
-          "rank": 50,
-          "name": "Lo Que Tiene",
-          "artists": [
-            "Morad",
-            "Beny Jr",
-            "Rvfv"
-          ],
-          "album": "Lo Que Tiene",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ba7ac064c8615ab42905fcae",
-          "uri": "spotify:track:2StaHvXQpcMaJvC7OyS25X",
-          "url": "https://open.spotify.com/track/2StaHvXQpcMaJvC7OyS25X",
-          "duration_ms": 259200
         }
       ],
       "artists": [
