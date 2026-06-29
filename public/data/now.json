@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-29T15:51:09.792Z",
-  "is_playing": true,
+  "updated_at": "2026-06-29T20:00:41.908Z",
+  "is_playing": false,
   "track": {
-    "name": "Yally Zaalan",
+    "name": "Deseándote",
     "artists": [
-      "Mohamed Hamaki"
+      "Frankie Ruiz"
     ],
-    "album": "Omroh Ma Yeghib",
-    "image": "https://i.scdn.co/image/ab67616d0000b2733bbba5c0407a0522f97e07dd",
-    "uri": "spotify:track:1gJfRu9I7hadI70g3YEyt8"
+    "album": "Feliz Navidad Con Salsa",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731090772b21a561bfa6d71f86",
+    "uri": "spotify:track:5hiHDuJOcBmB8wguFDPFjD"
   },
-  "played_at": "2026-06-29T15:51:09.792Z"
+  "played_at": "2026-06-29T20:00:41.908Z"
 }

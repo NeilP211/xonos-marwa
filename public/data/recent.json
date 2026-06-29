@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T15:51:09.615Z",
+  "updated_at": "2026-06-29T20:00:41.594Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -4279,6 +4279,219 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732e50096092c24bd9acb0749d",
       "uri": "spotify:track:6AOmVuYPC8WJN0hzZ1ODIj",
       "duration_ms": 213838
+    },
+    {
+      "played_at": "2026-06-29T15:52:03.365Z",
+      "name": "Yally Zaalan",
+      "artists": [
+        "Mohamed Hamaki"
+      ],
+      "album": "Omroh Ma Yeghib",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733bbba5c0407a0522f97e07dd",
+      "uri": "spotify:track:1gJfRu9I7hadI70g3YEyt8",
+      "duration_ms": 292440
+    },
+    {
+      "played_at": "2026-06-29T15:58:09.976Z",
+      "name": "كلام عينيه",
+      "artists": [
+        "Sherine"
+      ],
+      "album": "نساى",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+      "uri": "spotify:track:6g95dK7o7vVh8ZCnDAseU5",
+      "duration_ms": 235833
+    },
+    {
+      "played_at": "2026-06-29T16:16:57.290Z",
+      "name": "Awseflak Eh",
+      "artists": [
+        "Ragheb Alama"
+      ],
+      "album": "Ragheb Alama (Greatest Hits)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a91bd0e51c49398efdbbc980",
+      "uri": "spotify:track:3oJGAoJVJlC22adeGpoKqR",
+      "duration_ms": 275200
+    },
+    {
+      "played_at": "2026-06-29T16:22:25.499Z",
+      "name": "Death Of An Executioner",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
+      "duration_ms": 267800
+    },
+    {
+      "played_at": "2026-06-29T16:26:50.607Z",
+      "name": "a kind thing to do (feat. Vic Fuentes)",
+      "artists": [
+        "Cavetown",
+        "Pierce The Veil",
+        "Vic Fuentes"
+      ],
+      "album": "worm food",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325d765fb355e075d08e95cb6",
+      "uri": "spotify:track:4NlRBHQFKKgTJiDWG02fIV",
+      "duration_ms": 247013
+    },
+    {
+      "played_at": "2026-06-29T16:32:23.174Z",
+      "name": "I'm Low On Gas And You Need A Jacket",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:40WWeoX26jtsfdmFx5iRty",
+      "duration_ms": 252386
+    },
+    {
+      "played_at": "2026-06-29T16:40:36.482Z",
+      "name": "Cry",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cry",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
+      "uri": "spotify:track:7mDTvYD2ieE4Q28XFziMfJ",
+      "duration_ms": 256799
+    },
+    {
+      "played_at": "2026-06-29T16:45:35.650Z",
+      "name": "Xerces",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:5hxcxipGOjgTzrPOkfsyyS",
+      "duration_ms": 221800
+    },
+    {
+      "played_at": "2026-06-29T18:30:19.402Z",
+      "name": "LAYALINA",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "TESH SHABAB",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cd08f7df5783c39c57d382f4",
+      "uri": "spotify:track:1yiJHrunZu2fov7OhC7vM9",
+      "duration_ms": 218833
+    },
+    {
+      "played_at": "2026-06-29T18:41:18.965Z",
+      "name": "Soura",
+      "artists": [
+        "Masri",
+        "Josylvio",
+        "ILLIE"
+      ],
+      "album": "Soura",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7d2dcc9c393895bd0748a4bb4",
+      "uri": "spotify:track:3eUCf1pcML5Ibl2fXawiu6",
+      "duration_ms": 194751
+    },
+    {
+      "played_at": "2026-06-29T18:47:53.792Z",
+      "name": "قصاد عينى",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "ليلى نهارى",
+      "image": "https://i.scdn.co/image/ab67616d0000b273636b9c1f05f0a37e1baa4628",
+      "uri": "spotify:track:3bISYorQwMHFlDaAhNyWd8",
+      "duration_ms": 264228
+    },
+    {
+      "played_at": "2026-06-29T18:52:40.727Z",
+      "name": "ليه بنخبي و مش بنقول",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي",
+      "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+      "uri": "spotify:track:7ADt67nRewsfODDmCuhtQl",
+      "duration_ms": 189320
+    },
+    {
+      "played_at": "2026-06-29T18:56:56.307Z",
+      "name": "Ragea",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "Ahla W Ahla",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343b631a1e61aa93b9db9f7a8",
+      "uri": "spotify:track:73ppBd1Mc3J6JeczDvLF8E",
+      "duration_ms": 209186
+    },
+    {
+      "played_at": "2026-06-29T19:05:20.264Z",
+      "name": "WHO DO U LUV",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "WHO DO U LUV",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373dc757337bcdd30b76723c5",
+      "uri": "spotify:track:74KASQI7XvyWdsNyQcJuv9",
+      "duration_ms": 248760
+    },
+    {
+      "played_at": "2026-06-29T19:15:11.471Z",
+      "name": "Descifrar",
+      "artists": [
+        "maye"
+      ],
+      "album": "Descifrar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
+      "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
+      "duration_ms": 178700
+    },
+    {
+      "played_at": "2026-06-29T19:19:50.700Z",
+      "name": "All My Heart",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "Let's Cheers To This",
+      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
+      "duration_ms": 279293
+    },
+    {
+      "played_at": "2026-06-29T19:24:13.526Z",
+      "name": "흩어진나날들",
+      "artists": [
+        "강수지"
+      ],
+      "album": "강수지2집",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336baac318c4aac27ed3a54ea",
+      "uri": "spotify:track:3IuA2jGGOgZCGwQBiLhRuP",
+      "duration_ms": 262126
+    },
+    {
+      "played_at": "2026-06-29T19:31:32.248Z",
+      "name": "All My Heart",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "Let's Cheers To This",
+      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
+      "duration_ms": 279293
+    },
+    {
+      "played_at": "2026-06-29T19:35:54.217Z",
+      "name": "흩어진나날들",
+      "artists": [
+        "강수지"
+      ],
+      "album": "강수지2집",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336baac318c4aac27ed3a54ea",
+      "uri": "spotify:track:3IuA2jGGOgZCGwQBiLhRuP",
+      "duration_ms": 262126
     }
   ]
 }
