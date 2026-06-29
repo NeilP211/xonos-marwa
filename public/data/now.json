@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-29T20:00:41.908Z",
+  "updated_at": "2026-06-29T22:09:12.803Z",
   "is_playing": false,
   "track": {
-    "name": "Deseándote",
+    "name": "Scene Two - Roger Rabbit",
     "artists": [
-      "Frankie Ruiz"
+      "Sleeping With Sirens"
     ],
-    "album": "Feliz Navidad Con Salsa",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731090772b21a561bfa6d71f86",
-    "uri": "spotify:track:5hiHDuJOcBmB8wguFDPFjD"
+    "album": "If You Were A Movie, This Would Be Your Soundtrack",
+    "image": "https://i.scdn.co/image/ab67616d0000b273de5a8550905395c2d8f7a410",
+    "uri": "spotify:track:1ufmdhLiYExFU8lAVA9wjQ"
   },
-  "played_at": "2026-06-29T20:00:41.908Z"
+  "played_at": "2026-06-29T21:49:37.518Z"
 }

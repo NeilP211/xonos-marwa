@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T20:00:41.594Z",
+  "updated_at": "2026-06-29T22:09:12.693Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -4492,6 +4492,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27336baac318c4aac27ed3a54ea",
       "uri": "spotify:track:3IuA2jGGOgZCGwQBiLhRuP",
       "duration_ms": 262126
+    },
+    {
+      "played_at": "2026-06-29T20:44:33.443Z",
+      "name": "Deseándote",
+      "artists": [
+        "Frankie Ruiz"
+      ],
+      "album": "Frankie Ruiz La Leyenda",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
+      "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
+      "duration_ms": 281333
+    },
+    {
+      "played_at": "2026-06-29T20:49:35.915Z",
+      "name": "All My Heart",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "Let's Cheers To This",
+      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
+      "duration_ms": 279293
+    },
+    {
+      "played_at": "2026-06-29T21:49:37.518Z",
+      "name": "Scene Two - Roger Rabbit",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "If You Were A Movie, This Would Be Your Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273de5a8550905395c2d8f7a410",
+      "uri": "spotify:track:1ufmdhLiYExFU8lAVA9wjQ",
+      "duration_ms": 197946
     }
   ]
 }

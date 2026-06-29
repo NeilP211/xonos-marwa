@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T20:00:41.250Z",
+  "generated_at": "2026-06-29T22:09:12.543Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -89,66 +89,18 @@
         },
         {
           "rank": 8,
-          "name": "WHO DO U LUV",
+          "name": "All My Heart",
           "artists": [
-            "Avenoir"
+            "Sleeping With Sirens"
           ],
-          "album": "WHO DO U LUV",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735cbb2c68713786d1978c6bfc",
-          "uri": "spotify:track:4AKEuz0ZvIkMOndD6RQ9cK",
-          "url": "https://open.spotify.com/track/4AKEuz0ZvIkMOndD6RQ9cK",
-          "duration_ms": 248760
+          "album": "Let's Cheers To This",
+          "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+          "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
+          "url": "https://open.spotify.com/track/5ANZkftsPAO0yhynm9jwlU",
+          "duration_ms": 279293
         },
         {
           "rank": 9,
-          "name": "Descifrar",
-          "artists": [
-            "maye"
-          ],
-          "album": "Descifrar",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
-          "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
-          "url": "https://open.spotify.com/track/431vrxogdCt65ZSWfUrP1G",
-          "duration_ms": 178700
-        },
-        {
-          "rank": 10,
-          "name": "Art of War",
-          "artists": [
-            "Avenoir"
-          ],
-          "album": "Mirage",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
-          "uri": "spotify:track:2RnB5R79oLcE8lCQbiaUZf",
-          "url": "https://open.spotify.com/track/2RnB5R79oLcE8lCQbiaUZf",
-          "duration_ms": 126973
-        },
-        {
-          "rank": 11,
-          "name": "Nunca Más",
-          "artists": [
-            "La Isla Centeno"
-          ],
-          "album": "Canciones Para El Volcán",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739540a18191d908bf060065d0",
-          "uri": "spotify:track:5eiZ4TFyBsLOpPzBgR4oG5",
-          "url": "https://open.spotify.com/track/5eiZ4TFyBsLOpPzBgR4oG5",
-          "duration_ms": 229214
-        },
-        {
-          "rank": 12,
-          "name": "LIMBO",
-          "artists": [
-            "keshi"
-          ],
-          "album": "GABRIEL",
-          "image": "https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb",
-          "uri": "spotify:track:2bdVgAQgosGUJoViVDNeOV",
-          "url": "https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV",
-          "duration_ms": 212784
-        },
-        {
-          "rank": 13,
           "name": "흩어진나날들",
           "artists": [
             "강수지"
@@ -160,7 +112,67 @@
           "duration_ms": 262126
         },
         {
+          "rank": 10,
+          "name": "WHO DO U LUV",
+          "artists": [
+            "Avenoir"
+          ],
+          "album": "WHO DO U LUV",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735cbb2c68713786d1978c6bfc",
+          "uri": "spotify:track:4AKEuz0ZvIkMOndD6RQ9cK",
+          "url": "https://open.spotify.com/track/4AKEuz0ZvIkMOndD6RQ9cK",
+          "duration_ms": 248760
+        },
+        {
+          "rank": 11,
+          "name": "Descifrar",
+          "artists": [
+            "maye"
+          ],
+          "album": "Descifrar",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
+          "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
+          "url": "https://open.spotify.com/track/431vrxogdCt65ZSWfUrP1G",
+          "duration_ms": 178700
+        },
+        {
+          "rank": 12,
+          "name": "Art of War",
+          "artists": [
+            "Avenoir"
+          ],
+          "album": "Mirage",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
+          "uri": "spotify:track:2RnB5R79oLcE8lCQbiaUZf",
+          "url": "https://open.spotify.com/track/2RnB5R79oLcE8lCQbiaUZf",
+          "duration_ms": 126973
+        },
+        {
+          "rank": 13,
+          "name": "Nunca Más",
+          "artists": [
+            "La Isla Centeno"
+          ],
+          "album": "Canciones Para El Volcán",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739540a18191d908bf060065d0",
+          "uri": "spotify:track:5eiZ4TFyBsLOpPzBgR4oG5",
+          "url": "https://open.spotify.com/track/5eiZ4TFyBsLOpPzBgR4oG5",
+          "duration_ms": 229214
+        },
+        {
           "rank": 14,
+          "name": "LIMBO",
+          "artists": [
+            "keshi"
+          ],
+          "album": "GABRIEL",
+          "image": "https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb",
+          "uri": "spotify:track:2bdVgAQgosGUJoViVDNeOV",
+          "url": "https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV",
+          "duration_ms": 212784
+        },
+        {
+          "rank": 15,
           "name": "Chica de Verde",
           "artists": [
             "Bruno Romano",
@@ -173,7 +185,7 @@
           "duration_ms": 225694
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Kiss Me Now",
           "artists": [
             "Pierce The Veil"
@@ -185,7 +197,7 @@
           "duration_ms": 256268
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Hold On Till May",
           "artists": [
             "Pierce The Veil",
@@ -198,7 +210,7 @@
           "duration_ms": 278586
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Después de ti",
           "artists": [
             "KAROL G",
@@ -211,7 +223,7 @@
           "duration_ms": 275898
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Like That",
           "artists": [
             "keshi"
@@ -223,7 +235,7 @@
           "duration_ms": 180106
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Helena",
           "artists": [
             "My Chemical Romance"
@@ -235,7 +247,7 @@
           "duration_ms": 204733
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "The Bomb Dot Com V2.0",
           "artists": [
             "Sleeping With Sirens"
@@ -247,7 +259,7 @@
           "duration_ms": 211720
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "M.",
           "artists": [
             "Anıl Emre Daldal"
@@ -259,7 +271,7 @@
           "duration_ms": 223750
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Falling Asleep on a Stranger",
           "artists": [
             "Pierce The Veil"
@@ -271,7 +283,7 @@
           "duration_ms": 223586
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "So Far So Fake",
           "artists": [
             "Pierce The Veil"
@@ -283,7 +295,7 @@
           "duration_ms": 236160
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Decode - Twilight Soundtrack Version",
           "artists": [
             "Paramore"
@@ -295,7 +307,7 @@
           "duration_ms": 261959
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Sugar! Honey! Love!",
           "artists": [
             "Kali Uchis"
@@ -307,7 +319,7 @@
           "duration_ms": 184871
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "The Razor's Apple",
           "artists": [
             "Fleshwater"
@@ -319,7 +331,7 @@
           "duration_ms": 191236
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Helena - 2025 Mix",
           "artists": [
             "My Chemical Romance"
@@ -331,7 +343,7 @@
           "duration_ms": 202181
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "嘘",
           "artists": [
             "SID"
@@ -343,7 +355,7 @@
           "duration_ms": 205973
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "UNDERSTAND",
           "artists": [
             "keshi"
@@ -355,7 +367,7 @@
           "duration_ms": 150519
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "It's Just Us",
           "artists": [
             "Kali Uchis"
@@ -367,7 +379,7 @@
           "duration_ms": 180015
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "If Looks Could Kill",
           "artists": [
             "A Heartwell Ending"
@@ -379,7 +391,7 @@
           "duration_ms": 205576
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "New Perspective",
           "artists": [
             "Panic! At The Disco"
@@ -391,7 +403,7 @@
           "duration_ms": 226786
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "A Match Into Water",
           "artists": [
             "Pierce The Veil"
@@ -403,7 +415,19 @@
           "duration_ms": 212546
         },
         {
-          "rank": 34,
+          "rank": 35,
+          "name": "Screaming",
+          "artists": [
+            "Loathe"
+          ],
+          "album": "I Let It in and It Took Everything",
+          "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+          "uri": "spotify:track:611WshW3yQKLCQ2pTCOii4",
+          "url": "https://open.spotify.com/track/611WshW3yQKLCQ2pTCOii4",
+          "duration_ms": 354640
+        },
+        {
+          "rank": 36,
           "name": "No te vayas",
           "artists": [
             "Surfistas Del Sistema"
@@ -415,7 +439,7 @@
           "duration_ms": 205200
         },
         {
-          "rank": 35,
+          "rank": 37,
           "name": "Virgen",
           "artists": [
             "Adolescent's Orquesta"
@@ -427,7 +451,7 @@
           "duration_ms": 271751
         },
         {
-          "rank": 36,
+          "rank": 38,
           "name": "顷刻之间",
           "artists": [
             "陈麒名"
@@ -439,7 +463,7 @@
           "duration_ms": 214186
         },
         {
-          "rank": 37,
+          "rank": 39,
           "name": "Deslocado",
           "artists": [
             "NAPA"
@@ -451,7 +475,7 @@
           "duration_ms": 179996
         },
         {
-          "rank": 38,
+          "rank": 40,
           "name": "Never Let Go",
           "artists": [
             "LNGSHOT"
@@ -463,7 +487,7 @@
           "duration_ms": 193620
         },
         {
-          "rank": 39,
+          "rank": 41,
           "name": "NOBLE",
           "artists": [
             "F3miii"
@@ -475,19 +499,7 @@
           "duration_ms": 185806
         },
         {
-          "rank": 40,
-          "name": "All My Heart",
-          "artists": [
-            "Sleeping With Sirens"
-          ],
-          "album": "Let's Cheers To This",
-          "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
-          "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
-          "url": "https://open.spotify.com/track/5ANZkftsPAO0yhynm9jwlU",
-          "duration_ms": 279293
-        },
-        {
-          "rank": 41,
+          "rank": 42,
           "name": "Bésame",
           "artists": [
             "El Otro Polo",
@@ -500,7 +512,7 @@
           "duration_ms": 170520
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "She Sings in the Morning",
           "artists": [
             "Pierce The Veil"
@@ -512,7 +524,7 @@
           "duration_ms": 179066
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Sure Thing",
           "artists": [
             "Miguel"
@@ -524,7 +536,7 @@
           "duration_ms": 195373
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Cariño",
           "artists": [
             "The Marías"
@@ -536,7 +548,7 @@
           "duration_ms": 258713
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Sextape",
           "artists": [
             "Deftones"
@@ -548,7 +560,7 @@
           "duration_ms": 241533
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Amor Verdadero",
           "artists": [
             "Willie Colón"
@@ -560,7 +572,7 @@
           "duration_ms": 445992
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Bellaquita",
           "artists": [
             "Dalex",
@@ -573,7 +585,7 @@
           "duration_ms": 204786
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Uzunlar - V1",
           "artists": [
             "Evdeki Saat"
@@ -585,7 +597,7 @@
           "duration_ms": 282352
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Peaches",
           "artists": [
             "KAI"
@@ -595,18 +607,6 @@
           "uri": "spotify:track:237OjBs3wvamAFpHp0yItw",
           "url": "https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw",
           "duration_ms": 198080
-        },
-        {
-          "rank": 50,
-          "name": "Desenfocao'",
-          "artists": [
-            "Rauw Alejandro"
-          ],
-          "album": "VICE VERSA",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f793c0c53727d8c5c950f809",
-          "uri": "spotify:track:2CEf2gU5ZJamLXa3NrgAvA",
-          "url": "https://open.spotify.com/track/2CEf2gU5ZJamLXa3NrgAvA",
-          "duration_ms": 170535
         }
       ],
       "artists": [
@@ -620,19 +620,19 @@
         },
         {
           "rank": 2,
-          "name": "keshi",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb3a0f8f319aeef1aa4115f5e8",
-          "genres": [],
-          "uri": "spotify:artist:3pc0bOVB5whxmD50W79wwO",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        },
-        {
-          "rank": 3,
           "name": "Sleeping With Sirens",
           "image": "https://i.scdn.co/image/ab6761610000e5eb158c15958b0b6bd270a11fbc",
           "genres": [],
           "uri": "spotify:artist:3N8Hy6xQnQv1F1XCiyGQqA",
           "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        },
+        {
+          "rank": 3,
+          "name": "keshi",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb3a0f8f319aeef1aa4115f5e8",
+          "genres": [],
+          "uri": "spotify:artist:3pc0bOVB5whxmD50W79wwO",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         },
         {
           "rank": 4,
