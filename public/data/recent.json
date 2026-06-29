@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T11:04:19.741Z",
+  "updated_at": "2026-06-29T15:51:09.615Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -4010,6 +4010,275 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2733dfa5d71dad925112f5d5b9a",
       "uri": "spotify:track:2C5nlzIMJ81NYmeGhofNNP",
       "duration_ms": 171415
+    },
+    {
+      "played_at": "2026-06-29T13:39:49.859Z",
+      "name": "A Match Into Water",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:54MXF9I8s3DuiQo3g0gZ5k",
+      "duration_ms": 212546
+    },
+    {
+      "played_at": "2026-06-29T13:43:30.909Z",
+      "name": "coming to you",
+      "artists": [
+        "BRAYTON"
+      ],
+      "album": "coming to you",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d7009d8e4d1b438469983126",
+      "uri": "spotify:track:7zOOfArWxkeqZMvnCKOKtC",
+      "duration_ms": 199016
+    },
+    {
+      "played_at": "2026-06-29T13:49:48.383Z",
+      "name": "Never Let Go",
+      "artists": [
+        "LNGSHOT"
+      ],
+      "album": "SHOT CALLERS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739ae175cd44e09688bb7c0f4f",
+      "uri": "spotify:track:37xebnhvUyM8VyyDDeo65d",
+      "duration_ms": 193620
+    },
+    {
+      "played_at": "2026-06-29T13:56:36.931Z",
+      "name": "Hold On Till May",
+      "artists": [
+        "Pierce The Veil",
+        "Lindsey Stamey"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
+      "duration_ms": 278586
+    },
+    {
+      "played_at": "2026-06-29T14:07:34.408Z",
+      "name": "You're All I Want",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "You're All I Want",
+      "image": "https://i.scdn.co/image/ab67616d0000b273963454e08e5e9def7e8cd204",
+      "uri": "spotify:track:2cTvZSCqzjkTMkIypLxUFH",
+      "duration_ms": 264453
+    },
+    {
+      "played_at": "2026-06-29T14:12:58.168Z",
+      "name": "Resilience",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+      "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-06-29T14:17:00.014Z",
+      "name": "Sextape",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
+      "duration_ms": 241533
+    },
+    {
+      "played_at": "2026-06-29T14:21:59.949Z",
+      "name": "Change (In the House of Flies)",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "White Pony",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
+      "uri": "spotify:track:51c94ac31swyDQj9B3Lzs3",
+      "duration_ms": 299533
+    },
+    {
+      "played_at": "2026-06-29T14:27:05.611Z",
+      "name": "Nunca Más",
+      "artists": [
+        "La Isla Centeno"
+      ],
+      "album": "Canciones Para El Volcán",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739540a18191d908bf060065d0",
+      "uri": "spotify:track:5eiZ4TFyBsLOpPzBgR4oG5",
+      "duration_ms": 229214
+    },
+    {
+      "played_at": "2026-06-29T14:31:21.267Z",
+      "name": "El Final Que Nunca Fue",
+      "artists": [
+        "La Isla Centeno"
+      ],
+      "album": "Medianoche",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1555524026379924f950859",
+      "uri": "spotify:track:5lZuMJ8Y8l8HGyHireXHGV",
+      "duration_ms": 254500
+    },
+    {
+      "played_at": "2026-06-29T14:32:13.324Z",
+      "name": "Quisiera Enamorarme",
+      "artists": [
+        "Me Dicen Jos",
+        "Julia Amoroso"
+      ],
+      "album": "Quisiera Enamorarme",
+      "image": "https://i.scdn.co/image/ab67616d0000b273acfb8111795a1ea518158b9e",
+      "uri": "spotify:track:3ZhfWEFlqebiUEcc3YbR7D",
+      "duration_ms": 186200
+    },
+    {
+      "played_at": "2026-06-29T14:34:46.125Z",
+      "name": "Quisiera Enamorarme",
+      "artists": [
+        "Me Dicen Jos",
+        "Julia Amoroso"
+      ],
+      "album": "Quisiera Enamorarme",
+      "image": "https://i.scdn.co/image/ab67616d0000b273acfb8111795a1ea518158b9e",
+      "uri": "spotify:track:3ZhfWEFlqebiUEcc3YbR7D",
+      "duration_ms": 186200
+    },
+    {
+      "played_at": "2026-06-29T14:45:46.167Z",
+      "name": "Alguien Como Tú",
+      "artists": [
+        "La Isla Centeno"
+      ],
+      "album": "Canciones Para El Volcán",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739540a18191d908bf060065d0",
+      "uri": "spotify:track:0158cDde2tONXGhWmTqSMI",
+      "duration_ms": 237978
+    },
+    {
+      "played_at": "2026-06-29T14:49:32.254Z",
+      "name": "Chica de Verde",
+      "artists": [
+        "Bruno Romano",
+        "Elisa González"
+      ],
+      "album": "Chica de Verde",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da9eccf72a3e9d55e41db1f4",
+      "uri": "spotify:track:6ZxsJwY5QgN6R0mRBYWrHf",
+      "duration_ms": 225694
+    },
+    {
+      "played_at": "2026-06-29T14:54:26.176Z",
+      "name": "Flor De Michoacán",
+      "artists": [
+        "Menny Flores"
+      ],
+      "album": "Flor De Michoacán",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
+      "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3",
+      "duration_ms": 193853
+    },
+    {
+      "played_at": "2026-06-29T15:04:51.397Z",
+      "name": "Después de ti",
+      "artists": [
+        "KAROL G",
+        "Greg Gonzalez"
+      ],
+      "album": "Después de ti",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd735e1302f8073b253cc71a",
+      "uri": "spotify:track:6PbhFQkpQjoojWo2b6Ghoi",
+      "duration_ms": 275898
+    },
+    {
+      "played_at": "2026-06-29T15:09:11.527Z",
+      "name": "Cuenta Hasta 3",
+      "artists": [
+        "Menny Flores"
+      ],
+      "album": "Flor De Michoacán",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
+      "uri": "spotify:track:2qKqoHAp40cd2AhOnHCtWF",
+      "duration_ms": 172000
+    },
+    {
+      "played_at": "2026-06-29T15:13:12.358Z",
+      "name": "Descifrar",
+      "artists": [
+        "maye"
+      ],
+      "album": "Descifrar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
+      "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
+      "duration_ms": 178700
+    },
+    {
+      "played_at": "2026-06-29T15:20:09.110Z",
+      "name": "انا مش اناني",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "شفت الايام",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dbdd04ce70d11be66a2b4963",
+      "uri": "spotify:track:4gY4H2HNss9fWlILOEifzr",
+      "duration_ms": 289959
+    },
+    {
+      "played_at": "2026-06-29T15:26:08.528Z",
+      "name": "Tamally Maak",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "Tamally Maak",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+      "uri": "spotify:track:6TYFcqqQVQPb3YsgfRhvqs",
+      "duration_ms": 269232
+    },
+    {
+      "played_at": "2026-06-29T15:32:36.970Z",
+      "name": "Mesh Am Betrouhi Min Bali",
+      "artists": [
+        "Marwan Khoury"
+      ],
+      "album": "El Aad Al Aaksy",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735b5356c58939f98986e72ee8",
+      "uri": "spotify:track:4EEjYOLaUZRPiCgssb1YLa",
+      "duration_ms": 257541
+    },
+    {
+      "played_at": "2026-06-29T15:35:34.512Z",
+      "name": "الليلادي",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "الليلادي",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373b72d2ce3d19fa428595c2c",
+      "uri": "spotify:track:2gb49TkAX2nDgFDIZ3y3BW",
+      "duration_ms": 176640
+    },
+    {
+      "played_at": "2026-06-29T15:41:52.901Z",
+      "name": "وماله",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "كمل كلامك",
+      "image": "https://i.scdn.co/image/ab67616d0000b273027b0429b1d6ae7aa630f865",
+      "uri": "spotify:track:7z1OHWVyKvynHMiIGHVLon",
+      "duration_ms": 288313
+    },
+    {
+      "played_at": "2026-06-29T15:47:10.932Z",
+      "name": "Heseeny",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "Narein",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732e50096092c24bd9acb0749d",
+      "uri": "spotify:track:6AOmVuYPC8WJN0hzZ1ODIj",
+      "duration_ms": 213838
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-29T11:04:19.851Z",
-  "is_playing": false,
+  "updated_at": "2026-06-29T15:51:09.792Z",
+  "is_playing": true,
   "track": {
-    "name": "Forever",
+    "name": "Yally Zaalan",
     "artists": [
-      "keshi"
+      "Mohamed Hamaki"
     ],
-    "album": "Requiem (Deluxe)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2733dfa5d71dad925112f5d5b9a",
-    "uri": "spotify:track:2C5nlzIMJ81NYmeGhofNNP"
+    "album": "Omroh Ma Yeghib",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733bbba5c0407a0522f97e07dd",
+    "uri": "spotify:track:1gJfRu9I7hadI70g3YEyt8"
   },
-  "played_at": "2026-06-28T02:39:07.108Z"
+  "played_at": "2026-06-29T15:51:09.792Z"
 }
