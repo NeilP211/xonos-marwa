@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-30T14:13:03.499Z",
+  "updated_at": "2026-06-30T14:19:34.856Z",
   "is_playing": true,
   "track": {
-    "name": "Forever",
+    "name": "雨蝶 - R&B微醺版",
     "artists": [
-      "keshi"
+      "微醺卡带"
     ],
-    "album": "Requiem (Deluxe)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2733dfa5d71dad925112f5d5b9a",
-    "uri": "spotify:track:2C5nlzIMJ81NYmeGhofNNP"
+    "album": "雨蝶 (R&B微醺版)",
+    "image": "https://i.scdn.co/image/ab67616d0000b27381bfa5296306a950e8b64aa0",
+    "uri": "spotify:track:4BdMTfgOY7zGwIGCqJpEnm"
   },
-  "played_at": "2026-06-30T14:13:03.499Z"
+  "played_at": "2026-06-30T14:19:34.856Z"
 }

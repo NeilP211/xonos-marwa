@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T14:13:03.419Z",
+  "updated_at": "2026-06-30T14:19:34.757Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -4525,6 +4525,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273de5a8550905395c2d8f7a410",
       "uri": "spotify:track:1ufmdhLiYExFU8lAVA9wjQ",
       "duration_ms": 197946
+    },
+    {
+      "played_at": "2026-06-30T14:14:25.782Z",
+      "name": "Forever",
+      "artists": [
+        "keshi"
+      ],
+      "album": "Requiem (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733dfa5d71dad925112f5d5b9a",
+      "uri": "spotify:track:2C5nlzIMJ81NYmeGhofNNP",
+      "duration_ms": 171415
+    },
+    {
+      "played_at": "2026-06-30T14:19:18.504Z",
+      "name": "日落计数器",
+      "artists": [
+        "莫非定律乐团"
+      ],
+      "album": "日落计数器",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e93dbbce3937df90318b35a1",
+      "uri": "spotify:track:3BPuq1TTqJ5lat7IKqyZTW",
+      "duration_ms": 291564
     }
   ]
 }
