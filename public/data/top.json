@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T09:40:25.240Z",
+  "generated_at": "2026-06-30T14:13:03.368Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2125,42 +2125,6 @@
         },
         {
           "rank": 15,
-          "name": "CONTROL",
-          "artists": [
-            "kasper"
-          ],
-          "album": "CONTROL",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a6bc65579740ebe10a1a8a91",
-          "uri": "spotify:track:61aC6Zm2G2dfLLLa7gwLeZ",
-          "url": "https://open.spotify.com/track/61aC6Zm2G2dfLLLa7gwLeZ",
-          "duration_ms": 173002
-        },
-        {
-          "rank": 16,
-          "name": "All Mine",
-          "artists": [
-            "PLAZA"
-          ],
-          "album": "All Mine",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739508c0f8fe9667910168362a",
-          "uri": "spotify:track:7GoXK3wa1Bxt9gVUJvv7Cy",
-          "url": "https://open.spotify.com/track/7GoXK3wa1Bxt9gVUJvv7Cy",
-          "duration_ms": 234871
-        },
-        {
-          "rank": 17,
-          "name": "Moonstruck",
-          "artists": [
-            "ENHYPEN"
-          ],
-          "album": "ROMANCE : UNTOLD",
-          "image": "https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10",
-          "uri": "spotify:track:3gYWGRS64XrGSrjD3vvtga",
-          "url": "https://open.spotify.com/track/3gYWGRS64XrGSrjD3vvtga",
-          "duration_ms": 158660
-        },
-        {
-          "rank": 18,
           "name": "LAYALINA",
           "artists": [
             "TUL8TE"
@@ -2172,43 +2136,31 @@
           "duration_ms": 218833
         },
         {
-          "rank": 19,
-          "name": "八方來財(Stacks from All Sides)",
+          "rank": 16,
+          "name": "CONTROL",
           "artists": [
-            "攬佬SKAI ISYOURGOD"
+            "kasper"
           ],
-          "album": "八方來財(Stacks from All Sides)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739870c9519822a973411b6594",
-          "uri": "spotify:track:7jm2PueKmv4EOHfdbdXMKT",
-          "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT",
-          "duration_ms": 173037
+          "album": "CONTROL",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a6bc65579740ebe10a1a8a91",
+          "uri": "spotify:track:61aC6Zm2G2dfLLLa7gwLeZ",
+          "url": "https://open.spotify.com/track/61aC6Zm2G2dfLLLa7gwLeZ",
+          "duration_ms": 173002
         },
         {
-          "rank": 20,
-          "name": "Si Antes Te Hubiera Conocido",
+          "rank": 17,
+          "name": "All Mine",
           "artists": [
-            "KAROL G"
+            "PLAZA"
           ],
-          "album": "Si Antes Te Hubiera Conocido",
-          "image": "https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e",
-          "uri": "spotify:track:6WatFBLVB0x077xWeoVc2k",
-          "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k",
-          "duration_ms": 195824
+          "album": "All Mine",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739508c0f8fe9667910168362a",
+          "uri": "spotify:track:7GoXK3wa1Bxt9gVUJvv7Cy",
+          "url": "https://open.spotify.com/track/7GoXK3wa1Bxt9gVUJvv7Cy",
+          "duration_ms": 234871
         },
         {
-          "rank": 21,
-          "name": "Julieta",
-          "artists": [
-            "LATIN MAFIA"
-          ],
-          "album": "Julieta",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738455f443c70112a311485138",
-          "uri": "spotify:track:4emEXP671dnpn1thHrogSe",
-          "url": "https://open.spotify.com/track/4emEXP671dnpn1thHrogSe",
-          "duration_ms": 210413
-        },
-        {
-          "rank": 22,
+          "rank": 18,
           "name": "Resilience",
           "artists": [
             "Pierce The Veil"
@@ -2220,7 +2172,67 @@
           "duration_ms": 220360
         },
         {
+          "rank": 19,
+          "name": "Moonstruck",
+          "artists": [
+            "ENHYPEN"
+          ],
+          "album": "ROMANCE : UNTOLD",
+          "image": "https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10",
+          "uri": "spotify:track:3gYWGRS64XrGSrjD3vvtga",
+          "url": "https://open.spotify.com/track/3gYWGRS64XrGSrjD3vvtga",
+          "duration_ms": 158660
+        },
+        {
+          "rank": 20,
+          "name": "八方來財(Stacks from All Sides)",
+          "artists": [
+            "攬佬SKAI ISYOURGOD"
+          ],
+          "album": "八方來財(Stacks from All Sides)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739870c9519822a973411b6594",
+          "uri": "spotify:track:7jm2PueKmv4EOHfdbdXMKT",
+          "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT",
+          "duration_ms": 173037
+        },
+        {
+          "rank": 21,
+          "name": "Si Antes Te Hubiera Conocido",
+          "artists": [
+            "KAROL G"
+          ],
+          "album": "Si Antes Te Hubiera Conocido",
+          "image": "https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e",
+          "uri": "spotify:track:6WatFBLVB0x077xWeoVc2k",
+          "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k",
+          "duration_ms": 195824
+        },
+        {
+          "rank": 22,
+          "name": "Julieta",
+          "artists": [
+            "LATIN MAFIA"
+          ],
+          "album": "Julieta",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738455f443c70112a311485138",
+          "uri": "spotify:track:4emEXP671dnpn1thHrogSe",
+          "url": "https://open.spotify.com/track/4emEXP671dnpn1thHrogSe",
+          "duration_ms": 210413
+        },
+        {
           "rank": 23,
+          "name": "Mesh Am Betrouhi Min Bali",
+          "artists": [
+            "Marwan Khoury"
+          ],
+          "album": "El Aad Al Aaksy",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735b5356c58939f98986e72ee8",
+          "uri": "spotify:track:4EEjYOLaUZRPiCgssb1YLa",
+          "url": "https://open.spotify.com/track/4EEjYOLaUZRPiCgssb1YLa",
+          "duration_ms": 257541
+        },
+        {
+          "rank": 24,
           "name": "月下（《白月梵星》影视剧插曲）",
           "artists": [
             "不才"
@@ -2232,7 +2244,7 @@
           "duration_ms": 230640
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Yally Zaalan",
           "artists": [
             "Mohamed Hamaki"
@@ -2244,7 +2256,7 @@
           "duration_ms": 292440
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Call Me By Your Name",
           "artists": [
             "Sophie Castillo"
@@ -2256,7 +2268,7 @@
           "duration_ms": 168021
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Ay Vamos",
           "artists": [
             "J Balvin"
@@ -2268,7 +2280,7 @@
           "duration_ms": 226413
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "وماله",
           "artists": [
             "Amr Diab"
@@ -2278,18 +2290,6 @@
           "uri": "spotify:track:7z1OHWVyKvynHMiIGHVLon",
           "url": "https://open.spotify.com/track/7z1OHWVyKvynHMiIGHVLon",
           "duration_ms": 288313
-        },
-        {
-          "rank": 28,
-          "name": "Mesh Am Betrouhi Min Bali",
-          "artists": [
-            "Marwan Khoury"
-          ],
-          "album": "El Aad Al Aaksy",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735b5356c58939f98986e72ee8",
-          "uri": "spotify:track:4EEjYOLaUZRPiCgssb1YLa",
-          "url": "https://open.spotify.com/track/4EEjYOLaUZRPiCgssb1YLa",
-          "duration_ms": 257541
         },
         {
           "rank": 29,

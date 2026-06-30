@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-30T09:40:25.357Z",
-  "is_playing": false,
+  "updated_at": "2026-06-30T14:13:03.499Z",
+  "is_playing": true,
   "track": {
-    "name": "Scene Two - Roger Rabbit",
+    "name": "Forever",
     "artists": [
-      "Sleeping With Sirens"
+      "keshi"
     ],
-    "album": "If You Were A Movie, This Would Be Your Soundtrack",
-    "image": "https://i.scdn.co/image/ab67616d0000b273de5a8550905395c2d8f7a410",
-    "uri": "spotify:track:1ufmdhLiYExFU8lAVA9wjQ"
+    "album": "Requiem (Deluxe)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733dfa5d71dad925112f5d5b9a",
+    "uri": "spotify:track:2C5nlzIMJ81NYmeGhofNNP"
   },
-  "played_at": "2026-06-29T21:49:37.518Z"
+  "played_at": "2026-06-30T14:13:03.499Z"
 }
