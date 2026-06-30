@@ -37,7 +37,7 @@ export default function FunStats({ top, range, recent }) {
   const hour = busiestHour(plays)
 
   return (
-    <div className="card col-12">
+    <div className="card col-6">
       <h2>The Numbers</h2>
       <div className="stats">
         <div className="stat">
