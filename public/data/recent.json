@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T14:23:39.579Z",
+  "updated_at": "2026-06-30T17:07:22.755Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -4558,6 +4558,285 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27381bfa5296306a950e8b64aa0",
       "uri": "spotify:track:4BdMTfgOY7zGwIGCqJpEnm",
       "duration_ms": 234984
+    },
+    {
+      "played_at": "2026-06-30T14:27:22.801Z",
+      "name": "WHO DO U LUV",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "WHO DO U LUV",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373dc757337bcdd30b76723c5",
+      "uri": "spotify:track:74KASQI7XvyWdsNyQcJuv9",
+      "duration_ms": 248760
+    },
+    {
+      "played_at": "2026-06-30T14:33:25.128Z",
+      "name": "Chica de Verde",
+      "artists": [
+        "Bruno Romano",
+        "Elisa González"
+      ],
+      "album": "Chica de Verde",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da9eccf72a3e9d55e41db1f4",
+      "uri": "spotify:track:6ZxsJwY5QgN6R0mRBYWrHf",
+      "duration_ms": 225694
+    },
+    {
+      "played_at": "2026-06-30T14:40:12.826Z",
+      "name": "Te Me Vas",
+      "artists": [
+        "Prince Royce"
+      ],
+      "album": "Phase II",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737f187201bff22a11f0d6053b",
+      "uri": "spotify:track:18MbEK3bfXlTBQZSr74afQ",
+      "duration_ms": 198973
+    },
+    {
+      "played_at": "2026-06-30T14:45:35.435Z",
+      "name": "Si Me Voy (with The Marías)",
+      "artists": [
+        "Cuco",
+        "The Marías"
+      ],
+      "album": "Si Me Voy (with The Marías)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27314a012da5638f895eaefffa5",
+      "uri": "spotify:track:6GiCszfL4D2GlCU8tFU3sR",
+      "duration_ms": 203219
+    },
+    {
+      "played_at": "2026-06-30T14:49:27.180Z",
+      "name": "Someone Else",
+      "artists": [
+        "LINDO"
+      ],
+      "album": "Someone Else",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734fe417719cd22cee2d316b9b",
+      "uri": "spotify:track:2fJUdrKE20A0MDBKRYKmE8",
+      "duration_ms": 138598
+    },
+    {
+      "played_at": "2026-06-30T14:56:38.245Z",
+      "name": "Oh Qué Será?",
+      "artists": [
+        "Willie Colón"
+      ],
+      "album": "Greatest Hits",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f37950978573d045e79d886b",
+      "uri": "spotify:track:2n1MTLCis6qPSDKdr5XSDI",
+      "duration_ms": 304200
+    },
+    {
+      "played_at": "2026-06-30T15:02:01.681Z",
+      "name": "Y, ¿Si fuera ella?",
+      "artists": [
+        "Alejandro Sanz"
+      ],
+      "album": "Más",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733443d9c76e9713a5986c983c",
+      "uri": "spotify:track:1DmlUpnkg4N1VWquSoffF1",
+      "duration_ms": 323026
+    },
+    {
+      "played_at": "2026-06-30T15:08:33.399Z",
+      "name": "Deslocado",
+      "artists": [
+        "NAPA"
+      ],
+      "album": "Deslocado",
+      "image": "https://i.scdn.co/image/ab67616d0000b273836edb90093bc743598aa54d",
+      "uri": "spotify:track:31CsSZ9KlQmEu0JvWSkM3j",
+      "duration_ms": 179996
+    },
+    {
+      "played_at": "2026-06-30T15:12:18.727Z",
+      "name": "Hoy El Aire Huele a Ti",
+      "artists": [
+        "Luis Miguel"
+      ],
+      "album": "20 Años",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e6cab0ffee915cdbe7c7d85a",
+      "uri": "spotify:track:2ZYvD9zQf1iBLelkgkUl7U",
+      "duration_ms": 224493
+    },
+    {
+      "played_at": "2026-06-30T15:15:58.327Z",
+      "name": "Estar Contigo",
+      "artists": [
+        "Bruno Romano"
+      ],
+      "album": "Estar Contigo",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5876eb6777391b38362e2a",
+      "uri": "spotify:track:6Pj7HgPDtqCbrTlgGrlqJ4",
+      "duration_ms": 214615
+    },
+    {
+      "played_at": "2026-06-30T15:23:58.172Z",
+      "name": "Casi algo",
+      "artists": [
+        "Me Dicen Jos"
+      ],
+      "album": "Casi algo",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b3092d1991912ddea52f18c5",
+      "uri": "spotify:track:2lRIrlut8slUKShhAxJuK7",
+      "duration_ms": 165229
+    },
+    {
+      "played_at": "2026-06-30T15:28:13.379Z",
+      "name": "Y Qué",
+      "artists": [
+        "Martox",
+        "Lena Dardelet"
+      ],
+      "album": "Y Qué",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aada9f071eb7bb5cb8f47b81",
+      "uri": "spotify:track:1Dd6CuCiuoTj0eiBnGnx4X",
+      "duration_ms": 168979
+    },
+    {
+      "played_at": "2026-06-30T15:31:48.476Z",
+      "name": "Llévame",
+      "artists": [
+        "Bruno Romano",
+        "Thiago Muller"
+      ],
+      "album": "Llévame",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b827a895171e8d07687961f0",
+      "uri": "spotify:track:4mJYjmCeiuYarCtAc26VyS",
+      "duration_ms": 214219
+    },
+    {
+      "played_at": "2026-06-30T15:35:23.351Z",
+      "name": "Estar Contigo",
+      "artists": [
+        "Bruno Romano"
+      ],
+      "album": "Estar Contigo",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5876eb6777391b38362e2a",
+      "uri": "spotify:track:6Pj7HgPDtqCbrTlgGrlqJ4",
+      "duration_ms": 214615
+    },
+    {
+      "played_at": "2026-06-30T16:10:12.402Z",
+      "name": "Fallen Star",
+      "artists": [
+        "The Neighbourhood"
+      ],
+      "album": "Fallen Star",
+      "image": "https://i.scdn.co/image/ab67616d0000b27386a26fe844d212d650debca2",
+      "uri": "spotify:track:60F6pgM6H6miNr5AmjxwjL",
+      "duration_ms": 224938
+    },
+    {
+      "played_at": "2026-06-30T16:20:34.799Z",
+      "name": "John Wayne",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cigarettes After Sex",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+      "uri": "spotify:track:4xbN7giFhdGbSQTPyG178F",
+      "duration_ms": 258013
+    },
+    {
+      "played_at": "2026-06-30T16:25:43.159Z",
+      "name": "Nobody New",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Nobody New",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734076c62eeace86cc7bde7aef",
+      "uri": "spotify:track:3BUc2A0MJ53FHwiy3eohBt",
+      "duration_ms": 215200
+    },
+    {
+      "played_at": "2026-06-30T16:29:50.027Z",
+      "name": "Drugs and Money",
+      "artists": [
+        "Henry Morris"
+      ],
+      "album": "Drugs and Money",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336514063413e17cbeea6d8c4",
+      "uri": "spotify:track:7dNn04Uo3QeNLzAhjPNLDB",
+      "duration_ms": 179016
+    },
+    {
+      "played_at": "2026-06-30T16:35:42.992Z",
+      "name": "You Get Me So High",
+      "artists": [
+        "The Neighbourhood"
+      ],
+      "album": "Hard To Imagine The Neighbourhood Ever Changing",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739b6ac98a52f62d5cb473da40",
+      "uri": "spotify:track:7zwn1eykZtZ5LODrf7c0tS",
+      "duration_ms": 153000
+    },
+    {
+      "played_at": "2026-06-30T16:36:31.692Z",
+      "name": "Tuyo",
+      "artists": [
+        "Nico Play"
+      ],
+      "album": "Tuyo",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734a6a2a2e1b5380da5f612571",
+      "uri": "spotify:track:2TwSlXU3M2h0R3XEuWU22i",
+      "duration_ms": 144115
+    },
+    {
+      "played_at": "2026-06-30T16:40:22.691Z",
+      "name": "sweet escape",
+      "artists": [
+        "Elias"
+      ],
+      "album": "sweet escape",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f33d128f4f526a57f5574364",
+      "uri": "spotify:track:2UUL8S9BKryq83JZPjNgPS",
+      "duration_ms": 254013
+    },
+    {
+      "played_at": "2026-06-30T16:48:45.867Z",
+      "name": "that's how it goes",
+      "artists": [
+        "Asal"
+      ],
+      "album": "Kiss the Sun",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730624cf06fd9d727807d96ffd",
+      "uri": "spotify:track:39bt3rdzrE0g1rX7udDoFD",
+      "duration_ms": 239000
+    },
+    {
+      "played_at": "2026-06-30T16:52:15.588Z",
+      "name": "SLOW DANCING IN THE DARK",
+      "artists": [
+        "Joji"
+      ],
+      "album": "BALLADS 1",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734cc52cd7a712842234e4fce2",
+      "uri": "spotify:track:6rY5FAWxCdAGllYEOZMbjW",
+      "duration_ms": 209273
+    },
+    {
+      "played_at": "2026-06-30T16:57:37.059Z",
+      "name": "Back To Me",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Back To Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a66ab2cbaebcc84ddd45a078",
+      "uri": "spotify:track:4E0P1xs3JNmsNr5c5nFTZJ",
+      "duration_ms": 214800
+    },
+    {
+      "played_at": "2026-06-30T17:01:20.403Z",
+      "name": "Why'd You Only Call Me When You're High?",
+      "artists": [
+        "Arctic Monkeys"
+      ],
+      "album": "AM",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+      "uri": "spotify:track:086myS9r57YsLbJpU0TgK9",
+      "duration_ms": 161123
     }
   ]
 }

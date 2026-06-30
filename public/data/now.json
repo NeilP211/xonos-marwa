@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-30T14:23:39.734Z",
-  "is_playing": true,
+  "updated_at": "2026-06-30T17:07:22.790Z",
+  "is_playing": false,
   "track": {
-    "name": "WHO DO U LUV",
+    "name": "Why'd You Only Call Me When You're High?",
     "artists": [
-      "Avenoir"
+      "Arctic Monkeys"
     ],
-    "album": "WHO DO U LUV",
-    "image": "https://i.scdn.co/image/ab67616d0000b27373dc757337bcdd30b76723c5",
-    "uri": "spotify:track:74KASQI7XvyWdsNyQcJuv9"
+    "album": "AM",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+    "uri": "spotify:track:086myS9r57YsLbJpU0TgK9"
   },
-  "played_at": "2026-06-30T14:23:39.734Z"
+  "played_at": "2026-06-30T17:01:20.403Z"
 }
