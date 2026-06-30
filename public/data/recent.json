@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T14:19:34.757Z",
+  "updated_at": "2026-06-30T14:23:39.579Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -4547,6 +4547,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e93dbbce3937df90318b35a1",
       "uri": "spotify:track:3BPuq1TTqJ5lat7IKqyZTW",
       "duration_ms": 291564
+    },
+    {
+      "played_at": "2026-06-30T14:23:13.726Z",
+      "name": "雨蝶 - R&B微醺版",
+      "artists": [
+        "微醺卡带"
+      ],
+      "album": "雨蝶 (R&B微醺版)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27381bfa5296306a950e8b64aa0",
+      "uri": "spotify:track:4BdMTfgOY7zGwIGCqJpEnm",
+      "duration_ms": 234984
     }
   ]
 }

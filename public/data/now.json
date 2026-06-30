@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-30T14:19:34.856Z",
+  "updated_at": "2026-06-30T14:23:39.734Z",
   "is_playing": true,
   "track": {
-    "name": "雨蝶 - R&B微醺版",
+    "name": "WHO DO U LUV",
     "artists": [
-      "微醺卡带"
+      "Avenoir"
     ],
-    "album": "雨蝶 (R&B微醺版)",
-    "image": "https://i.scdn.co/image/ab67616d0000b27381bfa5296306a950e8b64aa0",
-    "uri": "spotify:track:4BdMTfgOY7zGwIGCqJpEnm"
+    "album": "WHO DO U LUV",
+    "image": "https://i.scdn.co/image/ab67616d0000b27373dc757337bcdd30b76723c5",
+    "uri": "spotify:track:74KASQI7XvyWdsNyQcJuv9"
   },
-  "played_at": "2026-06-30T14:19:34.856Z"
+  "played_at": "2026-06-30T14:23:39.734Z"
 }
