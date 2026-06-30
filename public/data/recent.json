@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T20:01:23.325Z",
+  "updated_at": "2026-06-30T22:16:14.697Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -4883,6 +4883,120 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d51f0d8fb16c129232ab32f5",
       "uri": "spotify:track:590oorGK2QmupDeAGtk1Al",
       "duration_ms": 154960
+    },
+    {
+      "played_at": "2026-06-30T20:12:11.456Z",
+      "name": "Carita Linda",
+      "artists": [
+        "Rauw Alejandro"
+      ],
+      "album": "Cosa Nuestra: Capítulo 0",
+      "image": "https://i.scdn.co/image/ab67616d0000b273586cde445b4e951ae727c536",
+      "uri": "spotify:track:4Xpt2bVLKFvlL5agz7cBTj",
+      "duration_ms": 203463
+    },
+    {
+      "played_at": "2026-06-30T20:16:25.937Z",
+      "name": "GuabanSexxx",
+      "artists": [
+        "Rauw Alejandro"
+      ],
+      "album": "Cosa Nuestra: Capítulo 0",
+      "image": "https://i.scdn.co/image/ab67616d0000b273586cde445b4e951ae727c536",
+      "uri": "spotify:track:6W2yL4Zfe2WoaSLj7xPJiM",
+      "duration_ms": 161055
+    },
+    {
+      "played_at": "2026-06-30T20:21:08.816Z",
+      "name": "Tú y Yo - Original",
+      "artists": [
+        "La Misma Gente"
+      ],
+      "album": "Grandes Exitos",
+      "image": "https://i.scdn.co/image/ab67616d0000b27319bd6fc581a3fd983da52b3a",
+      "uri": "spotify:track:17LdmV5cIcTvxB0O18tD2Z",
+      "duration_ms": 282331
+    },
+    {
+      "played_at": "2026-06-30T20:23:55.219Z",
+      "name": "Tu Corazón Es Mío...",
+      "artists": [
+        "Kali Uchis"
+      ],
+      "album": "ORQUÍDEAS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b968625b03ec59b30b48e9c3",
+      "uri": "spotify:track:59ak5RmKdyspU26ifSg0rW",
+      "duration_ms": 165845
+    },
+    {
+      "played_at": "2026-06-30T20:30:45.748Z",
+      "name": "Revolú",
+      "artists": [
+        "Rauw Alejandro",
+        "Feid"
+      ],
+      "album": "Cosa Nuestra",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b",
+      "uri": "spotify:track:4lqJsJd7kqWVvamQ4aFHA8",
+      "duration_ms": 215511
+    },
+    {
+      "played_at": "2026-06-30T20:39:34.212Z",
+      "name": "Florida - (Intro)",
+      "artists": [
+        "Valentina Rico"
+      ],
+      "album": "Florida Sunset",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335dc78e0a5e75fb40144a876",
+      "uri": "spotify:track:0HwcjUFHUepCdJW1Jnr6m9",
+      "duration_ms": 109397
+    },
+    {
+      "played_at": "2026-06-30T20:42:15.317Z",
+      "name": "samaná",
+      "artists": [
+        "Mau y Ricky",
+        "Danny Ocean",
+        "Yorghaki"
+      ],
+      "album": "samaná",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a606a762d5a93bec654ee9fe",
+      "uri": "spotify:track:3JkqRmM1gWmIZajzcz6lhW",
+      "duration_ms": 160575
+    },
+    {
+      "played_at": "2026-06-30T20:47:34.860Z",
+      "name": "Tú",
+      "artists": [
+        "maye"
+      ],
+      "album": "Tú",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e535e8147235d96bb734ba41",
+      "uri": "spotify:track:1jecO8NeYLsVWVptITz4c1",
+      "duration_ms": 206611
+    },
+    {
+      "played_at": "2026-06-30T20:55:36.674Z",
+      "name": "Si Me Voy (with The Marías)",
+      "artists": [
+        "Cuco",
+        "The Marías"
+      ],
+      "album": "Si Me Voy (with The Marías)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27314a012da5638f895eaefffa5",
+      "uri": "spotify:track:6GiCszfL4D2GlCU8tFU3sR",
+      "duration_ms": 203219
+    },
+    {
+      "played_at": "2026-06-30T22:11:13.059Z",
+      "name": "505",
+      "artists": [
+        "Arctic Monkeys"
+      ],
+      "album": "Favourite Worst Nightmare (Standard Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90",
+      "uri": "spotify:track:58ge6dfP91o9oXMzq3XkIS",
+      "duration_ms": 253586
     }
   ]
 }

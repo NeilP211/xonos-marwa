@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-30T20:01:23.431Z",
-  "is_playing": true,
+  "updated_at": "2026-06-30T22:16:14.807Z",
+  "is_playing": false,
   "track": {
-    "name": "Cherish the Day",
+    "name": "505",
     "artists": [
-      "Sade"
+      "Arctic Monkeys"
     ],
-    "album": "Love Deluxe",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
-    "uri": "spotify:track:22QiTJqDn1BIRSh4mkNJ5w"
+    "album": "Favourite Worst Nightmare (Standard Version)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90",
+    "uri": "spotify:track:58ge6dfP91o9oXMzq3XkIS"
   },
-  "played_at": "2026-06-30T20:01:23.431Z"
+  "played_at": "2026-06-30T22:11:13.059Z"
 }
