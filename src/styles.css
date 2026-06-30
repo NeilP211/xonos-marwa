@@ -156,13 +156,6 @@ body {
 .totw-link { font-family: var(--mono); font-size: 12px; text-transform: uppercase; letter-spacing: 0.5px; border: 1px solid var(--border-2); padding: 8px 14px; text-decoration: none; }
 .totw-link:hover { border-color: var(--accent); }
 
-/* Compare */
-.cmp-body { margin-top: 14px; }
-.cmp-score { margin-bottom: 16px; }
-.cmp-score .big { font-size: 44px; }
-.cmp-group { margin-top: 14px; }
-.cmp-rows { display: flex; flex-direction: column; max-height: 220px; overflow-y: auto; }
-
 /* New discoveries */
 .disc-list { display: flex; flex-direction: column; max-height: 420px; overflow-y: auto; }
 .disc-row { display: flex; align-items: center; gap: 12px; padding: 8px 6px; border-bottom: 1px solid var(--border); text-decoration: none; color: inherit; }

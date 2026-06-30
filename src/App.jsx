@@ -10,7 +10,6 @@ import TopArtists from './components/TopArtists'
 import ListeningPulse from './components/ListeningPulse'
 import RecentlyPlayed from './components/RecentlyPlayed'
 import FunStats from './components/FunStats'
-import Compare from './components/Compare'
 import NewDiscoveries from './components/NewDiscoveries'
 
 // Slice the plays log to the selected activity scope ('all' or 'YYYY-M').
@@ -84,9 +83,8 @@ export default function App() {
         <TopArtists artists={rangeData?.artists} />
         <RecentlyPlayed recent={scopedRecent} />
         <ListeningPulse recent={scopedRecent} />
-        <Compare top={top} range={range} />
-        <NewDiscoveries top={top} />
         <FunStats top={top} range={range} recent={scopedRecent} />
+        <NewDiscoveries top={top} />
       </div>
 
       <div className="footnote">
