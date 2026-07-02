@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T14:05:45.895Z",
+  "updated_at": "2026-07-02T16:51:12.243Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -4997,6 +4997,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90",
       "uri": "spotify:track:58ge6dfP91o9oXMzq3XkIS",
       "duration_ms": 253586
+    },
+    {
+      "played_at": "2026-07-02T14:36:21.256Z",
+      "name": "IT's You (YEOSANG, SAN, WOOYOUNG)",
+      "artists": [
+        "ATEEZ"
+      ],
+      "album": "THE WORLD EP.FIN : WILL",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb0dc2a2a2017bb36fce34a0",
+      "uri": "spotify:track:7B8BU9kWRWUVSppWQGdgiz",
+      "duration_ms": 209538
     }
   ]
 }

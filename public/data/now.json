@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-02T14:05:46.012Z",
+  "updated_at": "2026-07-02T16:51:12.352Z",
   "is_playing": false,
   "track": {
-    "name": "505",
+    "name": "IT's You (YEOSANG, SAN, WOOYOUNG)",
     "artists": [
-      "Arctic Monkeys"
+      "ATEEZ"
     ],
-    "album": "Favourite Worst Nightmare (Standard Version)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90",
-    "uri": "spotify:track:58ge6dfP91o9oXMzq3XkIS"
+    "album": "THE WORLD EP.FIN : WILL",
+    "image": "https://i.scdn.co/image/ab67616d0000b273fb0dc2a2a2017bb36fce34a0",
+    "uri": "spotify:track:7B8BU9kWRWUVSppWQGdgiz"
   },
-  "played_at": "2026-06-30T22:11:13.059Z"
+  "played_at": "2026-07-02T14:36:21.256Z"
 }
