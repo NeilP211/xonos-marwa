@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T20:00:34.071Z",
+  "generated_at": "2026-07-06T22:14:44.696Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1898,14 +1898,6 @@
         },
         {
           "rank": 44,
-          "name": "ATEEZ",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb630859e6682cfa878243bacc",
-          "genres": [],
-          "uri": "spotify:artist:68KmkJeZGfwe1OUaivBa2L",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        },
-        {
-          "rank": 45,
           "name": "Prince Royce",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6ce83e3425a74cb9d6bdb1dc",
           "genres": [],
@@ -1913,7 +1905,7 @@
           "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "Jósean Log",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9a3bcad14c8c02538b3627d9",
           "genres": [],
@@ -1921,12 +1913,20 @@
           "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Zhou Shen",
           "image": "https://i.scdn.co/image/ab6761610000e5eb555f21234ccc27d609c6f000",
           "genres": [],
           "uri": "spotify:artist:0BezPR1Hn38i8qShQKunSD",
           "url": "https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD"
+        },
+        {
+          "rank": 47,
+          "name": "ATEEZ",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb630859e6682cfa878243bacc",
+          "genres": [],
+          "uri": "spotify:artist:68KmkJeZGfwe1OUaivBa2L",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         },
         {
           "rank": 48,
