@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-07T09:45:41.035Z",
-  "is_playing": false,
+  "updated_at": "2026-07-07T14:39:23.410Z",
+  "is_playing": true,
   "track": {
-    "name": "PARA oLviDarTe",
+    "name": "Que Locura Enamorarme De Ti",
     "artists": [
-      "Joey V Mendez"
+      "Eddie Santiago"
     ],
-    "album": "PARA oLviDarTe",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a16008540f06c59ff2476844",
-    "uri": "spotify:track:6QYVMsyLobnHZasFDC4d93"
+    "album": "Rodven Clasico: Eddie Santiago: Atrevido Y Diferente",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731c8b6c0700d72b1bcd2f0b16",
+    "uri": "spotify:track:3WBNV3cpWfGXF7loErZ5pA"
   },
-  "played_at": "2026-07-04T11:08:21.157Z"
+  "played_at": "2026-07-07T14:39:23.410Z"
 }
