@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-07T14:39:23.410Z",
-  "is_playing": true,
+  "updated_at": "2026-07-07T17:17:03.094Z",
+  "is_playing": false,
   "track": {
-    "name": "Que Locura Enamorarme De Ti",
+    "name": "CANSDA Victor",
     "artists": [
-      "Eddie Santiago"
+      "Saicort CB"
     ],
-    "album": "Rodven Clasico: Eddie Santiago: Atrevido Y Diferente",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731c8b6c0700d72b1bcd2f0b16",
-    "uri": "spotify:track:3WBNV3cpWfGXF7loErZ5pA"
+    "album": "CANSDA Victor",
+    "image": "https://i.scdn.co/image/ab67616d0000b273db3a870239bac60c9628a613",
+    "uri": "spotify:track:4CVyvFuOn30oI67Zg9jzOX"
   },
-  "played_at": "2026-07-07T14:39:23.410Z"
+  "played_at": "2026-07-07T16:29:36.116Z"
 }

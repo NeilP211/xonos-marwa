@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T14:39:23.191Z",
+  "updated_at": "2026-07-07T17:17:02.983Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -5130,6 +5130,116 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
       "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
       "duration_ms": 281333
+    },
+    {
+      "played_at": "2026-07-07T14:40:21.273Z",
+      "name": "Que Locura Enamorarme De Ti",
+      "artists": [
+        "Eddie Santiago"
+      ],
+      "album": "Rodven Clasico: Eddie Santiago: Atrevido Y Diferente",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c8b6c0700d72b1bcd2f0b16",
+      "uri": "spotify:track:3WBNV3cpWfGXF7loErZ5pA",
+      "duration_ms": 308040
+    },
+    {
+      "played_at": "2026-07-07T14:45:26.229Z",
+      "name": "Oh Qué Será?",
+      "artists": [
+        "Willie Colón"
+      ],
+      "album": "Greatest Hits",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f37950978573d045e79d886b",
+      "uri": "spotify:track:2n1MTLCis6qPSDKdr5XSDI",
+      "duration_ms": 304200
+    },
+    {
+      "played_at": "2026-07-07T16:02:18.806Z",
+      "name": "NO SOY EL MISMO",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "NO SOY EL MISMO",
+      "image": "https://i.scdn.co/image/ab67616d0000b27389ac155cf0d60f0ce8104c26",
+      "uri": "spotify:track:1U2Ghd3eflyqLkYne9tlfB",
+      "duration_ms": 195923
+    },
+    {
+      "played_at": "2026-07-07T16:07:15.747Z",
+      "name": "SE QUE TE FALLE",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "El Replay",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c0c5d801f8c36413bea58094",
+      "uri": "spotify:track:10J3TjoiccXRy2k51k3qFl",
+      "duration_ms": 221229
+    },
+    {
+      "played_at": "2026-07-07T16:11:20.581Z",
+      "name": "WITH YOU",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "WITH YOU",
+      "image": "https://i.scdn.co/image/ab67616d0000b273261830a716a18e0d4e51a45d",
+      "uri": "spotify:track:2jTC72PUAXd029K3p3wic1",
+      "duration_ms": 244388
+    },
+    {
+      "played_at": "2026-07-07T16:16:30.336Z",
+      "name": "En La Playita",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "El Replay",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c0c5d801f8c36413bea58094",
+      "uri": "spotify:track:3yqmZHD1huTGOojHzgsd3O",
+      "duration_ms": 221489
+    },
+    {
+      "played_at": "2026-07-07T16:19:23.501Z",
+      "name": "TRES DE LA MAÑANA",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "TRE$",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730ce00f67033dfe0012463b7f",
+      "uri": "spotify:track:7AQmU8MJY0OSCFIUsV6FCk",
+      "duration_ms": 172720
+    },
+    {
+      "played_at": "2026-07-07T16:23:46.684Z",
+      "name": "Pobre Corazon",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "Pobre Corazon",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dfbdae96874e60f713c37422",
+      "uri": "spotify:track:2tUL458Gk3gO4CV8j8hn4O",
+      "duration_ms": 170721
+    },
+    {
+      "played_at": "2026-07-07T16:26:37.573Z",
+      "name": "El Replay",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "El Replay",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c0c5d801f8c36413bea58094",
+      "uri": "spotify:track:2ZoXNmIe9xQPAJMh5UNtaP",
+      "duration_ms": 170400
+    },
+    {
+      "played_at": "2026-07-07T16:29:36.116Z",
+      "name": "CANSDA Victor",
+      "artists": [
+        "Saicort CB"
+      ],
+      "album": "CANSDA Victor",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db3a870239bac60c9628a613",
+      "uri": "spotify:track:4CVyvFuOn30oI67Zg9jzOX",
+      "duration_ms": 178105
     }
   ]
 }
