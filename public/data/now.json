@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-08T11:06:48.842Z",
+  "updated_at": "2026-07-08T14:14:28.478Z",
   "is_playing": false,
   "track": {
-    "name": "CANSDA Victor",
+    "name": "The Secret \"Between The Sheets\"",
     "artists": [
-      "Saicort CB"
+      "A Heartwell Ending"
     ],
-    "album": "CANSDA Victor",
-    "image": "https://i.scdn.co/image/ab67616d0000b273db3a870239bac60c9628a613",
-    "uri": "spotify:track:4CVyvFuOn30oI67Zg9jzOX"
+    "album": "Trust Us We Lie",
+    "image": "https://i.scdn.co/image/ab67616d0000b27334cc2459402d906576e834c2",
+    "uri": "spotify:track:631ogYQnIh9HsEc4xCqlxe"
   },
-  "played_at": "2026-07-07T16:29:36.116Z"
+  "played_at": "2026-07-08T14:14:28.478Z"
 }

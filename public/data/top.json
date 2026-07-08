@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T11:06:48.651Z",
+  "generated_at": "2026-07-08T14:14:28.194Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2407,6 +2407,18 @@
         },
         {
           "rank": 38,
+          "name": "Virgen",
+          "artists": [
+            "Adolescent's Orquesta"
+          ],
+          "album": "La Historia... Los Éxitos",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fb433733c10ebc43787e4ea7",
+          "uri": "spotify:track:1HWbpfmzt1YplLceHgirCv",
+          "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv",
+          "duration_ms": 273763
+        },
+        {
+          "rank": 39,
           "name": "El Merengue",
           "artists": [
             "Marshmello",
@@ -2419,7 +2431,7 @@
           "duration_ms": 189668
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "VeLDÁ",
           "artists": [
             "Bad Bunny",
@@ -2431,18 +2443,6 @@
           "uri": "spotify:track:7d6yK8v8J484SWH5prIQiE",
           "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE",
           "duration_ms": 235336
-        },
-        {
-          "rank": 40,
-          "name": "Virgen",
-          "artists": [
-            "Adolescent's Orquesta"
-          ],
-          "album": "La Historia... Los Éxitos",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fb433733c10ebc43787e4ea7",
-          "uri": "spotify:track:1HWbpfmzt1YplLceHgirCv",
-          "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv",
-          "duration_ms": 273763
         },
         {
           "rank": 41,
@@ -2811,11 +2811,11 @@
         },
         {
           "rank": 31,
-          "name": "Rocco",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebfafe10116210a495dae342fa",
+          "name": "Pierce The Veil",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6f8f8d13be17bf486219edc7",
           "genres": [],
-          "uri": "spotify:artist:30gZlVVUt3gwNXlLorZjuq",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+          "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         },
         {
           "rank": 32,
@@ -2827,14 +2827,6 @@
         },
         {
           "rank": 33,
-          "name": "Pierce The Veil",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6f8f8d13be17bf486219edc7",
-          "genres": [],
-          "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        },
-        {
-          "rank": 34,
           "name": "Daniel, Me Estás Matando",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2c55dc0c5e84b17b01869558",
           "genres": [],
@@ -2842,7 +2834,7 @@
           "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "NewJeans",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8dae71b664393f38ba91f891",
           "genres": [],
@@ -2850,12 +2842,20 @@
           "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "Feid",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e529f4ad13f86c69962cb12",
           "genres": [],
           "uri": "spotify:artist:2LRoIwlKmHjgvigdNGBHNo",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "rank": 36,
+          "name": "Rocco",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebfafe10116210a495dae342fa",
+          "genres": [],
+          "uri": "spotify:artist:30gZlVVUt3gwNXlLorZjuq",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
         },
         {
           "rank": 37,

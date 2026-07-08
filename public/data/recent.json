@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T11:06:48.731Z",
+  "updated_at": "2026-07-08T14:14:28.332Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -5240,6 +5240,94 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273db3a870239bac60c9628a613",
       "uri": "spotify:track:4CVyvFuOn30oI67Zg9jzOX",
       "duration_ms": 178105
+    },
+    {
+      "played_at": "2026-07-08T13:28:43.181Z",
+      "name": "All My Heart",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "Let's Cheers To This",
+      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
+      "duration_ms": 279293
+    },
+    {
+      "played_at": "2026-07-08T13:34:34.621Z",
+      "name": "Fire",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "Let's Cheers To This",
+      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+      "uri": "spotify:track:1VLpNI5LeiLVAn0O6owtOU",
+      "duration_ms": 227600
+    },
+    {
+      "played_at": "2026-07-08T13:38:51.907Z",
+      "name": "Never Let This Go",
+      "artists": [
+        "Paramore"
+      ],
+      "album": "All We Know Is Falling",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
+      "uri": "spotify:track:2itu79WbZhUCHX4jg0fyAd",
+      "duration_ms": 220966
+    },
+    {
+      "played_at": "2026-07-08T13:45:07.170Z",
+      "name": "Stay Away from My Friends",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Selfish Machines (Reissue)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733c8674afa47336f571b13ebd",
+      "uri": "spotify:track:4prDTC0ffOikpzqpPkM52w",
+      "duration_ms": 281880
+    },
+    {
+      "played_at": "2026-07-08T13:52:04.591Z",
+      "name": "Love On The Catwalk",
+      "artists": [
+        "Her Words Kill"
+      ],
+      "album": "Load My Revolver, Baby",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e76646aace728931641c5468",
+      "uri": "spotify:track:2t6Z0vjOUQsy3FkBstdvUw",
+      "duration_ms": 416862
+    },
+    {
+      "played_at": "2026-07-08T13:58:25.352Z",
+      "name": "When It Rains",
+      "artists": [
+        "Paramore"
+      ],
+      "album": "Riot!",
+      "image": "https://i.scdn.co/image/ab67616d0000b27369966efa45b125ed6711b43c",
+      "uri": "spotify:track:5MNsy8G3K0Y09QFpktzyrj",
+      "duration_ms": 215093
+    },
+    {
+      "played_at": "2026-07-08T14:03:10.629Z",
+      "name": "Bedless",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Misadventures",
+      "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+      "uri": "spotify:track:3bkkbLyK4GIeg4wxIz4ajY",
+      "duration_ms": 284666
+    },
+    {
+      "played_at": "2026-07-08T14:08:24.905Z",
+      "name": "Let's Cheers To This",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "Let's Cheers To This",
+      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+      "uri": "spotify:track:6vXunR3eU8P0hhMJkVbQOy",
+      "duration_ms": 220293
     }
   ]
 }
