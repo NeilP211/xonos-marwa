@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-07-08T19:27:43.212Z",
+  "updated_at": "2026-07-08T22:08:07.473Z",
   "is_playing": false,
   "track": {
-    "name": "Liberian Girl - 2012 Remastered Version",
+    "name": "IT'S YOU (feat. keshi)",
     "artists": [
-      "Michael Jackson"
+      "MAX",
+      "keshi"
     ],
-    "album": "Bad (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
-    "uri": "spotify:track:2WzQbiXKpmRNLWXbqo8Z7b"
+    "album": "LOVE IN STEREO",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e55eb3a0250595d56d7068a7",
+    "uri": "spotify:track:1hWDc5jD5br9pXSOtubFlf"
   },
-  "played_at": "2026-07-08T19:27:24.682Z"
+  "played_at": "2026-07-08T20:56:58.023Z"
 }

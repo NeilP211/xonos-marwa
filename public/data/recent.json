@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T19:27:43.111Z",
+  "updated_at": "2026-07-08T22:08:07.435Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -5596,6 +5596,130 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
       "uri": "spotify:track:2WzQbiXKpmRNLWXbqo8Z7b",
       "duration_ms": 232801
+    },
+    {
+      "played_at": "2026-07-08T19:29:51.763Z",
+      "name": "Pretty Eyes",
+      "artists": [
+        "zehdi"
+      ],
+      "album": "Pretty Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736cb3e8b977da71d345ce21e9",
+      "uri": "spotify:track:5V2buzGktAWyMe1ldrIvmd",
+      "duration_ms": 209000
+    },
+    {
+      "played_at": "2026-07-08T19:35:51.042Z",
+      "name": "Dirty Diana - 2012 Remaster",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Bad (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
+      "uri": "spotify:track:0AcgKF7kbSoCkh3n7vlHwK",
+      "duration_ms": 280753
+    },
+    {
+      "played_at": "2026-07-08T19:42:57.467Z",
+      "name": "Lovesong",
+      "artists": [
+        "Adele"
+      ],
+      "album": "21",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737e7e5dd9d1ab19fcded8a17f",
+      "uri": "spotify:track:7nm6DlSzzJTH1rk2e6EgJz",
+      "duration_ms": 316240
+    },
+    {
+      "played_at": "2026-07-08T19:46:32.125Z",
+      "name": "Perceive",
+      "artists": [
+        "Pino"
+      ],
+      "album": "Perceive",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bfd9dd1067f2b97fa5bf612b",
+      "uri": "spotify:track:5LiKEur61m7wGv8V8h5Y2v",
+      "duration_ms": 213861
+    },
+    {
+      "played_at": "2026-07-08T19:51:51.233Z",
+      "name": "Mascara",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Around the Fur",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
+      "uri": "spotify:track:4cLdpErILMO8Db8pQVAVcZ",
+      "duration_ms": 225293
+    },
+    {
+      "played_at": "2026-07-08T19:58:39.062Z",
+      "name": "Yours",
+      "artists": [
+        "maye"
+      ],
+      "album": "Yours",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730aedc3771cdda7f51002b8c4",
+      "uri": "spotify:track:0gmStTUTuiU807EB4KafOX",
+      "duration_ms": 220887
+    },
+    {
+      "played_at": "2026-07-08T20:05:05.307Z",
+      "name": "A Night To Remember",
+      "artists": [
+        "beabadoobee",
+        "Laufey"
+      ],
+      "album": "A Night To Remember",
+      "image": "https://i.scdn.co/image/ab67616d0000b27303ea1900840b8804f779f7b3",
+      "uri": "spotify:track:180AbZduI6bYQIzwCHRwu9",
+      "duration_ms": 233388
+    },
+    {
+      "played_at": "2026-07-08T20:10:45.648Z",
+      "name": "Red Swan",
+      "artists": [
+        "YOSHIKI",
+        "HYDE"
+      ],
+      "album": "Red Swan",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
+      "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX",
+      "duration_ms": 263720
+    },
+    {
+      "played_at": "2026-07-08T20:14:10.706Z",
+      "name": "Soft Spot",
+      "artists": [
+        "keshi"
+      ],
+      "album": "Requiem",
+      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
+      "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
+      "duration_ms": 204223
+    },
+    {
+      "played_at": "2026-07-08T20:17:33.770Z",
+      "name": "bittersweet",
+      "artists": [
+        "Madison Beer"
+      ],
+      "album": "bittersweet",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732fb3d517253228abf2468f74",
+      "uri": "spotify:track:3A02hWQ2ebOFDWSbAMNnpw",
+      "duration_ms": 202795
+    },
+    {
+      "played_at": "2026-07-08T20:56:58.023Z",
+      "name": "IT'S YOU (feat. keshi)",
+      "artists": [
+        "MAX",
+        "keshi"
+      ],
+      "album": "LOVE IN STEREO",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e55eb3a0250595d56d7068a7",
+      "uri": "spotify:track:1hWDc5jD5br9pXSOtubFlf",
+      "duration_ms": 173426
     }
   ]
 }
