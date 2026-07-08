@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-08T16:41:00.999Z",
+  "updated_at": "2026-07-08T19:27:43.212Z",
   "is_playing": false,
   "track": {
-    "name": "Flor De Michoacán",
+    "name": "Liberian Girl - 2012 Remastered Version",
     "artists": [
-      "Menny Flores"
+      "Michael Jackson"
     ],
-    "album": "Flor De Michoacán",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
-    "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3"
+    "album": "Bad (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
+    "uri": "spotify:track:2WzQbiXKpmRNLWXbqo8Z7b"
   },
-  "played_at": "2026-07-08T14:20:10.375Z"
+  "played_at": "2026-07-08T19:27:24.682Z"
 }
