@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-08T14:14:28.478Z",
+  "updated_at": "2026-07-08T16:41:00.999Z",
   "is_playing": false,
   "track": {
-    "name": "The Secret \"Between The Sheets\"",
+    "name": "Flor De Michoacán",
     "artists": [
-      "A Heartwell Ending"
+      "Menny Flores"
     ],
-    "album": "Trust Us We Lie",
-    "image": "https://i.scdn.co/image/ab67616d0000b27334cc2459402d906576e834c2",
-    "uri": "spotify:track:631ogYQnIh9HsEc4xCqlxe"
+    "album": "Flor De Michoacán",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
+    "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3"
   },
-  "played_at": "2026-07-08T14:14:28.478Z"
+  "played_at": "2026-07-08T14:20:10.375Z"
 }
