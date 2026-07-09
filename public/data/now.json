@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-09T15:14:02.430Z",
-  "is_playing": true,
+  "updated_at": "2026-07-09T19:48:57.335Z",
+  "is_playing": false,
   "track": {
-    "name": "一個人",
+    "name": "Fuck it I love you",
     "artists": [
-      "A-Lin"
+      "Lana Del Rey"
     ],
-    "album": "一個人",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a19f46e222d927c2c80383c2",
-    "uri": "spotify:track:5Vxi8yyujUP3tw8hfR6abp"
+    "album": "Norman Fucking Rockwell!",
+    "image": "https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9",
+    "uri": "spotify:track:7MtVPRGtZl6rPjMfLoI3Lh"
   },
-  "played_at": "2026-07-09T15:14:02.430Z"
+  "played_at": "2026-07-09T17:43:52.804Z"
 }

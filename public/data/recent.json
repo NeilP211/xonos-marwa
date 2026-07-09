@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T15:14:02.236Z",
+  "updated_at": "2026-07-09T19:48:57.259Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -5901,6 +5901,230 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732a2c9595bdb1f886665c251c",
       "uri": "spotify:track:0a8FVXJdTfcbMm7u5UDtBe",
       "duration_ms": 234736
+    },
+    {
+      "played_at": "2026-07-09T15:25:21.547Z",
+      "name": "Tamally Maak",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "Tamally Maak",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+      "uri": "spotify:track:6TYFcqqQVQPb3YsgfRhvqs",
+      "duration_ms": 269232
+    },
+    {
+      "played_at": "2026-07-09T15:31:39.241Z",
+      "name": "Awseflak Eh",
+      "artists": [
+        "Ragheb Alama"
+      ],
+      "album": "Ragheb Alama (Greatest Hits)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a91bd0e51c49398efdbbc980",
+      "uri": "spotify:track:3oJGAoJVJlC22adeGpoKqR",
+      "duration_ms": 275200
+    },
+    {
+      "played_at": "2026-07-09T15:36:05.817Z",
+      "name": "Amarain",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "Amarain",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335f0ee93b7a038510fe0dad0",
+      "uri": "spotify:track:0WcFWvjYOAEFJn1LuvqX7F",
+      "duration_ms": 265365
+    },
+    {
+      "played_at": "2026-07-09T16:06:03.467Z",
+      "name": "Look Here",
+      "artists": [
+        "BTS"
+      ],
+      "album": "Dark & Wild",
+      "image": "https://i.scdn.co/image/ab67616d0000b273abe7090bc3ae94d741dfaf6b",
+      "uri": "spotify:track:0x4cMbCLC6L7aJQs3EiPaZ",
+      "duration_ms": 218887
+    },
+    {
+      "played_at": "2026-07-09T16:12:11.025Z",
+      "name": "It Will Rain",
+      "artists": [
+        "Bruno Mars"
+      ],
+      "album": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f01ba25235fb24f73605b9dd",
+      "uri": "spotify:track:0RUGuh2uSNFJpGMSsD1F5C",
+      "duration_ms": 257720
+    },
+    {
+      "played_at": "2026-07-09T16:25:45.746Z",
+      "name": "Virgen",
+      "artists": [
+        "Adolescent's Orquesta"
+      ],
+      "album": "Ahora Más Que Nunca",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c30c9fc1d43d8e1ca14ecbe6",
+      "uri": "spotify:track:5HCGrYR7g9u2X9Ju83yQLm",
+      "duration_ms": 271751
+    },
+    {
+      "played_at": "2026-07-09T16:30:31.586Z",
+      "name": "Tu Amigo o Tu Amante",
+      "artists": [
+        "La Sabrosura"
+      ],
+      "album": "The Best Of",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b8d9d2118b328116f170c902",
+      "uri": "spotify:track:2GgBL5RYZafPzqfHJjn4p6",
+      "duration_ms": 285120
+    },
+    {
+      "played_at": "2026-07-09T16:41:48.258Z",
+      "name": "A Match Into Water",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:54MXF9I8s3DuiQo3g0gZ5k",
+      "duration_ms": 212546
+    },
+    {
+      "played_at": "2026-07-09T16:45:44.589Z",
+      "name": "King For A Day",
+      "artists": [
+        "Pierce The Veil",
+        "Kellin Quinn"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:1IT0WQk5J8NsaeII8ktdlZ",
+      "duration_ms": 236293
+    },
+    {
+      "played_at": "2026-07-09T16:50:42.761Z",
+      "name": "Circles",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Misadventures",
+      "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+      "uri": "spotify:track:6zUy2nnchfZpzaDalE6sO2",
+      "duration_ms": 224306
+    },
+    {
+      "played_at": "2026-07-09T16:56:21.865Z",
+      "name": "Bulls In The Bronx",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:23UoI3jlFiWdo5jadUYo69",
+      "duration_ms": 267866
+    },
+    {
+      "played_at": "2026-07-09T17:03:19.147Z",
+      "name": "Dive In",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Misadventures",
+      "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+      "uri": "spotify:track:6LhGzSZlIGxZpyIXXZn9ZV",
+      "duration_ms": 292360
+    },
+    {
+      "played_at": "2026-07-09T17:07:29.092Z",
+      "name": "Pass The Nirvana",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:7I93h9I0RUqt1ci3Bfa290",
+      "duration_ms": 197373
+    },
+    {
+      "played_at": "2026-07-09T17:20:54.779Z",
+      "name": "Caraphernelia",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Selfish Machines",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
+      "uri": "spotify:track:2G8PweZBBwTpyP8vpNQJK2",
+      "duration_ms": 268480
+    },
+    {
+      "played_at": "2026-07-09T17:25:23.461Z",
+      "name": "You're All I Want",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "You're All I Want",
+      "image": "https://i.scdn.co/image/ab67616d0000b273963454e08e5e9def7e8cd204",
+      "uri": "spotify:track:2cTvZSCqzjkTMkIypLxUFH",
+      "duration_ms": 264453
+    },
+    {
+      "played_at": "2026-07-09T17:30:44.016Z",
+      "name": "It's Just Us",
+      "artists": [
+        "Kali Uchis"
+      ],
+      "album": "Sincerely,",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a7493f1985f820a9add223d2",
+      "uri": "spotify:track:78oIDxTChs1EJrQwUc931r",
+      "duration_ms": 180015
+    },
+    {
+      "played_at": "2026-07-09T17:34:09.054Z",
+      "name": "Helena",
+      "artists": [
+        "My Chemical Romance"
+      ],
+      "album": "Three Cheers for Sweet Revenge",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
+      "uri": "spotify:track:5dTHtzHFPyi8TlTtzoz1J9",
+      "duration_ms": 204733
+    },
+    {
+      "played_at": "2026-07-09T17:37:43.108Z",
+      "name": "Can't Leave Alone (feat. Avenoir & Maz B)",
+      "artists": [
+        "Pino",
+        "Avenoir",
+        "Maz B",
+        "86"
+      ],
+      "album": "'02",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cfe5c69e0a4ae129fb436739",
+      "uri": "spotify:track:3bGfuGWywg85koHG8nturm",
+      "duration_ms": 213413
+    },
+    {
+      "played_at": "2026-07-09T17:40:13.919Z",
+      "name": "UNDERSTAND",
+      "artists": [
+        "keshi"
+      ],
+      "album": "GABRIEL",
+      "image": "https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb",
+      "uri": "spotify:track:72sfmdpuO5r8cBDgs7MqZZ",
+      "duration_ms": 150519
+    },
+    {
+      "played_at": "2026-07-09T17:43:52.804Z",
+      "name": "Fuck it I love you",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Norman Fucking Rockwell!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9",
+      "uri": "spotify:track:7MtVPRGtZl6rPjMfLoI3Lh",
+      "duration_ms": 218287
     }
   ]
 }
