@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T09:42:35.354Z",
+  "updated_at": "2026-07-09T15:14:02.236Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -5720,6 +5720,187 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e55eb3a0250595d56d7068a7",
       "uri": "spotify:track:1hWDc5jD5br9pXSOtubFlf",
       "duration_ms": 173426
+    },
+    {
+      "played_at": "2026-07-09T14:09:27.559Z",
+      "name": "La Mentira",
+      "artists": [
+        "Luis Miguel"
+      ],
+      "album": "Romance",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bda5c1e56bf06c3c7fc173f7",
+      "uri": "spotify:track:3wogsSWyEEu5eVgLqUqySF",
+      "duration_ms": 226493
+    },
+    {
+      "played_at": "2026-07-09T14:13:17.818Z",
+      "name": "Nunca Más",
+      "artists": [
+        "La Isla Centeno"
+      ],
+      "album": "Canciones Para El Volcán",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739540a18191d908bf060065d0",
+      "uri": "spotify:track:5eiZ4TFyBsLOpPzBgR4oG5",
+      "duration_ms": 229214
+    },
+    {
+      "played_at": "2026-07-09T14:16:23.502Z",
+      "name": "Quisiera Enamorarme",
+      "artists": [
+        "Me Dicen Jos",
+        "Julia Amoroso"
+      ],
+      "album": "Quisiera Enamorarme",
+      "image": "https://i.scdn.co/image/ab67616d0000b273acfb8111795a1ea518158b9e",
+      "uri": "spotify:track:3ZhfWEFlqebiUEcc3YbR7D",
+      "duration_ms": 186200
+    },
+    {
+      "played_at": "2026-07-09T14:20:13.232Z",
+      "name": "AMOR AMOR",
+      "artists": [
+        "PARDOPARDO",
+        "Thyan V"
+      ],
+      "album": "AMOR AMOR",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737e819d4788953ed5c2fc121c",
+      "uri": "spotify:track:4vuw6IbxGY5rliFeGJD0m1",
+      "duration_ms": 229333
+    },
+    {
+      "played_at": "2026-07-09T14:25:19.159Z",
+      "name": "TUS OJOS",
+      "artists": [
+        "Beto Cardenas"
+      ],
+      "album": "TUS OJOS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738ea08ca6266bdc4e994194fe",
+      "uri": "spotify:track:66iwTS1oZxQm31fBNMBUcb",
+      "duration_ms": 214333
+    },
+    {
+      "played_at": "2026-07-09T14:28:08.725Z",
+      "name": "Y Qué",
+      "artists": [
+        "Martox",
+        "Lena Dardelet"
+      ],
+      "album": "Y Qué",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aada9f071eb7bb5cb8f47b81",
+      "uri": "spotify:track:1Dd6CuCiuoTj0eiBnGnx4X",
+      "duration_ms": 168979
+    },
+    {
+      "played_at": "2026-07-09T14:31:42.416Z",
+      "name": "Si por Mi Fuera",
+      "artists": [
+        "Los Rumberos",
+        "Juan Pablo Vega"
+      ],
+      "album": "Si por Mi Fuera",
+      "image": "https://i.scdn.co/image/ab67616d0000b27311b11823ccc2d14df2508d83",
+      "uri": "spotify:track:5z9a61fPYYlb2hV0GLVYaB",
+      "duration_ms": 212680
+    },
+    {
+      "played_at": "2026-07-09T14:35:05.237Z",
+      "name": "La Gloria Eres Tu",
+      "artists": [
+        "Luis Miguel"
+      ],
+      "album": "Romances",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a181913ea31219fed3a558b",
+      "uri": "spotify:track:0toNfHRTPmbsHi63G7Vgdz",
+      "duration_ms": 202760
+    },
+    {
+      "played_at": "2026-07-09T14:39:03.922Z",
+      "name": "Alguien Como Tú",
+      "artists": [
+        "La Isla Centeno"
+      ],
+      "album": "Canciones Para El Volcán",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739540a18191d908bf060065d0",
+      "uri": "spotify:track:0158cDde2tONXGhWmTqSMI",
+      "duration_ms": 237978
+    },
+    {
+      "played_at": "2026-07-09T14:50:14.472Z",
+      "name": "Casi algo",
+      "artists": [
+        "Me Dicen Jos"
+      ],
+      "album": "Casi algo",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b3092d1991912ddea52f18c5",
+      "uri": "spotify:track:2lRIrlut8slUKShhAxJuK7",
+      "duration_ms": 165229
+    },
+    {
+      "played_at": "2026-07-09T14:52:49.843Z",
+      "name": "Y SI SOMOS NOVIOS???",
+      "artists": [
+        "PARDOPARDO"
+      ],
+      "album": "Y SI SOMOS NOVIOS???",
+      "image": "https://i.scdn.co/image/ab67616d0000b27387e2d28c29de7bf09e262c79",
+      "uri": "spotify:track:1DG4eM5tQvuaBSEEO2NSlk",
+      "duration_ms": 153939
+    },
+    {
+      "played_at": "2026-07-09T14:55:41.208Z",
+      "name": "Bésame",
+      "artists": [
+        "El Otro Polo",
+        "Rawayana"
+      ],
+      "album": "A Color",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f5eda9a494f46c0da42eada0",
+      "uri": "spotify:track:05ayzVXVRd5JBtCkQiMFJY",
+      "duration_ms": 170520
+    },
+    {
+      "played_at": "2026-07-09T14:59:49.974Z",
+      "name": "Tengo",
+      "artists": [
+        "Tania Matus"
+      ],
+      "album": "Tengo",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b4e0b9932d97bf7ba721669d",
+      "uri": "spotify:track:0yOUq6w4cN037OcxdZDQQP",
+      "duration_ms": 248208
+    },
+    {
+      "played_at": "2026-07-09T15:04:18.009Z",
+      "name": "Flor De Michoacán",
+      "artists": [
+        "Menny Flores"
+      ],
+      "album": "Flor De Michoacán",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
+      "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3",
+      "duration_ms": 193853
+    },
+    {
+      "played_at": "2026-07-09T15:10:00.289Z",
+      "name": "Caraphernelia",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Selfish Machines",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
+      "uri": "spotify:track:2G8PweZBBwTpyP8vpNQJK2",
+      "duration_ms": 268480
+    },
+    {
+      "played_at": "2026-07-09T15:13:55.709Z",
+      "name": "夢境里的算法 (R&B)",
+      "artists": [
+        "JinJin"
+      ],
+      "album": "夢境里的算法 (R&B)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732a2c9595bdb1f886665c251c",
+      "uri": "spotify:track:0a8FVXJdTfcbMm7u5UDtBe",
+      "duration_ms": 234736
     }
   ]
 }

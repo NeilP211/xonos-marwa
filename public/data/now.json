@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-07-09T09:42:35.463Z",
-  "is_playing": false,
+  "updated_at": "2026-07-09T15:14:02.430Z",
+  "is_playing": true,
   "track": {
-    "name": "IT'S YOU (feat. keshi)",
+    "name": "一個人",
     "artists": [
-      "MAX",
-      "keshi"
+      "A-Lin"
     ],
-    "album": "LOVE IN STEREO",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e55eb3a0250595d56d7068a7",
-    "uri": "spotify:track:1hWDc5jD5br9pXSOtubFlf"
+    "album": "一個人",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a19f46e222d927c2c80383c2",
+    "uri": "spotify:track:5Vxi8yyujUP3tw8hfR6abp"
   },
-  "played_at": "2026-07-08T20:56:58.023Z"
+  "played_at": "2026-07-09T15:14:02.430Z"
 }
