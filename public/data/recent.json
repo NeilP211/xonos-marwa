@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T09:38:35.296Z",
+  "updated_at": "2026-07-10T14:30:37.017Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -6125,6 +6125,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9",
       "uri": "spotify:track:7MtVPRGtZl6rPjMfLoI3Lh",
       "duration_ms": 218287
+    },
+    {
+      "played_at": "2026-07-10T13:48:08.784Z",
+      "name": "Favour",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Favour",
+      "image": "https://i.scdn.co/image/ab67616d0000b273713f9d753c8b418102db1a10",
+      "uri": "spotify:track:7lTUaX0Bs1uE9ALFsmLF8G",
+      "duration_ms": 156000
+    },
+    {
+      "played_at": "2026-07-10T13:50:46.935Z",
+      "name": "Sure Thing",
+      "artists": [
+        "Miguel"
+      ],
+      "album": "All I Want Is You",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c",
+      "uri": "spotify:track:0JXXNGljqupsJaZsgSbMZV",
+      "duration_ms": 195373
+    },
+    {
+      "played_at": "2026-07-10T13:57:59.552Z",
+      "name": "Kiss Me Now",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Kiss Me Now",
+      "image": "https://i.scdn.co/image/ab67616d0000b27352a7a9543acdb0aadc61f08a",
+      "uri": "spotify:track:40KgVtH6ANki7AN2Sj1rZD",
+      "duration_ms": 256268
+    },
+    {
+      "played_at": "2026-07-10T14:00:45.751Z",
+      "name": "Bailando Bachata",
+      "artists": [
+        "Chayanne"
+      ],
+      "album": "Bailemos Otra Vez",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736bf0ce87e2004f9fed53151c",
+      "uri": "spotify:track:2dK99lWPkBVwNen6gK1AtI",
+      "duration_ms": 170809
     }
   ]
 }

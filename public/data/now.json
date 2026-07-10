@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-10T09:38:35.392Z",
+  "updated_at": "2026-07-10T14:30:37.130Z",
   "is_playing": false,
   "track": {
-    "name": "Fuck it I love you",
+    "name": "Bailando Bachata",
     "artists": [
-      "Lana Del Rey"
+      "Chayanne"
     ],
-    "album": "Norman Fucking Rockwell!",
-    "image": "https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9",
-    "uri": "spotify:track:7MtVPRGtZl6rPjMfLoI3Lh"
+    "album": "Bailemos Otra Vez",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736bf0ce87e2004f9fed53151c",
+    "uri": "spotify:track:2dK99lWPkBVwNen6gK1AtI"
   },
-  "played_at": "2026-07-09T17:43:52.804Z"
+  "played_at": "2026-07-10T14:00:45.751Z"
 }
