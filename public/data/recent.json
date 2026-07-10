@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T16:57:31.385Z",
+  "updated_at": "2026-07-10T19:35:43.139Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -6356,6 +6356,184 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273cb7e76fbae8690b2295239d7",
       "uri": "spotify:track:2vknxlulbj1JApedTlmrZv",
       "duration_ms": 219320
+    },
+    {
+      "played_at": "2026-07-10T17:00:44.193Z",
+      "name": "Virgen",
+      "artists": [
+        "Adolescent's Orquesta"
+      ],
+      "album": "Ahora Más Que Nunca",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c30c9fc1d43d8e1ca14ecbe6",
+      "uri": "spotify:track:5HCGrYR7g9u2X9Ju83yQLm",
+      "duration_ms": 271751
+    },
+    {
+      "played_at": "2026-07-10T17:09:35.590Z",
+      "name": "Domingo Familiar",
+      "artists": [
+        "Rawayana",
+        "Jowell & Randy"
+      ],
+      "album": "¿Dónde Es El After?",
+      "image": "https://i.scdn.co/image/ab67616d0000b273932fe6d260177091a0e115ba",
+      "uri": "spotify:track:6s5fdTesXo77NneP3tn3Km",
+      "duration_ms": 158440
+    },
+    {
+      "played_at": "2026-07-10T17:12:19.531Z",
+      "name": "Corazón",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "Babylon Club",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734330d7d9762313dff66f1ca7",
+      "uri": "spotify:track:2339UOI2SU3L1nJtUnx0GF",
+      "duration_ms": 163411
+    },
+    {
+      "played_at": "2026-07-10T17:18:29Z",
+      "name": "El Pana Deiby",
+      "artists": [
+        "Akapellah"
+      ],
+      "album": "El Pana Deiby",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a2f868490ad91df6809dd32e",
+      "uri": "spotify:track:0p5vebYEqSahFULjaYB8LY",
+      "duration_ms": 251773
+    },
+    {
+      "played_at": "2026-07-10T17:32:17.893Z",
+      "name": "El Pana Deiby",
+      "artists": [
+        "Akapellah"
+      ],
+      "album": "El Pana Deiby",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a2f868490ad91df6809dd32e",
+      "uri": "spotify:track:0p5vebYEqSahFULjaYB8LY",
+      "duration_ms": 251773
+    },
+    {
+      "played_at": "2026-07-10T17:38:49.813Z",
+      "name": "Virgen",
+      "artists": [
+        "Adolescent's Orquesta"
+      ],
+      "album": "Ahora Más Que Nunca",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c30c9fc1d43d8e1ca14ecbe6",
+      "uri": "spotify:track:5HCGrYR7g9u2X9Ju83yQLm",
+      "duration_ms": 271751
+    },
+    {
+      "played_at": "2026-07-10T17:43:08.042Z",
+      "name": "Corazón",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "Babylon Club",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734330d7d9762313dff66f1ca7",
+      "uri": "spotify:track:2339UOI2SU3L1nJtUnx0GF",
+      "duration_ms": 163411
+    },
+    {
+      "played_at": "2026-07-10T17:49:29.984Z",
+      "name": "Vitamina",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "Vitamina",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d3fb69da5ef0571b89344fef",
+      "uri": "spotify:track:3LBYHlDSJOeUWSvCHXDWy5",
+      "duration_ms": 157755
+    },
+    {
+      "played_at": "2026-07-10T17:51:57.193Z",
+      "name": "el ingeniero",
+      "artists": [
+        "Alleh",
+        "Yorghaki"
+      ],
+      "album": "LA CIUDAD",
+      "image": "https://i.scdn.co/image/ab67616d0000b27353596a050e8369c51da11029",
+      "uri": "spotify:track:3Qu8oa0nqMwRNWt0Tdzkpo",
+      "duration_ms": 146857
+    },
+    {
+      "played_at": "2026-07-10T17:53:57.635Z",
+      "name": "Qué Rico PR!",
+      "artists": [
+        "Rawayana"
+      ],
+      "album": "¿Dónde Es El After?",
+      "image": "https://i.scdn.co/image/ab67616d0000b273932fe6d260177091a0e115ba",
+      "uri": "spotify:track:08C6m4alGcRaXEbm6IMsNs",
+      "duration_ms": 120000
+    },
+    {
+      "played_at": "2026-07-10T17:56:37.918Z",
+      "name": "Wapa",
+      "artists": [
+        "Jerry Di"
+      ],
+      "album": "Wapa",
+      "image": "https://i.scdn.co/image/ab67616d0000b273489e394cbf5de0d68a9777ad",
+      "uri": "spotify:track:3pKQxo7IgfYkT2BmU4yr4w",
+      "duration_ms": 159776
+    },
+    {
+      "played_at": "2026-07-10T18:00:47.965Z",
+      "name": "Mi Casita",
+      "artists": [
+        "Motherflowers"
+      ],
+      "album": "Mi Casita",
+      "image": "https://i.scdn.co/image/ab67616d0000b27310a3574a92a96514c75b23ed",
+      "uri": "spotify:track:5MQPlCMoRXxIg1waL0Keo8",
+      "duration_ms": 249579
+    },
+    {
+      "played_at": "2026-07-10T18:02:10.210Z",
+      "name": "Alma Llanera / Venezuela - Live from Nobel Peace Prize 2025",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "Alma Llanera / Venezuela (Live from Nobel Peace Prize 2025)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c594a253dd4cffa0f4cebb2",
+      "uri": "spotify:track:2pvoBWRbXGXQrGgQF6swxn",
+      "duration_ms": 238389
+    },
+    {
+      "played_at": "2026-07-10T18:24:33.198Z",
+      "name": "Flor De Michoacán",
+      "artists": [
+        "Menny Flores"
+      ],
+      "album": "Flor De Michoacán",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
+      "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3",
+      "duration_ms": 193853
+    },
+    {
+      "played_at": "2026-07-10T18:29:02.504Z",
+      "name": "Caraphernelia",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Selfish Machines",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
+      "uri": "spotify:track:2G8PweZBBwTpyP8vpNQJK2",
+      "duration_ms": 268480
+    },
+    {
+      "played_at": "2026-07-10T18:46:51.083Z",
+      "name": "LAYALINA",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "TESH SHABAB",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cd08f7df5783c39c57d382f4",
+      "uri": "spotify:track:1yiJHrunZu2fov7OhC7vM9",
+      "duration_ms": 218833
     }
   ]
 }

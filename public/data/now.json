@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-10T16:57:31.593Z",
-  "is_playing": true,
+  "updated_at": "2026-07-10T19:35:43.191Z",
+  "is_playing": false,
   "track": {
-    "name": "Virgen",
+    "name": "LAYALINA",
     "artists": [
-      "Adolescent's Orquesta"
+      "TUL8TE"
     ],
-    "album": "Ahora Más Que Nunca",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c30c9fc1d43d8e1ca14ecbe6",
-    "uri": "spotify:track:5HCGrYR7g9u2X9Ju83yQLm"
+    "album": "TESH SHABAB",
+    "image": "https://i.scdn.co/image/ab67616d0000b273cd08f7df5783c39c57d382f4",
+    "uri": "spotify:track:1yiJHrunZu2fov7OhC7vM9"
   },
-  "played_at": "2026-07-10T16:57:31.593Z"
+  "played_at": "2026-07-10T18:46:51.083Z"
 }
