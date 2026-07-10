@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T22:26:11.248Z",
+  "generated_at": "2026-07-10T03:31:03.158Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1165,18 +1165,6 @@
         },
         {
           "rank": 18,
-          "name": "Jiyuu no Tsubasa",
-          "artists": [
-            "Linked Horizon"
-          ],
-          "album": "Shingeki no Kiseki",
-          "image": "https://i.scdn.co/image/ab67616d0000b27374164dc6fb6a320abf6a34fd",
-          "uri": "spotify:track:188vCXc4bAejLqGhpEVBGT",
-          "url": "https://open.spotify.com/track/188vCXc4bAejLqGhpEVBGT",
-          "duration_ms": 331946
-        },
-        {
-          "rank": 19,
           "name": "Nunca Más",
           "artists": [
             "La Isla Centeno"
@@ -1186,6 +1174,18 @@
           "uri": "spotify:track:5eiZ4TFyBsLOpPzBgR4oG5",
           "url": "https://open.spotify.com/track/5eiZ4TFyBsLOpPzBgR4oG5",
           "duration_ms": 229214
+        },
+        {
+          "rank": 19,
+          "name": "Jiyuu no Tsubasa",
+          "artists": [
+            "Linked Horizon"
+          ],
+          "album": "Shingeki no Kiseki",
+          "image": "https://i.scdn.co/image/ab67616d0000b27374164dc6fb6a320abf6a34fd",
+          "uri": "spotify:track:188vCXc4bAejLqGhpEVBGT",
+          "url": "https://open.spotify.com/track/188vCXc4bAejLqGhpEVBGT",
+          "duration_ms": 331946
         },
         {
           "rank": 20,
@@ -1397,18 +1397,6 @@
         },
         {
           "rank": 37,
-          "name": "PROVENZA",
-          "artists": [
-            "KAROL G"
-          ],
-          "album": "MAÑANA SERÁ BONITO",
-          "image": "https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335",
-          "uri": "spotify:track:3HqcNJdZ2seoGxhn0wVNDK",
-          "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK",
-          "duration_ms": 207626
-        },
-        {
-          "rank": 38,
           "name": "Bésame",
           "artists": [
             "El Otro Polo",
@@ -1419,6 +1407,18 @@
           "uri": "spotify:track:05ayzVXVRd5JBtCkQiMFJY",
           "url": "https://open.spotify.com/track/05ayzVXVRd5JBtCkQiMFJY",
           "duration_ms": 170520
+        },
+        {
+          "rank": 38,
+          "name": "PROVENZA",
+          "artists": [
+            "KAROL G"
+          ],
+          "album": "MAÑANA SERÁ BONITO",
+          "image": "https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335",
+          "uri": "spotify:track:3HqcNJdZ2seoGxhn0wVNDK",
+          "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK",
+          "duration_ms": 207626
         },
         {
           "rank": 39,
@@ -1865,6 +1865,14 @@
         },
         {
           "rank": 38,
+          "name": "Amr Diab",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebab35bf72eb23fa275fdc2dcb",
+          "genres": [],
+          "uri": "spotify:artist:5abSRg0xN1NV3gLbuvX24M",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        },
+        {
+          "rank": 39,
           "name": "CORTIS",
           "image": "https://i.scdn.co/image/ab6761610000e5eb267afab76836557af2bd37c8",
           "genres": [],
@@ -1872,7 +1880,7 @@
           "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Sawano Hiroyuki",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7bd33413d188115f3d40e8e1",
           "genres": [],
@@ -1880,7 +1888,7 @@
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Radiohead",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4104fbd80f1f795728abbd59",
           "genres": [],
@@ -1888,7 +1896,7 @@
           "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "The Marías",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
           "genres": [],
@@ -1896,7 +1904,7 @@
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "The Weeknd",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
           "genres": [],
@@ -1904,20 +1912,12 @@
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Joey V Mendez",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd6dc4f7cffa58ee9d73be6cf",
           "genres": [],
           "uri": "spotify:artist:24yO6ycVuKPoSHHB4Q0m7P",
           "url": "https://open.spotify.com/artist/24yO6ycVuKPoSHHB4Q0m7P"
-        },
-        {
-          "rank": 44,
-          "name": "Amr Diab",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebab35bf72eb23fa275fdc2dcb",
-          "genres": [],
-          "uri": "spotify:artist:5abSRg0xN1NV3gLbuvX24M",
-          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
         },
         {
           "rank": 45,
