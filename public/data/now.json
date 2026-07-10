@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-10T14:30:37.130Z",
-  "is_playing": false,
+  "updated_at": "2026-07-10T16:57:31.593Z",
+  "is_playing": true,
   "track": {
-    "name": "Bailando Bachata",
+    "name": "Virgen",
     "artists": [
-      "Chayanne"
+      "Adolescent's Orquesta"
     ],
-    "album": "Bailemos Otra Vez",
-    "image": "https://i.scdn.co/image/ab67616d0000b2736bf0ce87e2004f9fed53151c",
-    "uri": "spotify:track:2dK99lWPkBVwNen6gK1AtI"
+    "album": "Ahora Más Que Nunca",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c30c9fc1d43d8e1ca14ecbe6",
+    "uri": "spotify:track:5HCGrYR7g9u2X9Ju83yQLm"
   },
-  "played_at": "2026-07-10T14:00:45.751Z"
+  "played_at": "2026-07-10T16:57:31.593Z"
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T14:30:37.017Z",
+  "updated_at": "2026-07-10T16:57:31.385Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -6169,6 +6169,193 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2736bf0ce87e2004f9fed53151c",
       "uri": "spotify:track:2dK99lWPkBVwNen6gK1AtI",
       "duration_ms": 170809
+    },
+    {
+      "played_at": "2026-07-10T14:49:17.927Z",
+      "name": "Bailando Bachata",
+      "artists": [
+        "Chayanne"
+      ],
+      "album": "Bailemos Otra Vez",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736bf0ce87e2004f9fed53151c",
+      "uri": "spotify:track:2dK99lWPkBVwNen6gK1AtI",
+      "duration_ms": 170809
+    },
+    {
+      "played_at": "2026-07-10T15:25:16.833Z",
+      "name": "흩어진나날들",
+      "artists": [
+        "강수지"
+      ],
+      "album": "강수지2집",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336baac318c4aac27ed3a54ea",
+      "uri": "spotify:track:3IuA2jGGOgZCGwQBiLhRuP",
+      "duration_ms": 262126
+    },
+    {
+      "played_at": "2026-07-10T15:29:12.288Z",
+      "name": "The Bomb Dot Com V2.0",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "With Ears To See And Eyes To Hear",
+      "image": "https://i.scdn.co/image/ab67616d0000b273032fd22bde573d0746c87352",
+      "uri": "spotify:track:6WBkSZbGBaIWnEgnMoXEJU",
+      "duration_ms": 211720
+    },
+    {
+      "played_at": "2026-07-10T15:42:13.834Z",
+      "name": "Requiem",
+      "artists": [
+        "keshi"
+      ],
+      "album": "Requiem",
+      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
+      "uri": "spotify:track:1YH01s3qSCjwt1eEHg6LRG",
+      "duration_ms": 144526
+    },
+    {
+      "played_at": "2026-07-10T15:45:16.145Z",
+      "name": "notas",
+      "artists": [
+        "Santi Muk"
+      ],
+      "album": "notas",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737afb8ea744be53d1c3d41f9e",
+      "uri": "spotify:track:12PEb6javwgeqvZeiiCfbH",
+      "duration_ms": 96817
+    },
+    {
+      "played_at": "2026-07-10T15:49:00.441Z",
+      "name": "Usted",
+      "artists": [
+        "Luis Miguel"
+      ],
+      "album": "Romance",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bda5c1e56bf06c3c7fc173f7",
+      "uri": "spotify:track:0MHSnVk2CrGP8hIkxpxwMJ",
+      "duration_ms": 223200
+    },
+    {
+      "played_at": "2026-07-10T15:52:03.085Z",
+      "name": "Ride",
+      "artists": [
+        "HYBS"
+      ],
+      "album": "Making Steak",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731d41de38bfa654a630cfb07a",
+      "uri": "spotify:track:37HhnXqIRFSSJXWsysl6B7",
+      "duration_ms": 181622
+    },
+    {
+      "played_at": "2026-07-10T16:06:33.348Z",
+      "name": "Favour",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Favour",
+      "image": "https://i.scdn.co/image/ab67616d0000b273713f9d753c8b418102db1a10",
+      "uri": "spotify:track:7lTUaX0Bs1uE9ALFsmLF8G",
+      "duration_ms": 156000
+    },
+    {
+      "played_at": "2026-07-10T16:06:35.610Z",
+      "name": "space",
+      "artists": [
+        "The Poles"
+      ],
+      "album": "The High Tide Club",
+      "image": "https://i.scdn.co/image/ab67616d0000b273acda674910f3dd3d1820915d",
+      "uri": "spotify:track:0DHyNlgEaolgfVxPhyFDTq",
+      "duration_ms": 224000
+    },
+    {
+      "played_at": "2026-07-10T16:06:42.565Z",
+      "name": "Favour",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Favour",
+      "image": "https://i.scdn.co/image/ab67616d0000b273713f9d753c8b418102db1a10",
+      "uri": "spotify:track:7lTUaX0Bs1uE9ALFsmLF8G",
+      "duration_ms": 156000
+    },
+    {
+      "played_at": "2026-07-10T16:11:30.482Z",
+      "name": "Sure Thing",
+      "artists": [
+        "Miguel"
+      ],
+      "album": "All I Want Is You",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c",
+      "uri": "spotify:track:0JXXNGljqupsJaZsgSbMZV",
+      "duration_ms": 195373
+    },
+    {
+      "played_at": "2026-07-10T16:28:12.905Z",
+      "name": "¿No Será?",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "¿No Será?",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cce11b517900530960f43e3f",
+      "uri": "spotify:track:18fEQideg5ZSJJzzrCPRRc",
+      "duration_ms": 192558
+    },
+    {
+      "played_at": "2026-07-10T16:32:25.325Z",
+      "name": "CABELLO ROJO",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "TRE$",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730ce00f67033dfe0012463b7f",
+      "uri": "spotify:track:3cJiDNFHp2XkEdYHlLQ41U",
+      "duration_ms": 162666
+    },
+    {
+      "played_at": "2026-07-10T16:38:15.801Z",
+      "name": "Saet El Forak",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "Shoft El Ayam",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7e2bbc56618390edf68925a",
+      "uri": "spotify:track:1lij0raYc7caXpJ8qFRPm7",
+      "duration_ms": 234161
+    },
+    {
+      "played_at": "2026-07-10T16:41:34.580Z",
+      "name": "زي اليومين دول",
+      "artists": [
+        "Mishel Mesak"
+      ],
+      "album": "زي اليومين دول",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739229ef99c4d788c26d76e7e9",
+      "uri": "spotify:track:7qw2y5qAQaxgkBk68clnkS",
+      "duration_ms": 171041
+    },
+    {
+      "played_at": "2026-07-10T16:45:20.738Z",
+      "name": "El Bint El Awiye",
+      "artists": [
+        "Wael Kfoury"
+      ],
+      "album": "El Bint El Awiye",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734894cd819e3379ed68ee9e45",
+      "uri": "spotify:track:1l3S4j9ksQMh2tKIta1bfw",
+      "duration_ms": 214327
+    },
+    {
+      "played_at": "2026-07-10T16:55:38.502Z",
+      "name": "Allah Aleik Ya Seedy",
+      "artists": [
+        "Ehab Tawfik"
+      ],
+      "album": "Homma Kelmetain",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb7e76fbae8690b2295239d7",
+      "uri": "spotify:track:2vknxlulbj1JApedTlmrZv",
+      "duration_ms": 219320
     }
   ]
 }
