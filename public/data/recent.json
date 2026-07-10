@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T19:35:43.139Z",
+  "updated_at": "2026-07-10T22:05:27.473Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -6534,6 +6534,61 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273cd08f7df5783c39c57d382f4",
       "uri": "spotify:track:1yiJHrunZu2fov7OhC7vM9",
       "duration_ms": 218833
+    },
+    {
+      "played_at": "2026-07-10T19:58:09.408Z",
+      "name": "قصاد عينى",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "ليلى نهارى",
+      "image": "https://i.scdn.co/image/ab67616d0000b273636b9c1f05f0a37e1baa4628",
+      "uri": "spotify:track:3bISYorQwMHFlDaAhNyWd8",
+      "duration_ms": 264228
+    },
+    {
+      "played_at": "2026-07-10T21:00:51.982Z",
+      "name": "Kiss Me Now",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
+      "uri": "spotify:track:6yT9iNKt8fQoYpQkbWc7YR",
+      "duration_ms": 256268
+    },
+    {
+      "played_at": "2026-07-10T21:06:19.608Z",
+      "name": "Emergency Contact",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:4amltxLIfFmtYEvZbdgDqO",
+      "duration_ms": 240000
+    },
+    {
+      "played_at": "2026-07-10T21:06:55.907Z",
+      "name": "Irrational Fears - Interlude",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:1AtTmjAqrlmg9P2enDqVg9",
+      "duration_ms": 21560
+    },
+    {
+      "played_at": "2026-07-10T21:10:53.427Z",
+      "name": "Damn The Man, Save The Empire",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:57ISsI9qQcAUkhiqwEMhxG",
+      "duration_ms": 237000
     }
   ]
 }
