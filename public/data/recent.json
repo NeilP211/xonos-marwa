@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T02:47:29.630Z",
+  "updated_at": "2026-07-11T05:42:26.766Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -6589,6 +6589,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
       "uri": "spotify:track:57ISsI9qQcAUkhiqwEMhxG",
       "duration_ms": 237000
+    },
+    {
+      "played_at": "2026-07-10T21:49:32.180Z",
+      "name": "Flawless Execution",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3XfmKIeWD1gGrKhwIEon6Q",
+      "duration_ms": 240053
     }
   ]
 }
