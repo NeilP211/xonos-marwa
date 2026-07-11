@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T13:23:09.530Z",
+  "generated_at": "2026-07-11T15:58:02.959Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2472,18 +2472,6 @@
         },
         {
           "rank": 42,
-          "name": "اخدني معك",
-          "artists": [
-            "Fadel Chaker"
-          ],
-          "album": "حبك علمني",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f2914a96f44f3cf4ffffab8b",
-          "uri": "spotify:track:2OG1u9eX4Zjsi7fGQB9T8t",
-          "url": "https://open.spotify.com/track/2OG1u9eX4Zjsi7fGQB9T8t",
-          "duration_ms": 313939
-        },
-        {
-          "rank": 43,
           "name": "New Woman (feat. ROSALÍA)",
           "artists": [
             "LISA",
@@ -2494,6 +2482,18 @@
           "uri": "spotify:track:7ov3TDp5D00Rnu5R1viX4w",
           "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w",
           "duration_ms": 179789
+        },
+        {
+          "rank": 43,
+          "name": "اخدني معك",
+          "artists": [
+            "Fadel Chaker"
+          ],
+          "album": "حبك علمني",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f2914a96f44f3cf4ffffab8b",
+          "uri": "spotify:track:2OG1u9eX4Zjsi7fGQB9T8t",
+          "url": "https://open.spotify.com/track/2OG1u9eX4Zjsi7fGQB9T8t",
+          "duration_ms": 313939
         },
         {
           "rank": 44,
@@ -2745,6 +2745,14 @@
         },
         {
           "rank": 21,
+          "name": "Pierce The Veil",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6f8f8d13be17bf486219edc7",
+          "genres": [],
+          "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        },
+        {
+          "rank": 22,
           "name": "J Balvin",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0405b03342c2e56751b9923d",
           "genres": [],
@@ -2752,7 +2760,7 @@
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Maluma",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1b0d196ca84f4a0d076b4570",
           "genres": [],
@@ -2760,7 +2768,7 @@
           "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "ATEEZ",
           "image": "https://i.scdn.co/image/ab6761610000e5eb630859e6682cfa878243bacc",
           "genres": [],
@@ -2768,7 +2776,7 @@
           "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Pantoja",
           "image": "https://i.scdn.co/image/ab6761610000e5eb79c5add7566fcc23528512b1",
           "genres": [],
@@ -2776,7 +2784,7 @@
           "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Nancy Ajram",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1c81429c45fb96c751f55313",
           "genres": [],
@@ -2784,7 +2792,7 @@
           "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Romeo Santos",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
           "genres": [],
@@ -2792,7 +2800,7 @@
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Ariana Grande",
           "image": "https://i.scdn.co/image/ab6761610000e5eb766397ec42a573a53eb5fb87",
           "genres": [],
@@ -2800,7 +2808,7 @@
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "TUL8TE",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8c73dc1fa0f98802edc2d243",
           "genres": [],
@@ -2808,7 +2816,7 @@
           "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Colde",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0d70006fb7127e182921ecd7",
           "genres": [],
@@ -2816,20 +2824,12 @@
           "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "KISS OF LIFE",
           "image": "https://i.scdn.co/image/ab6761610000e5eb94f24a151ca1320ec2f3ed92",
           "genres": [],
           "uri": "spotify:artist:4TEK9tIkcoxib4GxT3O4ky",
           "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        },
-        {
-          "rank": 31,
-          "name": "Pierce The Veil",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6f8f8d13be17bf486219edc7",
-          "genres": [],
-          "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         },
         {
           "rank": 32,
