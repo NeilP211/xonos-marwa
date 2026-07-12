@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-12T02:55:40.146Z",
+  "updated_at": "2026-07-12T06:06:52.309Z",
   "is_playing": false,
   "track": {
-    "name": "seasons",
+    "name": "Sparks",
     "artists": [
-      "wave to earth"
+      "Coldplay"
     ],
-    "album": "summer flows 0.02",
-    "image": "https://i.scdn.co/image/ab67616d0000b2733b975ed7ccd57f3a00d570cf",
-    "uri": "spotify:track:0aVd7QiY8BstysHb62c5Fi"
+    "album": "Parachutes",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a",
+    "uri": "spotify:track:7D0RhFcb3CrfPuTJ0obrod"
   },
-  "played_at": "2026-07-12T00:48:03.849Z"
+  "played_at": "2026-07-12T00:52:37.044Z"
 }

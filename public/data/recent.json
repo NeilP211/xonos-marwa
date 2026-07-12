@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T02:55:40.062Z",
+  "updated_at": "2026-07-12T06:06:52.271Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -6682,6 +6682,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2733b975ed7ccd57f3a00d570cf",
       "uri": "spotify:track:0aVd7QiY8BstysHb62c5Fi",
       "duration_ms": 256000
+    },
+    {
+      "played_at": "2026-07-12T00:52:37.044Z",
+      "name": "Sparks",
+      "artists": [
+        "Coldplay"
+      ],
+      "album": "Parachutes",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a",
+      "uri": "spotify:track:7D0RhFcb3CrfPuTJ0obrod",
+      "duration_ms": 227093
     }
   ]
 }
