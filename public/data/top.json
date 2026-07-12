@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T21:51:47.356Z",
+  "generated_at": "2026-07-12T02:55:39.923Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -222,6 +222,19 @@
         },
         {
           "rank": 19,
+          "name": "Hold On Till May",
+          "artists": [
+            "Pierce The Veil",
+            "Lindsey Stamey"
+          ],
+          "album": "Collide With The Sky",
+          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+          "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
+          "url": "https://open.spotify.com/track/5u2FOoFhp495GIj5BJC77J",
+          "duration_ms": 278586
+        },
+        {
+          "rank": 20,
           "name": "Nunca Más",
           "artists": [
             "La Isla Centeno"
@@ -233,7 +246,7 @@
           "duration_ms": 229214
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Si Me Voy (with The Marías)",
           "artists": [
             "Cuco",
@@ -246,7 +259,7 @@
           "duration_ms": 203219
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Sugar! Honey! Love!",
           "artists": [
             "Kali Uchis"
@@ -258,7 +271,7 @@
           "duration_ms": 184871
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Caraphernelia",
           "artists": [
             "Pierce The Veil"
@@ -270,7 +283,19 @@
           "duration_ms": 268480
         },
         {
-          "rank": 23,
+          "rank": 24,
+          "name": "Flawless Execution",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:3XfmKIeWD1gGrKhwIEon6Q",
+          "url": "https://open.spotify.com/track/3XfmKIeWD1gGrKhwIEon6Q",
+          "duration_ms": 240053
+        },
+        {
+          "rank": 25,
           "name": "A Match Into Water",
           "artists": [
             "Pierce The Veil"
@@ -282,20 +307,7 @@
           "duration_ms": 212546
         },
         {
-          "rank": 24,
-          "name": "Could've Been (feat. Bryson Tiller)",
-          "artists": [
-            "H.E.R.",
-            "Bryson Tiller"
-          ],
-          "album": "I Used To Know Her",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a37d773f1a975bffb51f42fe",
-          "uri": "spotify:track:6oEVnWKgPqIEPc53OYDNqG",
-          "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG",
-          "duration_ms": 252750
-        },
-        {
-          "rank": 25,
+          "rank": 26,
           "name": "UNDERSTAND",
           "artists": [
             "keshi"
@@ -307,7 +319,7 @@
           "duration_ms": 150519
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Estar Contigo",
           "artists": [
             "Bruno Romano"
@@ -319,7 +331,7 @@
           "duration_ms": 214615
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "NOBLE",
           "artists": [
             "F3miii"
@@ -331,7 +343,7 @@
           "duration_ms": 185806
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "New Perspective",
           "artists": [
             "Panic! At The Disco"
@@ -343,7 +355,7 @@
           "duration_ms": 226786
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Volví",
           "artists": [
             "Aventura",
@@ -356,7 +368,7 @@
           "duration_ms": 230125
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "So Far So Fake",
           "artists": [
             "Pierce The Veil"
@@ -368,7 +380,7 @@
           "duration_ms": 236160
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Who Are You Now",
           "artists": [
             "Sleeping With Sirens"
@@ -378,19 +390,6 @@
           "uri": "spotify:track:4FlTTDBPpmQO08EeF8GI8V",
           "url": "https://open.spotify.com/track/4FlTTDBPpmQO08EeF8GI8V",
           "duration_ms": 257413
-        },
-        {
-          "rank": 32,
-          "name": "Hold On Till May",
-          "artists": [
-            "Pierce The Veil",
-            "Lindsey Stamey"
-          ],
-          "album": "Collide With The Sky",
-          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-          "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
-          "url": "https://open.spotify.com/track/5u2FOoFhp495GIj5BJC77J",
-          "duration_ms": 278586
         },
         {
           "rank": 33,
@@ -686,6 +685,14 @@
         },
         {
           "rank": 10,
+          "name": "Kali Uchis",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebdeac5367816c7ab1f607e89a",
+          "genres": [],
+          "uri": "spotify:artist:1U1el3k54VvEUzo3ybLPlM",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "rank": 11,
           "name": "Rawayana",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5d52d93053343dc60653bbde",
           "genres": [],
@@ -693,7 +700,7 @@
           "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Rels B",
           "image": "https://i.scdn.co/image/ab6761610000e5eb15cc5d75a093b40a9be0ff5c",
           "genres": [],
@@ -701,20 +708,12 @@
           "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "TUL8TE",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8c73dc1fa0f98802edc2d243",
           "genres": [],
           "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
           "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
-        },
-        {
-          "rank": 13,
-          "name": "Kali Uchis",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebdeac5367816c7ab1f607e89a",
-          "genres": [],
-          "uri": "spotify:artist:1U1el3k54VvEUzo3ybLPlM",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         },
         {
           "rank": 14,
@@ -854,11 +853,11 @@
         },
         {
           "rank": 31,
-          "name": "La Isla Centeno",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebf55def158ecb9a2b89f5e0bd",
+          "name": "Sade",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
           "genres": [],
-          "uri": "spotify:artist:7EnLmrL4jTZKjeseaZyA0L",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "uri": "spotify:artist:47zz7sob9NUcODy0BTDvKx",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         },
         {
           "rank": 32,
@@ -870,11 +869,11 @@
         },
         {
           "rank": 33,
-          "name": "Sade",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
+          "name": "La Isla Centeno",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebf55def158ecb9a2b89f5e0bd",
           "genres": [],
-          "uri": "spotify:artist:47zz7sob9NUcODy0BTDvKx",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+          "uri": "spotify:artist:7EnLmrL4jTZKjeseaZyA0L",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         },
         {
           "rank": 34,

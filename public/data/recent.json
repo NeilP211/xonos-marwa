@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T21:51:47.409Z",
+  "updated_at": "2026-07-12T02:55:40.062Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -6600,6 +6600,88 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
       "uri": "spotify:track:3XfmKIeWD1gGrKhwIEon6Q",
       "duration_ms": 240053
+    },
+    {
+      "played_at": "2026-07-11T23:42:13.842Z",
+      "name": "Flawless Execution",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3XfmKIeWD1gGrKhwIEon6Q",
+      "duration_ms": 240053
+    },
+    {
+      "played_at": "2026-07-11T23:48:25.441Z",
+      "name": "Kiss Me Now",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
+      "uri": "spotify:track:6yT9iNKt8fQoYpQkbWc7YR",
+      "duration_ms": 256268
+    },
+    {
+      "played_at": "2026-07-11T23:53:18.449Z",
+      "name": "Damn The Man, Save The Empire",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:57ISsI9qQcAUkhiqwEMhxG",
+      "duration_ms": 237000
+    },
+    {
+      "played_at": "2026-07-12T00:12:31.149Z",
+      "name": "Hold On Till May",
+      "artists": [
+        "Pierce The Veil",
+        "Lindsey Stamey"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
+      "duration_ms": 278586
+    },
+    {
+      "played_at": "2026-07-12T00:15:29.134Z",
+      "name": "Move",
+      "artists": [
+        "Adam Port",
+        "Stryv",
+        "Keinemusik",
+        "Orso",
+        "Malachiii"
+      ],
+      "album": "Move",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a959d221820e650bee1ca487",
+      "uri": "spotify:track:1BJJbSX6muJVF2AK7uH1x4",
+      "duration_ms": 177598
+    },
+    {
+      "played_at": "2026-07-12T00:43:47.412Z",
+      "name": "Release",
+      "artists": [
+        "Maz B"
+      ],
+      "album": "Release",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739701c7fc6a44ed5d85d61e83",
+      "uri": "spotify:track:44Rmvn1BwzzY5DP6l6PO3D",
+      "duration_ms": 192227
+    },
+    {
+      "played_at": "2026-07-12T00:48:03.849Z",
+      "name": "seasons",
+      "artists": [
+        "wave to earth"
+      ],
+      "album": "summer flows 0.02",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b975ed7ccd57f3a00d570cf",
+      "uri": "spotify:track:0aVd7QiY8BstysHb62c5Fi",
+      "duration_ms": 256000
     }
   ]
 }
