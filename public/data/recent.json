@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T06:25:30.905Z",
+  "updated_at": "2026-07-13T12:08:01.929Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -6693,6 +6693,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a",
       "uri": "spotify:track:7D0RhFcb3CrfPuTJ0obrod",
       "duration_ms": 227093
+    },
+    {
+      "played_at": "2026-07-13T09:10:56.287Z",
+      "name": "I Want You",
+      "artists": [
+        "Marvin Gaye"
+      ],
+      "album": "I Want You (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736329e23d367245adceb71fd0",
+      "uri": "spotify:track:2gmWJA9oF4GD2Vw5QoRqu1",
+      "duration_ms": 274400
+    },
+    {
+      "played_at": "2026-07-13T09:14:34.253Z",
+      "name": "Borro Cassette",
+      "artists": [
+        "Maluma"
+      ],
+      "album": "Pretty Boy, Dirty Boy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c7b78f86d070f52f45ad125f",
+      "uri": "spotify:track:6DUdDIRgLqCGq1DwkNWQTN",
+      "duration_ms": 207296
     }
   ]
 }

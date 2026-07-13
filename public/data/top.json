@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T06:25:30.848Z",
+  "generated_at": "2026-07-13T12:08:01.810Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -320,6 +320,18 @@
         },
         {
           "rank": 27,
+          "name": "Borro Cassette",
+          "artists": [
+            "Maluma"
+          ],
+          "album": "Pretty Boy, Dirty Boy",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c7b78f86d070f52f45ad125f",
+          "uri": "spotify:track:6DUdDIRgLqCGq1DwkNWQTN",
+          "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN",
+          "duration_ms": 207296
+        },
+        {
+          "rank": 28,
           "name": "Estar Contigo",
           "artists": [
             "Bruno Romano"
@@ -331,7 +343,7 @@
           "duration_ms": 214615
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "NOBLE",
           "artists": [
             "F3miii"
@@ -343,7 +355,7 @@
           "duration_ms": 185806
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "New Perspective",
           "artists": [
             "Panic! At The Disco"
@@ -355,7 +367,7 @@
           "duration_ms": 226786
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Volví",
           "artists": [
             "Aventura",
@@ -368,7 +380,7 @@
           "duration_ms": 230125
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "So Far So Fake",
           "artists": [
             "Pierce The Veil"
@@ -380,7 +392,7 @@
           "duration_ms": 236160
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Who Are You Now",
           "artists": [
             "Sleeping With Sirens"
@@ -392,7 +404,7 @@
           "duration_ms": 257413
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Bésame",
           "artists": [
             "El Otro Polo",
@@ -405,7 +417,7 @@
           "duration_ms": 170520
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "顷刻之间",
           "artists": [
             "陈麒名"
@@ -417,7 +429,7 @@
           "duration_ms": 214186
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Art of War",
           "artists": [
             "Avenoir"
@@ -429,7 +441,7 @@
           "duration_ms": 126973
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Deslocado",
           "artists": [
             "NAPA"
@@ -441,7 +453,7 @@
           "duration_ms": 179996
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Never Let Go",
           "artists": [
             "LNGSHOT"
@@ -453,7 +465,7 @@
           "duration_ms": 193620
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Carita Linda",
           "artists": [
             "Rauw Alejandro"
@@ -465,7 +477,7 @@
           "duration_ms": 203463
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Virgen",
           "artists": [
             "Adolescent's Orquesta"
@@ -477,7 +489,7 @@
           "duration_ms": 271751
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "space",
           "artists": [
             "The Poles"
@@ -489,7 +501,7 @@
           "duration_ms": 224000
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Florida - (Intro)",
           "artists": [
             "Valentina Rico"
@@ -501,7 +513,7 @@
           "duration_ms": 109397
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Sure Thing",
           "artists": [
             "Miguel"
@@ -513,7 +525,7 @@
           "duration_ms": 195373
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Look Here",
           "artists": [
             "BTS"
@@ -525,7 +537,7 @@
           "duration_ms": 218887
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "ساعة الفراق",
           "artists": [
             "Amr Diab"
@@ -537,7 +549,7 @@
           "duration_ms": 234161
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Te Me Vas",
           "artists": [
             "Prince Royce"
@@ -549,7 +561,7 @@
           "duration_ms": 198973
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Amor Verdadero",
           "artists": [
             "Willie Colón"
@@ -561,7 +573,7 @@
           "duration_ms": 445992
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Tú",
           "artists": [
             "maye"
@@ -573,7 +585,7 @@
           "duration_ms": 206611
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Bellaquita",
           "artists": [
             "Dalex",
@@ -586,7 +598,7 @@
           "duration_ms": 204786
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Uzunlar - V1",
           "artists": [
             "Evdeki Saat"
@@ -596,18 +608,6 @@
           "uri": "spotify:track:1vLkBVAy8ZWrqcQjYTPP3a",
           "url": "https://open.spotify.com/track/1vLkBVAy8ZWrqcQjYTPP3a",
           "duration_ms": 282352
-        },
-        {
-          "rank": 50,
-          "name": "Peaches",
-          "artists": [
-            "KAI"
-          ],
-          "album": "Peaches - The 2nd Mini Album",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e17d7c9f32167b7b7c8e9f21",
-          "uri": "spotify:track:237OjBs3wvamAFpHp0yItw",
-          "url": "https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw",
-          "duration_ms": 198080
         }
       ],
       "artists": [

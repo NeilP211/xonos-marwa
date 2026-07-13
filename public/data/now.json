@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-13T06:25:30.984Z",
+  "updated_at": "2026-07-13T12:08:01.964Z",
   "is_playing": false,
   "track": {
-    "name": "Sparks",
+    "name": "Borro Cassette",
     "artists": [
-      "Coldplay"
+      "Maluma"
     ],
-    "album": "Parachutes",
-    "image": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a",
-    "uri": "spotify:track:7D0RhFcb3CrfPuTJ0obrod"
+    "album": "Pretty Boy, Dirty Boy",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c7b78f86d070f52f45ad125f",
+    "uri": "spotify:track:6DUdDIRgLqCGq1DwkNWQTN"
   },
-  "played_at": "2026-07-12T00:52:37.044Z"
+  "played_at": "2026-07-13T09:14:34.253Z"
 }
