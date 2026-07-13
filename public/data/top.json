@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T21:53:11.950Z",
+  "generated_at": "2026-07-13T02:57:02.416Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2848,19 +2848,19 @@
         },
         {
           "rank": 34,
-          "name": "NewJeans",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8dae71b664393f38ba91f891",
-          "genres": [],
-          "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        },
-        {
-          "rank": 35,
           "name": "Rocco",
           "image": "https://i.scdn.co/image/ab6761610000e5ebfafe10116210a495dae342fa",
           "genres": [],
           "uri": "spotify:artist:30gZlVVUt3gwNXlLorZjuq",
           "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        },
+        {
+          "rank": 35,
+          "name": "NewJeans",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8dae71b664393f38ba91f891",
+          "genres": [],
+          "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         },
         {
           "rank": 36,
