@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-13T21:58:27.910Z",
-  "is_playing": false,
+  "updated_at": "2026-07-14T02:38:20.737Z",
+  "is_playing": true,
   "track": {
-    "name": "Borro Cassette",
+    "name": "Nothing Compares - Bonus Track",
     "artists": [
-      "Maluma"
+      "The Weeknd"
     ],
-    "album": "Pretty Boy, Dirty Boy",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c7b78f86d070f52f45ad125f",
-    "uri": "spotify:track:6DUdDIRgLqCGq1DwkNWQTN"
+    "album": "After Hours (Deluxe)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ef017e899c0547766997d874",
+    "uri": "spotify:track:6utQlfLooYsUkq5xUg3vxt"
   },
-  "played_at": "2026-07-13T09:14:34.253Z"
+  "played_at": "2026-07-14T02:38:20.737Z"
 }
