@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T02:38:20.522Z",
+  "generated_at": "2026-07-14T05:32:45.966Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -917,6 +917,14 @@
         },
         {
           "rank": 39,
+          "name": "The Marías",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
+          "genres": [],
+          "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        },
+        {
+          "rank": 40,
           "name": "Becky G",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3d24f1805384b8d43c8cae42",
           "genres": [],
@@ -924,7 +932,7 @@
           "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Romeo Santos",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
           "genres": [],
@@ -932,7 +940,7 @@
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Adolescent's Orquesta",
           "image": "https://i.scdn.co/image/ab6761610000e5eb85cbe9f05b11e3ea3d20ff0b",
           "genres": [],
@@ -940,7 +948,15 @@
           "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
         },
         {
-          "rank": 42,
+          "rank": 43,
+          "name": "Arctic Monkeys",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f",
+          "genres": [],
+          "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        },
+        {
+          "rank": 44,
           "name": "Sonder",
           "image": "https://i.scdn.co/image/ab6761610000e5ebfc55ad52c4f90c036acc8c15",
           "genres": [],

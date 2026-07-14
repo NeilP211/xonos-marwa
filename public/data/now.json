@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-14T02:38:20.737Z",
-  "is_playing": true,
+  "updated_at": "2026-07-14T05:32:46.106Z",
+  "is_playing": false,
   "track": {
-    "name": "Nothing Compares - Bonus Track",
+    "name": "Knee Socks",
     "artists": [
-      "The Weeknd"
+      "Arctic Monkeys"
     ],
-    "album": "After Hours (Deluxe)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ef017e899c0547766997d874",
-    "uri": "spotify:track:6utQlfLooYsUkq5xUg3vxt"
+    "album": "AM",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+    "uri": "spotify:track:2LGdO5MtFdyphi2EihANZG"
   },
-  "played_at": "2026-07-14T02:38:20.737Z"
+  "played_at": "2026-07-14T02:45:28.456Z"
 }

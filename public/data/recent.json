@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T02:38:20.650Z",
+  "updated_at": "2026-07-14T05:32:46.074Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -6726,6 +6726,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f793c0c53727d8c5c950f809",
       "uri": "spotify:track:3rdAz1fbUfZxYgaCviYhRo",
       "duration_ms": 199604
+    },
+    {
+      "played_at": "2026-07-14T02:38:30.012Z",
+      "name": "Nothing Compares - Bonus Track",
+      "artists": [
+        "The Weeknd"
+      ],
+      "album": "After Hours (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ef017e899c0547766997d874",
+      "uri": "spotify:track:6utQlfLooYsUkq5xUg3vxt",
+      "duration_ms": 222306
+    },
+    {
+      "played_at": "2026-07-14T02:41:10.454Z",
+      "name": "Run Your Mouth",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Submarine",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831",
+      "uri": "spotify:track:19fKJrO9XdOf6Xla2QHecO",
+      "duration_ms": 160000
+    },
+    {
+      "played_at": "2026-07-14T02:45:28.456Z",
+      "name": "Knee Socks",
+      "artists": [
+        "Arctic Monkeys"
+      ],
+      "album": "AM",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+      "uri": "spotify:track:2LGdO5MtFdyphi2EihANZG",
+      "duration_ms": 257563
     }
   ]
 }
