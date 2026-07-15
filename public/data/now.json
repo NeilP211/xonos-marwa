@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-15T02:36:13.693Z",
+  "updated_at": "2026-07-15T05:33:54.212Z",
   "is_playing": false,
   "track": {
-    "name": "Knee Socks",
+    "name": "All My Heart",
     "artists": [
-      "Arctic Monkeys"
+      "Sleeping With Sirens"
     ],
-    "album": "AM",
-    "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
-    "uri": "spotify:track:2LGdO5MtFdyphi2EihANZG"
+    "album": "Let's Cheers To This",
+    "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+    "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU"
   },
-  "played_at": "2026-07-14T02:45:28.456Z"
+  "played_at": "2026-07-15T05:33:54.212Z"
 }
