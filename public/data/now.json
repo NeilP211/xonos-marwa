@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-15T05:33:54.212Z",
+  "updated_at": "2026-07-15T08:14:24.838Z",
   "is_playing": false,
   "track": {
-    "name": "All My Heart",
+    "name": "Baby Be Mine",
     "artists": [
-      "Sleeping With Sirens"
+      "Michael Jackson"
     ],
-    "album": "Let's Cheers To This",
-    "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
-    "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU"
+    "album": "Thriller",
+    "image": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+    "uri": "spotify:track:6XYbMGvtl6tlPoGWaiH7EY"
   },
-  "played_at": "2026-07-15T05:33:54.212Z"
+  "played_at": "2026-07-15T07:01:02.335Z"
 }
