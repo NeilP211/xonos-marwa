@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-16T16:18:20.549Z",
-  "is_playing": false,
+  "updated_at": "2026-07-16T19:14:08.017Z",
+  "is_playing": true,
   "track": {
-    "name": "Baby Be Mine",
+    "name": "UNDERSTAND",
     "artists": [
-      "Michael Jackson"
+      "keshi"
     ],
-    "album": "Thriller",
-    "image": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-    "uri": "spotify:track:6XYbMGvtl6tlPoGWaiH7EY"
+    "album": "GABRIEL",
+    "image": "https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb",
+    "uri": "spotify:track:72sfmdpuO5r8cBDgs7MqZZ"
   },
-  "played_at": "2026-07-15T07:01:02.335Z"
+  "played_at": "2026-07-16T19:14:08.017Z"
 }

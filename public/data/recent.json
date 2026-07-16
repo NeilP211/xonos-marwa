@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T16:18:20.466Z",
+  "updated_at": "2026-07-16T19:14:07.897Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -6869,6 +6869,86 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
       "uri": "spotify:track:6XYbMGvtl6tlPoGWaiH7EY",
       "duration_ms": 260368
+    },
+    {
+      "played_at": "2026-07-16T18:51:40.061Z",
+      "name": "Mi Plan",
+      "artists": [
+        "Romeo Santos",
+        "Prince Royce"
+      ],
+      "album": "Better Late Than Never",
+      "image": "https://i.scdn.co/image/ab67616d0000b27391750ed467a5ecc14beaa03f",
+      "uri": "spotify:track:05FOhiWbSLWAvRQecuu3dK",
+      "duration_ms": 223453
+    },
+    {
+      "played_at": "2026-07-16T18:54:52.824Z",
+      "name": "Mónaco",
+      "artists": [
+        "LAGOS",
+        "Danny Ocean"
+      ],
+      "album": "Clásicos",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734603462dd193f76ab1f98218",
+      "uri": "spotify:track:3HgvO4B5LLmdPOT2d8cSZd",
+      "duration_ms": 192313
+    },
+    {
+      "played_at": "2026-07-16T18:58:14.826Z",
+      "name": "Jasmine",
+      "artists": [
+        "DPR LIVE"
+      ],
+      "album": "Jasmine",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aede3a5ed9bb90fb91aad963",
+      "uri": "spotify:track:2IgbYlOlFpiSFYnsqB39lM",
+      "duration_ms": 201510
+    },
+    {
+      "played_at": "2026-07-16T19:01:32.124Z",
+      "name": "LUNA",
+      "artists": [
+        "Feid",
+        "ATL Jacob"
+      ],
+      "album": "FERXXOCALIPSIS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242",
+      "uri": "spotify:track:7bywjHOc0wSjGGbj04XbVi",
+      "duration_ms": 196800
+    },
+    {
+      "played_at": "2026-07-16T19:05:10.147Z",
+      "name": "Hecha para Mi",
+      "artists": [
+        "Prince Royce"
+      ],
+      "album": "Phase II",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737f187201bff22a11f0d6053b",
+      "uri": "spotify:track:3lk1zEflQOqyKXngTBMwMC",
+      "duration_ms": 217573
+    },
+    {
+      "played_at": "2026-07-16T19:09:33.051Z",
+      "name": "Please",
+      "artists": [
+        "BTS"
+      ],
+      "album": "ARIRANG",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ba4fa604f046ff824331f4f4",
+      "uri": "spotify:track:1I1QqHDHgnEDfeQ20QFWvj",
+      "duration_ms": 172796
+    },
+    {
+      "played_at": "2026-07-16T19:13:21.499Z",
+      "name": "Law Hatsib",
+      "artists": [
+        "Mohamed Hamaki"
+      ],
+      "album": "Ya Fatenny",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737a880327eb5dca0244295143",
+      "uri": "spotify:track:7h7FKF2JBDa6xChi3z9KxC",
+      "duration_ms": 228000
     }
   ]
 }
