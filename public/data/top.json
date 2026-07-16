@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T02:44:18.009Z",
+  "generated_at": "2026-07-16T05:42:28.627Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2078,15 +2078,15 @@
         },
         {
           "rank": 10,
-          "name": "Rechazame",
+          "name": "Heseeny",
           "artists": [
-            "Prince Royce"
+            "TUL8TE"
           ],
-          "album": "Prince Royce",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a484690118ec2c7a2e2ae124",
-          "uri": "spotify:track:07p0kLnvfQQ2bLujHyzSGK",
-          "url": "https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK",
-          "duration_ms": 223200
+          "album": "Narein",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732e50096092c24bd9acb0749d",
+          "uri": "spotify:track:6AOmVuYPC8WJN0hzZ1ODIj",
+          "url": "https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj",
+          "duration_ms": 213838
         },
         {
           "rank": 11,
@@ -2103,30 +2103,18 @@
         },
         {
           "rank": 12,
-          "name": "Heseeny",
+          "name": "Rechazame",
           "artists": [
-            "TUL8TE"
+            "Prince Royce"
           ],
-          "album": "Narein",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732e50096092c24bd9acb0749d",
-          "uri": "spotify:track:6AOmVuYPC8WJN0hzZ1ODIj",
-          "url": "https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj",
-          "duration_ms": 213838
+          "album": "Prince Royce",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a484690118ec2c7a2e2ae124",
+          "uri": "spotify:track:07p0kLnvfQQ2bLujHyzSGK",
+          "url": "https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK",
+          "duration_ms": 223200
         },
         {
           "rank": 13,
-          "name": "M.",
-          "artists": [
-            "Anıl Emre Daldal"
-          ],
-          "album": "M.",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d7ddae05b16e763bc82b69a5",
-          "uri": "spotify:track:6wfb4nI2Vih263JqC8WSoW",
-          "url": "https://open.spotify.com/track/6wfb4nI2Vih263JqC8WSoW",
-          "duration_ms": 223750
-        },
-        {
-          "rank": 14,
           "name": "沉溺（你让我的心不再结冰）",
           "artists": [
             "邹沛沛",
@@ -2139,7 +2127,7 @@
           "duration_ms": 193773
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "LAYALINA",
           "artists": [
             "TUL8TE"
@@ -2151,19 +2139,7 @@
           "duration_ms": 218833
         },
         {
-          "rank": 16,
-          "name": "LIMBO",
-          "artists": [
-            "keshi"
-          ],
-          "album": "GABRIEL",
-          "image": "https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb",
-          "uri": "spotify:track:2bdVgAQgosGUJoViVDNeOV",
-          "url": "https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV",
-          "duration_ms": 212784
-        },
-        {
-          "rank": 17,
+          "rank": 15,
           "name": "All Mine",
           "artists": [
             "PLAZA"
@@ -2175,7 +2151,7 @@
           "duration_ms": 234871
         },
         {
-          "rank": 18,
+          "rank": 16,
           "name": "Moonstruck",
           "artists": [
             "ENHYPEN"
@@ -2187,7 +2163,7 @@
           "duration_ms": 158660
         },
         {
-          "rank": 19,
+          "rank": 17,
           "name": "八方來財(Stacks from All Sides)",
           "artists": [
             "攬佬SKAI ISYOURGOD"
@@ -2199,7 +2175,19 @@
           "duration_ms": 173037
         },
         {
-          "rank": 20,
+          "rank": 18,
+          "name": "LIMBO",
+          "artists": [
+            "keshi"
+          ],
+          "album": "GABRIEL",
+          "image": "https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb",
+          "uri": "spotify:track:2bdVgAQgosGUJoViVDNeOV",
+          "url": "https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV",
+          "duration_ms": 212784
+        },
+        {
+          "rank": 19,
           "name": "Julieta",
           "artists": [
             "LATIN MAFIA"
@@ -2211,7 +2199,7 @@
           "duration_ms": 210413
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Si Antes Te Hubiera Conocido",
           "artists": [
             "KAROL G"
@@ -2221,6 +2209,18 @@
           "uri": "spotify:track:6WatFBLVB0x077xWeoVc2k",
           "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k",
           "duration_ms": 195824
+        },
+        {
+          "rank": 21,
+          "name": "M.",
+          "artists": [
+            "Anıl Emre Daldal"
+          ],
+          "album": "M.",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d7ddae05b16e763bc82b69a5",
+          "uri": "spotify:track:6wfb4nI2Vih263JqC8WSoW",
+          "url": "https://open.spotify.com/track/6wfb4nI2Vih263JqC8WSoW",
+          "duration_ms": 223750
         },
         {
           "rank": 22,
@@ -2260,18 +2260,6 @@
         },
         {
           "rank": 25,
-          "name": "CONTROL",
-          "artists": [
-            "kasper"
-          ],
-          "album": "CONTROL",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a6bc65579740ebe10a1a8a91",
-          "uri": "spotify:track:61aC6Zm2G2dfLLLa7gwLeZ",
-          "url": "https://open.spotify.com/track/61aC6Zm2G2dfLLLa7gwLeZ",
-          "duration_ms": 173002
-        },
-        {
-          "rank": 26,
           "name": "Ay Vamos",
           "artists": [
             "J Balvin"
@@ -2283,7 +2271,7 @@
           "duration_ms": 226413
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "وماله",
           "artists": [
             "Amr Diab"
@@ -2295,7 +2283,7 @@
           "duration_ms": 288313
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "Uzunlar - V1",
           "artists": [
             "Evdeki Saat"
@@ -2305,6 +2293,18 @@
           "uri": "spotify:track:1vLkBVAy8ZWrqcQjYTPP3a",
           "url": "https://open.spotify.com/track/1vLkBVAy8ZWrqcQjYTPP3a",
           "duration_ms": 282352
+        },
+        {
+          "rank": 28,
+          "name": "CONTROL",
+          "artists": [
+            "kasper"
+          ],
+          "album": "CONTROL",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a6bc65579740ebe10a1a8a91",
+          "uri": "spotify:track:61aC6Zm2G2dfLLLa7gwLeZ",
+          "url": "https://open.spotify.com/track/61aC6Zm2G2dfLLLa7gwLeZ",
+          "duration_ms": 173002
         },
         {
           "rank": 29,
@@ -2393,18 +2393,6 @@
         },
         {
           "rank": 36,
-          "name": "Reflections",
-          "artists": [
-            "The Silver Roads"
-          ],
-          "album": "Reflections",
-          "image": "https://i.scdn.co/image/ab67616d0000b273feee261718375c2d6dc1594e",
-          "uri": "spotify:track:5xe2ZJZDsy7V8Jqo5B3mHf",
-          "url": "https://open.spotify.com/track/5xe2ZJZDsy7V8Jqo5B3mHf",
-          "duration_ms": 200119
-        },
-        {
-          "rank": 37,
           "name": "Virgen",
           "artists": [
             "Adolescent's Orquesta"
@@ -2416,20 +2404,7 @@
           "duration_ms": 273763
         },
         {
-          "rank": 38,
-          "name": "El Merengue",
-          "artists": [
-            "Marshmello",
-            "Manuel Turizo"
-          ],
-          "album": "Sugar Papi",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732edd8b42c68366335f21dc58",
-          "uri": "spotify:track:5KbBVSj6AJZ5662fO8EYFh",
-          "url": "https://open.spotify.com/track/5KbBVSj6AJZ5662fO8EYFh",
-          "duration_ms": 189668
-        },
-        {
-          "rank": 39,
+          "rank": 37,
           "name": "VeLDÁ",
           "artists": [
             "Bad Bunny",
@@ -2443,7 +2418,7 @@
           "duration_ms": 235336
         },
         {
-          "rank": 40,
+          "rank": 38,
           "name": "Bittersweet (feat. LeeHi)",
           "artists": [
             "WONWOO",
@@ -2457,7 +2432,7 @@
           "duration_ms": 174773
         },
         {
-          "rank": 41,
+          "rank": 39,
           "name": "Dujem",
           "artists": [
             "Butrint Imeri"
@@ -2469,7 +2444,7 @@
           "duration_ms": 157441
         },
         {
-          "rank": 42,
+          "rank": 40,
           "name": "New Woman (feat. ROSALÍA)",
           "artists": [
             "LISA",
@@ -2482,7 +2457,7 @@
           "duration_ms": 179789
         },
         {
-          "rank": 43,
+          "rank": 41,
           "name": "اخدني معك",
           "artists": [
             "Fadel Chaker"
@@ -2494,7 +2469,19 @@
           "duration_ms": 313939
         },
         {
-          "rank": 44,
+          "rank": 42,
+          "name": "Reflections",
+          "artists": [
+            "The Silver Roads"
+          ],
+          "album": "Reflections",
+          "image": "https://i.scdn.co/image/ab67616d0000b273feee261718375c2d6dc1594e",
+          "uri": "spotify:track:5xe2ZJZDsy7V8Jqo5B3mHf",
+          "url": "https://open.spotify.com/track/5xe2ZJZDsy7V8Jqo5B3mHf",
+          "duration_ms": 200119
+        },
+        {
+          "rank": 43,
           "name": "Red Swan",
           "artists": [
             "YOSHIKI",
@@ -2507,7 +2494,7 @@
           "duration_ms": 263720
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "Mirada",
           "artists": [
             "Ivan Cornejo"
@@ -2519,7 +2506,7 @@
           "duration_ms": 167522
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "Dream",
           "artists": [
             "keshi"
@@ -2531,7 +2518,7 @@
           "duration_ms": 210070
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Like That",
           "artists": [
             "keshi"
@@ -2543,7 +2530,7 @@
           "duration_ms": 180106
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Sweet Dreams (feat. Miguel)",
           "artists": [
             "j-hope",
@@ -2554,6 +2541,19 @@
           "uri": "spotify:track:1yX9gy5fK02j6nBnGJ1S3k",
           "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k",
           "duration_ms": 172952
+        },
+        {
+          "rank": 48,
+          "name": "El Merengue",
+          "artists": [
+            "Marshmello",
+            "Manuel Turizo"
+          ],
+          "album": "Sugar Papi",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732edd8b42c68366335f21dc58",
+          "uri": "spotify:track:5KbBVSj6AJZ5662fO8EYFh",
+          "url": "https://open.spotify.com/track/5KbBVSj6AJZ5662fO8EYFh",
+          "duration_ms": 189668
         },
         {
           "rank": 49,
@@ -2711,6 +2711,14 @@
         },
         {
           "rank": 17,
+          "name": "Pierce The Veil",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6f8f8d13be17bf486219edc7",
+          "genres": [],
+          "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        },
+        {
+          "rank": 18,
           "name": "Danny Ocean",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6d11079e9ea4fd57b5df6c97",
           "genres": [],
@@ -2718,7 +2726,7 @@
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "The Weeknd",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
           "genres": [],
@@ -2726,7 +2734,7 @@
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Jung Kook",
           "image": "https://i.scdn.co/image/ab6761610000e5eb71089d18c93e3a51e70ff0dc",
           "genres": [],
@@ -2734,20 +2742,12 @@
           "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Adolescent's Orquesta",
           "image": "https://i.scdn.co/image/ab6761610000e5eb85cbe9f05b11e3ea3d20ff0b",
           "genres": [],
           "uri": "spotify:artist:70nxnxEqDQIEWneRjg2Q4O",
           "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        },
-        {
-          "rank": 21,
-          "name": "Pierce The Veil",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6f8f8d13be17bf486219edc7",
-          "genres": [],
-          "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         },
         {
           "rank": 22,
