@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T16:16:20.608Z",
+  "updated_at": "2026-07-17T19:12:48.903Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -7037,6 +7037,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273586cde445b4e951ae727c536",
       "uri": "spotify:track:4q8bfTmtDfgLGmDc5IuoIQ",
       "duration_ms": 234461
+    },
+    {
+      "played_at": "2026-07-17T16:17:52.040Z",
+      "name": "No digas nada",
+      "artists": [
+        "LATIN MAFIA"
+      ],
+      "album": "No digas nada",
+      "image": "https://i.scdn.co/image/ab67616d0000b273508432681fdcfcbd0a758622",
+      "uri": "spotify:track:4wtWL0UV8tCPv9VbUMLXYP",
+      "duration_ms": 222545
+    },
+    {
+      "played_at": "2026-07-17T16:24:18.883Z",
+      "name": "Back To Strangers",
+      "artists": [
+        "Rehash"
+      ],
+      "album": "Mourning Star",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a9ac020c767f08ea7490fa21",
+      "uri": "spotify:track:2GpNjyQO67Ss38PmPaL6uA",
+      "duration_ms": 270335
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-17T16:16:20.745Z",
-  "is_playing": true,
+  "updated_at": "2026-07-17T19:12:48.938Z",
+  "is_playing": false,
   "track": {
-    "name": "No digas nada",
+    "name": "Back To Strangers",
     "artists": [
-      "LATIN MAFIA"
+      "Rehash"
     ],
-    "album": "No digas nada",
-    "image": "https://i.scdn.co/image/ab67616d0000b273508432681fdcfcbd0a758622",
-    "uri": "spotify:track:4wtWL0UV8tCPv9VbUMLXYP"
+    "album": "Mourning Star",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a9ac020c767f08ea7490fa21",
+    "uri": "spotify:track:2GpNjyQO67Ss38PmPaL6uA"
   },
-  "played_at": "2026-07-17T16:16:20.745Z"
+  "played_at": "2026-07-17T16:24:18.883Z"
 }
