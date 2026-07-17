@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-17T13:41:51.616Z",
-  "is_playing": false,
+  "updated_at": "2026-07-17T16:16:20.745Z",
+  "is_playing": true,
   "track": {
-    "name": "我的爱没前奏",
+    "name": "No digas nada",
     "artists": [
-      "Nana Ou-Yang"
+      "LATIN MAFIA"
     ],
-    "album": "我的爱没前奏",
-    "image": "https://i.scdn.co/image/ab67616d0000b2739fd2ca3f9a7a20035bb93ea8",
-    "uri": "spotify:track:0Gt3TmU30vJv7nAapvUPK4"
+    "album": "No digas nada",
+    "image": "https://i.scdn.co/image/ab67616d0000b273508432681fdcfcbd0a758622",
+    "uri": "spotify:track:4wtWL0UV8tCPv9VbUMLXYP"
   },
-  "played_at": "2026-07-16T19:47:49.018Z"
+  "played_at": "2026-07-17T16:16:20.745Z"
 }

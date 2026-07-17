@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T13:41:51.505Z",
+  "updated_at": "2026-07-17T16:16:20.608Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -7015,6 +7015,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2739fd2ca3f9a7a20035bb93ea8",
       "uri": "spotify:track:0Gt3TmU30vJv7nAapvUPK4",
       "duration_ms": 199596
+    },
+    {
+      "played_at": "2026-07-17T16:08:01.210Z",
+      "name": "así pasó",
+      "artists": [
+        "Darviin"
+      ],
+      "album": "así pasó",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a340414564db83e5acd0a136",
+      "uri": "spotify:track:0uVzsYEez02joVaJeSeSC7",
+      "duration_ms": 182787
+    },
+    {
+      "played_at": "2026-07-17T16:12:00.265Z",
+      "name": "SILENCIO",
+      "artists": [
+        "Rauw Alejandro"
+      ],
+      "album": "Cosa Nuestra: Capítulo 0",
+      "image": "https://i.scdn.co/image/ab67616d0000b273586cde445b4e951ae727c536",
+      "uri": "spotify:track:4q8bfTmtDfgLGmDc5IuoIQ",
+      "duration_ms": 234461
     }
   ]
 }
