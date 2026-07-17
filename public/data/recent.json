@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T19:12:48.903Z",
+  "updated_at": "2026-07-17T21:55:08.783Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -7059,6 +7059,83 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a9ac020c767f08ea7490fa21",
       "uri": "spotify:track:2GpNjyQO67Ss38PmPaL6uA",
       "duration_ms": 270335
+    },
+    {
+      "played_at": "2026-07-17T21:13:40.168Z",
+      "name": "Kiss Me Now",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Kiss Me Now",
+      "image": "https://i.scdn.co/image/ab67616d0000b27352a7a9543acdb0aadc61f08a",
+      "uri": "spotify:track:40KgVtH6ANki7AN2Sj1rZD",
+      "duration_ms": 256268
+    },
+    {
+      "played_at": "2026-07-17T21:24:10.676Z",
+      "name": "El Replay",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "El Replay",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c0c5d801f8c36413bea58094",
+      "uri": "spotify:track:2ZoXNmIe9xQPAJMh5UNtaP",
+      "duration_ms": 170400
+    },
+    {
+      "played_at": "2026-07-17T21:28:24.639Z",
+      "name": "SE QUE TE FALLE",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "El Replay",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c0c5d801f8c36413bea58094",
+      "uri": "spotify:track:10J3TjoiccXRy2k51k3qFl",
+      "duration_ms": 221229
+    },
+    {
+      "played_at": "2026-07-17T21:37:13.347Z",
+      "name": "DtMF",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya",
+      "duration_ms": 237117
+    },
+    {
+      "played_at": "2026-07-17T21:40:17.125Z",
+      "name": "NUEVAYoL",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
+      "duration_ms": 183685
+    },
+    {
+      "played_at": "2026-07-17T21:46:25.247Z",
+      "name": "BAILE INoLVIDABLE",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:2lTm559tuIvatlT1u0JYG2",
+      "duration_ms": 367725
+    },
+    {
+      "played_at": "2026-07-17T21:51:51.344Z",
+      "name": "Tití Me Preguntó",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "Un Verano Sin Ti",
+      "image": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+      "uri": "spotify:track:1IHWl5LamUGEuP4ozKQSXZ",
+      "duration_ms": 243716
     }
   ]
 }

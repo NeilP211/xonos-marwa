@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-17T19:12:48.938Z",
-  "is_playing": false,
+  "updated_at": "2026-07-17T21:55:08.981Z",
+  "is_playing": true,
   "track": {
-    "name": "Back To Strangers",
+    "name": "Te Volví a Soñar",
     "artists": [
-      "Rehash"
+      "Daphne Michelle"
     ],
-    "album": "Mourning Star",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a9ac020c767f08ea7490fa21",
-    "uri": "spotify:track:2GpNjyQO67Ss38PmPaL6uA"
+    "album": "Te Volví a Soñar",
+    "image": "https://i.scdn.co/image/ab67616d0000b27333b2b6c57a3867694c12afe2",
+    "uri": "spotify:track:3ZxZtjDM7f9GxCU5w7N44Z"
   },
-  "played_at": "2026-07-17T16:24:18.883Z"
+  "played_at": "2026-07-17T21:55:08.981Z"
 }
