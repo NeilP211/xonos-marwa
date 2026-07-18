@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T21:55:08.783Z",
+  "updated_at": "2026-07-18T02:38:14.542Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -7136,6 +7136,73 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
       "uri": "spotify:track:1IHWl5LamUGEuP4ozKQSXZ",
       "duration_ms": 243716
+    },
+    {
+      "played_at": "2026-07-17T21:58:35.963Z",
+      "name": "Te Volví a Soñar",
+      "artists": [
+        "Daphne Michelle"
+      ],
+      "album": "Te Volví a Soñar",
+      "image": "https://i.scdn.co/image/ab67616d0000b27333b2b6c57a3867694c12afe2",
+      "uri": "spotify:track:3ZxZtjDM7f9GxCU5w7N44Z",
+      "duration_ms": 211837
+    },
+    {
+      "played_at": "2026-07-17T22:02:21.716Z",
+      "name": "Siento que puedo volar",
+      "artists": [
+        "Daphne Michelle"
+      ],
+      "album": "Siento que puedo volar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739362f19823a24d4276ffc180",
+      "uri": "spotify:track:0QFUhpRqzTlpipPMULCJUZ",
+      "duration_ms": 225581
+    },
+    {
+      "played_at": "2026-07-17T22:06:11.339Z",
+      "name": "Nunca Más",
+      "artists": [
+        "La Isla Centeno"
+      ],
+      "album": "Canciones Para El Volcán",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739540a18191d908bf060065d0",
+      "uri": "spotify:track:5eiZ4TFyBsLOpPzBgR4oG5",
+      "duration_ms": 229214
+    },
+    {
+      "played_at": "2026-07-17T22:10:44.459Z",
+      "name": "Loco por Ti",
+      "artists": [
+        "Sebastián Romero",
+        "Daphne Michelle"
+      ],
+      "album": "Loco por Ti",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be268a7c83f448efeb8b78b3",
+      "uri": "spotify:track:7EdS33SFv8A2nbqkYAg1lk",
+      "duration_ms": 184000
+    },
+    {
+      "played_at": "2026-07-18T01:02:52.966Z",
+      "name": "Narein",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "Narein",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732e50096092c24bd9acb0749d",
+      "uri": "spotify:track:3D33hlROnv1lNCWIXIGsL2",
+      "duration_ms": 184814
+    },
+    {
+      "played_at": "2026-07-18T01:07:15.640Z",
+      "name": "Ya Tabtab Wa Dallaa",
+      "artists": [
+        "Nancy Ajram"
+      ],
+      "album": "Ya Tabtab",
+      "image": "https://i.scdn.co/image/ab67616d0000b273524c4540b3f4df756712e8be",
+      "uri": "spotify:track:5l4Lla3ntoJIkCud07XlYn",
+      "duration_ms": 262240
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-17T21:55:08.981Z",
-  "is_playing": true,
+  "updated_at": "2026-07-18T02:38:14.574Z",
+  "is_playing": false,
   "track": {
-    "name": "Te Volví a Soñar",
+    "name": "Ya Tabtab Wa Dallaa",
     "artists": [
-      "Daphne Michelle"
+      "Nancy Ajram"
     ],
-    "album": "Te Volví a Soñar",
-    "image": "https://i.scdn.co/image/ab67616d0000b27333b2b6c57a3867694c12afe2",
-    "uri": "spotify:track:3ZxZtjDM7f9GxCU5w7N44Z"
+    "album": "Ya Tabtab",
+    "image": "https://i.scdn.co/image/ab67616d0000b273524c4540b3f4df756712e8be",
+    "uri": "spotify:track:5l4Lla3ntoJIkCud07XlYn"
   },
-  "played_at": "2026-07-17T21:55:08.981Z"
+  "played_at": "2026-07-18T01:07:15.640Z"
 }
