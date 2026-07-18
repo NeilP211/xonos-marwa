@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T19:07:26.185Z",
+  "generated_at": "2026-07-18T21:52:56.119Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2646,6 +2646,14 @@
         },
         {
           "rank": 15,
+          "name": "Pierce The Veil",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6f8f8d13be17bf486219edc7",
+          "genres": [],
+          "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        },
+        {
+          "rank": 16,
           "name": "Prince Royce",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6ce83e3425a74cb9d6bdb1dc",
           "genres": [],
@@ -2653,20 +2661,12 @@
           "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "KAROL G",
           "image": "https://i.scdn.co/image/ab6761610000e5eb66041ce9eb4497057cbc3496",
           "genres": [],
           "uri": "spotify:artist:790FomKkXshlbRYZFtlgla",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "rank": 17,
-          "name": "Pierce The Veil",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6f8f8d13be17bf486219edc7",
-          "genres": [],
-          "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         },
         {
           "rank": 18,
@@ -2734,6 +2734,14 @@
         },
         {
           "rank": 26,
+          "name": "TUL8TE",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
+          "genres": [],
+          "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        },
+        {
+          "rank": 27,
           "name": "Nancy Ajram",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1c81429c45fb96c751f55313",
           "genres": [],
@@ -2741,7 +2749,7 @@
           "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Romeo Santos",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
           "genres": [],
@@ -2749,20 +2757,12 @@
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Ariana Grande",
           "image": "https://i.scdn.co/image/ab6761610000e5eb766397ec42a573a53eb5fb87",
           "genres": [],
           "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR",
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "rank": 29,
-          "name": "TUL8TE",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
-          "genres": [],
-          "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
-          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
         },
         {
           "rank": 30,
