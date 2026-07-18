@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T02:38:14.542Z",
+  "updated_at": "2026-07-18T05:28:00.499Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -7203,6 +7203,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273524c4540b3f4df756712e8be",
       "uri": "spotify:track:5l4Lla3ntoJIkCud07XlYn",
       "duration_ms": 262240
+    },
+    {
+      "played_at": "2026-07-18T02:41:39.947Z",
+      "name": "Ragea",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "Ahla W Ahla",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343b631a1e61aa93b9db9f7a8",
+      "uri": "spotify:track:73ppBd1Mc3J6JeczDvLF8E",
+      "duration_ms": 209186
+    },
+    {
+      "played_at": "2026-07-18T05:16:38.008Z",
+      "name": "Law Hobna Ghalta",
+      "artists": [
+        "Wael Kfoury"
+      ],
+      "album": "Law Hobna Ghalta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
+      "uri": "spotify:track:153KOLKCILwezfq0Au9QwV",
+      "duration_ms": 227826
     }
   ]
 }
