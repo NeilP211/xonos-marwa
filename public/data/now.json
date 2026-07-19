@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-18T21:52:56.277Z",
+  "updated_at": "2026-07-19T02:52:33.105Z",
   "is_playing": false,
   "track": {
-    "name": "Law Hobna Ghalta",
+    "name": "雨蝶 - R&B微醺版",
     "artists": [
-      "Wael Kfoury"
+      "微醺卡带"
     ],
-    "album": "Law Hobna Ghalta",
-    "image": "https://i.scdn.co/image/ab67616d0000b273efb30beef4209935889fb090",
-    "uri": "spotify:track:153KOLKCILwezfq0Au9QwV"
+    "album": "雨蝶 (R&B微醺版)",
+    "image": "https://i.scdn.co/image/ab67616d0000b27381bfa5296306a950e8b64aa0",
+    "uri": "spotify:track:4BdMTfgOY7zGwIGCqJpEnm"
   },
-  "played_at": "2026-07-18T05:16:38.008Z"
+  "played_at": "2026-07-19T01:22:29.979Z"
 }
