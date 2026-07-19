@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T10:36:21.390Z",
+  "generated_at": "2026-07-19T13:20:44.824Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1031,6 +1031,18 @@
         },
         {
           "rank": 12,
+          "name": "雨蝶 - R&B微醺版",
+          "artists": [
+            "微醺卡带"
+          ],
+          "album": "雨蝶 (R&B微醺版)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27381bfa5296306a950e8b64aa0",
+          "uri": "spotify:track:4BdMTfgOY7zGwIGCqJpEnm",
+          "url": "https://open.spotify.com/track/4BdMTfgOY7zGwIGCqJpEnm",
+          "duration_ms": 234984
+        },
+        {
+          "rank": 13,
           "name": "Mónaco",
           "artists": [
             "LAGOS",
@@ -1043,7 +1055,7 @@
           "duration_ms": 192313
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Akuma no Ko",
           "artists": [
             "Ai Higuchi"
@@ -1055,7 +1067,7 @@
           "duration_ms": 229960
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "日落计数器",
           "artists": [
             "莫非定律乐团"
@@ -1067,7 +1079,7 @@
           "duration_ms": 291564
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Shingeki Gt 20130218 Kyojin",
           "artists": [
             "Sawano Hiroyuki"
@@ -1077,18 +1089,6 @@
           "uri": "spotify:track:6AFkv6rIVRusZNifR74Q7t",
           "url": "https://open.spotify.com/track/6AFkv6rIVRusZNifR74Q7t",
           "duration_ms": 151400
-        },
-        {
-          "rank": 16,
-          "name": "雨蝶 - R&B微醺版",
-          "artists": [
-            "微醺卡带"
-          ],
-          "album": "雨蝶 (R&B微醺版)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27381bfa5296306a950e8b64aa0",
-          "uri": "spotify:track:4BdMTfgOY7zGwIGCqJpEnm",
-          "url": "https://open.spotify.com/track/4BdMTfgOY7zGwIGCqJpEnm",
-          "duration_ms": 234984
         },
         {
           "rank": 17,
