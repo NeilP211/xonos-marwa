@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T16:24:45.401Z",
+  "updated_at": "2026-07-20T19:45:38.428Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -7526,6 +7526,294 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27398da02db8bb9253c3367e41a",
       "uri": "spotify:track:1DKYtHoBNbqjMLqvpw7o73",
       "duration_ms": 304413
+    },
+    {
+      "played_at": "2026-07-20T16:26:37.073Z",
+      "name": "Selfish Waltz",
+      "artists": [
+        "ATEEZ"
+      ],
+      "album": "GOLDEN HOUR : Part.2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d2e09fa4f9a0285f8d2a9142",
+      "uri": "spotify:track:4sgvhAD07BiE8H0gGbmaCk",
+      "duration_ms": 203654
+    },
+    {
+      "played_at": "2026-07-20T16:32:54.330Z",
+      "name": "Love's Battery",
+      "artists": [
+        "HONG JIN YOUNG"
+      ],
+      "album": "Love's Battery",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640",
+      "uri": "spotify:track:3ODnfFXZP7hLp2fn2KpGGG",
+      "duration_ms": 206863
+    },
+    {
+      "played_at": "2026-07-20T16:38:32.566Z",
+      "name": "Your eyes tell",
+      "artists": [
+        "BTS"
+      ],
+      "album": "MAP OF THE SOUL : 7 ~ THE JOURNEY ~",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da9c76ed020a7894443a3f97",
+      "uri": "spotify:track:3TZ7NHkMT82AhwuYsd00Hz",
+      "duration_ms": 245146
+    },
+    {
+      "played_at": "2026-07-20T16:41:45.111Z",
+      "name": "Playa Pantaleta",
+      "artists": [
+        "Rawayana"
+      ],
+      "album": "¿Dónde Es El After?",
+      "image": "https://i.scdn.co/image/ab67616d0000b273932fe6d260177091a0e115ba",
+      "uri": "spotify:track:3Eu6LVgWHm3iristXeOjWf",
+      "duration_ms": 192093
+    },
+    {
+      "played_at": "2026-07-20T16:45:24.396Z",
+      "name": "Desde mi habitación",
+      "artists": [
+        "Darviin",
+        "José y el Toro"
+      ],
+      "album": "Desde mi habitación",
+      "image": "https://i.scdn.co/image/ab67616d0000b273689a28122d2e8c9dfe0ecc5c",
+      "uri": "spotify:track:2DZ66IRklQUZ4SFLS18dym",
+      "duration_ms": 218814
+    },
+    {
+      "played_at": "2026-07-20T16:49:41.309Z",
+      "name": "Night",
+      "artists": [
+        "keshi"
+      ],
+      "album": "Requiem",
+      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
+      "uri": "spotify:track:4xlkIVboOY2plOALp9bqD8",
+      "duration_ms": 179906
+    },
+    {
+      "played_at": "2026-07-20T16:53:54.135Z",
+      "name": "Guide light",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "If Not Winter",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8b32380575d518f0639a123",
+      "uri": "spotify:track:4zULX2Zfq7ucz8cHlg6AhQ",
+      "duration_ms": 228146
+    },
+    {
+      "played_at": "2026-07-20T16:57:03.985Z",
+      "name": "crushcrushcrush",
+      "artists": [
+        "Paramore"
+      ],
+      "album": "Riot!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb",
+      "uri": "spotify:track:3VA4sjTMSTTF02hFGmlpJh",
+      "duration_ms": 189373
+    },
+    {
+      "played_at": "2026-07-20T17:03:35.280Z",
+      "name": "Entombed",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Koi No Yokan",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
+      "uri": "spotify:track:4bLCPfBLKlqiONo6TALTh5",
+      "duration_ms": 299240
+    },
+    {
+      "played_at": "2026-07-20T17:06:02.700Z",
+      "name": "Sword",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "If Not Winter",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8b32380575d518f0639a123",
+      "uri": "spotify:track:2wxICse8QdKYbdBS6ofpxG",
+      "duration_ms": 146973
+    },
+    {
+      "played_at": "2026-07-20T17:17:28.322Z",
+      "name": "Lover, You Should've Come Over",
+      "artists": [
+        "Jeff Buckley"
+      ],
+      "album": "Grace",
+      "image": "https://i.scdn.co/image/ab67616d0000b273afc2d1d2c8703a10aeded0af",
+      "uri": "spotify:track:6Jv7kjGkhY2fT4yuBF3aTz",
+      "duration_ms": 404213
+    },
+    {
+      "played_at": "2026-07-20T17:22:05.034Z",
+      "name": "The One",
+      "artists": [
+        "Jorja Smith"
+      ],
+      "album": "Lost & Found",
+      "image": "https://i.scdn.co/image/ab67616d0000b27378378dcaccec9e965e0d6351",
+      "uri": "spotify:track:1Ahp4PZ1vzdbzBCedUrsqI",
+      "duration_ms": 197574
+    },
+    {
+      "played_at": "2026-07-20T17:25:44.917Z",
+      "name": "Flatline",
+      "artists": [
+        "Justin Bieber"
+      ],
+      "album": "Journals",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358ae8fddecbd2630005409c9",
+      "uri": "spotify:track:2GBgiuXwY1KzJMA0gSAr9J",
+      "duration_ms": 219346
+    },
+    {
+      "played_at": "2026-07-20T17:32:23.538Z",
+      "name": "you know",
+      "artists": [
+        "bixby"
+      ],
+      "album": "you know",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739a5560d3119e45ac800654f1",
+      "uri": "spotify:track:2VV7rnPcfRKu4Hr4olJZcq",
+      "duration_ms": 127384
+    },
+    {
+      "played_at": "2026-07-20T17:35:23.891Z",
+      "name": "Bleeding",
+      "artists": [
+        "kasper"
+      ],
+      "album": "Bleeding",
+      "image": "https://i.scdn.co/image/ab67616d0000b273046a8df46b9e6b6b6e0fb9a9",
+      "uri": "spotify:track:1Y4ynRKJo3eOus88e7JHMG",
+      "duration_ms": 180000
+    },
+    {
+      "played_at": "2026-07-20T17:43:15.106Z",
+      "name": "Tulips",
+      "artists": [
+        "kasper"
+      ],
+      "album": "Tulips",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d76b56703b0b0b2312a90018",
+      "uri": "spotify:track:358ebpX0j2KttZ9IxzEjKB",
+      "duration_ms": 254400
+    },
+    {
+      "played_at": "2026-07-20T18:12:06.264Z",
+      "name": "Dile Que Tu Me Quieres",
+      "artists": [
+        "Ozuna"
+      ],
+      "album": "Odisea",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b0a875d7f1bfe4ec4aaffa48",
+      "uri": "spotify:track:5u5MvmVtitax9R1Mxh3reC",
+      "duration_ms": 226520
+    },
+    {
+      "played_at": "2026-07-20T18:15:49.004Z",
+      "name": "QUE PRETENDES",
+      "artists": [
+        "J Balvin",
+        "Bad Bunny"
+      ],
+      "album": "OASIS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734891d9b25d8919448388f3bb",
+      "uri": "spotify:track:25ZAibhr3bdlMCLmubZDVt",
+      "duration_ms": 222346
+    },
+    {
+      "played_at": "2026-07-20T18:20:50.845Z",
+      "name": "COSAS QUE NO TE DIJE",
+      "artists": [
+        "SAIKO"
+      ],
+      "album": "COSAS QUE NO TE DIJE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735d666f80d0c44e17795c37d9",
+      "uri": "spotify:track:5xSt1wxZobFcLzHrFakv6z",
+      "duration_ms": 224725
+    },
+    {
+      "played_at": "2026-07-20T19:11:58.196Z",
+      "name": "Cool With You",
+      "artists": [
+        "NewJeans"
+      ],
+      "album": "NewJeans 2nd EP 'Get Up'",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b",
+      "uri": "spotify:track:02wk5BttM0QL38ERjLPQJB",
+      "duration_ms": 147880
+    },
+    {
+      "played_at": "2026-07-20T19:18:59.196Z",
+      "name": "Yally Zaalan",
+      "artists": [
+        "Mohamed Hamaki"
+      ],
+      "album": "Omroh Ma Yeghib",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733bbba5c0407a0522f97e07dd",
+      "uri": "spotify:track:1gJfRu9I7hadI70g3YEyt8",
+      "duration_ms": 292440
+    },
+    {
+      "played_at": "2026-07-20T19:26:44.757Z",
+      "name": "Ma Baaref",
+      "artists": [
+        "Yara"
+      ],
+      "album": "Ya Ayech Bi Oyouni",
+      "image": "https://i.scdn.co/image/ab67616d0000b27337ae107251dc780e15a3ecd4",
+      "uri": "spotify:track:3o33CncxOfTLMYcGAIND9t",
+      "duration_ms": 242760
+    },
+    {
+      "played_at": "2026-07-20T19:32:41.225Z",
+      "name": "3la Bali",
+      "artists": [
+        "Sherine"
+      ],
+      "album": "Lazem A3eesh",
+      "image": "https://i.scdn.co/image/ab67616d0000b273815bc0d0382f154678eaa77f",
+      "uri": "spotify:track:05nDuLXu5ejNOM05LNbS8a",
+      "duration_ms": 279457
+    },
+    {
+      "played_at": "2026-07-20T19:36:55.578Z",
+      "name": "و افتكرت",
+      "artists": [
+        "Mohamed Hamaki"
+      ],
+      "album": "ناويها",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735527bb726ed8036c3b232a8d",
+      "uri": "spotify:track:2ZYxLGcohgsKpor8pGMc0o",
+      "duration_ms": 253894
+    },
+    {
+      "played_at": "2026-07-20T19:42:37.087Z",
+      "name": "Hatgawez",
+      "artists": [
+        "Saad El Soghayar"
+      ],
+      "album": "Had Yeshtery Alb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273739d82503a09dfefdf15434c",
+      "uri": "spotify:track:1Vb51CRZbbS333bMwA0csQ",
+      "duration_ms": 275092
+    },
+    {
+      "played_at": "2026-07-20T19:45:21.529Z",
+      "name": "WAZIRA / وزيرة",
+      "artists": [
+        "Saint Levant"
+      ],
+      "album": "Love Letters / رسائل حب",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a0fce4a818e7d680d6ab5c40",
+      "uri": "spotify:track:22I9OYOLQPVQOZpr3daoaz",
+      "duration_ms": 164000
     }
   ]
 }

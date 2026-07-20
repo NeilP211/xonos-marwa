@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-20T16:24:45.509Z",
+  "updated_at": "2026-07-20T19:45:38.567Z",
   "is_playing": false,
   "track": {
-    "name": "In Another Time",
+    "name": "WAZIRA / وزيرة",
     "artists": [
-      "Sade"
+      "Saint Levant"
     ],
-    "album": "Soldier of Love",
-    "image": "https://i.scdn.co/image/ab67616d0000b27398da02db8bb9253c3367e41a",
-    "uri": "spotify:track:1DKYtHoBNbqjMLqvpw7o73"
+    "album": "Love Letters / رسائل حب",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a0fce4a818e7d680d6ab5c40",
+    "uri": "spotify:track:22I9OYOLQPVQOZpr3daoaz"
   },
-  "played_at": "2026-07-20T15:30:47.463Z"
+  "played_at": "2026-07-20T19:45:21.529Z"
 }
