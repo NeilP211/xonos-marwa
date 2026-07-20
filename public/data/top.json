@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T09:17:30.087Z",
+  "generated_at": "2026-07-20T14:09:18.060Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1144,6 +1144,18 @@
         },
         {
           "rank": 20,
+          "name": "NUEVAYoL",
+          "artists": [
+            "Bad Bunny"
+          ],
+          "album": "DeBÍ TiRAR MáS FOToS",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
+          "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5",
+          "duration_ms": 183685
+        },
+        {
+          "rank": 21,
           "name": "Risk It All",
           "artists": [
             "Bruno Mars"
@@ -1155,7 +1167,7 @@
           "duration_ms": 204068
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "orióN",
           "artists": [
             "Boza",
@@ -1166,18 +1178,6 @@
           "uri": "spotify:track:4feh4Ak3ZJfC6ibxkNzlkE",
           "url": "https://open.spotify.com/track/4feh4Ak3ZJfC6ibxkNzlkE",
           "duration_ms": 240964
-        },
-        {
-          "rank": 22,
-          "name": "NUEVAYoL",
-          "artists": [
-            "Bad Bunny"
-          ],
-          "album": "DeBÍ TiRAR MáS FOToS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-          "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
-          "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5",
-          "duration_ms": 183685
         },
         {
           "rank": 23,
@@ -1194,90 +1194,6 @@
         },
         {
           "rank": 24,
-          "name": "Boku no Sensou",
-          "artists": [
-            "Shinsei Kamattechan"
-          ],
-          "album": "Danchi Thesis",
-          "image": "https://i.scdn.co/image/ab67616d0000b27390e0bebf528ba26bba48c326",
-          "uri": "spotify:track:2RRlSGydVNuEVn3xazufyd",
-          "url": "https://open.spotify.com/track/2RRlSGydVNuEVn3xazufyd",
-          "duration_ms": 280466
-        },
-        {
-          "rank": 25,
-          "name": "Flor De Michoacán",
-          "artists": [
-            "Menny Flores"
-          ],
-          "album": "Flor De Michoacán",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
-          "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3",
-          "url": "https://open.spotify.com/track/33vQCR90JDkXzcRvRVi0H3",
-          "duration_ms": 193853
-        },
-        {
-          "rank": 26,
-          "name": "Descifrar",
-          "artists": [
-            "maye"
-          ],
-          "album": "Descifrar",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
-          "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
-          "url": "https://open.spotify.com/track/431vrxogdCt65ZSWfUrP1G",
-          "duration_ms": 178700
-        },
-        {
-          "rank": 27,
-          "name": "Bauklotze",
-          "artists": [
-            "Sawano Hiroyuki"
-          ],
-          "album": "TV Anime \"Attack on Titan\" Original Soundtrack",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732e09d63a7ba7fa7071e26524",
-          "uri": "spotify:track:6oh6pyBUaJWZbhQKsq0iAm",
-          "url": "https://open.spotify.com/track/6oh6pyBUaJWZbhQKsq0iAm",
-          "duration_ms": 236253
-        },
-        {
-          "rank": 28,
-          "name": "Reggaeton",
-          "artists": [
-            "J Balvin"
-          ],
-          "album": "Reggaeton",
-          "image": "https://i.scdn.co/image/ab67616d0000b27304d849b0b580859bdb70e644",
-          "uri": "spotify:track:2D3z17LBMJ2HEHeBFFjTLi",
-          "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi",
-          "duration_ms": 158800
-        },
-        {
-          "rank": 29,
-          "name": "흩어진나날들",
-          "artists": [
-            "강수지"
-          ],
-          "album": "강수지2집",
-          "image": "https://i.scdn.co/image/ab67616d0000b27336baac318c4aac27ed3a54ea",
-          "uri": "spotify:track:3IuA2jGGOgZCGwQBiLhRuP",
-          "url": "https://open.spotify.com/track/3IuA2jGGOgZCGwQBiLhRuP",
-          "duration_ms": 262126
-        },
-        {
-          "rank": 30,
-          "name": "Heseeny",
-          "artists": [
-            "TUL8TE"
-          ],
-          "album": "Narein",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732e50096092c24bd9acb0749d",
-          "uri": "spotify:track:6AOmVuYPC8WJN0hzZ1ODIj",
-          "url": "https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj",
-          "duration_ms": 213838
-        },
-        {
-          "rank": 31,
           "name": "EoO",
           "artists": [
             "Bad Bunny"
@@ -1289,7 +1205,103 @@
           "duration_ms": 204768
         },
         {
+          "rank": 25,
+          "name": "DtMF",
+          "artists": [
+            "Bad Bunny"
+          ],
+          "album": "DeBÍ TiRAR MáS FOToS",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya",
+          "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
+          "duration_ms": 237117
+        },
+        {
+          "rank": 26,
+          "name": "Boku no Sensou",
+          "artists": [
+            "Shinsei Kamattechan"
+          ],
+          "album": "Danchi Thesis",
+          "image": "https://i.scdn.co/image/ab67616d0000b27390e0bebf528ba26bba48c326",
+          "uri": "spotify:track:2RRlSGydVNuEVn3xazufyd",
+          "url": "https://open.spotify.com/track/2RRlSGydVNuEVn3xazufyd",
+          "duration_ms": 280466
+        },
+        {
+          "rank": 27,
+          "name": "Flor De Michoacán",
+          "artists": [
+            "Menny Flores"
+          ],
+          "album": "Flor De Michoacán",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
+          "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3",
+          "url": "https://open.spotify.com/track/33vQCR90JDkXzcRvRVi0H3",
+          "duration_ms": 193853
+        },
+        {
+          "rank": 28,
+          "name": "Descifrar",
+          "artists": [
+            "maye"
+          ],
+          "album": "Descifrar",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
+          "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
+          "url": "https://open.spotify.com/track/431vrxogdCt65ZSWfUrP1G",
+          "duration_ms": 178700
+        },
+        {
+          "rank": 29,
+          "name": "Bauklotze",
+          "artists": [
+            "Sawano Hiroyuki"
+          ],
+          "album": "TV Anime \"Attack on Titan\" Original Soundtrack",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732e09d63a7ba7fa7071e26524",
+          "uri": "spotify:track:6oh6pyBUaJWZbhQKsq0iAm",
+          "url": "https://open.spotify.com/track/6oh6pyBUaJWZbhQKsq0iAm",
+          "duration_ms": 236253
+        },
+        {
+          "rank": 30,
+          "name": "Reggaeton",
+          "artists": [
+            "J Balvin"
+          ],
+          "album": "Reggaeton",
+          "image": "https://i.scdn.co/image/ab67616d0000b27304d849b0b580859bdb70e644",
+          "uri": "spotify:track:2D3z17LBMJ2HEHeBFFjTLi",
+          "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi",
+          "duration_ms": 158800
+        },
+        {
+          "rank": 31,
+          "name": "흩어진나날들",
+          "artists": [
+            "강수지"
+          ],
+          "album": "강수지2집",
+          "image": "https://i.scdn.co/image/ab67616d0000b27336baac318c4aac27ed3a54ea",
+          "uri": "spotify:track:3IuA2jGGOgZCGwQBiLhRuP",
+          "url": "https://open.spotify.com/track/3IuA2jGGOgZCGwQBiLhRuP",
+          "duration_ms": 262126
+        },
+        {
           "rank": 32,
+          "name": "Heseeny",
+          "artists": [
+            "TUL8TE"
+          ],
+          "album": "Narein",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732e50096092c24bd9acb0749d",
+          "uri": "spotify:track:6AOmVuYPC8WJN0hzZ1ODIj",
+          "url": "https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj",
+          "duration_ms": 213838
+        },
+        {
+          "rank": 33,
           "name": "WHO DO U LUV",
           "artists": [
             "Avenoir"
@@ -1301,7 +1313,7 @@
           "duration_ms": 248760
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Helena - 2025 Mix",
           "artists": [
             "My Chemical Romance"
@@ -1313,7 +1325,7 @@
           "duration_ms": 202181
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "If Looks Could Kill",
           "artists": [
             "A Heartwell Ending"
@@ -1325,7 +1337,7 @@
           "duration_ms": 205576
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Body to Body",
           "artists": [
             "BTS"
@@ -1337,7 +1349,7 @@
           "duration_ms": 189725
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Reyimiller - A COLORS SHOW",
           "artists": [
             "Rawayana",
@@ -1350,7 +1362,7 @@
           "duration_ms": 201382
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Virgen",
           "artists": [
             "Adolescent's Orquesta"
@@ -1362,7 +1374,7 @@
           "duration_ms": 271751
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Si Me Voy (with The Marías)",
           "artists": [
             "Cuco",
@@ -1375,7 +1387,7 @@
           "duration_ms": 203219
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "New Perspective",
           "artists": [
             "Panic! At The Disco"
@@ -1387,7 +1399,7 @@
           "duration_ms": 226786
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "50 PALOS",
           "artists": [
             "Feid"
@@ -1399,7 +1411,7 @@
           "duration_ms": 167240
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "VOY A LLeVARTE PA PR",
           "artists": [
             "Bad Bunny"
@@ -1411,7 +1423,7 @@
           "duration_ms": 156364
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "lo que hay x aquí",
           "artists": [
             "Rels B"
@@ -1423,7 +1435,7 @@
           "duration_ms": 155031
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "嘘",
           "artists": [
             "SID"
@@ -1435,7 +1447,7 @@
           "duration_ms": 205973
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Touch You",
           "artists": [
             "遠野高志",
@@ -1455,7 +1467,7 @@
           "duration_ms": 206180
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Estar Contigo",
           "artists": [
             "Bruno Romano"
@@ -1467,7 +1479,7 @@
           "duration_ms": 214615
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "PROVENZA",
           "artists": [
             "KAROL G"
@@ -1477,18 +1489,6 @@
           "uri": "spotify:track:3HqcNJdZ2seoGxhn0wVNDK",
           "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK",
           "duration_ms": 207626
-        },
-        {
-          "rank": 47,
-          "name": "DtMF",
-          "artists": [
-            "Bad Bunny"
-          ],
-          "album": "DeBÍ TiRAR MáS FOToS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-          "uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya",
-          "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
-          "duration_ms": 237117
         },
         {
           "rank": 48,
@@ -1739,6 +1739,14 @@
         },
         {
           "rank": 27,
+          "name": "Adolescent's Orquesta",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb85cbe9f05b11e3ea3d20ff0b",
+          "genres": [],
+          "uri": "spotify:artist:70nxnxEqDQIEWneRjg2Q4O",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        },
+        {
+          "rank": 28,
           "name": "LAGOS",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdab7b33233d9c59f2c111c3c",
           "genres": [],
@@ -1746,7 +1754,7 @@
           "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "ENHYPEN",
           "image": "https://i.scdn.co/image/ab6761610000e5eb590b808769f5826ce94d1dd4",
           "genres": [],
@@ -1754,7 +1762,7 @@
           "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Wisp",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
           "genres": [],
@@ -1762,20 +1770,12 @@
           "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Romeo Santos",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
           "genres": [],
           "uri": "spotify:artist:5lwmRuXgjX8xIwlnauTZIP",
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "rank": 31,
-          "name": "Adolescent's Orquesta",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb85cbe9f05b11e3ea3d20ff0b",
-          "genres": [],
-          "uri": "spotify:artist:70nxnxEqDQIEWneRjg2Q4O",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
         },
         {
           "rank": 32,
