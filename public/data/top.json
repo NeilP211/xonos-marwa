@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T03:21:13.154Z",
+  "generated_at": "2026-07-20T09:17:30.087Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -572,6 +572,18 @@
         },
         {
           "rank": 48,
+          "name": "像晴天像雨天（电视剧《难哄》心动曲）",
+          "artists": [
+            "Silence Wang"
+          ],
+          "album": "电视剧《难哄》影视原声带·只喜欢你Love Moments",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e315e968f364d79e460d8f62",
+          "uri": "spotify:track:298LjjcBvuQCAlwUWb9dKb",
+          "url": "https://open.spotify.com/track/298LjjcBvuQCAlwUWb9dKb",
+          "duration_ms": 236616
+        },
+        {
+          "rank": 49,
           "name": "Art of War",
           "artists": [
             "Avenoir"
@@ -583,7 +595,7 @@
           "duration_ms": 126973
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Lo Que Tiene",
           "artists": [
             "Morad",
@@ -595,18 +607,6 @@
           "uri": "spotify:track:2StaHvXQpcMaJvC7OyS25X",
           "url": "https://open.spotify.com/track/2StaHvXQpcMaJvC7OyS25X",
           "duration_ms": 259200
-        },
-        {
-          "rank": 50,
-          "name": "Tú y Yo - Original",
-          "artists": [
-            "La Misma Gente"
-          ],
-          "album": "Suena!!",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734abfb4c260b5bfebaa9a3f71",
-          "uri": "spotify:track:2WvSzsDOhSpZSqRdHwFAQD",
-          "url": "https://open.spotify.com/track/2WvSzsDOhSpZSqRdHwFAQD",
-          "duration_ms": 286320
         }
       ],
       "artists": [
@@ -692,6 +692,14 @@
         },
         {
           "rank": 11,
+          "name": "Michael Jackson",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb997cc9a4aec335d46c9481fd",
+          "genres": [],
+          "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "rank": 12,
           "name": "Kali Uchis",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdeac5367816c7ab1f607e89a",
           "genres": [],
@@ -699,7 +707,7 @@
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "PRYVT",
           "image": "https://i.scdn.co/image/ab6761610000e5eb012e40962788790bb7b60f75",
           "genres": [],
@@ -707,20 +715,12 @@
           "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "BTS",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf80ec63ea7a0ef0fba60957d",
           "genres": [],
           "uri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX",
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "rank": 14,
-          "name": "Michael Jackson",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb997cc9a4aec335d46c9481fd",
-          "genres": [],
-          "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         },
         {
           "rank": 15,
@@ -2902,7 +2902,7 @@
         {
           "rank": 45,
           "name": "Pino",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe093b4640bd165485d7fb83f",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd8ee1fee69f4116f41f1b899",
           "genres": [],
           "uri": "spotify:artist:58DUKFTIbamsxqTHfoofpu",
           "url": "https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu"

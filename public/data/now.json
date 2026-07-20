@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-20T03:21:13.553Z",
-  "is_playing": true,
+  "updated_at": "2026-07-20T09:17:30.373Z",
+  "is_playing": false,
   "track": {
-    "name": "像晴天像雨天（电视剧《难哄》心动曲）",
+    "name": "TURiSTA",
     "artists": [
-      "Silence Wang"
+      "Bad Bunny"
     ],
-    "album": "电视剧《难哄》影视原声带·只喜欢你Love Moments",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e315e968f364d79e460d8f62",
-    "uri": "spotify:track:298LjjcBvuQCAlwUWb9dKb"
+    "album": "DeBÍ TiRAR MáS FOToS",
+    "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "uri": "spotify:track:7tCuCjhxzjX2XCz4JiiAsp"
   },
-  "played_at": "2026-07-20T03:21:13.553Z"
+  "played_at": "2026-07-20T04:28:33.887Z"
 }
