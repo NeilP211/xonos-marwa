@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-07-20T19:45:38.567Z",
+  "updated_at": "2026-07-20T22:01:09.678Z",
   "is_playing": false,
   "track": {
-    "name": "WAZIRA / وزيرة",
+    "name": "Downtown",
     "artists": [
-      "Saint Levant"
+      "Anitta",
+      "J Balvin"
     ],
-    "album": "Love Letters / رسائل حب",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a0fce4a818e7d680d6ab5c40",
-    "uri": "spotify:track:22I9OYOLQPVQOZpr3daoaz"
+    "album": "Downtown",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738c6b830c36c7b4ac43c3cee8",
+    "uri": "spotify:track:3Ga6eKrUFf12ouh9Yw3v2D"
   },
-  "played_at": "2026-07-20T19:45:21.529Z"
+  "played_at": "2026-07-20T20:57:19.400Z"
 }
