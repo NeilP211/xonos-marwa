@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T21:54:28.610Z",
+  "updated_at": "2026-07-20T03:21:13.359Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -7280,6 +7280,164 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27381bfa5296306a950e8b64aa0",
       "uri": "spotify:track:4BdMTfgOY7zGwIGCqJpEnm",
       "duration_ms": 234984
+    },
+    {
+      "played_at": "2026-07-20T00:56:05.771Z",
+      "name": "DtMF",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya",
+      "duration_ms": 237117
+    },
+    {
+      "played_at": "2026-07-20T00:59:09.588Z",
+      "name": "NUEVAYoL",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
+      "duration_ms": 183685
+    },
+    {
+      "played_at": "2026-07-20T01:05:17.736Z",
+      "name": "BAILE INoLVIDABLE",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:2lTm559tuIvatlT1u0JYG2",
+      "duration_ms": 367725
+    },
+    {
+      "played_at": "2026-07-20T01:10:53.322Z",
+      "name": "Tití Me Preguntó",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "Un Verano Sin Ti",
+      "image": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+      "uri": "spotify:track:1IHWl5LamUGEuP4ozKQSXZ",
+      "duration_ms": 243716
+    },
+    {
+      "played_at": "2026-07-20T01:14:18.713Z",
+      "name": "EoO",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:6J5kc12BW5HuP3d7C3vvx8",
+      "duration_ms": 204768
+    },
+    {
+      "played_at": "2026-07-20T01:30:40.579Z",
+      "name": "LA CANCIÓN",
+      "artists": [
+        "J Balvin",
+        "Bad Bunny"
+      ],
+      "album": "OASIS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734891d9b25d8919448388f3bb",
+      "uri": "spotify:track:0fea68AdmYNygeTGI4RC18",
+      "duration_ms": 242573
+    },
+    {
+      "played_at": "2026-07-20T01:49:23.686Z",
+      "name": "Brindo Con Agua",
+      "artists": [
+        "Aventura"
+      ],
+      "album": "Brindo Con Agua",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d457347041e720cfabeba73d",
+      "uri": "spotify:track:0VazBorrrrE0vlacDVRQCx",
+      "duration_ms": 281082
+    },
+    {
+      "played_at": "2026-07-20T01:52:18.162Z",
+      "name": "Sweetbitter",
+      "artists": [
+        "RIO"
+      ],
+      "album": "The Young Lover",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a7227cfe0105a5317a8d3414",
+      "uri": "spotify:track:11NREXvElBBK1AinDmyyAC",
+      "duration_ms": 174000
+    },
+    {
+      "played_at": "2026-07-20T02:20:40.493Z",
+      "name": "Love Me Harder",
+      "artists": [
+        "Ariana Grande",
+        "The Weeknd"
+      ],
+      "album": "My Everything (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+      "uri": "spotify:track:5J4ZkQpzMUFojo1CtAZYpn",
+      "duration_ms": 236133
+    },
+    {
+      "played_at": "2026-07-20T02:24:57.238Z",
+      "name": "The Same",
+      "artists": [
+        "The Poles"
+      ],
+      "album": "We Get, The Same",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734a610c59b2c4e424a1116948",
+      "uri": "spotify:track:3TJfYBSPlJ0zaj3T2IyU2N",
+      "duration_ms": 256303
+    },
+    {
+      "played_at": "2026-07-20T02:55:25.715Z",
+      "name": "P.Y.T. (Pretty Young Thing)",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Thriller",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+      "uri": "spotify:track:1CgmY8fVN7kstVDZmsdM5k",
+      "duration_ms": 238333
+    },
+    {
+      "played_at": "2026-07-20T02:58:42.186Z",
+      "name": "Soura",
+      "artists": [
+        "Masri",
+        "Josylvio",
+        "ILLIE"
+      ],
+      "album": "Soura",
+      "image": "https://i.scdn.co/image/ab67616d0000b27379382feb9f4774676da2e381",
+      "uri": "spotify:track:3MAh3u05SSjAcIJGMGjRXV",
+      "duration_ms": 188727
+    },
+    {
+      "played_at": "2026-07-20T03:04:14.051Z",
+      "name": "霧 - 電視劇《風暴舞》插曲",
+      "artists": [
+        "不才"
+      ],
+      "album": "霧 (電視劇《風暴舞》插曲)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732bc5bd36f614f81f14677793",
+      "uri": "spotify:track:688N0BkMSHxK9poLVE9s2o",
+      "duration_ms": 239306
+    },
+    {
+      "played_at": "2026-07-20T03:06:59.070Z",
+      "name": "Shut up My Moms Calling",
+      "artists": [
+        "Hotel Ugly"
+      ],
+      "album": "Shut up My Moms Calling",
+      "image": "https://i.scdn.co/image/ab67616d0000b273350ab7a839c04bfd5225a9f5",
+      "uri": "spotify:track:3hxIUxnT27p5WcmjGUXNwx",
+      "duration_ms": 164571
     }
   ]
 }

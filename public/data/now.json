@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-19T21:54:28.647Z",
-  "is_playing": false,
+  "updated_at": "2026-07-20T03:21:13.553Z",
+  "is_playing": true,
   "track": {
-    "name": "雨蝶 - R&B微醺版",
+    "name": "像晴天像雨天（电视剧《难哄》心动曲）",
     "artists": [
-      "微醺卡带"
+      "Silence Wang"
     ],
-    "album": "雨蝶 (R&B微醺版)",
-    "image": "https://i.scdn.co/image/ab67616d0000b27381bfa5296306a950e8b64aa0",
-    "uri": "spotify:track:4BdMTfgOY7zGwIGCqJpEnm"
+    "album": "电视剧《难哄》影视原声带·只喜欢你Love Moments",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e315e968f364d79e460d8f62",
+    "uri": "spotify:track:298LjjcBvuQCAlwUWb9dKb"
   },
-  "played_at": "2026-07-19T01:22:29.979Z"
+  "played_at": "2026-07-20T03:21:13.553Z"
 }
