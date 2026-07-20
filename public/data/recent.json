@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T14:09:18.209Z",
+  "updated_at": "2026-07-20T16:24:45.401Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -7471,6 +7471,61 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
       "uri": "spotify:track:4UknpXoLjlB7Mao4UWcJ2o",
       "duration_ms": 220173
+    },
+    {
+      "played_at": "2026-07-20T14:09:54.382Z",
+      "name": "Favour",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Favour",
+      "image": "https://i.scdn.co/image/ab67616d0000b273713f9d753c8b418102db1a10",
+      "uri": "spotify:track:7lTUaX0Bs1uE9ALFsmLF8G",
+      "duration_ms": 156000
+    },
+    {
+      "played_at": "2026-07-20T14:13:48.703Z",
+      "name": "Paradise",
+      "artists": [
+        "Sade"
+      ],
+      "album": "The Best of Sade",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+      "uri": "spotify:track:4tReFKumS5bcFahdXDiM1b",
+      "duration_ms": 217466
+    },
+    {
+      "played_at": "2026-07-20T14:19:59.242Z",
+      "name": "Nothing Compares - Bonus Track",
+      "artists": [
+        "The Weeknd"
+      ],
+      "album": "After Hours (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ef017e899c0547766997d874",
+      "uri": "spotify:track:6utQlfLooYsUkq5xUg3vxt",
+      "duration_ms": 222306
+    },
+    {
+      "played_at": "2026-07-20T15:24:56.903Z",
+      "name": "Nothing Compares - Bonus Track",
+      "artists": [
+        "The Weeknd"
+      ],
+      "album": "After Hours (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ef017e899c0547766997d874",
+      "uri": "spotify:track:6utQlfLooYsUkq5xUg3vxt",
+      "duration_ms": 222306
+    },
+    {
+      "played_at": "2026-07-20T15:30:47.463Z",
+      "name": "In Another Time",
+      "artists": [
+        "Sade"
+      ],
+      "album": "Soldier of Love",
+      "image": "https://i.scdn.co/image/ab67616d0000b27398da02db8bb9253c3367e41a",
+      "uri": "spotify:track:1DKYtHoBNbqjMLqvpw7o73",
+      "duration_ms": 304413
     }
   ]
 }

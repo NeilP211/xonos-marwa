@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-20T14:09:18.398Z",
-  "is_playing": true,
+  "updated_at": "2026-07-20T16:24:45.509Z",
+  "is_playing": false,
   "track": {
-    "name": "Favour",
+    "name": "In Another Time",
     "artists": [
-      "Avenoir"
+      "Sade"
     ],
-    "album": "Favour",
-    "image": "https://i.scdn.co/image/ab67616d0000b273713f9d753c8b418102db1a10",
-    "uri": "spotify:track:7lTUaX0Bs1uE9ALFsmLF8G"
+    "album": "Soldier of Love",
+    "image": "https://i.scdn.co/image/ab67616d0000b27398da02db8bb9253c3367e41a",
+    "uri": "spotify:track:1DKYtHoBNbqjMLqvpw7o73"
   },
-  "played_at": "2026-07-20T14:09:18.398Z"
+  "played_at": "2026-07-20T15:30:47.463Z"
 }
