@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T11:10:10.633Z",
+  "updated_at": "2026-07-21T16:24:05.801Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -8041,6 +8041,266 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e8fa2da0a5d5518b9bb1d825",
       "uri": "spotify:track:0g9uhQ0VxM6ATwuOwaxshA",
       "duration_ms": 214073
+    },
+    {
+      "played_at": "2026-07-21T13:00:44.592Z",
+      "name": "Kiss Me Now",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Kiss Me Now",
+      "image": "https://i.scdn.co/image/ab67616d0000b27352a7a9543acdb0aadc61f08a",
+      "uri": "spotify:track:40KgVtH6ANki7AN2Sj1rZD",
+      "duration_ms": 256268
+    },
+    {
+      "played_at": "2026-07-21T13:04:21.089Z",
+      "name": "See You Around?",
+      "artists": [
+        "Mahfouz"
+      ],
+      "album": "See You Around?",
+      "image": "https://i.scdn.co/image/ab67616d0000b273796f6dedcf655d6502623326",
+      "uri": "spotify:track:2bsx9BLCFXv9Kz3JJW4MhB",
+      "duration_ms": 215040
+    },
+    {
+      "played_at": "2026-07-21T13:11:31.866Z",
+      "name": "All My Heart",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "Let's Cheers To This",
+      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
+      "duration_ms": 279293
+    },
+    {
+      "played_at": "2026-07-21T13:17:08.045Z",
+      "name": "Let Love Bleed Red",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "With Ears To See And Eyes To Hear",
+      "image": "https://i.scdn.co/image/ab67616d0000b273032fd22bde573d0746c87352",
+      "uri": "spotify:track:1v8RDUkhH5wR9IBrC6Hroy",
+      "duration_ms": 222493
+    },
+    {
+      "played_at": "2026-07-21T13:21:29.425Z",
+      "name": "If You Can't Hang",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "Let's Cheers To This",
+      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+      "uri": "spotify:track:2Tc9VznHtQUmfOgE3L1RdN",
+      "duration_ms": 250240
+    },
+    {
+      "played_at": "2026-07-21T13:27:52.155Z",
+      "name": "All My Heart",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "Let's Cheers To This",
+      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
+      "duration_ms": 279293
+    },
+    {
+      "played_at": "2026-07-21T14:28:00.084Z",
+      "name": "Resilience",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+      "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-07-21T15:08:43.632Z",
+      "name": "No Ordinary Love",
+      "artists": [
+        "Sade"
+      ],
+      "album": "Love Deluxe",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
+      "uri": "spotify:track:1oaaSrDJimABpOdCEbw2DJ",
+      "duration_ms": 440466
+    },
+    {
+      "played_at": "2026-07-21T15:13:23.357Z",
+      "name": "All My Heart",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "Let's Cheers To This",
+      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
+      "duration_ms": 279293
+    },
+    {
+      "played_at": "2026-07-21T15:17:04.250Z",
+      "name": "Resilience",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+      "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-07-21T15:26:41.560Z",
+      "name": "NOBLE",
+      "artists": [
+        "F3miii"
+      ],
+      "album": "NOBLE (Slowed Down)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733e2c1f8bb3f146186e2a1dc5",
+      "uri": "spotify:track:4Jsus7N4d8hFB2G9gcRdBv",
+      "duration_ms": 185806
+    },
+    {
+      "played_at": "2026-07-21T15:30:36.395Z",
+      "name": "Moth To A Flame (with The Weeknd)",
+      "artists": [
+        "Swedish House Mafia",
+        "The Weeknd"
+      ],
+      "album": "Paradise Again",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd6f8ac82dc5fe1028c14f7d",
+      "uri": "spotify:track:0VO8gYVDSwM1Qdd2GsMoYK",
+      "duration_ms": 234000
+    },
+    {
+      "played_at": "2026-07-21T15:36:32.630Z",
+      "name": "Out of Time",
+      "artists": [
+        "The Weeknd"
+      ],
+      "album": "Dawn FM",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d",
+      "uri": "spotify:track:2SLwbpExuoBDZBpjfefCtV",
+      "duration_ms": 214193
+    },
+    {
+      "played_at": "2026-07-21T15:41:00.793Z",
+      "name": "No Ordinary Love",
+      "artists": [
+        "Sade"
+      ],
+      "album": "Love Deluxe",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
+      "uri": "spotify:track:1oaaSrDJimABpOdCEbw2DJ",
+      "duration_ms": 440466
+    },
+    {
+      "played_at": "2026-07-21T15:41:04.823Z",
+      "name": "Virgen",
+      "artists": [
+        "Adolescent's Orquesta"
+      ],
+      "album": "Ahora Más Que Nunca",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c30c9fc1d43d8e1ca14ecbe6",
+      "uri": "spotify:track:5HCGrYR7g9u2X9Ju83yQLm",
+      "duration_ms": 271751
+    },
+    {
+      "played_at": "2026-07-21T15:54:38.680Z",
+      "name": "Kiss Me Now",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
+      "uri": "spotify:track:6yT9iNKt8fQoYpQkbWc7YR",
+      "duration_ms": 256268
+    },
+    {
+      "played_at": "2026-07-21T15:58:18.339Z",
+      "name": "LA VILLA",
+      "artists": [
+        "Ryan Castro",
+        "Kapo",
+        "Gangsta"
+      ],
+      "album": "LA VILLA",
+      "image": "https://i.scdn.co/image/ab67616d0000b27326d18a5ac713d07e5ac3bb63",
+      "uri": "spotify:track:6YkGw5op7PeyP2gmMMMrfJ",
+      "duration_ms": 192111
+    },
+    {
+      "played_at": "2026-07-21T16:00:16.693Z",
+      "name": "LA VILLA",
+      "artists": [
+        "Ryan Castro",
+        "Kapo",
+        "Gangsta"
+      ],
+      "album": "LA VILLA",
+      "image": "https://i.scdn.co/image/ab67616d0000b27326d18a5ac713d07e5ac3bb63",
+      "uri": "spotify:track:6YkGw5op7PeyP2gmMMMrfJ",
+      "duration_ms": 192111
+    },
+    {
+      "played_at": "2026-07-21T16:04:41.794Z",
+      "name": "Ni Gucci Ni Prada",
+      "artists": [
+        "Kenny Man"
+      ],
+      "album": "New Beginning",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b1a4b3dc2a4e2fb3df85cb9",
+      "uri": "spotify:track:3eIs966ttOWhj9CPq8F9sh",
+      "duration_ms": 177200
+    },
+    {
+      "played_at": "2026-07-21T16:08:03.712Z",
+      "name": "PERFuMITO NUEVO",
+      "artists": [
+        "Bad Bunny",
+        "RaiNao"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:1Q9Efnm5csdCMFynISxL2x",
+      "duration_ms": 200680
+    },
+    {
+      "played_at": "2026-07-21T16:12:56.694Z",
+      "name": "Perlas Negras",
+      "artists": [
+        "Natanael Cano",
+        "Gabito Ballesteros"
+      ],
+      "album": "Perlas Negras",
+      "image": "https://i.scdn.co/image/ab67616d0000b27383a896ca012c3491147a5494",
+      "uri": "spotify:track:3piSbt4J3UElNC2d5jhjJr",
+      "duration_ms": 203357
+    },
+    {
+      "played_at": "2026-07-21T16:17:08.219Z",
+      "name": "Báilame",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "54+1",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d8243a13e6f41310a5fa7b96",
+      "uri": "spotify:track:5pOBhos8Z2v3FGjUPMgUgI",
+      "duration_ms": 251017
+    },
+    {
+      "played_at": "2026-07-21T16:22:57.668Z",
+      "name": "Si Antes Te Hubiera Conocido",
+      "artists": [
+        "KAROL G"
+      ],
+      "album": "Tropicoqueta",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
+      "uri": "spotify:track:73scB4Q4fcOmnsBVZPmk32",
+      "duration_ms": 195824
     }
   ]
 }

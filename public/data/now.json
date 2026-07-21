@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-21T11:10:10.740Z",
-  "is_playing": false,
+  "updated_at": "2026-07-21T16:24:05.916Z",
+  "is_playing": true,
   "track": {
-    "name": "Seneen",
+    "name": "Tropicoqueta",
     "artists": [
-      "TUL8TE"
+      "KAROL G"
     ],
-    "album": "Seneen",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e8fa2da0a5d5518b9bb1d825",
-    "uri": "spotify:track:0g9uhQ0VxM6ATwuOwaxshA"
+    "album": "Tropicoqueta",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
+    "uri": "spotify:track:3l8zyeHnG8u2q7H4FQyVtS"
   },
-  "played_at": "2026-07-21T02:33:26.070Z"
+  "played_at": "2026-07-21T16:24:05.916Z"
 }
