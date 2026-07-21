@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-21T16:24:05.916Z",
-  "is_playing": true,
+  "updated_at": "2026-07-21T19:25:48.451Z",
+  "is_playing": false,
   "track": {
-    "name": "Tropicoqueta",
+    "name": "All My Heart",
     "artists": [
-      "KAROL G"
+      "Sleeping With Sirens"
     ],
-    "album": "Tropicoqueta",
-    "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
-    "uri": "spotify:track:3l8zyeHnG8u2q7H4FQyVtS"
+    "album": "Let's Cheers To This",
+    "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+    "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU"
   },
-  "played_at": "2026-07-21T16:24:05.916Z"
+  "played_at": "2026-07-21T18:53:45.456Z"
 }

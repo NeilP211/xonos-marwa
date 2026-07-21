@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T16:24:05.801Z",
+  "updated_at": "2026-07-21T19:25:48.367Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -8301,6 +8301,151 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
       "uri": "spotify:track:73scB4Q4fcOmnsBVZPmk32",
       "duration_ms": 195824
+    },
+    {
+      "played_at": "2026-07-21T16:25:33.375Z",
+      "name": "Tropicoqueta",
+      "artists": [
+        "KAROL G"
+      ],
+      "album": "Tropicoqueta",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
+      "uri": "spotify:track:3l8zyeHnG8u2q7H4FQyVtS",
+      "duration_ms": 155682
+    },
+    {
+      "played_at": "2026-07-21T16:26:03.496Z",
+      "name": "Crayola",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "Babylon Club",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734330d7d9762313dff66f1ca7",
+      "uri": "spotify:track:6cWhEExHUKZR3boz4yC2Mf",
+      "duration_ms": 197276
+    },
+    {
+      "played_at": "2026-07-21T16:29:10.025Z",
+      "name": "Crayola",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "Babylon Club",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734330d7d9762313dff66f1ca7",
+      "uri": "spotify:track:6cWhEExHUKZR3boz4yC2Mf",
+      "duration_ms": 197276
+    },
+    {
+      "played_at": "2026-07-21T16:33:35.276Z",
+      "name": "Neverita",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "Un Verano Sin Ti",
+      "image": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+      "uri": "spotify:track:31i56LZnwE6uSu3exoHjtB",
+      "duration_ms": 173119
+    },
+    {
+      "played_at": "2026-07-21T16:37:59.246Z",
+      "name": "TU VAS SIN (fav)",
+      "artists": [
+        "Rels B"
+      ],
+      "album": "afroLOVA 25'",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730e409fad9527196e73e423ba",
+      "uri": "spotify:track:6uiQ0DqbXTBc8tl0AUKZkR",
+      "duration_ms": 110495
+    },
+    {
+      "played_at": "2026-07-21T16:49:55.065Z",
+      "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+      "artists": [
+        "DJ Khaled",
+        "Rihanna",
+        "Bryson Tiller"
+      ],
+      "album": "Grateful",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737a993075e27042a11896b8fb",
+      "uri": "spotify:track:45XhKYRRkyeqoW3teSOkCM",
+      "duration_ms": 204664
+    },
+    {
+      "played_at": "2026-07-21T16:50:21.873Z",
+      "name": "Kiss Me Now",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
+      "uri": "spotify:track:6yT9iNKt8fQoYpQkbWc7YR",
+      "duration_ms": 256268
+    },
+    {
+      "played_at": "2026-07-21T18:25:39.051Z",
+      "name": "Soft Spot",
+      "artists": [
+        "keshi"
+      ],
+      "album": "Requiem",
+      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
+      "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
+      "duration_ms": 204223
+    },
+    {
+      "played_at": "2026-07-21T18:30:45.585Z",
+      "name": "Soft Spot",
+      "artists": [
+        "keshi"
+      ],
+      "album": "Requiem",
+      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
+      "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
+      "duration_ms": 204223
+    },
+    {
+      "played_at": "2026-07-21T18:33:49.697Z",
+      "name": "Soft Spot",
+      "artists": [
+        "keshi"
+      ],
+      "album": "Requiem",
+      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
+      "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
+      "duration_ms": 204223
+    },
+    {
+      "played_at": "2026-07-21T18:45:51.048Z",
+      "name": "Por qué dudas de mi?",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "babylona blue",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
+      "uri": "spotify:track:6VEWNOA9aKe2ZtOfk7HeDA",
+      "duration_ms": 112694
+    },
+    {
+      "played_at": "2026-07-21T18:49:05.472Z",
+      "name": "Flor De Michoacán",
+      "artists": [
+        "Menny Flores"
+      ],
+      "album": "Flor De Michoacán",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
+      "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3",
+      "duration_ms": 193853
+    },
+    {
+      "played_at": "2026-07-21T18:53:45.456Z",
+      "name": "All My Heart",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "Let's Cheers To This",
+      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
+      "duration_ms": 279293
     }
   ]
 }
