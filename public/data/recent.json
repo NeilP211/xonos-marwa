@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T19:25:48.367Z",
+  "updated_at": "2026-07-21T22:04:31.056Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -8446,6 +8446,94 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
       "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
       "duration_ms": 279293
+    },
+    {
+      "played_at": "2026-07-21T19:45:58.234Z",
+      "name": "Real time love",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "babylona blue",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
+      "uri": "spotify:track:4zAzvr7CwU5En0McHy2H5B",
+      "duration_ms": 170670
+    },
+    {
+      "played_at": "2026-07-21T19:49:28.117Z",
+      "name": "Si tú supieras…",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "babylona blue",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
+      "uri": "spotify:track:6aPlrDbqDmON1KAkUn4D6U",
+      "duration_ms": 140952
+    },
+    {
+      "played_at": "2026-07-21T19:52:45.457Z",
+      "name": "quelomamen",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "babylona blue",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
+      "uri": "spotify:track:2QPH4nsBCojHQSrM1AlKWn",
+      "duration_ms": 136331
+    },
+    {
+      "played_at": "2026-07-21T19:54:56.237Z",
+      "name": "Ojala",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "Babylon Club",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734330d7d9762313dff66f1ca7",
+      "uri": "spotify:track:6Boai8zLsZZG2AEHnlLXqj",
+      "duration_ms": 130588
+    },
+    {
+      "played_at": "2026-07-21T19:59:46.392Z",
+      "name": "El Replay",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "El Replay",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c0c5d801f8c36413bea58094",
+      "uri": "spotify:track:2ZoXNmIe9xQPAJMh5UNtaP",
+      "duration_ms": 170400
+    },
+    {
+      "played_at": "2026-07-21T20:04:23.121Z",
+      "name": "Kiss Me Now",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Kiss Me Now",
+      "image": "https://i.scdn.co/image/ab67616d0000b27352a7a9543acdb0aadc61f08a",
+      "uri": "spotify:track:40KgVtH6ANki7AN2Sj1rZD",
+      "duration_ms": 256268
+    },
+    {
+      "played_at": "2026-07-21T20:11:49.503Z",
+      "name": "雨蝶 - R&B微醺版",
+      "artists": [
+        "微醺卡带"
+      ],
+      "album": "雨蝶 (R&B微醺版)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27381bfa5296306a950e8b64aa0",
+      "uri": "spotify:track:4BdMTfgOY7zGwIGCqJpEnm",
+      "duration_ms": 234984
+    },
+    {
+      "played_at": "2026-07-21T22:01:10.027Z",
+      "name": "WHO DO U LUV",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "WHO DO U LUV",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373dc757337bcdd30b76723c5",
+      "uri": "spotify:track:74KASQI7XvyWdsNyQcJuv9",
+      "duration_ms": 248760
     }
   ]
 }
