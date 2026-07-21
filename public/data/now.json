@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-07-20T22:01:09.678Z",
+  "updated_at": "2026-07-21T02:49:38.444Z",
   "is_playing": false,
   "track": {
-    "name": "Downtown",
+    "name": "Seneen",
     "artists": [
-      "Anitta",
-      "J Balvin"
+      "TUL8TE"
     ],
-    "album": "Downtown",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738c6b830c36c7b4ac43c3cee8",
-    "uri": "spotify:track:3Ga6eKrUFf12ouh9Yw3v2D"
+    "album": "Seneen",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e8fa2da0a5d5518b9bb1d825",
+    "uri": "spotify:track:0g9uhQ0VxM6ATwuOwaxshA"
   },
-  "played_at": "2026-07-20T20:57:19.400Z"
+  "played_at": "2026-07-21T02:33:26.070Z"
 }

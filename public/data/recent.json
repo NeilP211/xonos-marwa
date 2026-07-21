@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T22:01:09.549Z",
+  "updated_at": "2026-07-21T02:49:38.343Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -7975,6 +7975,72 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738c6b830c36c7b4ac43c3cee8",
       "uri": "spotify:track:3Ga6eKrUFf12ouh9Yw3v2D",
       "duration_ms": 193456
+    },
+    {
+      "played_at": "2026-07-21T01:38:54.375Z",
+      "name": "No Ordinary Love",
+      "artists": [
+        "Sade"
+      ],
+      "album": "Love Deluxe",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
+      "uri": "spotify:track:1oaaSrDJimABpOdCEbw2DJ",
+      "duration_ms": 440466
+    },
+    {
+      "played_at": "2026-07-21T02:05:06.307Z",
+      "name": "No Ordinary Love",
+      "artists": [
+        "Sade"
+      ],
+      "album": "Love Deluxe",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
+      "uri": "spotify:track:1oaaSrDJimABpOdCEbw2DJ",
+      "duration_ms": 440466
+    },
+    {
+      "played_at": "2026-07-21T02:18:30.988Z",
+      "name": "Lady",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
+      "uri": "spotify:track:1aeRSlCn1EF7f5q7b5l6uu",
+      "duration_ms": 183293
+    },
+    {
+      "played_at": "2026-07-21T02:25:50.180Z",
+      "name": "Heseeny",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "Narein",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732e50096092c24bd9acb0749d",
+      "uri": "spotify:track:6AOmVuYPC8WJN0hzZ1ODIj",
+      "duration_ms": 213838
+    },
+    {
+      "played_at": "2026-07-21T02:29:51.553Z",
+      "name": "El Hob Gany",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "El Hob Gany",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359a9b963a89b853fa98a4c06",
+      "uri": "spotify:track:67yheG887FPQXlPRNmoXqz",
+      "duration_ms": 241212
+    },
+    {
+      "played_at": "2026-07-21T02:33:26.070Z",
+      "name": "Seneen",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "Seneen",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e8fa2da0a5d5518b9bb1d825",
+      "uri": "spotify:track:0g9uhQ0VxM6ATwuOwaxshA",
+      "duration_ms": 214073
     }
   ]
 }
