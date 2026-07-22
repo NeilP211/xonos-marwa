@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-22T13:59:40.101Z",
+  "updated_at": "2026-07-22T16:20:54.114Z",
   "is_playing": false,
   "track": {
-    "name": "WHO DO U LUV",
+    "name": "Supernatural",
     "artists": [
-      "Avenoir"
+      "NewJeans"
     ],
-    "album": "WHO DO U LUV",
-    "image": "https://i.scdn.co/image/ab67616d0000b27373dc757337bcdd30b76723c5",
-    "uri": "spotify:track:74KASQI7XvyWdsNyQcJuv9"
+    "album": "Supernatural",
+    "image": "https://i.scdn.co/image/ab67616d0000b2737e1eeb0d7cc374a168369c80",
+    "uri": "spotify:track:5ocSQW5sIUIOFojwXEz9Ki"
   },
-  "played_at": "2026-07-21T22:01:10.027Z"
+  "played_at": "2026-07-22T14:44:10.398Z"
 }
