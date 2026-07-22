@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-21T19:25:48.451Z",
+  "updated_at": "2026-07-22T02:47:05.219Z",
   "is_playing": false,
   "track": {
-    "name": "All My Heart",
+    "name": "WHO DO U LUV",
     "artists": [
-      "Sleeping With Sirens"
+      "Avenoir"
     ],
-    "album": "Let's Cheers To This",
-    "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
-    "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU"
+    "album": "WHO DO U LUV",
+    "image": "https://i.scdn.co/image/ab67616d0000b27373dc757337bcdd30b76723c5",
+    "uri": "spotify:track:74KASQI7XvyWdsNyQcJuv9"
   },
-  "played_at": "2026-07-21T18:53:45.456Z"
+  "played_at": "2026-07-21T22:01:10.027Z"
 }
