@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-07-23T16:28:16.700Z",
+  "updated_at": "2026-07-23T19:20:34.481Z",
   "is_playing": true,
   "track": {
-    "name": "no me atrevería a decir",
+    "name": "Toronto",
     "artists": [
-      "Beto Cardenas"
+      "Nandé",
+      "Rawayana",
+      "Guaco"
     ],
-    "album": "no me atrevería a decir",
-    "image": "https://i.scdn.co/image/ab67616d0000b2733cc5cbef957f34bc9ee82b04",
-    "uri": "spotify:track:6BF52kKBNQY3W7ldirOz1P"
+    "album": "Toronto",
+    "image": "https://i.scdn.co/image/ab67616d0000b273271ed2eb8eaf2951660d5bbb",
+    "uri": "spotify:track:0nvg8vlz0qO47rkgOdVMwc"
   },
-  "played_at": "2026-07-23T16:28:16.700Z"
+  "played_at": "2026-07-23T19:20:34.481Z"
 }

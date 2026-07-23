@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T16:28:16.514Z",
+  "updated_at": "2026-07-23T19:20:34.390Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -8850,6 +8850,270 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273bed3161d2cb88d1f959bd88f",
       "uri": "spotify:track:172YRaBrecw8yp15qJhnzd",
       "duration_ms": 133500
+    },
+    {
+      "played_at": "2026-07-23T16:29:06.066Z",
+      "name": "no me atrevería a decir",
+      "artists": [
+        "Beto Cardenas"
+      ],
+      "album": "no me atrevería a decir",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733cc5cbef957f34bc9ee82b04",
+      "uri": "spotify:track:6BF52kKBNQY3W7ldirOz1P",
+      "duration_ms": 180705
+    },
+    {
+      "played_at": "2026-07-23T16:36:02.211Z",
+      "name": "Desayunarte",
+      "artists": [
+        "Jambene"
+      ],
+      "album": "Dimelo, Mike",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734260e42f5e663b39c3079845",
+      "uri": "spotify:track:4UOE02D1n97waU11qVbVr9",
+      "duration_ms": 195793
+    },
+    {
+      "played_at": "2026-07-23T16:40:56.271Z",
+      "name": "Paraíso",
+      "artists": [
+        "La Cassandra",
+        "Martox"
+      ],
+      "album": "Paraíso",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d02059a93205bfe23e659358",
+      "uri": "spotify:track:0MISnYHBOzwTF3w8jJ3ar2",
+      "duration_ms": 170226
+    },
+    {
+      "played_at": "2026-07-23T16:45:51.361Z",
+      "name": "La Semana",
+      "artists": [
+        "ELENA ROSE",
+        "Manuel Turizo"
+      ],
+      "album": "La Semana",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335db872800bf8bd140b3ae4d",
+      "uri": "spotify:track:4NMoJRudco3Fc2EO5DCtGe",
+      "duration_ms": 210000
+    },
+    {
+      "played_at": "2026-07-23T16:50:17.578Z",
+      "name": "Me Porto Bonito",
+      "artists": [
+        "Bad Bunny",
+        "Chencho Corleone"
+      ],
+      "album": "Un Verano Sin Ti",
+      "image": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+      "uri": "spotify:track:6Sq7ltF9Qa7SNFBsV5Cogx",
+      "duration_ms": 178567
+    },
+    {
+      "played_at": "2026-07-23T16:57:54.049Z",
+      "name": "Como Es Que Se Hace",
+      "artists": [
+        "Yandel",
+        "LATIN MAFIA"
+      ],
+      "album": "Como Es Que Se Hace",
+      "image": "https://i.scdn.co/image/ab67616d0000b27366fc505fc3384843b8590525",
+      "uri": "spotify:track:2L1lCDnKE9WcnTEre5QKCP",
+      "duration_ms": 205320
+    },
+    {
+      "played_at": "2026-07-23T17:00:51.485Z",
+      "name": "11 PM",
+      "artists": [
+        "Maluma"
+      ],
+      "album": "11:11",
+      "image": "https://i.scdn.co/image/ab67616d0000b27390a2bafda8d3147d3ff98502",
+      "uri": "spotify:track:7KbF6AdprOXEEHlsq11Z6d",
+      "duration_ms": 175733
+    },
+    {
+      "played_at": "2026-07-23T17:05:08.917Z",
+      "name": "Reyimiller - A COLORS SHOW",
+      "artists": [
+        "Rawayana",
+        "COLORS"
+      ],
+      "album": "Reyimiller - A COLORS SHOW",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e788d8977f84423890db2838",
+      "uri": "spotify:track:4tkTw8GLVmn7nPKhQ0pd5i",
+      "duration_ms": 201382
+    },
+    {
+      "played_at": "2026-07-23T17:07:45.063Z",
+      "name": "Te Conozco Tan Bien",
+      "artists": [
+        "Manuel Lizarazo"
+      ],
+      "album": "Las q no te canté",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ec89aad680ba965065c7cd1b",
+      "uri": "spotify:track:1RW4Mmf8riRUZT3iWKLWM0",
+      "duration_ms": 155800
+    },
+    {
+      "played_at": "2026-07-23T17:12:46.476Z",
+      "name": "A Veces Tu, A Veces Yo",
+      "artists": [
+        "Julio Iglesias"
+      ],
+      "album": "El Amor",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730c30c4a5ffff61a7f0ec065b",
+      "uri": "spotify:track:0EOhH2L1RVEvssIltBES3E",
+      "duration_ms": 171493
+    },
+    {
+      "played_at": "2026-07-23T17:16:23.311Z",
+      "name": "Sexo Virtual",
+      "artists": [
+        "Rauw Alejandro"
+      ],
+      "album": "VICE VERSA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f793c0c53727d8c5c950f809",
+      "uri": "spotify:track:1lV3QHHMAQt0Kc1ioZq2MP",
+      "duration_ms": 208291
+    },
+    {
+      "played_at": "2026-07-23T17:19:57.211Z",
+      "name": "El Hombre Que Yo Amo",
+      "artists": [
+        "Myriam Hernandez"
+      ],
+      "album": "Todo Lo Mio",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b2ea8d5a2060c46c2b2c85f8",
+      "uri": "spotify:track:5OtonpNWhoAw9z3wRwM2TC",
+      "duration_ms": 213453
+    },
+    {
+      "played_at": "2026-07-23T17:22:33.215Z",
+      "name": "Belixe",
+      "artists": [
+        "Feid"
+      ],
+      "album": "FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3",
+      "uri": "spotify:track:0S4w5ZBEbxYxiygvz9wWdK",
+      "duration_ms": 155533
+    },
+    {
+      "played_at": "2026-07-23T17:26:26.970Z",
+      "name": "Alguien Como Tú",
+      "artists": [
+        "Manuel Lizarazo"
+      ],
+      "album": "La Mitad",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dac5b88facb12248763c8fec",
+      "uri": "spotify:track:0nO0pRhfwA6AKerO7UZix0",
+      "duration_ms": 127912
+    },
+    {
+      "played_at": "2026-07-23T17:33:49.891Z",
+      "name": "No Me Conoce - Remix",
+      "artists": [
+        "JHAYCO",
+        "J Balvin",
+        "Bad Bunny"
+      ],
+      "album": "Famouz",
+      "image": "https://i.scdn.co/image/ab67616d0000b273614b5974ec6e23185462700b",
+      "uri": "spotify:track:2beS6dD5rovBxSA1zYoSHR",
+      "duration_ms": 309120
+    },
+    {
+      "played_at": "2026-07-23T17:36:17.919Z",
+      "name": "Volare",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "@dannocean",
+      "image": "https://i.scdn.co/image/ab67616d0000b273219973bcf027114a95e7996b",
+      "uri": "spotify:track:7nE9H4e4uPOis5sJY39fOc",
+      "duration_ms": 147598
+    },
+    {
+      "played_at": "2026-07-23T17:39:27.072Z",
+      "name": "Doma",
+      "artists": [
+        "Jósean Log"
+      ],
+      "album": "Háblate de Mí",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a8659bf75fee7dc8c01afc67",
+      "uri": "spotify:track:58cLm4PaHNt8DDr9ayZnNz",
+      "duration_ms": 188612
+    },
+    {
+      "played_at": "2026-07-23T17:44:47.413Z",
+      "name": "Ay Vamos",
+      "artists": [
+        "J Balvin"
+      ],
+      "album": "La Familia B Sides",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734277da4c011dcc87f012bbab",
+      "uri": "spotify:track:6Ges5C2IE738iJh4HyQizQ",
+      "duration_ms": 226413
+    },
+    {
+      "played_at": "2026-07-23T17:48:06.968Z",
+      "name": "Hawái",
+      "artists": [
+        "Maluma"
+      ],
+      "album": "PAPI JUANCHO",
+      "image": "https://i.scdn.co/image/ab67616d0000b273079fb6c5ba37dc11d66ce1e2",
+      "uri": "spotify:track:1yoMvmasuxZfqHEipJhRbp",
+      "duration_ms": 199112
+    },
+    {
+      "played_at": "2026-07-23T17:53:05.656Z",
+      "name": "Sueños Perdidos - Remix",
+      "artists": [
+        "BROKIX",
+        "Esteban Rojas",
+        "Feid",
+        "Justin Quiles"
+      ],
+      "album": "PA QUE YA NO ESTÉS TRISTE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730cf3ff7876a41d823293c127",
+      "uri": "spotify:track:0AhivzUKXzY3bMNa2Kzqer",
+      "duration_ms": 298285
+    },
+    {
+      "played_at": "2026-07-23T17:57:31.655Z",
+      "name": "dondi",
+      "artists": [
+        "LOS MENOR3S"
+      ],
+      "album": "dondi",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737e3f6f71e66b9a7ca84fcc36",
+      "uri": "spotify:track:7ttdgQ4PNtdrU6LZIbUuvs",
+      "duration_ms": 184000
+    },
+    {
+      "played_at": "2026-07-23T18:07:29.240Z",
+      "name": "Quiero Decirte",
+      "artists": [
+        "Abraham Mateo",
+        "Ana Mena"
+      ],
+      "album": "Quiero Decirte",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737f9d6d47d7fa52b0ef3eb1a9",
+      "uri": "spotify:track:7dT6ccDqmMHvz5C0d8iUND",
+      "duration_ms": 222348
+    },
+    {
+      "played_at": "2026-07-23T19:20:01.660Z",
+      "name": "Bendito",
+      "artists": [
+        "Rawayana"
+      ],
+      "album": "¿Dónde Es El After?",
+      "image": "https://i.scdn.co/image/ab67616d0000b273932fe6d260177091a0e115ba",
+      "uri": "spotify:track:6f00ixRBopYCszGmKhOUyp",
+      "duration_ms": 154586
     }
   ]
 }
