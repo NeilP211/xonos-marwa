@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T14:04:29.837Z",
+  "updated_at": "2026-07-23T16:28:16.514Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -8668,6 +8668,188 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
       "uri": "spotify:track:7mG2RbhyzGsjpQOz568d39",
       "duration_ms": 185733
+    },
+    {
+      "played_at": "2026-07-23T14:49:46.340Z",
+      "name": "coming to you",
+      "artists": [
+        "BRAYTON"
+      ],
+      "album": "coming to you",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d7009d8e4d1b438469983126",
+      "uri": "spotify:track:7zOOfArWxkeqZMvnCKOKtC",
+      "duration_ms": 199016
+    },
+    {
+      "played_at": "2026-07-23T15:21:18.625Z",
+      "name": "ULTIMA VEZ",
+      "artists": [
+        "Becky G"
+      ],
+      "album": "ENCUENTROS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dbfbee12776b67e143bf8bcf",
+      "uri": "spotify:track:6v1lkugKv62O74e8eABtQu",
+      "duration_ms": 194706
+    },
+    {
+      "played_at": "2026-07-23T15:24:59.691Z",
+      "name": "El Amor Se Ve",
+      "artists": [
+        "Rawayana",
+        "Servando & Florentino"
+      ],
+      "album": "El Amor Se Ve",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734045b5c51d4f48f9bfd3e756",
+      "uri": "spotify:track:2NFirAJZQwIO71ViP3fB9M",
+      "duration_ms": 220786
+    },
+    {
+      "played_at": "2026-07-23T15:26:30.389Z",
+      "name": "ALAKRAN",
+      "artists": [
+        "Feid"
+      ],
+      "album": "FERXXOCALIPSIS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242",
+      "uri": "spotify:track:2Yc3MHpZ9R5UCIz78E20AQ",
+      "duration_ms": 90613
+    },
+    {
+      "played_at": "2026-07-23T15:30:05.244Z",
+      "name": "TUS OJOS",
+      "artists": [
+        "Beto Cardenas"
+      ],
+      "album": "TUS OJOS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738ea08ca6266bdc4e994194fe",
+      "uri": "spotify:track:66iwTS1oZxQm31fBNMBUcb",
+      "duration_ms": 214333
+    },
+    {
+      "played_at": "2026-07-23T15:34:19.767Z",
+      "name": "50 PALOS",
+      "artists": [
+        "Feid"
+      ],
+      "album": "FERXXOCALIPSIS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242",
+      "uri": "spotify:track:2FhmPPAersOD9YcQ9v8upy",
+      "duration_ms": 167240
+    },
+    {
+      "played_at": "2026-07-23T15:41:13.029Z",
+      "name": "Fatal Trouble",
+      "artists": [
+        "ENHYPEN"
+      ],
+      "album": "DARK MOON SPECIAL ALBUM <MEMORABILIA>",
+      "image": "https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45",
+      "uri": "spotify:track:6i1PYoUEMHqxAsAUKHkqpe",
+      "duration_ms": 170197
+    },
+    {
+      "played_at": "2026-07-23T15:47:22.901Z",
+      "name": "Un Amor de los 90's",
+      "artists": [
+        "Jasiel Nuñez",
+        "Rawayana"
+      ],
+      "album": "Un Amor de los 90's",
+      "image": "https://i.scdn.co/image/ab67616d0000b27388be64b27fcfde64b5c780a0",
+      "uri": "spotify:track:0SWaRG0fH95VNsMLzLm6sy",
+      "duration_ms": 179886
+    },
+    {
+      "played_at": "2026-07-23T15:50:26.403Z",
+      "name": "Binikini",
+      "artists": [
+        "Rawayana",
+        "Danny Ocean"
+      ],
+      "album": "¿Quién trae las cornetas?",
+      "image": "https://i.scdn.co/image/ab67616d0000b27304ee4c8e013751482ea3b958",
+      "uri": "spotify:track:0P0BTqkBQuAlzbwbTEV57m",
+      "duration_ms": 183253
+    },
+    {
+      "played_at": "2026-07-23T15:53:45.448Z",
+      "name": "Especial",
+      "artists": [
+        "Jasiel Nuñez",
+        "Leo Rizzi"
+      ],
+      "album": "NÓMADA",
+      "image": "https://i.scdn.co/image/ab67616d0000b27305408da2892aa62b5d2e5657",
+      "uri": "spotify:track:461vb3y5q5ojoDfgbHZW7d",
+      "duration_ms": 198603
+    },
+    {
+      "played_at": "2026-07-23T16:03:05.487Z",
+      "name": "Mi Atención",
+      "artists": [
+        "Martox"
+      ],
+      "album": "Caracol",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f4d8a9f412f95ce5757f7cf5",
+      "uri": "spotify:track:0KXKWw0nTmIvCKkFcYVhes",
+      "duration_ms": 212179
+    },
+    {
+      "played_at": "2026-07-23T16:04:04.672Z",
+      "name": "Mi Atención",
+      "artists": [
+        "Martox"
+      ],
+      "album": "Caracol",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f4d8a9f412f95ce5757f7cf5",
+      "uri": "spotify:track:0KXKWw0nTmIvCKkFcYVhes",
+      "duration_ms": 212179
+    },
+    {
+      "played_at": "2026-07-23T16:07:23.859Z",
+      "name": "Toronto",
+      "artists": [
+        "Nandé",
+        "Rawayana",
+        "Guaco"
+      ],
+      "album": "Toronto",
+      "image": "https://i.scdn.co/image/ab67616d0000b273271ed2eb8eaf2951660d5bbb",
+      "uri": "spotify:track:0nvg8vlz0qO47rkgOdVMwc",
+      "duration_ms": 198888
+    },
+    {
+      "played_at": "2026-07-23T16:10:57.490Z",
+      "name": "lo q siento",
+      "artists": [
+        "CMLO"
+      ],
+      "album": "lo q siento",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731fd37c186f41835490a1c9ae",
+      "uri": "spotify:track:30GBrH2JAjOsiNuCk4mI9R",
+      "duration_ms": 213183
+    },
+    {
+      "played_at": "2026-07-23T16:20:00.630Z",
+      "name": "Obvio",
+      "artists": [
+        "MAGNA"
+      ],
+      "album": "Obvio",
+      "image": "https://i.scdn.co/image/ab67616d0000b27331f868f8776bcb32084da8e8",
+      "uri": "spotify:track:6wOORh5XMD4bahyFz2A7Dm",
+      "duration_ms": 166586
+    },
+    {
+      "played_at": "2026-07-23T16:22:14.750Z",
+      "name": "amoureux",
+      "artists": [
+        "Alleh"
+      ],
+      "album": "amoureux",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bed3161d2cb88d1f959bd88f",
+      "uri": "spotify:track:172YRaBrecw8yp15qJhnzd",
+      "duration_ms": 133500
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-23T14:04:29.879Z",
-  "is_playing": false,
+  "updated_at": "2026-07-23T16:28:16.700Z",
+  "is_playing": true,
   "track": {
-    "name": "Pressure",
+    "name": "no me atrevería a decir",
     "artists": [
-      "Paramore"
+      "Beto Cardenas"
     ],
-    "album": "All We Know Is Falling",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
-    "uri": "spotify:track:7mG2RbhyzGsjpQOz568d39"
+    "album": "no me atrevería a decir",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733cc5cbef957f34bc9ee82b04",
+    "uri": "spotify:track:6BF52kKBNQY3W7ldirOz1P"
   },
-  "played_at": "2026-07-23T13:41:18.677Z"
+  "played_at": "2026-07-23T16:28:16.700Z"
 }
