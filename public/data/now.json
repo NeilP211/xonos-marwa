@@ -1,16 +1,14 @@
 {
-  "updated_at": "2026-07-23T19:20:34.481Z",
-  "is_playing": true,
+  "updated_at": "2026-07-23T22:05:53.878Z",
+  "is_playing": false,
   "track": {
-    "name": "Toronto",
+    "name": "quelomamen",
     "artists": [
-      "Nandé",
-      "Rawayana",
-      "Guaco"
+      "Danny Ocean"
     ],
-    "album": "Toronto",
-    "image": "https://i.scdn.co/image/ab67616d0000b273271ed2eb8eaf2951660d5bbb",
-    "uri": "spotify:track:0nvg8vlz0qO47rkgOdVMwc"
+    "album": "babylona blue",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
+    "uri": "spotify:track:2QPH4nsBCojHQSrM1AlKWn"
   },
-  "played_at": "2026-07-23T19:20:34.481Z"
+  "played_at": "2026-07-23T20:01:19.864Z"
 }

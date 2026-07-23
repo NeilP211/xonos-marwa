@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T19:20:34.390Z",
+  "updated_at": "2026-07-23T22:05:53.767Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -9114,6 +9114,86 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273932fe6d260177091a0e115ba",
       "uri": "spotify:track:6f00ixRBopYCszGmKhOUyp",
       "duration_ms": 154586
+    },
+    {
+      "played_at": "2026-07-23T19:23:46.251Z",
+      "name": "Toronto",
+      "artists": [
+        "Nandé",
+        "Rawayana",
+        "Guaco"
+      ],
+      "album": "Toronto",
+      "image": "https://i.scdn.co/image/ab67616d0000b273271ed2eb8eaf2951660d5bbb",
+      "uri": "spotify:track:0nvg8vlz0qO47rkgOdVMwc",
+      "duration_ms": 198888
+    },
+    {
+      "played_at": "2026-07-23T19:26:01.918Z",
+      "name": "Caramel",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "babylona blue",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
+      "uri": "spotify:track:4OxCCJYzYUnk5GhwcjSMzp",
+      "duration_ms": 134867
+    },
+    {
+      "played_at": "2026-07-23T19:30:25.016Z",
+      "name": "Real time love",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "babylona blue",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
+      "uri": "spotify:track:4zAzvr7CwU5En0McHy2H5B",
+      "duration_ms": 170670
+    },
+    {
+      "played_at": "2026-07-23T19:34:52.945Z",
+      "name": "Flaca",
+      "artists": [
+        "Cultura Profética",
+        "Kapo"
+      ],
+      "album": "En bucle",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bdb7b2e807fd7b98ecc03b07",
+      "uri": "spotify:track:1rANpxB9ZtlcGTvandJAzI",
+      "duration_ms": 255875
+    },
+    {
+      "played_at": "2026-07-23T19:53:13.827Z",
+      "name": "Mi Atención",
+      "artists": [
+        "Martox"
+      ],
+      "album": "Caracol",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f4d8a9f412f95ce5757f7cf5",
+      "uri": "spotify:track:0KXKWw0nTmIvCKkFcYVhes",
+      "duration_ms": 212179
+    },
+    {
+      "played_at": "2026-07-23T20:00:06.564Z",
+      "name": "Flor De Michoacán",
+      "artists": [
+        "Menny Flores"
+      ],
+      "album": "Flor De Michoacán",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
+      "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3",
+      "duration_ms": 193853
+    },
+    {
+      "played_at": "2026-07-23T20:01:19.864Z",
+      "name": "quelomamen",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "babylona blue",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
+      "uri": "spotify:track:2QPH4nsBCojHQSrM1AlKWn",
+      "duration_ms": 136331
     }
   ]
 }
