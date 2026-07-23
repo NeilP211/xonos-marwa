@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T11:11:48.843Z",
+  "updated_at": "2026-07-23T14:04:29.837Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -8557,6 +8557,117 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27339631d9516ed0545f178c549",
       "uri": "spotify:track:0GmaPoek8NaN0osVoz0DBG",
       "duration_ms": 182706
+    },
+    {
+      "played_at": "2026-07-23T12:53:15.686Z",
+      "name": "Descifrar",
+      "artists": [
+        "maye"
+      ],
+      "album": "Descifrar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
+      "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
+      "duration_ms": 178700
+    },
+    {
+      "played_at": "2026-07-23T12:57:55.877Z",
+      "name": "All My Heart",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "Let's Cheers To This",
+      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
+      "duration_ms": 279293
+    },
+    {
+      "played_at": "2026-07-23T13:02:18.534Z",
+      "name": "흩어진나날들",
+      "artists": [
+        "강수지"
+      ],
+      "album": "강수지2집",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336baac318c4aac27ed3a54ea",
+      "uri": "spotify:track:3IuA2jGGOgZCGwQBiLhRuP",
+      "duration_ms": 262126
+    },
+    {
+      "played_at": "2026-07-23T13:13:33.015Z",
+      "name": "All That Matters",
+      "artists": [
+        "Justin Bieber"
+      ],
+      "album": "Journals",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358ae8fddecbd2630005409c9",
+      "uri": "spotify:track:6CLVh9sekZ1p2G8Tfhhj8h",
+      "duration_ms": 191173
+    },
+    {
+      "played_at": "2026-07-23T13:17:46.896Z",
+      "name": "Could've Been (feat. Bryson Tiller)",
+      "artists": [
+        "H.E.R.",
+        "Bryson Tiller"
+      ],
+      "album": "I Used To Know Her",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a37d773f1a975bffb51f42fe",
+      "uri": "spotify:track:6oEVnWKgPqIEPc53OYDNqG",
+      "duration_ms": 252750
+    },
+    {
+      "played_at": "2026-07-23T13:23:32.342Z",
+      "name": "How Many Drinks?",
+      "artists": [
+        "Miguel"
+      ],
+      "album": "Kaleidoscope Dream",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fc67af03f71d54b3519a6dd5",
+      "uri": "spotify:track:6Q8nmDj0JIu0uxhugcIpBw",
+      "duration_ms": 273066
+    },
+    {
+      "played_at": "2026-07-23T13:27:48.977Z",
+      "name": "Kiss Me Now",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
+      "uri": "spotify:track:6yT9iNKt8fQoYpQkbWc7YR",
+      "duration_ms": 256268
+    },
+    {
+      "played_at": "2026-07-23T13:33:43.459Z",
+      "name": "Decode",
+      "artists": [
+        "Paramore"
+      ],
+      "album": "Decode",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b236d0eae2659e7e7adb8b56",
+      "uri": "spotify:track:1ZLtE9tSJdaUiIJ9YoKHQe",
+      "duration_ms": 261959
+    },
+    {
+      "played_at": "2026-07-23T13:38:12.474Z",
+      "name": "heaven and hell",
+      "artists": [
+        "wave to earth"
+      ],
+      "album": "heaven and hell",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e86a62c80afd3d639ab2893c",
+      "uri": "spotify:track:5FZoGATKGIzrC7seHkZmfP",
+      "duration_ms": 268388
+    },
+    {
+      "played_at": "2026-07-23T13:41:18.677Z",
+      "name": "Pressure",
+      "artists": [
+        "Paramore"
+      ],
+      "album": "All We Know Is Falling",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
+      "uri": "spotify:track:7mG2RbhyzGsjpQOz568d39",
+      "duration_ms": 185733
     }
   ]
 }

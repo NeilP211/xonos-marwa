@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-07-23T11:11:48.877Z",
+  "updated_at": "2026-07-23T14:04:29.879Z",
   "is_playing": false,
   "track": {
-    "name": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
+    "name": "Pressure",
     "artists": [
-      "K.Flay",
-      "Pierce The Veil"
+      "Paramore"
     ],
-    "album": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
-    "image": "https://i.scdn.co/image/ab67616d0000b27339631d9516ed0545f178c549",
-    "uri": "spotify:track:0GmaPoek8NaN0osVoz0DBG"
+    "album": "All We Know Is Falling",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
+    "uri": "spotify:track:7mG2RbhyzGsjpQOz568d39"
   },
-  "played_at": "2026-07-23T00:47:43.972Z"
+  "played_at": "2026-07-23T13:41:18.677Z"
 }
