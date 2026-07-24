@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T16:44:04.955Z",
+  "updated_at": "2026-07-24T19:26:51.685Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -9232,6 +9232,223 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273cfdc7c6e909ced5ff7c2b1d3",
       "uri": "spotify:track:4ad3yFpPEMFLnvCtvbman5",
       "duration_ms": 171813
+    },
+    {
+      "played_at": "2026-07-24T16:48:07.512Z",
+      "name": "Cariño",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Superclean, Vol. II",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a64b06c0eb30ce15c3e6edc1",
+      "uri": "spotify:track:16gJmoOqRt2lKmlXtDpWgH",
+      "duration_ms": 258713
+    },
+    {
+      "played_at": "2026-07-24T16:58:30.662Z",
+      "name": "Cariño",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Superclean, Vol. II",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a64b06c0eb30ce15c3e6edc1",
+      "uri": "spotify:track:16gJmoOqRt2lKmlXtDpWgH",
+      "duration_ms": 258713
+    },
+    {
+      "played_at": "2026-07-24T17:01:32.296Z",
+      "name": "Deslocado",
+      "artists": [
+        "NAPA"
+      ],
+      "album": "Deslocado",
+      "image": "https://i.scdn.co/image/ab67616d0000b273836edb90093bc743598aa54d",
+      "uri": "spotify:track:31CsSZ9KlQmEu0JvWSkM3j",
+      "duration_ms": 179996
+    },
+    {
+      "played_at": "2026-07-24T17:09:40.215Z",
+      "name": "Como Es Que Se Hace",
+      "artists": [
+        "Yandel",
+        "LATIN MAFIA"
+      ],
+      "album": "Infinito",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739a47efebd6a6ebad21c53867",
+      "uri": "spotify:track:0ou3TddCNhvZeyGFbz7Y6E",
+      "duration_ms": 205320
+    },
+    {
+      "played_at": "2026-07-24T17:13:13.789Z",
+      "name": "Un Ratito",
+      "artists": [
+        "La Isla Centeno"
+      ],
+      "album": "Medianoche",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1555524026379924f950859",
+      "uri": "spotify:track:0UdIQSZNxYKBd47fV9eRlq",
+      "duration_ms": 180000
+    },
+    {
+      "played_at": "2026-07-24T17:18:38.388Z",
+      "name": "Te Pue' Cuidar",
+      "artists": [
+        "Brray",
+        "Rauw Alejandro"
+      ],
+      "album": "Te Pue' Cuidar",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359e8cef68cb7fbb574d47e6c",
+      "uri": "spotify:track:6AWCMZtNOwFFuZxFmm3A7a",
+      "duration_ms": 232013
+    },
+    {
+      "played_at": "2026-07-24T17:21:10.645Z",
+      "name": "CANAIMA",
+      "artists": [
+        "Big Soto",
+        "Danny Ocean"
+      ],
+      "album": "CANAIMA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273281edc3096b0e610bffe1768",
+      "uri": "spotify:track:5QsTUq4tWI0QiVAMNoKDFs",
+      "duration_ms": 151967
+    },
+    {
+      "played_at": "2026-07-24T17:23:45.720Z",
+      "name": "Bendito",
+      "artists": [
+        "Rawayana"
+      ],
+      "album": "¿Dónde Es El After?",
+      "image": "https://i.scdn.co/image/ab67616d0000b273932fe6d260177091a0e115ba",
+      "uri": "spotify:track:6f00ixRBopYCszGmKhOUyp",
+      "duration_ms": 154586
+    },
+    {
+      "played_at": "2026-07-24T17:26:50.192Z",
+      "name": "Dos Gardenias",
+      "artists": [
+        "Buena Vista Social Club"
+      ],
+      "album": "Buena Vista Social Club",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dc784c3f0767e576a0848b81",
+      "uri": "spotify:track:3okCsBWWv7okRgaTnMQ2Fp",
+      "duration_ms": 184026
+    },
+    {
+      "played_at": "2026-07-24T17:33:19.559Z",
+      "name": "Aquél Viejo Motel",
+      "artists": [
+        "David Pabon"
+      ],
+      "album": "Oro Salsero",
+      "image": "https://i.scdn.co/image/ab67616d0000b273caa2dfca5176135b3bb1d829",
+      "uri": "spotify:track:286NP8kXWzx2uHb5tr7TGv",
+      "duration_ms": 308893
+    },
+    {
+      "played_at": "2026-07-24T17:36:24.070Z",
+      "name": "Corazón (feat. Nego do Borel)",
+      "artists": [
+        "Maluma",
+        "Nego do Borel"
+      ],
+      "album": "F.A.M.E.",
+      "image": "https://i.scdn.co/image/ab67616d0000b27395a2cf9262058fff7dfe3674",
+      "uri": "spotify:track:5cepAtqnEQ6yVG6088zMMu",
+      "duration_ms": 184066
+    },
+    {
+      "played_at": "2026-07-24T17:39:40.433Z",
+      "name": "NO SOY EL MISMO",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "NO SOY EL MISMO",
+      "image": "https://i.scdn.co/image/ab67616d0000b27389ac155cf0d60f0ce8104c26",
+      "uri": "spotify:track:1U2Ghd3eflyqLkYne9tlfB",
+      "duration_ms": 195923
+    },
+    {
+      "played_at": "2026-07-24T18:40:38.601Z",
+      "name": "QUE HACES",
+      "artists": [
+        "Becky G",
+        "Manuel Turizo"
+      ],
+      "album": "QUE HACES",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cfdc7c6e909ced5ff7c2b1d3",
+      "uri": "spotify:track:4ad3yFpPEMFLnvCtvbman5",
+      "duration_ms": 171813
+    },
+    {
+      "played_at": "2026-07-24T18:44:57.883Z",
+      "name": "Cariño",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Superclean, Vol. II",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a64b06c0eb30ce15c3e6edc1",
+      "uri": "spotify:track:16gJmoOqRt2lKmlXtDpWgH",
+      "duration_ms": 258713
+    },
+    {
+      "played_at": "2026-07-24T18:54:45.805Z",
+      "name": "Andrea",
+      "artists": [
+        "Bad Bunny",
+        "Buscabulla"
+      ],
+      "album": "Un Verano Sin Ti",
+      "image": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+      "uri": "spotify:track:44XjoNvtwevktFKjvVe1vH",
+      "duration_ms": 339611
+    },
+    {
+      "played_at": "2026-07-24T18:59:44.262Z",
+      "name": "Como Es Que Se Hace",
+      "artists": [
+        "Yandel",
+        "LATIN MAFIA"
+      ],
+      "album": "Infinito",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739a47efebd6a6ebad21c53867",
+      "uri": "spotify:track:0ou3TddCNhvZeyGFbz7Y6E",
+      "duration_ms": 205320
+    },
+    {
+      "played_at": "2026-07-24T19:03:07.587Z",
+      "name": "La Gloria Eres Tu",
+      "artists": [
+        "Luis Miguel"
+      ],
+      "album": "Romances",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a181913ea31219fed3a558b",
+      "uri": "spotify:track:0toNfHRTPmbsHi63G7Vgdz",
+      "duration_ms": 202760
+    },
+    {
+      "played_at": "2026-07-24T19:06:08.142Z",
+      "name": "Un Ratito",
+      "artists": [
+        "La Isla Centeno"
+      ],
+      "album": "Medianoche",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1555524026379924f950859",
+      "uri": "spotify:track:0UdIQSZNxYKBd47fV9eRlq",
+      "duration_ms": 180000
+    },
+    {
+      "played_at": "2026-07-24T19:10:27.134Z",
+      "name": "Te Pue' Cuidar",
+      "artists": [
+        "Brray",
+        "Rauw Alejandro"
+      ],
+      "album": "Te Pue' Cuidar",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359e8cef68cb7fbb574d47e6c",
+      "uri": "spotify:track:6AWCMZtNOwFFuZxFmm3A7a",
+      "duration_ms": 232013
     }
   ]
 }

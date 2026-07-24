@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-07-24T16:44:05.065Z",
+  "updated_at": "2026-07-24T19:26:51.758Z",
   "is_playing": false,
   "track": {
-    "name": "QUE HACES",
+    "name": "Te Pue' Cuidar",
     "artists": [
-      "Becky G",
-      "Manuel Turizo"
+      "Brray",
+      "Rauw Alejandro"
     ],
-    "album": "QUE HACES",
-    "image": "https://i.scdn.co/image/ab67616d0000b273cfdc7c6e909ced5ff7c2b1d3",
-    "uri": "spotify:track:4ad3yFpPEMFLnvCtvbman5"
+    "album": "Te Pue' Cuidar",
+    "image": "https://i.scdn.co/image/ab67616d0000b27359e8cef68cb7fbb574d47e6c",
+    "uri": "spotify:track:6AWCMZtNOwFFuZxFmm3A7a"
   },
-  "played_at": "2026-07-24T16:18:56.649Z"
+  "played_at": "2026-07-24T19:10:27.134Z"
 }
