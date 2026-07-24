@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-07-24T11:05:30.375Z",
+  "updated_at": "2026-07-24T16:44:05.065Z",
   "is_playing": false,
   "track": {
-    "name": "quelomamen",
+    "name": "QUE HACES",
     "artists": [
-      "Danny Ocean"
+      "Becky G",
+      "Manuel Turizo"
     ],
-    "album": "babylona blue",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
-    "uri": "spotify:track:2QPH4nsBCojHQSrM1AlKWn"
+    "album": "QUE HACES",
+    "image": "https://i.scdn.co/image/ab67616d0000b273cfdc7c6e909ced5ff7c2b1d3",
+    "uri": "spotify:track:4ad3yFpPEMFLnvCtvbman5"
   },
-  "played_at": "2026-07-23T20:01:19.864Z"
+  "played_at": "2026-07-24T16:18:56.649Z"
 }

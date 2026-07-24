@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T11:05:30.333Z",
+  "updated_at": "2026-07-24T16:44:04.955Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -9194,6 +9194,44 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
       "uri": "spotify:track:2QPH4nsBCojHQSrM1AlKWn",
       "duration_ms": 136331
+    },
+    {
+      "played_at": "2026-07-24T03:54:55.133Z",
+      "name": "QUE PRETENDES",
+      "artists": [
+        "J Balvin",
+        "Bad Bunny"
+      ],
+      "album": "OASIS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734891d9b25d8919448388f3bb",
+      "uri": "spotify:track:25ZAibhr3bdlMCLmubZDVt",
+      "duration_ms": 222346
+    },
+    {
+      "played_at": "2026-07-24T16:07:10.540Z",
+      "name": "당돌한 여자",
+      "artists": [
+        "JIHYO",
+        "NAYEON",
+        "쯔위",
+        "Chaeyeong"
+      ],
+      "album": "투유 프로젝트 - 슈가맨 Pt.11",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e3c5360152c87edc29302306",
+      "uri": "spotify:track:7AqScxClmkJdqHZjWSkKH8",
+      "duration_ms": 185533
+    },
+    {
+      "played_at": "2026-07-24T16:18:56.649Z",
+      "name": "QUE HACES",
+      "artists": [
+        "Becky G",
+        "Manuel Turizo"
+      ],
+      "album": "QUE HACES",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cfdc7c6e909ced5ff7c2b1d3",
+      "uri": "spotify:track:4ad3yFpPEMFLnvCtvbman5",
+      "duration_ms": 171813
     }
   ]
 }
