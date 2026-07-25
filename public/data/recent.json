@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T05:44:08.834Z",
+  "updated_at": "2026-07-25T08:08:19.303Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -9505,6 +9505,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
       "uri": "spotify:track:6VEWNOA9aKe2ZtOfk7HeDA",
       "duration_ms": 112694
+    },
+    {
+      "played_at": "2026-07-25T06:58:43.640Z",
+      "name": "Resilience",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+      "duration_ms": 220360
     }
   ]
 }

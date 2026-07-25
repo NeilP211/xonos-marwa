@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-25T05:44:08.903Z",
+  "updated_at": "2026-07-25T08:08:19.401Z",
   "is_playing": false,
   "track": {
-    "name": "Por qué dudas de mi?",
+    "name": "Resilience",
     "artists": [
-      "Danny Ocean"
+      "Pierce The Veil"
     ],
-    "album": "babylona blue",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
-    "uri": "spotify:track:6VEWNOA9aKe2ZtOfk7HeDA"
+    "album": "The Jaws Of Life",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+    "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8"
   },
-  "played_at": "2026-07-25T02:44:12.673Z"
+  "played_at": "2026-07-25T06:58:43.640Z"
 }
