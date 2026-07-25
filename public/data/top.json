@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T10:28:10.481Z",
+  "generated_at": "2026-07-25T16:05:22.489Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2930,19 +2930,19 @@
         },
         {
           "rank": 42,
-          "name": "Eydie Gormé",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb1c0da336a4cea059e7da771d",
-          "genres": [],
-          "uri": "spotify:artist:6HnHBbeScFiQKXt3sUQA3Z",
-          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
-        },
-        {
-          "rank": 43,
           "name": "Luis Miguel",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6481401e529e475116702a29",
           "genres": [],
           "uri": "spotify:artist:2nszmSgqreHSdJA3zWPyrW",
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        },
+        {
+          "rank": 43,
+          "name": "Eydie Gormé",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb1c0da336a4cea059e7da771d",
+          "genres": [],
+          "uri": "spotify:artist:6HnHBbeScFiQKXt3sUQA3Z",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
         },
         {
           "rank": 44,
