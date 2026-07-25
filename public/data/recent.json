@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T22:05:39.434Z",
+  "updated_at": "2026-07-25T02:47:10.142Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -9483,6 +9483,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731a70b48975a09636c84ce17f",
       "uri": "spotify:track:5pVJ3IlnpIorU44oXizzG5",
       "duration_ms": 240964
+    },
+    {
+      "played_at": "2026-07-24T21:14:23.829Z",
+      "name": "Por qué dudas de mi?",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "babylona blue",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
+      "uri": "spotify:track:6VEWNOA9aKe2ZtOfk7HeDA",
+      "duration_ms": 112694
+    },
+    {
+      "played_at": "2026-07-25T02:44:12.673Z",
+      "name": "Por qué dudas de mi?",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "babylona blue",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
+      "uri": "spotify:track:6VEWNOA9aKe2ZtOfk7HeDA",
+      "duration_ms": 112694
     }
   ]
 }

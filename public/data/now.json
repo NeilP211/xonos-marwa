@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-07-24T22:05:39.559Z",
-  "is_playing": false,
+  "updated_at": "2026-07-25T02:47:10.285Z",
+  "is_playing": true,
   "track": {
-    "name": "orióN",
+    "name": "Resilience",
     "artists": [
-      "Boza",
-      "ELENA ROSE"
+      "Pierce The Veil"
     ],
-    "album": "orióN",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731a70b48975a09636c84ce17f",
-    "uri": "spotify:track:5pVJ3IlnpIorU44oXizzG5"
+    "album": "The Jaws Of Life",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+    "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8"
   },
-  "played_at": "2026-07-24T20:34:38.940Z"
+  "played_at": "2026-07-25T02:47:10.285Z"
 }
