@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T02:56:01.706Z",
+  "updated_at": "2026-07-26T06:09:05.405Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -9516,6 +9516,83 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
       "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
       "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-07-26T03:31:00.760Z",
+      "name": "Resilience",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+      "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-07-26T05:31:42.851Z",
+      "name": "Resilience",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+      "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-07-26T05:33:26.912Z",
+      "name": "Resilience",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+      "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-07-26T05:47:30.111Z",
+      "name": "Kiss Me Now",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Kiss Me Now",
+      "image": "https://i.scdn.co/image/ab67616d0000b27352a7a9543acdb0aadc61f08a",
+      "uri": "spotify:track:40KgVtH6ANki7AN2Sj1rZD",
+      "duration_ms": 256268
+    },
+    {
+      "played_at": "2026-07-26T05:56:45.818Z",
+      "name": "Art of War",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
+      "uri": "spotify:track:2RnB5R79oLcE8lCQbiaUZf",
+      "duration_ms": 126973
+    },
+    {
+      "played_at": "2026-07-26T05:59:37.369Z",
+      "name": "Favour",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Favour",
+      "image": "https://i.scdn.co/image/ab67616d0000b273713f9d753c8b418102db1a10",
+      "uri": "spotify:track:7lTUaX0Bs1uE9ALFsmLF8G",
+      "duration_ms": 156000
+    },
+    {
+      "played_at": "2026-07-26T06:05:44.495Z",
+      "name": "A Lonely Night",
+      "artists": [
+        "The Weeknd"
+      ],
+      "album": "Starboy",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+      "uri": "spotify:track:0ifooM33X1iBxVYyOkSbXW",
+      "duration_ms": 220173
     }
   ]
 }

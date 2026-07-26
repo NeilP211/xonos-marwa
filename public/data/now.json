@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-26T02:56:01.802Z",
-  "is_playing": false,
+  "updated_at": "2026-07-26T06:09:05.545Z",
+  "is_playing": true,
   "track": {
-    "name": "Resilience",
+    "name": "Shinzo wo Sasageyo !",
     "artists": [
-      "Pierce The Veil"
+      "Linked Horizon"
     ],
-    "album": "The Jaws Of Life",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-    "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8"
+    "album": "Shingeki no Kiseki",
+    "image": "https://i.scdn.co/image/ab67616d0000b27374164dc6fb6a320abf6a34fd",
+    "uri": "spotify:track:5uraJqtCBvLpwt3VeomZdq"
   },
-  "played_at": "2026-07-25T06:58:43.640Z"
+  "played_at": "2026-07-26T06:09:05.545Z"
 }
