@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-07-26T06:09:05.545Z",
-  "is_playing": true,
+  "updated_at": "2026-07-26T10:45:51.401Z",
+  "is_playing": false,
   "track": {
-    "name": "Shinzo wo Sasageyo !",
+    "name": "Red Swan",
     "artists": [
-      "Linked Horizon"
+      "YOSHIKI",
+      "HYDE"
     ],
-    "album": "Shingeki no Kiseki",
-    "image": "https://i.scdn.co/image/ab67616d0000b27374164dc6fb6a320abf6a34fd",
-    "uri": "spotify:track:5uraJqtCBvLpwt3VeomZdq"
+    "album": "Red Swan",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
+    "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX"
   },
-  "played_at": "2026-07-26T06:09:05.545Z"
+  "played_at": "2026-07-26T06:40:39.573Z"
 }

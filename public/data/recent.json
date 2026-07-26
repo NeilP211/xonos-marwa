@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T06:09:05.405Z",
+  "updated_at": "2026-07-26T10:45:51.306Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -9593,6 +9593,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
       "uri": "spotify:track:0ifooM33X1iBxVYyOkSbXW",
       "duration_ms": 220173
+    },
+    {
+      "played_at": "2026-07-26T06:40:39.573Z",
+      "name": "Red Swan",
+      "artists": [
+        "YOSHIKI",
+        "HYDE"
+      ],
+      "album": "Red Swan",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
+      "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX",
+      "duration_ms": 263720
     }
   ]
 }
