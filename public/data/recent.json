@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T16:59:08.219Z",
+  "updated_at": "2026-07-27T19:35:24.494Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -10018,6 +10018,256 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
       "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
       "duration_ms": 178700
+    },
+    {
+      "played_at": "2026-07-27T17:02:42.152Z",
+      "name": "All My Heart",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "Let's Cheers To This",
+      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
+      "duration_ms": 279293
+    },
+    {
+      "played_at": "2026-07-27T17:06:01.369Z",
+      "name": "Pressure",
+      "artists": [
+        "Paramore"
+      ],
+      "album": "All We Know Is Falling",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
+      "uri": "spotify:track:7mG2RbhyzGsjpQOz568d39",
+      "duration_ms": 185733
+    },
+    {
+      "played_at": "2026-07-27T17:10:18.459Z",
+      "name": "Kiss Me Now",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
+      "uri": "spotify:track:6yT9iNKt8fQoYpQkbWc7YR",
+      "duration_ms": 256268
+    },
+    {
+      "played_at": "2026-07-27T17:20:35.363Z",
+      "name": "Headless",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Ohms",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e142a930bfba61f6a3592b29",
+      "uri": "spotify:track:2yoIMKtEtb7iEAmyLdmS02",
+      "duration_ms": 299382
+    },
+    {
+      "played_at": "2026-07-27T17:23:47.808Z",
+      "name": "All That Matters",
+      "artists": [
+        "Justin Bieber"
+      ],
+      "album": "Journals",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358ae8fddecbd2630005409c9",
+      "uri": "spotify:track:6CLVh9sekZ1p2G8Tfhhj8h",
+      "duration_ms": 191173
+    },
+    {
+      "played_at": "2026-07-27T17:27:10.520Z",
+      "name": "Helena - 2025 Mix",
+      "artists": [
+        "My Chemical Romance"
+      ],
+      "album": "Three Cheers for Sweet Revenge (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b0c0ef1157d2b44f4761c086",
+      "uri": "spotify:track:5Oi4bcuLV8D3YJ6w4FBEUz",
+      "duration_ms": 202181
+    },
+    {
+      "played_at": "2026-07-27T17:35:15.955Z",
+      "name": "Resilience",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+      "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-07-27T17:42:42.941Z",
+      "name": "Kiss Me Now",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Kiss Me Now",
+      "image": "https://i.scdn.co/image/ab67616d0000b27352a7a9543acdb0aadc61f08a",
+      "uri": "spotify:track:40KgVtH6ANki7AN2Sj1rZD",
+      "duration_ms": 256268
+    },
+    {
+      "played_at": "2026-07-27T17:46:59.746Z",
+      "name": "Kiss Me Now",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Kiss Me Now",
+      "image": "https://i.scdn.co/image/ab67616d0000b27352a7a9543acdb0aadc61f08a",
+      "uri": "spotify:track:40KgVtH6ANki7AN2Sj1rZD",
+      "duration_ms": 256268
+    },
+    {
+      "played_at": "2026-07-27T17:52:00.257Z",
+      "name": "Et si tu n'existais pas",
+      "artists": [
+        "Joe Dassin"
+      ],
+      "album": "Joe Dassin",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739520be730c64292246fc1d78",
+      "uri": "spotify:track:1GeszH3DWCOKwK0d8D5gEZ",
+      "duration_ms": 206240
+    },
+    {
+      "played_at": "2026-07-27T17:54:51.146Z",
+      "name": "À toi",
+      "artists": [
+        "Joe Dassin"
+      ],
+      "album": "Joe Dassin Éternel... (Edition deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27364b5edd7ea82ed4f72cef69a",
+      "uri": "spotify:track:3eU1svIbsGAu2wKQPDdnD6",
+      "duration_ms": 169613
+    },
+    {
+      "played_at": "2026-07-27T18:07:05.251Z",
+      "name": "12 Fractures",
+      "artists": [
+        "Pierce The Veil",
+        "chloe moriondo"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+      "duration_ms": 181600
+    },
+    {
+      "played_at": "2026-07-27T18:11:22.581Z",
+      "name": "Kiss Me Now",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Kiss Me Now",
+      "image": "https://i.scdn.co/image/ab67616d0000b27352a7a9543acdb0aadc61f08a",
+      "uri": "spotify:track:40KgVtH6ANki7AN2Sj1rZD",
+      "duration_ms": 256268
+    },
+    {
+      "played_at": "2026-07-27T18:15:00.032Z",
+      "name": "An Ending In Itself",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "An Ending In Itself",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ffc097eec437725b51f276f3",
+      "uri": "spotify:track:6ySCFmhmWd4QiyK8f1nm32",
+      "duration_ms": 216884
+    },
+    {
+      "played_at": "2026-07-27T18:18:02.421Z",
+      "name": "12 Fractures",
+      "artists": [
+        "Pierce The Veil",
+        "chloe moriondo"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+      "duration_ms": 181600
+    },
+    {
+      "played_at": "2026-07-27T18:22:25.503Z",
+      "name": "12 Fractures",
+      "artists": [
+        "Pierce The Veil",
+        "chloe moriondo"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+      "duration_ms": 181600
+    },
+    {
+      "played_at": "2026-07-27T18:25:27.873Z",
+      "name": "12 Fractures",
+      "artists": [
+        "Pierce The Veil",
+        "chloe moriondo"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+      "duration_ms": 181600
+    },
+    {
+      "played_at": "2026-07-27T18:28:30.561Z",
+      "name": "12 Fractures",
+      "artists": [
+        "Pierce The Veil",
+        "chloe moriondo"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+      "duration_ms": 181600
+    },
+    {
+      "played_at": "2026-07-27T18:33:30.292Z",
+      "name": "12 Fractures",
+      "artists": [
+        "Pierce The Veil",
+        "chloe moriondo"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+      "duration_ms": 181600
+    },
+    {
+      "played_at": "2026-07-27T18:36:32.757Z",
+      "name": "12 Fractures",
+      "artists": [
+        "Pierce The Veil",
+        "chloe moriondo"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+      "duration_ms": 181600
+    },
+    {
+      "played_at": "2026-07-27T18:41:08.382Z",
+      "name": "12 Fractures",
+      "artists": [
+        "Pierce The Veil",
+        "chloe moriondo"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+      "duration_ms": 181600
+    },
+    {
+      "played_at": "2026-07-27T18:52:41.163Z",
+      "name": "i think about you all the time",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "private music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+      "uri": "spotify:track:0M5NH22uVXHSXjSi5SXTXM",
+      "duration_ms": 248957
     }
   ]
 }

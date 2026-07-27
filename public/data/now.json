@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-27T16:59:08.358Z",
-  "is_playing": true,
+  "updated_at": "2026-07-27T19:35:24.587Z",
+  "is_playing": false,
   "track": {
-    "name": "All My Heart",
+    "name": "i think about you all the time",
     "artists": [
-      "Sleeping With Sirens"
+      "Deftones"
     ],
-    "album": "Let's Cheers To This",
-    "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
-    "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU"
+    "album": "private music",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+    "uri": "spotify:track:0M5NH22uVXHSXjSi5SXTXM"
   },
-  "played_at": "2026-07-27T16:59:08.358Z"
+  "played_at": "2026-07-27T18:52:41.163Z"
 }
