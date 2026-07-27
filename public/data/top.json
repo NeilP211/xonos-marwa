@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T22:01:41.957Z",
+  "generated_at": "2026-07-27T03:20:54.839Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2009,18 +2009,6 @@
         },
         {
           "rank": 3,
-          "name": "fantasmas",
-          "artists": [
-            "HUMBE"
-          ],
-          "album": "fantasmas",
-          "image": "https://i.scdn.co/image/ab67616d0000b273492f5309ef0e7dd60e09f3d8",
-          "uri": "spotify:track:5rcnAHBclBs0OGV4rATEnR",
-          "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR",
-          "duration_ms": 287248
-        },
-        {
-          "rank": 4,
           "name": "Favour",
           "artists": [
             "Avenoir"
@@ -2030,6 +2018,18 @@
           "uri": "spotify:track:7lTUaX0Bs1uE9ALFsmLF8G",
           "url": "https://open.spotify.com/track/7lTUaX0Bs1uE9ALFsmLF8G",
           "duration_ms": 156000
+        },
+        {
+          "rank": 4,
+          "name": "fantasmas",
+          "artists": [
+            "HUMBE"
+          ],
+          "album": "fantasmas",
+          "image": "https://i.scdn.co/image/ab67616d0000b273492f5309ef0e7dd60e09f3d8",
+          "uri": "spotify:track:5rcnAHBclBs0OGV4rATEnR",
+          "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR",
+          "duration_ms": 287248
         },
         {
           "rank": 5,
@@ -2057,18 +2057,6 @@
         },
         {
           "rank": 7,
-          "name": "hero",
-          "artists": [
-            "starfall"
-          ],
-          "album": "hero",
-          "image": "https://i.scdn.co/image/ab67616d0000b27315f3445f6223075a89b1cc85",
-          "uri": "spotify:track:4mhn601d6PE1dR3QCON9bF",
-          "url": "https://open.spotify.com/track/4mhn601d6PE1dR3QCON9bF",
-          "duration_ms": 184142
-        },
-        {
-          "rank": 8,
           "name": "Resilience",
           "artists": [
             "Pierce The Veil"
@@ -2078,6 +2066,18 @@
           "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
           "url": "https://open.spotify.com/track/08vqJRf0PuLF1YACmIG3o8",
           "duration_ms": 220360
+        },
+        {
+          "rank": 8,
+          "name": "hero",
+          "artists": [
+            "starfall"
+          ],
+          "album": "hero",
+          "image": "https://i.scdn.co/image/ab67616d0000b27315f3445f6223075a89b1cc85",
+          "uri": "spotify:track:4mhn601d6PE1dR3QCON9bF",
+          "url": "https://open.spotify.com/track/4mhn601d6PE1dR3QCON9bF",
+          "duration_ms": 184142
         },
         {
           "rank": 9,
@@ -2360,6 +2360,19 @@
         },
         {
           "rank": 32,
+          "name": "Red Swan",
+          "artists": [
+            "YOSHIKI",
+            "HYDE"
+          ],
+          "album": "Red Swan",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
+          "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX",
+          "url": "https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX",
+          "duration_ms": 263720
+        },
+        {
+          "rank": 33,
           "name": "Die With A Smile",
           "artists": [
             "Lady Gaga",
@@ -2372,7 +2385,7 @@
           "duration_ms": 251667
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Deseándote",
           "artists": [
             "Frankie Ruiz"
@@ -2384,7 +2397,7 @@
           "duration_ms": 283546
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Ana Mosh Anani",
           "artists": [
             "Amr Diab"
@@ -2396,7 +2409,7 @@
           "duration_ms": 289959
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Call Me By Your Name",
           "artists": [
             "Sophie Castillo"
@@ -2408,7 +2421,7 @@
           "duration_ms": 168021
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "VeLDÁ",
           "artists": [
             "Bad Bunny",
@@ -2422,7 +2435,7 @@
           "duration_ms": 235336
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Virgen",
           "artists": [
             "Adolescent's Orquesta"
@@ -2434,7 +2447,7 @@
           "duration_ms": 273763
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Dujem",
           "artists": [
             "Butrint Imeri"
@@ -2446,7 +2459,7 @@
           "duration_ms": 157441
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "New Woman (feat. ROSALÍA)",
           "artists": [
             "LISA",
@@ -2459,7 +2472,7 @@
           "duration_ms": 179789
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "اخدني معك",
           "artists": [
             "Fadel Chaker"
@@ -2469,19 +2482,6 @@
           "uri": "spotify:track:2OG1u9eX4Zjsi7fGQB9T8t",
           "url": "https://open.spotify.com/track/2OG1u9eX4Zjsi7fGQB9T8t",
           "duration_ms": 313939
-        },
-        {
-          "rank": 41,
-          "name": "Red Swan",
-          "artists": [
-            "YOSHIKI",
-            "HYDE"
-          ],
-          "album": "Red Swan",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
-          "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX",
-          "url": "https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX",
-          "duration_ms": 263720
         },
         {
           "rank": 42,
@@ -2702,6 +2702,14 @@
         },
         {
           "rank": 14,
+          "name": "Pierce The Veil",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6f8f8d13be17bf486219edc7",
+          "genres": [],
+          "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        },
+        {
+          "rank": 15,
           "name": "Danny Ocean",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6d11079e9ea4fd57b5df6c97",
           "genres": [],
@@ -2709,20 +2717,12 @@
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "ENHYPEN",
           "image": "https://i.scdn.co/image/ab6761610000e5eb590b808769f5826ce94d1dd4",
           "genres": [],
           "uri": "spotify:artist:5t5FqBwTcgKTaWmfEbwQY9",
           "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        },
-        {
-          "rank": 16,
-          "name": "Pierce The Veil",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6f8f8d13be17bf486219edc7",
-          "genres": [],
-          "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         },
         {
           "rank": 17,
@@ -2830,14 +2830,6 @@
         },
         {
           "rank": 30,
-          "name": "KISS OF LIFE",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb4b89abdc6c414c949aa45cbe",
-          "genres": [],
-          "uri": "spotify:artist:4TEK9tIkcoxib4GxT3O4ky",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        },
-        {
-          "rank": 31,
           "name": "Feid",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e529f4ad13f86c69962cb12",
           "genres": [],
@@ -2845,12 +2837,20 @@
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Daniel, Me Estás Matando",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2c55dc0c5e84b17b01869558",
           "genres": [],
           "uri": "spotify:artist:51yyeVxyvecgePAWXmeLUE",
           "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "rank": 32,
+          "name": "KISS OF LIFE",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb4b89abdc6c414c949aa45cbe",
+          "genres": [],
+          "uri": "spotify:artist:4TEK9tIkcoxib4GxT3O4ky",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
         },
         {
           "rank": 33,

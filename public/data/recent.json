@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T22:01:42.027Z",
+  "updated_at": "2026-07-27T03:20:54.984Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -9605,6 +9605,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
       "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX",
       "duration_ms": 263720
+    },
+    {
+      "played_at": "2026-07-26T23:13:54.806Z",
+      "name": "Resilience",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+      "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-07-26T23:20:56.522Z",
+      "name": "Cemetery Drive",
+      "artists": [
+        "My Chemical Romance"
+      ],
+      "album": "Three Cheers for Sweet Revenge",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
+      "uri": "spotify:track:2cViIXIe8Pbd1sOJExMJlK",
+      "duration_ms": 188066
+    },
+    {
+      "played_at": "2026-07-26T23:25:19.080Z",
+      "name": "Shared Trauma",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
+      "duration_ms": 253000
+    },
+    {
+      "played_at": "2026-07-27T01:35:45.901Z",
+      "name": "Props & Mayhem",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO",
+      "duration_ms": 217853
     }
   ]
 }

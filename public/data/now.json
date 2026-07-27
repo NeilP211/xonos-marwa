@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-07-26T22:01:42.118Z",
+  "updated_at": "2026-07-27T03:20:55.086Z",
   "is_playing": false,
   "track": {
-    "name": "Red Swan",
+    "name": "Props & Mayhem",
     "artists": [
-      "YOSHIKI",
-      "HYDE"
+      "Pierce The Veil"
     ],
-    "album": "Red Swan",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
-    "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX"
+    "album": "Collide With The Sky",
+    "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+    "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO"
   },
-  "played_at": "2026-07-26T06:40:39.573Z"
+  "played_at": "2026-07-27T01:35:45.901Z"
 }
