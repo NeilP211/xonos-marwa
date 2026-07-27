@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T19:35:24.347Z",
+  "generated_at": "2026-07-27T22:09:16.799Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -41,18 +41,6 @@
         },
         {
           "rank": 4,
-          "name": "Resilience",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
-          "url": "https://open.spotify.com/track/08vqJRf0PuLF1YACmIG3o8",
-          "duration_ms": 220360
-        },
-        {
-          "rank": 5,
           "name": "12 Fractures",
           "artists": [
             "Pierce The Veil",
@@ -63,6 +51,18 @@
           "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
           "url": "https://open.spotify.com/track/2R5SzmhzoaCkjDJcSaGrN3",
           "duration_ms": 181600
+        },
+        {
+          "rank": 5,
+          "name": "Resilience",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+          "url": "https://open.spotify.com/track/08vqJRf0PuLF1YACmIG3o8",
+          "duration_ms": 220360
         },
         {
           "rank": 6,
@@ -78,15 +78,15 @@
         },
         {
           "rank": 7,
-          "name": "Descifrar",
+          "name": "Shared Trauma",
           "artists": [
-            "maye"
+            "Pierce The Veil"
           ],
-          "album": "Descifrar",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
-          "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
-          "url": "https://open.spotify.com/track/431vrxogdCt65ZSWfUrP1G",
-          "duration_ms": 178700
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
+          "url": "https://open.spotify.com/track/0ZHcRJMgSjQ3Gjf80ti943",
+          "duration_ms": 253000
         },
         {
           "rank": 8,
@@ -103,6 +103,18 @@
         },
         {
           "rank": 9,
+          "name": "Descifrar",
+          "artists": [
+            "maye"
+          ],
+          "album": "Descifrar",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
+          "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
+          "url": "https://open.spotify.com/track/431vrxogdCt65ZSWfUrP1G",
+          "duration_ms": 178700
+        },
+        {
+          "rank": 10,
           "name": "Por qué dudas de mi?",
           "artists": [
             "Danny Ocean"
@@ -112,18 +124,6 @@
           "uri": "spotify:track:6VEWNOA9aKe2ZtOfk7HeDA",
           "url": "https://open.spotify.com/track/6VEWNOA9aKe2ZtOfk7HeDA",
           "duration_ms": 112694
-        },
-        {
-          "rank": 10,
-          "name": "흩어진나날들",
-          "artists": [
-            "강수지"
-          ],
-          "album": "강수지2집",
-          "image": "https://i.scdn.co/image/ab67616d0000b27336baac318c4aac27ed3a54ea",
-          "uri": "spotify:track:3IuA2jGGOgZCGwQBiLhRuP",
-          "url": "https://open.spotify.com/track/3IuA2jGGOgZCGwQBiLhRuP",
-          "duration_ms": 262126
         },
         {
           "rank": 11,
@@ -177,18 +177,6 @@
         },
         {
           "rank": 15,
-          "name": "Shared Trauma",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
-          "url": "https://open.spotify.com/track/0ZHcRJMgSjQ3Gjf80ti943",
-          "duration_ms": 253000
-        },
-        {
-          "rank": 16,
           "name": "quelomamen",
           "artists": [
             "Danny Ocean"
@@ -200,7 +188,7 @@
           "duration_ms": 136331
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "DtMF",
           "artists": [
             "Bad Bunny"
@@ -212,7 +200,7 @@
           "duration_ms": 237117
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Chica de Verde",
           "artists": [
             "Bruno Romano",
@@ -225,7 +213,7 @@
           "duration_ms": 225694
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Bendito",
           "artists": [
             "Rawayana"
@@ -237,7 +225,7 @@
           "duration_ms": 154586
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Deslocado",
           "artists": [
             "NAPA"
@@ -247,6 +235,18 @@
           "uri": "spotify:track:31CsSZ9KlQmEu0JvWSkM3j",
           "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j",
           "duration_ms": 179996
+        },
+        {
+          "rank": 20,
+          "name": "흩어진나날들",
+          "artists": [
+            "강수지"
+          ],
+          "album": "강수지2집",
+          "image": "https://i.scdn.co/image/ab67616d0000b27336baac318c4aac27ed3a54ea",
+          "uri": "spotify:track:3IuA2jGGOgZCGwQBiLhRuP",
+          "url": "https://open.spotify.com/track/3IuA2jGGOgZCGwQBiLhRuP",
+          "duration_ms": 262126
         },
         {
           "rank": 21,
@@ -262,6 +262,18 @@
         },
         {
           "rank": 22,
+          "name": "Death Of An Executioner",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
+          "url": "https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp",
+          "duration_ms": 267800
+        },
+        {
+          "rank": 23,
           "name": "See You Around?",
           "artists": [
             "Mahfouz"
@@ -273,7 +285,7 @@
           "duration_ms": 215040
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Favour",
           "artists": [
             "Avenoir"
@@ -285,7 +297,7 @@
           "duration_ms": 156000
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Como Es Que Se Hace",
           "artists": [
             "Yandel",
@@ -298,7 +310,7 @@
           "duration_ms": 205320
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Cariño",
           "artists": [
             "The Marías"
@@ -310,7 +322,7 @@
           "duration_ms": 258713
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Forever",
           "artists": [
             "keshi"
@@ -322,7 +334,7 @@
           "duration_ms": 171415
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Caraphernelia",
           "artists": [
             "Pierce The Veil"
@@ -334,7 +346,7 @@
           "duration_ms": 268480
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Flawless Execution",
           "artists": [
             "Pierce The Veil"
@@ -346,7 +358,7 @@
           "duration_ms": 240053
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "WHO DO U LUV",
           "artists": [
             "Avenoir"
@@ -358,7 +370,7 @@
           "duration_ms": 248760
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "love song",
           "artists": [
             "Lee Yerin"
@@ -370,7 +382,7 @@
           "duration_ms": 203658
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Si Me Voy (with The Marías)",
           "artists": [
             "Cuco",
@@ -383,7 +395,7 @@
           "duration_ms": 203219
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Pressure",
           "artists": [
             "Paramore"
@@ -395,7 +407,7 @@
           "duration_ms": 185733
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Oh Qué Será?",
           "artists": [
             "Willie Colón"
@@ -407,7 +419,7 @@
           "duration_ms": 304200
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "NO SOY EL MISMO",
           "artists": [
             "Joey V Mendez"
@@ -419,7 +431,7 @@
           "duration_ms": 195923
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Can't Leave Alone (feat. Avenoir & Maz B)",
           "artists": [
             "Pino",
@@ -434,7 +446,7 @@
           "duration_ms": 213413
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "A Match Into Water",
           "artists": [
             "Pierce The Veil"
@@ -446,7 +458,7 @@
           "duration_ms": 212546
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Hold On Till May",
           "artists": [
             "Pierce The Veil",
@@ -459,7 +471,7 @@
           "duration_ms": 278586
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Estar Contigo",
           "artists": [
             "Bruno Romano"
@@ -471,7 +483,7 @@
           "duration_ms": 214615
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Paraíso",
           "artists": [
             "La Cassandra",
@@ -484,7 +496,7 @@
           "duration_ms": 170226
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "A Lonely Night",
           "artists": [
             "The Weeknd"
@@ -496,7 +508,7 @@
           "duration_ms": 220173
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Damn The Man, Save The Empire",
           "artists": [
             "Pierce The Veil"
@@ -508,7 +520,7 @@
           "duration_ms": 237000
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Red Swan",
           "artists": [
             "YOSHIKI",
@@ -521,7 +533,7 @@
           "duration_ms": 263720
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "All That Matters - Single Version",
           "artists": [
             "Justin Bieber"
@@ -533,7 +545,7 @@
           "duration_ms": 191160
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Sure Thing",
           "artists": [
             "Miguel"
@@ -545,7 +557,7 @@
           "duration_ms": 195373
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Usted",
           "artists": [
             "Luis Miguel"
@@ -557,7 +569,7 @@
           "duration_ms": 223200
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Un Ratito",
           "artists": [
             "La Isla Centeno"
@@ -569,7 +581,7 @@
           "duration_ms": 180000
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Look Here",
           "artists": [
             "BTS"
@@ -581,7 +593,7 @@
           "duration_ms": 218887
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "SE QUE TE FALLE",
           "artists": [
             "Joey V Mendez"
@@ -593,7 +605,7 @@
           "duration_ms": 221229
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "ساعة الفراق",
           "artists": [
             "Amr Diab"
@@ -603,18 +615,6 @@
           "uri": "spotify:track:16t02dwb1FqYPTlZ5EeTQ7",
           "url": "https://open.spotify.com/track/16t02dwb1FqYPTlZ5EeTQ7",
           "duration_ms": 234161
-        },
-        {
-          "rank": 50,
-          "name": "Te Me Vas",
-          "artists": [
-            "Prince Royce"
-          ],
-          "album": "Phase II",
-          "image": "https://i.scdn.co/image/ab67616d0000b2737f187201bff22a11f0d6053b",
-          "uri": "spotify:track:18MbEK3bfXlTBQZSr74afQ",
-          "url": "https://open.spotify.com/track/18MbEK3bfXlTBQZSr74afQ",
-          "duration_ms": 198973
         }
       ],
       "artists": [
@@ -844,14 +844,6 @@
         },
         {
           "rank": 29,
-          "name": "Willie Colón",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb4934a2c42935c770bb3ee1af",
-          "genres": [],
-          "uri": "spotify:artist:7x5Slu7yTE5icZjNsc3OzW",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "rank": 30,
           "name": "Cigarettes After Sex",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
           "genres": [],
@@ -859,7 +851,7 @@
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Kali Uchis",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdeac5367816c7ab1f607e89a",
           "genres": [],
@@ -867,7 +859,7 @@
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Darviin",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1ceaf70db97291849b8a9ffa",
           "genres": [],
@@ -875,7 +867,7 @@
           "url": "https://open.spotify.com/artist/6dL0CCjAn3nxhZpGVmcO4E"
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Jasiel Nuñez",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9658b7f44b66e675013ee372",
           "genres": [],
@@ -883,12 +875,20 @@
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "The Weeknd",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
           "genres": [],
           "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "rank": 34,
+          "name": "Willie Colón",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb4934a2c42935c770bb3ee1af",
+          "genres": [],
+          "uri": "spotify:artist:7x5Slu7yTE5icZjNsc3OzW",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         },
         {
           "rank": 35,

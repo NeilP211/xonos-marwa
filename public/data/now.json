@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-27T19:35:24.587Z",
+  "updated_at": "2026-07-27T22:09:16.975Z",
   "is_playing": false,
   "track": {
-    "name": "i think about you all the time",
+    "name": "Shared Trauma",
     "artists": [
-      "Deftones"
+      "Pierce The Veil"
     ],
-    "album": "private music",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
-    "uri": "spotify:track:0M5NH22uVXHSXjSi5SXTXM"
+    "album": "The Jaws Of Life",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+    "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943"
   },
-  "played_at": "2026-07-27T18:52:41.163Z"
+  "played_at": "2026-07-27T21:03:00.837Z"
 }
