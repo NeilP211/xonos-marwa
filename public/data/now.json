@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-27T14:38:55.728Z",
-  "is_playing": false,
+  "updated_at": "2026-07-27T16:59:08.358Z",
+  "is_playing": true,
   "track": {
-    "name": "Dile Que Tu Me Quieres",
+    "name": "All My Heart",
     "artists": [
-      "Ozuna"
+      "Sleeping With Sirens"
     ],
-    "album": "Odisea",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b0a875d7f1bfe4ec4aaffa48",
-    "uri": "spotify:track:5u5MvmVtitax9R1Mxh3reC"
+    "album": "Let's Cheers To This",
+    "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+    "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU"
   },
-  "played_at": "2026-07-27T13:42:25.228Z"
+  "played_at": "2026-07-27T16:59:08.358Z"
 }
