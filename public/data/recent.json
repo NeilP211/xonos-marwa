@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T09:54:54.130Z",
+  "updated_at": "2026-07-27T14:38:55.648Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -9868,6 +9868,73 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
       "uri": "spotify:track:2QPH4nsBCojHQSrM1AlKWn",
       "duration_ms": 136331
+    },
+    {
+      "played_at": "2026-07-27T13:24:03.966Z",
+      "name": "quelomamen",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "babylona blue",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
+      "uri": "spotify:track:2QPH4nsBCojHQSrM1AlKWn",
+      "duration_ms": 136331
+    },
+    {
+      "played_at": "2026-07-27T13:26:01.911Z",
+      "name": "Por qué dudas de mi?",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "babylona blue",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
+      "uri": "spotify:track:6VEWNOA9aKe2ZtOfk7HeDA",
+      "duration_ms": 112694
+    },
+    {
+      "played_at": "2026-07-27T13:28:20.149Z",
+      "name": "Bórrame La Memoria?",
+      "artists": [
+        "Manuel Lizarazo"
+      ],
+      "album": "Bórrame La Memoria?",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b0284a5a05783b247d533682",
+      "uri": "spotify:track:3eWMqprnuYv16tJ19EMGGR",
+      "duration_ms": 132755
+    },
+    {
+      "played_at": "2026-07-27T13:31:54.056Z",
+      "name": "SI ES AMOR",
+      "artists": [
+        "Danny Ocean",
+        "Beéle"
+      ],
+      "album": "@dannocean",
+      "image": "https://i.scdn.co/image/ab67616d0000b273219973bcf027114a95e7996b",
+      "uri": "spotify:track:7JahThtCGJ9cdn6HWTWf9S",
+      "duration_ms": 212914
+    },
+    {
+      "played_at": "2026-07-27T13:35:18.776Z",
+      "name": "love song",
+      "artists": [
+        "Lee Yerin"
+      ],
+      "album": "love song",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730ff6834ec0e689a5c207c6d8",
+      "uri": "spotify:track:4YK6kyQr9E3KRdi08w3pQz",
+      "duration_ms": 203658
+    },
+    {
+      "played_at": "2026-07-27T13:42:25.228Z",
+      "name": "Dile Que Tu Me Quieres",
+      "artists": [
+        "Ozuna"
+      ],
+      "album": "Odisea",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b0a875d7f1bfe4ec4aaffa48",
+      "uri": "spotify:track:5u5MvmVtitax9R1Mxh3reC",
+      "duration_ms": 226520
     }
   ]
 }

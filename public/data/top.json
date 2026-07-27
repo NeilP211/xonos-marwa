@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T09:54:53.973Z",
+  "generated_at": "2026-07-27T14:38:55.509Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -41,18 +41,6 @@
         },
         {
           "rank": 4,
-          "name": "Resilience",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
-          "url": "https://open.spotify.com/track/08vqJRf0PuLF1YACmIG3o8",
-          "duration_ms": 220360
-        },
-        {
-          "rank": 5,
           "name": "Descifrar",
           "artists": [
             "maye"
@@ -62,6 +50,18 @@
           "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
           "url": "https://open.spotify.com/track/431vrxogdCt65ZSWfUrP1G",
           "duration_ms": 178700
+        },
+        {
+          "rank": 5,
+          "name": "Resilience",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+          "url": "https://open.spotify.com/track/08vqJRf0PuLF1YACmIG3o8",
+          "duration_ms": 220360
         },
         {
           "rank": 6,
@@ -77,6 +77,18 @@
         },
         {
           "rank": 7,
+          "name": "Por qué dudas de mi?",
+          "artists": [
+            "Danny Ocean"
+          ],
+          "album": "babylona blue",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
+          "uri": "spotify:track:6VEWNOA9aKe2ZtOfk7HeDA",
+          "url": "https://open.spotify.com/track/6VEWNOA9aKe2ZtOfk7HeDA",
+          "duration_ms": 112694
+        },
+        {
+          "rank": 8,
           "name": "Flaca",
           "artists": [
             "Cultura Profética",
@@ -89,7 +101,7 @@
           "duration_ms": 255875
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "흩어진나날들",
           "artists": [
             "강수지"
@@ -101,7 +113,7 @@
           "duration_ms": 262126
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "WHO DO U LUV",
           "artists": [
             "Avenoir"
@@ -113,7 +125,7 @@
           "duration_ms": 248760
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "雨蝶 - R&B微醺版",
           "artists": [
             "微醺卡带"
@@ -125,7 +137,7 @@
           "duration_ms": 234984
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "El Replay",
           "artists": [
             "Joey V Mendez"
@@ -137,7 +149,7 @@
           "duration_ms": 170400
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Chica de Verde",
           "artists": [
             "Bruno Romano",
@@ -150,32 +162,7 @@
           "duration_ms": 225694
         },
         {
-          "rank": 13,
-          "name": "Por qué dudas de mi?",
-          "artists": [
-            "Danny Ocean"
-          ],
-          "album": "babylona blue",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
-          "uri": "spotify:track:6VEWNOA9aKe2ZtOfk7HeDA",
-          "url": "https://open.spotify.com/track/6VEWNOA9aKe2ZtOfk7HeDA",
-          "duration_ms": 112694
-        },
-        {
           "rank": 14,
-          "name": "Hold On Till May",
-          "artists": [
-            "Pierce The Veil",
-            "Lindsey Stamey"
-          ],
-          "album": "Collide With The Sky",
-          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-          "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
-          "url": "https://open.spotify.com/track/5u2FOoFhp495GIj5BJC77J",
-          "duration_ms": 278586
-        },
-        {
-          "rank": 15,
           "name": "Mi Atención",
           "artists": [
             "Martox"
@@ -187,7 +174,7 @@
           "duration_ms": 212179
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Toronto",
           "artists": [
             "Nandé",
@@ -201,91 +188,7 @@
           "duration_ms": 198888
         },
         {
-          "rank": 17,
-          "name": "You're All I Want",
-          "artists": [
-            "Cigarettes After Sex"
-          ],
-          "album": "You're All I Want",
-          "image": "https://i.scdn.co/image/ab67616d0000b273963454e08e5e9def7e8cd204",
-          "uri": "spotify:track:2cTvZSCqzjkTMkIypLxUFH",
-          "url": "https://open.spotify.com/track/2cTvZSCqzjkTMkIypLxUFH",
-          "duration_ms": 264453
-        },
-        {
-          "rank": 18,
-          "name": "DtMF",
-          "artists": [
-            "Bad Bunny"
-          ],
-          "album": "DeBÍ TiRAR MáS FOToS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-          "uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya",
-          "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
-          "duration_ms": 237117
-        },
-        {
-          "rank": 19,
-          "name": "Bendito",
-          "artists": [
-            "Rawayana"
-          ],
-          "album": "¿Dónde Es El After?",
-          "image": "https://i.scdn.co/image/ab67616d0000b273932fe6d260177091a0e115ba",
-          "uri": "spotify:track:6f00ixRBopYCszGmKhOUyp",
-          "url": "https://open.spotify.com/track/6f00ixRBopYCszGmKhOUyp",
-          "duration_ms": 154586
-        },
-        {
-          "rank": 20,
-          "name": "Deslocado",
-          "artists": [
-            "NAPA"
-          ],
-          "album": "Deslocado",
-          "image": "https://i.scdn.co/image/ab67616d0000b273836edb90093bc743598aa54d",
-          "uri": "spotify:track:31CsSZ9KlQmEu0JvWSkM3j",
-          "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j",
-          "duration_ms": 179996
-        },
-        {
-          "rank": 21,
-          "name": "A Match Into Water",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "Collide With The Sky",
-          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-          "uri": "spotify:track:54MXF9I8s3DuiQo3g0gZ5k",
-          "url": "https://open.spotify.com/track/54MXF9I8s3DuiQo3g0gZ5k",
-          "duration_ms": 212546
-        },
-        {
-          "rank": 22,
-          "name": "Shared Trauma",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
-          "url": "https://open.spotify.com/track/0ZHcRJMgSjQ3Gjf80ti943",
-          "duration_ms": 253000
-        },
-        {
-          "rank": 23,
-          "name": "See You Around?",
-          "artists": [
-            "Mahfouz"
-          ],
-          "album": "See You Around?",
-          "image": "https://i.scdn.co/image/ab67616d0000b273796f6dedcf655d6502623326",
-          "uri": "spotify:track:2bsx9BLCFXv9Kz3JJW4MhB",
-          "url": "https://open.spotify.com/track/2bsx9BLCFXv9Kz3JJW4MhB",
-          "duration_ms": 215040
-        },
-        {
-          "rank": 24,
+          "rank": 16,
           "name": "quelomamen",
           "artists": [
             "Danny Ocean"
@@ -297,7 +200,79 @@
           "duration_ms": 136331
         },
         {
-          "rank": 25,
+          "rank": 17,
+          "name": "DtMF",
+          "artists": [
+            "Bad Bunny"
+          ],
+          "album": "DeBÍ TiRAR MáS FOToS",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya",
+          "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
+          "duration_ms": 237117
+        },
+        {
+          "rank": 18,
+          "name": "Bendito",
+          "artists": [
+            "Rawayana"
+          ],
+          "album": "¿Dónde Es El After?",
+          "image": "https://i.scdn.co/image/ab67616d0000b273932fe6d260177091a0e115ba",
+          "uri": "spotify:track:6f00ixRBopYCszGmKhOUyp",
+          "url": "https://open.spotify.com/track/6f00ixRBopYCszGmKhOUyp",
+          "duration_ms": 154586
+        },
+        {
+          "rank": 19,
+          "name": "Deslocado",
+          "artists": [
+            "NAPA"
+          ],
+          "album": "Deslocado",
+          "image": "https://i.scdn.co/image/ab67616d0000b273836edb90093bc743598aa54d",
+          "uri": "spotify:track:31CsSZ9KlQmEu0JvWSkM3j",
+          "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j",
+          "duration_ms": 179996
+        },
+        {
+          "rank": 20,
+          "name": "Bórrame La Memoria?",
+          "artists": [
+            "Manuel Lizarazo"
+          ],
+          "album": "Bórrame La Memoria?",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b0284a5a05783b247d533682",
+          "uri": "spotify:track:3eWMqprnuYv16tJ19EMGGR",
+          "url": "https://open.spotify.com/track/3eWMqprnuYv16tJ19EMGGR",
+          "duration_ms": 132755
+        },
+        {
+          "rank": 21,
+          "name": "Shared Trauma",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
+          "url": "https://open.spotify.com/track/0ZHcRJMgSjQ3Gjf80ti943",
+          "duration_ms": 253000
+        },
+        {
+          "rank": 22,
+          "name": "See You Around?",
+          "artists": [
+            "Mahfouz"
+          ],
+          "album": "See You Around?",
+          "image": "https://i.scdn.co/image/ab67616d0000b273796f6dedcf655d6502623326",
+          "uri": "spotify:track:2bsx9BLCFXv9Kz3JJW4MhB",
+          "url": "https://open.spotify.com/track/2bsx9BLCFXv9Kz3JJW4MhB",
+          "duration_ms": 215040
+        },
+        {
+          "rank": 23,
           "name": "Favour",
           "artists": [
             "Avenoir"
@@ -309,7 +284,7 @@
           "duration_ms": 156000
         },
         {
-          "rank": 26,
+          "rank": 24,
           "name": "Como Es Que Se Hace",
           "artists": [
             "Yandel",
@@ -322,7 +297,7 @@
           "duration_ms": 205320
         },
         {
-          "rank": 27,
+          "rank": 25,
           "name": "Cariño",
           "artists": [
             "The Marías"
@@ -334,7 +309,7 @@
           "duration_ms": 258713
         },
         {
-          "rank": 28,
+          "rank": 26,
           "name": "Forever",
           "artists": [
             "keshi"
@@ -346,7 +321,7 @@
           "duration_ms": 171415
         },
         {
-          "rank": 29,
+          "rank": 27,
           "name": "Caraphernelia",
           "artists": [
             "Pierce The Veil"
@@ -358,7 +333,7 @@
           "duration_ms": 268480
         },
         {
-          "rank": 30,
+          "rank": 28,
           "name": "Flawless Execution",
           "artists": [
             "Pierce The Veil"
@@ -370,7 +345,19 @@
           "duration_ms": 240053
         },
         {
-          "rank": 31,
+          "rank": 29,
+          "name": "love song",
+          "artists": [
+            "Lee Yerin"
+          ],
+          "album": "love song",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730ff6834ec0e689a5c207c6d8",
+          "uri": "spotify:track:4YK6kyQr9E3KRdi08w3pQz",
+          "url": "https://open.spotify.com/track/4YK6kyQr9E3KRdi08w3pQz",
+          "duration_ms": 203658
+        },
+        {
+          "rank": 30,
           "name": "Si Me Voy (with The Marías)",
           "artists": [
             "Cuco",
@@ -383,7 +370,7 @@
           "duration_ms": 203219
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Ragea",
           "artists": [
             "Amr Diab"
@@ -395,7 +382,7 @@
           "duration_ms": 209186
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Oh Qué Será?",
           "artists": [
             "Willie Colón"
@@ -407,7 +394,7 @@
           "duration_ms": 304200
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "3la Bali",
           "artists": [
             "Sherine"
@@ -419,7 +406,7 @@
           "duration_ms": 279457
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "NO SOY EL MISMO",
           "artists": [
             "Joey V Mendez"
@@ -431,7 +418,7 @@
           "duration_ms": 195923
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "Can't Leave Alone (feat. Avenoir & Maz B)",
           "artists": [
             "Pino",
@@ -446,16 +433,29 @@
           "duration_ms": 213413
         },
         {
-          "rank": 37,
-          "name": "Bórrame La Memoria?",
+          "rank": 36,
+          "name": "A Match Into Water",
           "artists": [
-            "Manuel Lizarazo"
+            "Pierce The Veil"
           ],
-          "album": "Bórrame La Memoria?",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b0284a5a05783b247d533682",
-          "uri": "spotify:track:3eWMqprnuYv16tJ19EMGGR",
-          "url": "https://open.spotify.com/track/3eWMqprnuYv16tJ19EMGGR",
-          "duration_ms": 132755
+          "album": "Collide With The Sky",
+          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+          "uri": "spotify:track:54MXF9I8s3DuiQo3g0gZ5k",
+          "url": "https://open.spotify.com/track/54MXF9I8s3DuiQo3g0gZ5k",
+          "duration_ms": 212546
+        },
+        {
+          "rank": 37,
+          "name": "Hold On Till May",
+          "artists": [
+            "Pierce The Veil",
+            "Lindsey Stamey"
+          ],
+          "album": "Collide With The Sky",
+          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+          "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
+          "url": "https://open.spotify.com/track/5u2FOoFhp495GIj5BJC77J",
+          "duration_ms": 278586
         },
         {
           "rank": 38,
@@ -698,19 +698,19 @@
         },
         {
           "rank": 11,
-          "name": "Deftones",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
-          "genres": [],
-          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        },
-        {
-          "rank": 12,
           "name": "Luis Miguel",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6481401e529e475116702a29",
           "genres": [],
           "uri": "spotify:artist:2nszmSgqreHSdJA3zWPyrW",
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        },
+        {
+          "rank": 12,
+          "name": "Deftones",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
+          "genres": [],
+          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
           "rank": 13,
