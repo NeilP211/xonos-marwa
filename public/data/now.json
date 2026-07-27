@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-27T03:20:55.086Z",
+  "updated_at": "2026-07-27T09:54:54.169Z",
   "is_playing": false,
   "track": {
-    "name": "Props & Mayhem",
+    "name": "quelomamen",
     "artists": [
-      "Pierce The Veil"
+      "Danny Ocean"
     ],
-    "album": "Collide With The Sky",
-    "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-    "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO"
+    "album": "babylona blue",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
+    "uri": "spotify:track:2QPH4nsBCojHQSrM1AlKWn"
   },
-  "played_at": "2026-07-27T01:35:45.901Z"
+  "played_at": "2026-07-27T08:03:02.500Z"
 }
