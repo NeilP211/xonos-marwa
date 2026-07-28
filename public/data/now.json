@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-28T11:19:20.603Z",
-  "is_playing": false,
+  "updated_at": "2026-07-28T14:10:17.956Z",
+  "is_playing": true,
   "track": {
-    "name": "Everlong",
+    "name": "Bullet Proof Soul",
     "artists": [
-      "Foo Fighters"
+      "Sade"
     ],
-    "album": "The Colour And The Shape",
-    "image": "https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb",
-    "uri": "spotify:track:5UWwZ5lm5PKu6eKsHAGxOk"
+    "album": "Love Deluxe",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
+    "uri": "spotify:track:6unbYrzh7coxp0WFnleFyD"
   },
-  "played_at": "2026-07-28T06:57:45.340Z"
+  "played_at": "2026-07-28T14:10:17.957Z"
 }
