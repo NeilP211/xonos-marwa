@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T16:41:35.693Z",
+  "updated_at": "2026-07-28T19:26:46.501Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -10699,6 +10699,183 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27311b79ffa594c47f73e359995",
       "uri": "spotify:track:19asArk75Bo6beTJ5Ao3Em",
       "duration_ms": 233800
+    },
+    {
+      "played_at": "2026-07-28T16:43:51.146Z",
+      "name": "Hold On Till May",
+      "artists": [
+        "Pierce The Veil",
+        "Lindsey Stamey"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
+      "duration_ms": 278586
+    },
+    {
+      "played_at": "2026-07-28T16:50:31.057Z",
+      "name": "The Secret \"Between The Sheets\"",
+      "artists": [
+        "A Heartwell Ending"
+      ],
+      "album": "Trust Us We Lie",
+      "image": "https://i.scdn.co/image/ab67616d0000b27334cc2459402d906576e834c2",
+      "uri": "spotify:track:631ogYQnIh9HsEc4xCqlxe",
+      "duration_ms": 208966
+    },
+    {
+      "played_at": "2026-07-28T16:53:50.929Z",
+      "name": "The Balcony Scene",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "A Flair For The Dramatic",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d2d0137c32938ae8cb44e0ca",
+      "uri": "spotify:track:4CI0vy8nofOwD62JR7sjbV",
+      "duration_ms": 199413
+    },
+    {
+      "played_at": "2026-07-28T17:01:06.398Z",
+      "name": "Let's Cheers To This",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "Let's Cheers To This",
+      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+      "uri": "spotify:track:6vXunR3eU8P0hhMJkVbQOy",
+      "duration_ms": 220293
+    },
+    {
+      "played_at": "2026-07-28T17:07:18.127Z",
+      "name": "So Far So Fake",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3fWibgdtgIie6LKTZ2rUoI",
+      "duration_ms": 236160
+    },
+    {
+      "played_at": "2026-07-28T17:12:34.098Z",
+      "name": "Today I Saw The Whole World",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Misadventures",
+      "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+      "uri": "spotify:track:48vr34351V9Sz1QVxmbYNf",
+      "duration_ms": 221960
+    },
+    {
+      "played_at": "2026-07-28T17:20:14.907Z",
+      "name": "Props & Mayhem",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO",
+      "duration_ms": 217853
+    },
+    {
+      "played_at": "2026-07-28T17:25:19.743Z",
+      "name": "A Match Into Water",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:54MXF9I8s3DuiQo3g0gZ5k",
+      "duration_ms": 212546
+    },
+    {
+      "played_at": "2026-07-28T17:31:41.342Z",
+      "name": "Bulls In The Bronx",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:23UoI3jlFiWdo5jadUYo69",
+      "duration_ms": 267866
+    },
+    {
+      "played_at": "2026-07-28T17:39:33.105Z",
+      "name": "For All I Know",
+      "artists": [
+        "Bury Me With You"
+      ],
+      "album": "Caskets For Two",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c53d16a591c0282852df2a0",
+      "uri": "spotify:track:30oj4DBRqrypU1963sr0k4",
+      "duration_ms": 192147
+    },
+    {
+      "played_at": "2026-07-28T17:44:49.078Z",
+      "name": "Falling Asleep on a Stranger",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "A Flair For The Dramatic",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d2d0137c32938ae8cb44e0ca",
+      "uri": "spotify:track:04ZoUbYzLKu2HeTU61rufH",
+      "duration_ms": 223586
+    },
+    {
+      "played_at": "2026-07-28T17:51:53.329Z",
+      "name": "Is It Really You?",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "I Let It in and It Took Everything",
+      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+      "uri": "spotify:track:4OmlsAT8r4q9vPFBvfYgyZ",
+      "duration_ms": 287627
+    },
+    {
+      "played_at": "2026-07-28T17:53:35.925Z",
+      "name": "A Trophy Fathers Trophy Son",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "Let's Cheers To This",
+      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+      "uri": "spotify:track:4zDhFZz6XsyUGFNduYb2nR",
+      "duration_ms": 222853
+    },
+    {
+      "played_at": "2026-07-28T18:08:16.162Z",
+      "name": "Clush",
+      "artists": [
+        "Isles & Glaciers"
+      ],
+      "album": "The Hearts of Lonely People",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e347aa93ae66368940be31b9",
+      "uri": "spotify:track:33kVC1gAXPt7UAYR71xFWT",
+      "duration_ms": 250450
+    },
+    {
+      "played_at": "2026-07-28T18:41:16.067Z",
+      "name": "Shared Trauma",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
+      "duration_ms": 253000
+    },
+    {
+      "played_at": "2026-07-28T18:52:04.595Z",
+      "name": "Beauty School",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:5sUCU4eiyf0pplIJ7OGEoc",
+      "duration_ms": 287840
     }
   ]
 }

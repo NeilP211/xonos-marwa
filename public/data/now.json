@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-07-28T16:41:35.855Z",
-  "is_playing": true,
+  "updated_at": "2026-07-28T19:26:46.544Z",
+  "is_playing": false,
   "track": {
-    "name": "Hold On Till May",
+    "name": "Beauty School",
     "artists": [
-      "Pierce The Veil",
-      "Lindsey Stamey"
+      "Deftones"
     ],
-    "album": "Collide With The Sky",
-    "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-    "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J"
+    "album": "Diamond Eyes",
+    "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+    "uri": "spotify:track:5sUCU4eiyf0pplIJ7OGEoc"
   },
-  "played_at": "2026-07-28T16:41:35.855Z"
+  "played_at": "2026-07-28T18:52:04.595Z"
 }
