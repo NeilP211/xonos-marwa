@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-07-28T14:10:17.956Z",
+  "updated_at": "2026-07-28T16:41:35.855Z",
   "is_playing": true,
   "track": {
-    "name": "Bullet Proof Soul",
+    "name": "Hold On Till May",
     "artists": [
-      "Sade"
+      "Pierce The Veil",
+      "Lindsey Stamey"
     ],
-    "album": "Love Deluxe",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
-    "uri": "spotify:track:6unbYrzh7coxp0WFnleFyD"
+    "album": "Collide With The Sky",
+    "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+    "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J"
   },
-  "played_at": "2026-07-28T14:10:17.957Z"
+  "played_at": "2026-07-28T16:41:35.855Z"
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T14:10:17.863Z",
+  "updated_at": "2026-07-28T16:41:35.693Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -10415,6 +10415,290 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27398da02db8bb9253c3367e41a",
       "uri": "spotify:track:1DKYtHoBNbqjMLqvpw7o73",
       "duration_ms": 304413
+    },
+    {
+      "played_at": "2026-07-28T14:29:13.115Z",
+      "name": "I Will Be Your Friend",
+      "artists": [
+        "Sade"
+      ],
+      "album": "Diamond Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ad27e16c5f844ea1ad6797cd",
+      "uri": "spotify:track:29pqGFsm1NPsVHfSrjaDUJ",
+      "duration_ms": 283426
+    },
+    {
+      "played_at": "2026-07-28T14:37:20.066Z",
+      "name": "12 Fractures",
+      "artists": [
+        "Pierce The Veil",
+        "chloe moriondo"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+      "duration_ms": 181600
+    },
+    {
+      "played_at": "2026-07-28T14:43:17.191Z",
+      "name": "Tangled In The Great Escape",
+      "artists": [
+        "Pierce The Veil",
+        "Jason Butler"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:7bUFAdnKK8CxEWWyzdopo0",
+      "duration_ms": 356893
+    },
+    {
+      "played_at": "2026-07-28T14:47:24.504Z",
+      "name": "Need You Here",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "An Ending In Itself",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ffc097eec437725b51f276f3",
+      "uri": "spotify:track:1RNbDEqS1FvoEexQHjuD58",
+      "duration_ms": 246807
+    },
+    {
+      "played_at": "2026-07-28T15:07:11.085Z",
+      "name": "Deseándote",
+      "artists": [
+        "Frankie Ruiz"
+      ],
+      "album": "Frankie Ruiz La Leyenda",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
+      "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
+      "duration_ms": 281333
+    },
+    {
+      "played_at": "2026-07-28T15:10:54.197Z",
+      "name": "Ivonny Bonita",
+      "artists": [
+        "KAROL G"
+      ],
+      "album": "Tropicoqueta",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
+      "uri": "spotify:track:6Sv0CzVqzydd7NYQgAG70c",
+      "duration_ms": 222458
+    },
+    {
+      "played_at": "2026-07-28T15:12:36.753Z",
+      "name": "Amor Mio",
+      "artists": [
+        "Frank Sark"
+      ],
+      "album": "Latin Crooners",
+      "image": "https://i.scdn.co/image/ab67616d0000b27349bce3cd18deb6f0ef08e3ef",
+      "uri": "spotify:track:7DOqLMSxTh1s3WPTyqJ2pw",
+      "duration_ms": 102253
+    },
+    {
+      "played_at": "2026-07-28T15:17:32.336Z",
+      "name": "Aquel Nap ZzZz",
+      "artists": [
+        "Rauw Alejandro"
+      ],
+      "album": "VICE VERSA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f793c0c53727d8c5c950f809",
+      "uri": "spotify:track:5bQLsyTrUaMQRfr6whwGe5",
+      "duration_ms": 295038
+    },
+    {
+      "played_at": "2026-07-28T15:22:19.021Z",
+      "name": "Siesta Freestyle",
+      "artists": [
+        "Lewis OfMan",
+        "Alicia te quiero"
+      ],
+      "album": "Dancy Party",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730dfde54ca58fa9c1c5fa2d93",
+      "uri": "spotify:track:6ZHKeoIOkvmYUIfxHLtE2Z",
+      "duration_ms": 194160
+    },
+    {
+      "played_at": "2026-07-28T15:26:05.404Z",
+      "name": "Chica de Verde",
+      "artists": [
+        "Bruno Romano",
+        "Elisa González"
+      ],
+      "album": "Chica de Verde",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da9eccf72a3e9d55e41db1f4",
+      "uri": "spotify:track:6ZxsJwY5QgN6R0mRBYWrHf",
+      "duration_ms": 225694
+    },
+    {
+      "played_at": "2026-07-28T15:29:36.694Z",
+      "name": "Beso",
+      "artists": [
+        "Jósean Log"
+      ],
+      "album": "Háblate de Mí",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a8659bf75fee7dc8c01afc67",
+      "uri": "spotify:track:4PpuZIMmeng6qPicveSI22",
+      "duration_ms": 211021
+    },
+    {
+      "played_at": "2026-07-28T15:33:24.247Z",
+      "name": "Ojos Tristes (with The Marías)",
+      "artists": [
+        "Selena Gomez",
+        "benny blanco",
+        "The Marías"
+      ],
+      "album": "I Said I Love You First",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735c99217c0a33291dcd4e0242",
+      "uri": "spotify:track:1DFmBjoeQN9DpOVTEewyx0",
+      "duration_ms": 201920
+    },
+    {
+      "played_at": "2026-07-28T15:38:12.572Z",
+      "name": "Sobrio",
+      "artists": [
+        "Maluma"
+      ],
+      "album": "Don Juan",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733922dfdc676790220e0a7750",
+      "uri": "spotify:track:387Dc03iCK2iZ6PBHU1Vb5",
+      "duration_ms": 201180
+    },
+    {
+      "played_at": "2026-07-28T15:41:28.816Z",
+      "name": "Si Antes Te Hubiera Conocido",
+      "artists": [
+        "KAROL G"
+      ],
+      "album": "Si Antes Te Hubiera Conocido",
+      "image": "https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e",
+      "uri": "spotify:track:6WatFBLVB0x077xWeoVc2k",
+      "duration_ms": 195824
+    },
+    {
+      "played_at": "2026-07-28T15:45:12.053Z",
+      "name": "EL CLúB",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:0iKo4pNNjHHdKUcFARlfCa",
+      "duration_ms": 222568
+    },
+    {
+      "played_at": "2026-07-28T15:48:03.617Z",
+      "name": "A Veces Tu, A Veces Yo",
+      "artists": [
+        "Julio Iglesias"
+      ],
+      "album": "El Amor",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730c30c4a5ffff61a7f0ec065b",
+      "uri": "spotify:track:0EOhH2L1RVEvssIltBES3E",
+      "duration_ms": 171493
+    },
+    {
+      "played_at": "2026-07-28T15:52:07.796Z",
+      "name": "6 AM",
+      "artists": [
+        "J Balvin",
+        "Farruko"
+      ],
+      "album": "La Familia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb748e8ded0f408299326b94",
+      "uri": "spotify:track:7mPwkbaoiQ5bf8FPbRJzUr",
+      "duration_ms": 243226
+    },
+    {
+      "played_at": "2026-07-28T15:56:18.957Z",
+      "name": "Ginza",
+      "artists": [
+        "J Balvin"
+      ],
+      "album": "Energía",
+      "image": "https://i.scdn.co/image/ab67616d0000b273734b36a0655aae40d78d70f4",
+      "uri": "spotify:track:2C2TGgFzrTRIOdQS1vUN5h",
+      "duration_ms": 171093
+    },
+    {
+      "played_at": "2026-07-28T16:00:29.989Z",
+      "name": "Callaita",
+      "artists": [
+        "Bad Bunny",
+        "Tainy"
+      ],
+      "album": "Callaita",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734aef420e62863ebf622c27f5",
+      "uri": "spotify:track:2TH65lNHgvLxCKXM3apjxI",
+      "duration_ms": 250533
+    },
+    {
+      "played_at": "2026-07-28T16:12:28.399Z",
+      "name": "Kissing in Cars (Bonus Track)",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Selfish Machines (Reissue)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733c8674afa47336f571b13ebd",
+      "uri": "spotify:track:21n769QrJtrmN0pXuBkYOm",
+      "duration_ms": 257211
+    },
+    {
+      "played_at": "2026-07-28T16:12:28.446Z",
+      "name": "capaz (merengueton)",
+      "artists": [
+        "Alleh",
+        "Yorghaki"
+      ],
+      "album": "LA CIUDAD",
+      "image": "https://i.scdn.co/image/ab67616d0000b27353596a050e8369c51da11029",
+      "uri": "spotify:track:2dd3G3ZqEcG2cNS1tp3oEk",
+      "duration_ms": 173858
+    },
+    {
+      "played_at": "2026-07-28T16:23:45.082Z",
+      "name": "Dive In",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Misadventures",
+      "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+      "uri": "spotify:track:6LhGzSZlIGxZpyIXXZn9ZV",
+      "duration_ms": 292360
+    },
+    {
+      "played_at": "2026-07-28T16:28:22.493Z",
+      "name": "I Don't Care If You're Contagious",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Selfish Machines (Reissue)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733c8674afa47336f571b13ebd",
+      "uri": "spotify:track:69okqylQdHUe90a70Q2ued",
+      "duration_ms": 205315
+    },
+    {
+      "played_at": "2026-07-28T16:32:47.505Z",
+      "name": "If I'm James Dean, You're Audrey Hepburn",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "With Ears To See And Eyes To Hear",
+      "image": "https://i.scdn.co/image/ab67616d0000b273032fd22bde573d0746c87352",
+      "uri": "spotify:track:2D4LEUzvLRCQOLMxnajH72",
+      "duration_ms": 219106
+    },
+    {
+      "played_at": "2026-07-28T16:39:12.257Z",
+      "name": "She Makes Dirty Words Sound Pretty",
+      "artists": [
+        "Navarre"
+      ],
+      "album": "She Makes Dirty Words Sound Pretty",
+      "image": "https://i.scdn.co/image/ab67616d0000b27311b79ffa594c47f73e359995",
+      "uri": "spotify:track:19asArk75Bo6beTJ5Ao3Em",
+      "duration_ms": 233800
     }
   ]
 }
