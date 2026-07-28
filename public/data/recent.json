@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T05:47:41.594Z",
+  "updated_at": "2026-07-28T08:36:17.824Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -10371,6 +10371,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
       "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
       "duration_ms": 253000
+    },
+    {
+      "played_at": "2026-07-28T06:53:28.596Z",
+      "name": "i think about you all the time",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "private music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+      "uri": "spotify:track:0M5NH22uVXHSXjSi5SXTXM",
+      "duration_ms": 248957
+    },
+    {
+      "played_at": "2026-07-28T06:57:45.340Z",
+      "name": "Everlong",
+      "artists": [
+        "Foo Fighters"
+      ],
+      "album": "The Colour And The Shape",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb",
+      "uri": "spotify:track:5UWwZ5lm5PKu6eKsHAGxOk",
+      "duration_ms": 250546
     }
   ]
 }
