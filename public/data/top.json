@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T22:09:16.799Z",
+  "generated_at": "2026-07-28T02:39:30.243Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -956,6 +956,18 @@
         },
         {
           "rank": 2,
+          "name": "Kiss Me Now",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
+          "uri": "spotify:track:6yT9iNKt8fQoYpQkbWc7YR",
+          "url": "https://open.spotify.com/track/6yT9iNKt8fQoYpQkbWc7YR",
+          "duration_ms": 256268
+        },
+        {
+          "rank": 3,
           "name": "Red Swan",
           "artists": [
             "YOSHIKI",
@@ -966,18 +978,6 @@
           "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX",
           "url": "https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX",
           "duration_ms": 263720
-        },
-        {
-          "rank": 3,
-          "name": "Kiss Me Now",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
-          "uri": "spotify:track:6yT9iNKt8fQoYpQkbWc7YR",
-          "url": "https://open.spotify.com/track/6yT9iNKt8fQoYpQkbWc7YR",
-          "duration_ms": 256268
         },
         {
           "rank": 4,
@@ -993,6 +993,18 @@
         },
         {
           "rank": 5,
+          "name": "All My Heart",
+          "artists": [
+            "Sleeping With Sirens"
+          ],
+          "album": "Let's Cheers To This",
+          "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+          "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
+          "url": "https://open.spotify.com/track/5ANZkftsPAO0yhynm9jwlU",
+          "duration_ms": 279293
+        },
+        {
+          "rank": 6,
           "name": "Chica de Verde",
           "artists": [
             "Bruno Romano",
@@ -1005,7 +1017,7 @@
           "duration_ms": 225694
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Let Love Bleed Red",
           "artists": [
             "Sleeping With Sirens"
@@ -1017,7 +1029,7 @@
           "duration_ms": 222493
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Shinzo wo Sasageyo !",
           "artists": [
             "Linked Horizon"
@@ -1029,7 +1041,7 @@
           "duration_ms": 341413
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Soft Spot",
           "artists": [
             "keshi"
@@ -1039,18 +1051,6 @@
           "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
           "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7",
           "duration_ms": 204223
-        },
-        {
-          "rank": 9,
-          "name": "All My Heart",
-          "artists": [
-            "Sleeping With Sirens"
-          ],
-          "album": "Let's Cheers To This",
-          "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
-          "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
-          "url": "https://open.spotify.com/track/5ANZkftsPAO0yhynm9jwlU",
-          "duration_ms": 279293
         },
         {
           "rank": 10,
@@ -1153,6 +1153,18 @@
         },
         {
           "rank": 18,
+          "name": "Descifrar",
+          "artists": [
+            "maye"
+          ],
+          "album": "Descifrar",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
+          "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
+          "url": "https://open.spotify.com/track/431vrxogdCt65ZSWfUrP1G",
+          "duration_ms": 178700
+        },
+        {
+          "rank": 19,
           "name": "Forever",
           "artists": [
             "keshi"
@@ -1164,7 +1176,7 @@
           "duration_ms": 171415
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Nunca Más",
           "artists": [
             "La Isla Centeno"
@@ -1176,7 +1188,7 @@
           "duration_ms": 229214
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Hold On Till May",
           "artists": [
             "Pierce The Veil",
@@ -1189,7 +1201,7 @@
           "duration_ms": 278586
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Jiyuu no Tsubasa",
           "artists": [
             "Linked Horizon"
@@ -1201,7 +1213,7 @@
           "duration_ms": 331946
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "NUEVAYoL",
           "artists": [
             "Bad Bunny"
@@ -1213,7 +1225,7 @@
           "duration_ms": 183685
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Flor De Michoacán",
           "artists": [
             "Menny Flores"
@@ -1223,18 +1235,6 @@
           "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3",
           "url": "https://open.spotify.com/track/33vQCR90JDkXzcRvRVi0H3",
           "duration_ms": 193853
-        },
-        {
-          "rank": 24,
-          "name": "Descifrar",
-          "artists": [
-            "maye"
-          ],
-          "album": "Descifrar",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
-          "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
-          "url": "https://open.spotify.com/track/431vrxogdCt65ZSWfUrP1G",
-          "duration_ms": 178700
         },
         {
           "rank": 25,
@@ -1250,6 +1250,19 @@
         },
         {
           "rank": 26,
+          "name": "12 Fractures",
+          "artists": [
+            "Pierce The Veil",
+            "chloe moriondo"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+          "url": "https://open.spotify.com/track/2R5SzmhzoaCkjDJcSaGrN3",
+          "duration_ms": 181600
+        },
+        {
+          "rank": 27,
           "name": "흩어진나날들",
           "artists": [
             "강수지"
@@ -1261,7 +1274,7 @@
           "duration_ms": 262126
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "EoO",
           "artists": [
             "Bad Bunny"
@@ -1273,7 +1286,7 @@
           "duration_ms": 204768
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "DtMF",
           "artists": [
             "Bad Bunny"
@@ -1285,7 +1298,7 @@
           "duration_ms": 237117
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Boku no Sensou",
           "artists": [
             "Shinsei Kamattechan"
@@ -1297,7 +1310,7 @@
           "duration_ms": 280466
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "WHO DO U LUV",
           "artists": [
             "Avenoir"
@@ -1309,7 +1322,7 @@
           "duration_ms": 248760
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Como Es Que Se Hace",
           "artists": [
             "Yandel",
@@ -1322,7 +1335,7 @@
           "duration_ms": 205320
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Bauklotze",
           "artists": [
             "Sawano Hiroyuki"
@@ -1334,7 +1347,7 @@
           "duration_ms": 236253
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Reggaeton",
           "artists": [
             "J Balvin"
@@ -1346,7 +1359,7 @@
           "duration_ms": 158800
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "당돌한 여자",
           "artists": [
             "JIHYO",
@@ -1361,7 +1374,7 @@
           "duration_ms": 185533
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Deslocado",
           "artists": [
             "NAPA"
@@ -1373,7 +1386,7 @@
           "duration_ms": 179996
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Helena - 2025 Mix",
           "artists": [
             "My Chemical Romance"
@@ -1385,7 +1398,7 @@
           "duration_ms": 202181
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "M.",
           "artists": [
             "Anıl Emre Daldal"
@@ -1397,7 +1410,7 @@
           "duration_ms": 223750
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "If Looks Could Kill",
           "artists": [
             "A Heartwell Ending"
@@ -1409,7 +1422,7 @@
           "duration_ms": 205576
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Virgen",
           "artists": [
             "Adolescent's Orquesta"
@@ -1421,7 +1434,7 @@
           "duration_ms": 271751
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Body to Body",
           "artists": [
             "BTS"
@@ -1433,7 +1446,7 @@
           "duration_ms": 189725
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Reyimiller - A COLORS SHOW",
           "artists": [
             "Rawayana",
@@ -1446,7 +1459,7 @@
           "duration_ms": 201382
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "ULTIMA VEZ",
           "artists": [
             "Becky G"
@@ -1458,7 +1471,7 @@
           "duration_ms": 194706
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "New Perspective",
           "artists": [
             "Panic! At The Disco"
@@ -1470,7 +1483,7 @@
           "duration_ms": 226786
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "In Another Time",
           "artists": [
             "Sade"
@@ -1482,7 +1495,7 @@
           "duration_ms": 304413
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "VOY A LLeVARTE PA PR",
           "artists": [
             "Bad Bunny"
@@ -1494,7 +1507,7 @@
           "duration_ms": 156364
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "lo que hay x aquí",
           "artists": [
             "Rels B"
@@ -1506,7 +1519,7 @@
           "duration_ms": 155031
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "嘘",
           "artists": [
             "SID"
@@ -1518,7 +1531,7 @@
           "duration_ms": 205973
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Bendito",
           "artists": [
             "Rawayana"
@@ -1530,7 +1543,7 @@
           "duration_ms": 154586
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Touch You",
           "artists": [
             "遠野高志",
@@ -1548,18 +1561,6 @@
           "uri": "spotify:track:6qWEpnyU43Bcrx3vfbGuVm",
           "url": "https://open.spotify.com/track/6qWEpnyU43Bcrx3vfbGuVm",
           "duration_ms": 206180
-        },
-        {
-          "rank": 50,
-          "name": "Art of War",
-          "artists": [
-            "Avenoir"
-          ],
-          "album": "Mirage",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
-          "uri": "spotify:track:2RnB5R79oLcE8lCQbiaUZf",
-          "url": "https://open.spotify.com/track/2RnB5R79oLcE8lCQbiaUZf",
-          "duration_ms": 126973
         }
       ],
       "artists": [
