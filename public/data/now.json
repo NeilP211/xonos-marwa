@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-28T19:26:46.544Z",
+  "updated_at": "2026-07-28T22:05:16.263Z",
   "is_playing": false,
   "track": {
-    "name": "Beauty School",
+    "name": "The Ghost of You",
     "artists": [
-      "Deftones"
+      "My Chemical Romance"
     ],
-    "album": "Diamond Eyes",
-    "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
-    "uri": "spotify:track:5sUCU4eiyf0pplIJ7OGEoc"
+    "album": "Three Cheers for Sweet Revenge",
+    "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
+    "uri": "spotify:track:1yKAqZoi8xWGLCf5vajroL"
   },
-  "played_at": "2026-07-28T18:52:04.595Z"
+  "played_at": "2026-07-28T20:09:16.760Z"
 }
