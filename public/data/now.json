@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-29T16:22:51.264Z",
+  "updated_at": "2026-07-29T19:18:57.002Z",
   "is_playing": false,
   "track": {
-    "name": "Closet",
+    "name": "Risk",
     "artists": [
-      "Fleshwater"
+      "Deftones"
     ],
-    "album": "We're Not Here to Be Loved",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735e6a9cd045fa8da9ba2fe81a",
-    "uri": "spotify:track:4hAPiyiwGAlIKP53qfmDuN"
+    "album": "Diamond Eyes",
+    "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+    "uri": "spotify:track:0lqHgjNrXmtFroWDqwV1iQ"
   },
-  "played_at": "2026-07-28T23:49:54.729Z"
+  "played_at": "2026-07-29T17:55:29.633Z"
 }

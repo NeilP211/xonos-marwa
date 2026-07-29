@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T16:22:51.155Z",
+  "updated_at": "2026-07-29T19:18:56.910Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -10942,6 +10942,184 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735e6a9cd045fa8da9ba2fe81a",
       "uri": "spotify:track:4hAPiyiwGAlIKP53qfmDuN",
       "duration_ms": 122265
+    },
+    {
+      "played_at": "2026-07-29T16:42:51.745Z",
+      "name": "Death Of An Executioner",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
+      "duration_ms": 267800
+    },
+    {
+      "played_at": "2026-07-29T16:48:09.580Z",
+      "name": "Is It Really You?",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "I Let It in and It Took Everything",
+      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+      "uri": "spotify:track:4OmlsAT8r4q9vPFBvfYgyZ",
+      "duration_ms": 287627
+    },
+    {
+      "played_at": "2026-07-29T16:53:39.755Z",
+      "name": "The Jaws Of Life",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:4mfbHWZCIsDVMKk9HAqEgF",
+      "duration_ms": 222666
+    },
+    {
+      "played_at": "2026-07-29T16:58:42.452Z",
+      "name": "She Makes Dirty Words Sound Pretty",
+      "artists": [
+        "Navarre"
+      ],
+      "album": "She Makes Dirty Words Sound Pretty",
+      "image": "https://i.scdn.co/image/ab67616d0000b27311b79ffa594c47f73e359995",
+      "uri": "spotify:track:19asArk75Bo6beTJ5Ao3Em",
+      "duration_ms": 233800
+    },
+    {
+      "played_at": "2026-07-29T17:03:18.486Z",
+      "name": "A Love Like War (feat. Vic Fuentes)",
+      "artists": [
+        "All Time Low",
+        "Vic Fuentes"
+      ],
+      "album": "Don't Panic: It's Longer Now!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273754c9ec4b5330223baa55db1",
+      "uri": "spotify:track:0TPF6uW7fhMXJPoBERqTy5",
+      "duration_ms": 213740
+    },
+    {
+      "played_at": "2026-07-29T17:08:52.559Z",
+      "name": "My Own Summer (Shove It)",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Around the Fur",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
+      "uri": "spotify:track:1158ckiB5S4cpsdYHDB9IF",
+      "duration_ms": 214760
+    },
+    {
+      "played_at": "2026-07-29T17:14:02.536Z",
+      "name": "Guide light",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "If Not Winter",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8b32380575d518f0639a123",
+      "uri": "spotify:track:4zULX2Zfq7ucz8cHlg6AhQ",
+      "duration_ms": 228146
+    },
+    {
+      "played_at": "2026-07-29T17:17:04.025Z",
+      "name": "Are You The One",
+      "artists": [
+        "Basement"
+      ],
+      "album": "Be Here Now / Are You The One",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f8943dadca7e497d7e8f103f",
+      "uri": "spotify:track:6wxW10ewY9UlXw7IFsD6eu",
+      "duration_ms": 180906
+    },
+    {
+      "played_at": "2026-07-29T17:20:30.318Z",
+      "name": "Save the World",
+      "artists": [
+        "We Are Not Friends",
+        "Nextime"
+      ],
+      "album": "Save the World",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734c1682ea81e21202df79d220",
+      "uri": "spotify:track:6wF1rPeGa5a7kyWO80P0AP",
+      "duration_ms": 128955
+    },
+    {
+      "played_at": "2026-07-29T17:24:07.768Z",
+      "name": "Join Me In Death",
+      "artists": [
+        "HIM"
+      ],
+      "album": "Razorblade Romance (Deluxe Remastered Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c32432a6118559878b79123",
+      "uri": "spotify:track:089jl361OtZ6VpYvhgPiTS",
+      "duration_ms": 216744
+    },
+    {
+      "played_at": "2026-07-29T17:28:56.259Z",
+      "name": "Pandora",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "Pandora",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
+      "uri": "spotify:track:3SBhQh5X7tO8ejCMUdjSRu",
+      "duration_ms": 261293
+    },
+    {
+      "played_at": "2026-07-29T17:36:47.699Z",
+      "name": "Save me now",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "If Not Winter",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8b32380575d518f0639a123",
+      "uri": "spotify:track:59ledUSDBtJ0f4YEAf8Fxi",
+      "duration_ms": 182186
+    },
+    {
+      "played_at": "2026-07-29T17:39:40.021Z",
+      "name": "Swerve City",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Koi No Yokan",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
+      "uri": "spotify:track:2OUR8g12h5qsGDs1v5lqvp",
+      "duration_ms": 164986
+    },
+    {
+      "played_at": "2026-07-29T17:46:03.956Z",
+      "name": "Weird Fishes / Arpeggi",
+      "artists": [
+        "Radiohead"
+      ],
+      "album": "In Rainbows",
+      "image": "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9",
+      "uri": "spotify:track:4wajJ1o7jWIg62YqpkHC7S",
+      "duration_ms": 318186
+    },
+    {
+      "played_at": "2026-07-29T17:51:32.293Z",
+      "name": "Darkness",
+      "artists": [
+        "SWEET SPINE"
+      ],
+      "album": "Darkness",
+      "image": "https://i.scdn.co/image/ab67616d0000b273967164b7cd5dcd7efb7fc2de",
+      "uri": "spotify:track:4WvX69qstX6F3rOHfpTymz",
+      "duration_ms": 228923
+    },
+    {
+      "played_at": "2026-07-29T17:55:29.633Z",
+      "name": "Risk",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:0lqHgjNrXmtFroWDqwV1iQ",
+      "duration_ms": 218800
     }
   ]
 }

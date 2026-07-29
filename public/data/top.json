@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T16:22:50.980Z",
+  "generated_at": "2026-07-29T19:18:56.683Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -165,15 +165,15 @@
         },
         {
           "rank": 14,
-          "name": "quelomamen",
+          "name": "Death Of An Executioner",
           "artists": [
-            "Danny Ocean"
+            "Pierce The Veil"
           ],
-          "album": "babylona blue",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
-          "uri": "spotify:track:2QPH4nsBCojHQSrM1AlKWn",
-          "url": "https://open.spotify.com/track/2QPH4nsBCojHQSrM1AlKWn",
-          "duration_ms": 136331
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
+          "url": "https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp",
+          "duration_ms": 267800
         },
         {
           "rank": 15,
@@ -261,18 +261,6 @@
         },
         {
           "rank": 22,
-          "name": "Death Of An Executioner",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
-          "url": "https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp",
-          "duration_ms": 267800
-        },
-        {
-          "rank": 23,
           "name": "A Match Into Water",
           "artists": [
             "Pierce The Veil"
@@ -284,7 +272,7 @@
           "duration_ms": 212546
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "See You Around?",
           "artists": [
             "Mahfouz"
@@ -294,6 +282,18 @@
           "uri": "spotify:track:2bsx9BLCFXv9Kz3JJW4MhB",
           "url": "https://open.spotify.com/track/2bsx9BLCFXv9Kz3JJW4MhB",
           "duration_ms": 215040
+        },
+        {
+          "rank": 24,
+          "name": "quelomamen",
+          "artists": [
+            "Danny Ocean"
+          ],
+          "album": "babylona blue",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
+          "uri": "spotify:track:2QPH4nsBCojHQSrM1AlKWn",
+          "url": "https://open.spotify.com/track/2QPH4nsBCojHQSrM1AlKWn",
+          "duration_ms": 136331
         },
         {
           "rank": 25,
@@ -684,6 +684,14 @@
         },
         {
           "rank": 9,
+          "name": "Deftones",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
+          "genres": [],
+          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        },
+        {
+          "rank": 10,
           "name": "Amr Diab",
           "image": "https://i.scdn.co/image/ab6761610000e5eba3d2681e2de8161c7a9702f0",
           "genres": [],
@@ -691,20 +699,12 @@
           "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Paramore",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
           "genres": [],
           "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF",
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        },
-        {
-          "rank": 11,
-          "name": "Deftones",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
-          "genres": [],
-          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
           "rank": 12,
@@ -876,6 +876,14 @@
         },
         {
           "rank": 33,
+          "name": "Wisp",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
+          "genres": [],
+          "uri": "spotify:artist:3TJZG17pjOKXwx1ELKJPfm",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        },
+        {
+          "rank": 34,
           "name": "KAROL G",
           "image": "https://i.scdn.co/image/ab6761610000e5eb66041ce9eb4497057cbc3496",
           "genres": [],
@@ -883,7 +891,15 @@
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
         {
-          "rank": 34,
+          "rank": 35,
+          "name": "Radiohead",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb4104fbd80f1f795728abbd59",
+          "genres": [],
+          "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        },
+        {
+          "rank": 36,
           "name": "Adolescent's Orquesta",
           "image": "https://i.scdn.co/image/ab6761610000e5eb85cbe9f05b11e3ea3d20ff0b",
           "genres": [],
@@ -891,7 +907,7 @@
           "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
         },
         {
-          "rank": 35,
+          "rank": 37,
           "name": "La Isla Centeno",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf55def158ecb9a2b89f5e0bd",
           "genres": [],
@@ -899,12 +915,20 @@
           "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         },
         {
-          "rank": 36,
+          "rank": 38,
           "name": "Bruno Mars",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc7688aad1bf03986934d7e26",
           "genres": [],
           "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C",
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "rank": 39,
+          "name": "Isles & Glaciers",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e347aa93ae66368940be31b9",
+          "genres": [],
+          "uri": "spotify:artist:6dHr8Y0nPrnHiBOuJzuu8F",
+          "url": "https://open.spotify.com/artist/6dHr8Y0nPrnHiBOuJzuu8F"
         }
       ]
     },
