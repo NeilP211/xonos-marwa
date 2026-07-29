@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-28T22:05:16.263Z",
+  "updated_at": "2026-07-29T02:46:43.613Z",
   "is_playing": false,
   "track": {
-    "name": "The Ghost of You",
+    "name": "Resilience",
     "artists": [
-      "My Chemical Romance"
+      "Pierce The Veil"
     ],
-    "album": "Three Cheers for Sweet Revenge",
-    "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
-    "uri": "spotify:track:1yKAqZoi8xWGLCf5vajroL"
+    "album": "The Jaws Of Life",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+    "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8"
   },
-  "played_at": "2026-07-28T20:09:16.760Z"
+  "played_at": "2026-07-28T23:44:21.634Z"
 }

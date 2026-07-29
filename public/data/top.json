@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T22:05:15.954Z",
+  "generated_at": "2026-07-29T02:46:43.470Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -54,18 +54,6 @@
         },
         {
           "rank": 5,
-          "name": "Flor De Michoacán",
-          "artists": [
-            "Menny Flores"
-          ],
-          "album": "Flor De Michoacán",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
-          "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3",
-          "url": "https://open.spotify.com/track/33vQCR90JDkXzcRvRVi0H3",
-          "duration_ms": 193853
-        },
-        {
-          "rank": 6,
           "name": "Resilience",
           "artists": [
             "Pierce The Veil"
@@ -75,6 +63,18 @@
           "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
           "url": "https://open.spotify.com/track/08vqJRf0PuLF1YACmIG3o8",
           "duration_ms": 220360
+        },
+        {
+          "rank": 6,
+          "name": "Flor De Michoacán",
+          "artists": [
+            "Menny Flores"
+          ],
+          "album": "Flor De Michoacán",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
+          "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3",
+          "url": "https://open.spotify.com/track/33vQCR90JDkXzcRvRVi0H3",
+          "duration_ms": 193853
         },
         {
           "rank": 7,
@@ -1207,6 +1207,18 @@
         },
         {
           "rank": 25,
+          "name": "Shared Trauma",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
+          "url": "https://open.spotify.com/track/0ZHcRJMgSjQ3Gjf80ti943",
+          "duration_ms": 253000
+        },
+        {
+          "rank": 26,
           "name": "Flor De Michoacán",
           "artists": [
             "Menny Flores"
@@ -1218,7 +1230,7 @@
           "duration_ms": 193853
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Risk It All",
           "artists": [
             "Bruno Mars"
@@ -1230,7 +1242,7 @@
           "duration_ms": 204068
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "흩어진나날들",
           "artists": [
             "강수지"
@@ -1242,7 +1254,7 @@
           "duration_ms": 262126
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "In Another Time",
           "artists": [
             "Sade"
@@ -1254,7 +1266,7 @@
           "duration_ms": 304413
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "EoO",
           "artists": [
             "Bad Bunny"
@@ -1266,7 +1278,7 @@
           "duration_ms": 204768
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "DtMF",
           "artists": [
             "Bad Bunny"
@@ -1278,7 +1290,7 @@
           "duration_ms": 237117
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Boku no Sensou",
           "artists": [
             "Shinsei Kamattechan"
@@ -1290,7 +1302,7 @@
           "duration_ms": 280466
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "WHO DO U LUV",
           "artists": [
             "Avenoir"
@@ -1302,7 +1314,7 @@
           "duration_ms": 248760
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Como Es Que Se Hace",
           "artists": [
             "Yandel",
@@ -1313,18 +1325,6 @@
           "uri": "spotify:track:0ou3TddCNhvZeyGFbz7Y6E",
           "url": "https://open.spotify.com/track/0ou3TddCNhvZeyGFbz7Y6E",
           "duration_ms": 205320
-        },
-        {
-          "rank": 34,
-          "name": "Shared Trauma",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
-          "url": "https://open.spotify.com/track/0ZHcRJMgSjQ3Gjf80ti943",
-          "duration_ms": 253000
         },
         {
           "rank": 35,
@@ -1694,6 +1694,14 @@
         },
         {
           "rank": 22,
+          "name": "Sade",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
+          "genres": [],
+          "uri": "spotify:artist:47zz7sob9NUcODy0BTDvKx",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        },
+        {
+          "rank": 23,
           "name": "Kali Uchis",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdeac5367816c7ab1f607e89a",
           "genres": [],
@@ -1701,20 +1709,12 @@
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Luis Miguel",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6481401e529e475116702a29",
           "genres": [],
           "uri": "spotify:artist:2nszmSgqreHSdJA3zWPyrW",
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        },
-        {
-          "rank": 24,
-          "name": "Sade",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
-          "genres": [],
-          "uri": "spotify:artist:47zz7sob9NUcODy0BTDvKx",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         },
         {
           "rank": 25,
@@ -1782,19 +1782,19 @@
         },
         {
           "rank": 33,
-          "name": "LAGOS",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebdab7b33233d9c59f2c111c3c",
-          "genres": [],
-          "uri": "spotify:artist:7uQ1D2NNHs5cUL3CLKRbia",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "rank": 34,
           "name": "Paramore",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
           "genres": [],
           "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF",
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        },
+        {
+          "rank": 34,
+          "name": "LAGOS",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebdab7b33233d9c59f2c111c3c",
+          "genres": [],
+          "uri": "spotify:artist:7uQ1D2NNHs5cUL3CLKRbia",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
         },
         {
           "rank": 35,
