@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T05:53:48.685Z",
+  "generated_at": "2026-07-29T08:43:10.417Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1978,18 +1978,6 @@
         },
         {
           "rank": 5,
-          "name": "ANGEL",
-          "artists": [
-            "keshi"
-          ],
-          "album": "GABRIEL",
-          "image": "https://i.scdn.co/image/ab67616d0000b273410fc530a5e519802804ce4b",
-          "uri": "spotify:track:4rvtCNEkRORCZKMsaq9c59",
-          "url": "https://open.spotify.com/track/4rvtCNEkRORCZKMsaq9c59",
-          "duration_ms": 247282
-        },
-        {
-          "rank": 6,
           "name": "Resilience",
           "artists": [
             "Pierce The Veil"
@@ -1999,6 +1987,18 @@
           "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
           "url": "https://open.spotify.com/track/08vqJRf0PuLF1YACmIG3o8",
           "duration_ms": 220360
+        },
+        {
+          "rank": 6,
+          "name": "ANGEL",
+          "artists": [
+            "keshi"
+          ],
+          "album": "GABRIEL",
+          "image": "https://i.scdn.co/image/ab67616d0000b273410fc530a5e519802804ce4b",
+          "uri": "spotify:track:4rvtCNEkRORCZKMsaq9c59",
+          "url": "https://open.spotify.com/track/4rvtCNEkRORCZKMsaq9c59",
+          "duration_ms": 247282
         },
         {
           "rank": 7,
@@ -2148,6 +2148,18 @@
         },
         {
           "rank": 19,
+          "name": "Si Antes Te Hubiera Conocido",
+          "artists": [
+            "KAROL G"
+          ],
+          "album": "Si Antes Te Hubiera Conocido",
+          "image": "https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e",
+          "uri": "spotify:track:6WatFBLVB0x077xWeoVc2k",
+          "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k",
+          "duration_ms": 195824
+        },
+        {
+          "rank": 20,
           "name": "M.",
           "artists": [
             "Anıl Emre Daldal"
@@ -2159,7 +2171,7 @@
           "duration_ms": 223750
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Mesh Am Betrouhi Min Bali",
           "artists": [
             "Marwan Khoury"
@@ -2171,7 +2183,7 @@
           "duration_ms": 257541
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Ay Vamos",
           "artists": [
             "J Balvin"
@@ -2183,7 +2195,7 @@
           "duration_ms": 226413
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "月下（《白月梵星》影视剧插曲）",
           "artists": [
             "不才"
@@ -2193,18 +2205,6 @@
           "uri": "spotify:track:4HhZYPofHIQkBmlaLuTKRv",
           "url": "https://open.spotify.com/track/4HhZYPofHIQkBmlaLuTKRv",
           "duration_ms": 230640
-        },
-        {
-          "rank": 23,
-          "name": "Si Antes Te Hubiera Conocido",
-          "artists": [
-            "KAROL G"
-          ],
-          "album": "Si Antes Te Hubiera Conocido",
-          "image": "https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e",
-          "uri": "spotify:track:6WatFBLVB0x077xWeoVc2k",
-          "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k",
-          "duration_ms": 195824
         },
         {
           "rank": 24,
@@ -2505,6 +2505,20 @@
         },
         {
           "rank": 48,
+          "name": "Ojos Tristes (with The Marías)",
+          "artists": [
+            "Selena Gomez",
+            "benny blanco",
+            "The Marías"
+          ],
+          "album": "I Said I Love You First",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735c99217c0a33291dcd4e0242",
+          "uri": "spotify:track:1DFmBjoeQN9DpOVTEewyx0",
+          "url": "https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0",
+          "duration_ms": 201920
+        },
+        {
+          "rank": 49,
           "name": "Still Monster",
           "artists": [
             "ENHYPEN"
@@ -2516,7 +2530,7 @@
           "duration_ms": 186119
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Tamally Maak",
           "artists": [
             "Amr Diab"
@@ -2526,18 +2540,6 @@
           "uri": "spotify:track:6TYFcqqQVQPb3YsgfRhvqs",
           "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
           "duration_ms": 269232
-        },
-        {
-          "rank": 50,
-          "name": "Te Me Vas",
-          "artists": [
-            "Prince Royce"
-          ],
-          "album": "Phase II",
-          "image": "https://i.scdn.co/image/ab67616d0000b2737f187201bff22a11f0d6053b",
-          "uri": "spotify:track:18MbEK3bfXlTBQZSr74afQ",
-          "url": "https://open.spotify.com/track/18MbEK3bfXlTBQZSr74afQ",
-          "duration_ms": 198973
         }
       ],
       "artists": [
@@ -2639,19 +2641,19 @@
         },
         {
           "rank": 13,
-          "name": "Rauw Alejandro",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6d72db3fd29576caa9cb821f",
-          "genres": [],
-          "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "rank": 14,
           "name": "Pierce The Veil",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6f8f8d13be17bf486219edc7",
           "genres": [],
           "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
           "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        },
+        {
+          "rank": 14,
+          "name": "Rauw Alejandro",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6d72db3fd29576caa9cb821f",
+          "genres": [],
+          "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
           "rank": 15,
@@ -2663,19 +2665,19 @@
         },
         {
           "rank": 16,
-          "name": "ENHYPEN",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb590b808769f5826ce94d1dd4",
-          "genres": [],
-          "uri": "spotify:artist:5t5FqBwTcgKTaWmfEbwQY9",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        },
-        {
-          "rank": 17,
           "name": "KAROL G",
           "image": "https://i.scdn.co/image/ab6761610000e5eb66041ce9eb4497057cbc3496",
           "genres": [],
           "uri": "spotify:artist:790FomKkXshlbRYZFtlgla",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "rank": 17,
+          "name": "ENHYPEN",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb590b808769f5826ce94d1dd4",
+          "genres": [],
+          "uri": "spotify:artist:5t5FqBwTcgKTaWmfEbwQY9",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         },
         {
           "rank": 18,
@@ -2695,14 +2697,6 @@
         },
         {
           "rank": 20,
-          "name": "Adolescent's Orquesta",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb85cbe9f05b11e3ea3d20ff0b",
-          "genres": [],
-          "uri": "spotify:artist:70nxnxEqDQIEWneRjg2Q4O",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        },
-        {
-          "rank": 21,
           "name": "J Balvin",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0405b03342c2e56751b9923d",
           "genres": [],
@@ -2710,12 +2704,20 @@
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Maluma",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1b0d196ca84f4a0d076b4570",
           "genres": [],
           "uri": "spotify:artist:1r4hJ1h58CWwUQe3MxPuau",
           "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "rank": 22,
+          "name": "Adolescent's Orquesta",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb85cbe9f05b11e3ea3d20ff0b",
+          "genres": [],
+          "uri": "spotify:artist:70nxnxEqDQIEWneRjg2Q4O",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
         },
         {
           "rank": 23,
@@ -2839,6 +2841,14 @@
         },
         {
           "rank": 38,
+          "name": "Sade",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
+          "genres": [],
+          "uri": "spotify:artist:47zz7sob9NUcODy0BTDvKx",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        },
+        {
+          "rank": 39,
           "name": "TOMORROW X TOGETHER",
           "image": "https://i.scdn.co/image/ab6761610000e5eb54fc4bff90d96d3ef0179e62",
           "genres": [],
@@ -2846,7 +2856,7 @@
           "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "邹沛沛",
           "image": "https://i.scdn.co/image/ab67616d0000b2735e10693b2c3d38dd7ad4299a",
           "genres": [],
@@ -2854,7 +2864,7 @@
           "url": "https://open.spotify.com/artist/4ST2uUeBAbGgmskBWYRB8S"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Sabrina Carpenter",
           "image": "https://i.scdn.co/image/ab6761610000e5eb78e45cfa4697ce3c437cb455",
           "genres": [],
@@ -2862,7 +2872,7 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Enrique Iglesias",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4fa1405802a42c665b0f2dd1",
           "genres": [],
@@ -2870,7 +2880,7 @@
           "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Luis Miguel",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6481401e529e475116702a29",
           "genres": [],
@@ -2878,7 +2888,7 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Eydie Gormé",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1c0da336a4cea059e7da771d",
           "genres": [],
@@ -2886,7 +2896,7 @@
           "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Billie Eilish",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da",
           "genres": [],
@@ -2894,7 +2904,7 @@
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Pino",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf2d9d7a12ece34e15d164e64",
           "genres": [],
@@ -2902,7 +2912,7 @@
           "url": "https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Rels B",
           "image": "https://i.scdn.co/image/ab6761610000e5eb15cc5d75a093b40a9be0ff5c",
           "genres": [],
@@ -2910,7 +2920,7 @@
           "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -2918,7 +2928,7 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Milena",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf7a24a6e14e58a3106344603",
           "genres": [],
@@ -2926,20 +2936,12 @@
           "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Avenoir",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb4931e767936dbd7d806089c",
           "genres": [],
           "uri": "spotify:artist:3Z7onAknzpinUu3KtmgeZb",
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        },
-        {
-          "rank": 50,
-          "name": "Evdeki Saat",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb0c445a93b34624df2007ac07",
-          "genres": [],
-          "uri": "spotify:artist:0w92tV1EQp7sxly7UjGR4P",
-          "url": "https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P"
         }
       ]
     }
