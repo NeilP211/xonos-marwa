@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T19:18:56.910Z",
+  "updated_at": "2026-07-29T22:02:26.200Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -11120,6 +11120,64 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
       "uri": "spotify:track:0lqHgjNrXmtFroWDqwV1iQ",
       "duration_ms": 218800
+    },
+    {
+      "played_at": "2026-07-29T17:57:36.390Z",
+      "name": "In-Between",
+      "artists": [
+        "Title Fight"
+      ],
+      "album": "Floral Green",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b269b6186be2a9904080a2f",
+      "uri": "spotify:track:6PzZiqF13ODniN3s7It7Cd",
+      "duration_ms": 173613
+    },
+    {
+      "played_at": "2026-07-29T21:50:10.331Z",
+      "name": "I Caught Myself",
+      "artists": [
+        "Paramore"
+      ],
+      "album": "I Caught Myself",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eff73e0f01f187ab1ce996f8",
+      "uri": "spotify:track:0NDKrxRuw0H3tZxbpYIhze",
+      "duration_ms": 235440
+    },
+    {
+      "played_at": "2026-07-29T21:54:19.985Z",
+      "name": "Quiero Que Seas Tú",
+      "artists": [
+        "Dulce y Agraz"
+      ],
+      "album": "Quiero Que Seas Tú",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731ae4a2c740e976a48f7446a2",
+      "uri": "spotify:track:4Hprnz2ZVdIFqCX6JdcfJQ",
+      "duration_ms": 178005
+    },
+    {
+      "played_at": "2026-07-29T21:57:45.625Z",
+      "name": "DÁKITI",
+      "artists": [
+        "Bad Bunny",
+        "JHAYCO"
+      ],
+      "album": "EL ÚLTIMO TOUR DEL MUNDO",
+      "image": "https://i.scdn.co/image/ab67616d0000b273005ee342f4eef2cc6e8436ab",
+      "uri": "spotify:track:4MzXwWMhyBbmu6hOcLVD49",
+      "duration_ms": 205090
+    },
+    {
+      "played_at": "2026-07-29T22:00:13.465Z",
+      "name": "Luna",
+      "artists": [
+        "Manuel Lizarazo",
+        "Yubeili",
+        "Alka Produce"
+      ],
+      "album": "Luna",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c628c80f3cbbdb2c3fe3d11d",
+      "uri": "spotify:track:4u57kMMLnX72nhvQimaE5x",
+      "duration_ms": 147404
     }
   ]
 }

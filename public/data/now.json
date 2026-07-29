@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-29T19:18:57.002Z",
-  "is_playing": false,
+  "updated_at": "2026-07-29T22:02:26.307Z",
+  "is_playing": true,
   "track": {
-    "name": "Risk",
+    "name": "Flores",
     "artists": [
-      "Deftones"
+      "LATIN MAFIA"
     ],
-    "album": "Diamond Eyes",
-    "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
-    "uri": "spotify:track:0lqHgjNrXmtFroWDqwV1iQ"
+    "album": "Flores",
+    "image": "https://i.scdn.co/image/ab67616d0000b27383b56220919a4023ab399c6e",
+    "uri": "spotify:track:1dyA1Re4QEQQWGDDT7h9TK"
   },
-  "played_at": "2026-07-29T17:55:29.633Z"
+  "played_at": "2026-07-29T22:02:26.307Z"
 }
