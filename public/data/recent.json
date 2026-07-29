@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T14:12:59.709Z",
+  "updated_at": "2026-07-29T16:22:51.155Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -10931,6 +10931,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
       "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
       "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-07-28T23:49:54.729Z",
+      "name": "Closet",
+      "artists": [
+        "Fleshwater"
+      ],
+      "album": "We're Not Here to Be Loved",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e6a9cd045fa8da9ba2fe81a",
+      "uri": "spotify:track:4hAPiyiwGAlIKP53qfmDuN",
+      "duration_ms": 122265
     }
   ]
 }
