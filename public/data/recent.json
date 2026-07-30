@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T14:05:57.520Z",
+  "updated_at": "2026-07-30T16:27:46.694Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -11366,6 +11366,97 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273281edc3096b0e610bffe1768",
       "uri": "spotify:track:5QsTUq4tWI0QiVAMNoKDFs",
       "duration_ms": 151967
+    },
+    {
+      "played_at": "2026-07-30T11:31:08.786Z",
+      "name": "Me Gustas Tu",
+      "artists": [
+        "Manu Chao"
+      ],
+      "album": "Me Gustas Tu EP",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731623624130303dd336ce8514",
+      "uri": "spotify:track:3A1BJKGMsa8JqO8M8zztyq",
+      "duration_ms": 239986
+    },
+    {
+      "played_at": "2026-07-30T16:06:36.577Z",
+      "name": "samaná",
+      "artists": [
+        "Mau y Ricky",
+        "Danny Ocean",
+        "Yorghaki"
+      ],
+      "album": "samaná",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a606a762d5a93bec654ee9fe",
+      "uri": "spotify:track:3JkqRmM1gWmIZajzcz6lhW",
+      "duration_ms": 160575
+    },
+    {
+      "played_at": "2026-07-30T16:09:14.812Z",
+      "name": "Querámonos lento",
+      "artists": [
+        "Manuel Lizarazo"
+      ],
+      "album": "Querámonos lento",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f5e04cbfc94eff236b5fd46",
+      "uri": "spotify:track:2GZvRXUFYY1EMJTP4nnVhW",
+      "duration_ms": 139852
+    },
+    {
+      "played_at": "2026-07-30T16:12:15.607Z",
+      "name": "capaz (merengueton)",
+      "artists": [
+        "Alleh",
+        "Yorghaki"
+      ],
+      "album": "LA CIUDAD",
+      "image": "https://i.scdn.co/image/ab67616d0000b27353596a050e8369c51da11029",
+      "uri": "spotify:track:2dd3G3ZqEcG2cNS1tp3oEk",
+      "duration_ms": 173858
+    },
+    {
+      "played_at": "2026-07-30T16:15:03.395Z",
+      "name": "Picachu",
+      "artists": [
+        "ELENA ROSE"
+      ],
+      "album": "Picachu",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a2e2556255a86ef7d1ce85b3",
+      "uri": "spotify:track:47okf9FXUNLHknAwoMI1L4",
+      "duration_ms": 167290
+    },
+    {
+      "played_at": "2026-07-30T16:18:15.464Z",
+      "name": "Tu Perfume",
+      "artists": [
+        "KAROL G"
+      ],
+      "album": "Tropicoqueta",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
+      "uri": "spotify:track:4iWjsRa7DnFiqiihxnyFoI",
+      "duration_ms": 183615
+    },
+    {
+      "played_at": "2026-07-30T16:21:58.371Z",
+      "name": "Ivonny Bonita",
+      "artists": [
+        "KAROL G"
+      ],
+      "album": "Tropicoqueta",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
+      "uri": "spotify:track:6Sv0CzVqzydd7NYQgAG70c",
+      "duration_ms": 222458
+    },
+    {
+      "played_at": "2026-07-30T16:27:16.701Z",
+      "name": "Mujeriego",
+      "artists": [
+        "José José"
+      ],
+      "album": "Mujeriego",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731e494d81e6bb204be5253282",
+      "uri": "spotify:track:2djCa914hXJtSJPxN3ziCX",
+      "duration_ms": 228493
     }
   ]
 }

@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-07-30T14:05:57.615Z",
-  "is_playing": false,
+  "updated_at": "2026-07-30T16:27:46.828Z",
+  "is_playing": true,
   "track": {
-    "name": "CANAIMA",
+    "name": "Horas Lindas",
     "artists": [
-      "Big Soto",
-      "Danny Ocean"
+      "Adolescent's Orquesta"
     ],
-    "album": "CANAIMA",
-    "image": "https://i.scdn.co/image/ab67616d0000b273281edc3096b0e610bffe1768",
-    "uri": "spotify:track:5QsTUq4tWI0QiVAMNoKDFs"
+    "album": "Persona Ideal",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f421d294e9eb94e809defe72",
+    "uri": "spotify:track:2nvtRCFSEyhH5omASgHSOH"
   },
-  "played_at": "2026-07-30T11:29:03.125Z"
+  "played_at": "2026-07-30T16:27:46.828Z"
 }

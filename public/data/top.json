@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T14:05:57.372Z",
+  "generated_at": "2026-07-30T16:27:46.546Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2004,18 +2004,6 @@
         },
         {
           "rank": 4,
-          "name": "fantasmas",
-          "artists": [
-            "HUMBE"
-          ],
-          "album": "fantasmas",
-          "image": "https://i.scdn.co/image/ab67616d0000b273492f5309ef0e7dd60e09f3d8",
-          "uri": "spotify:track:5rcnAHBclBs0OGV4rATEnR",
-          "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR",
-          "duration_ms": 287248
-        },
-        {
-          "rank": 5,
           "name": "Resilience",
           "artists": [
             "Pierce The Veil"
@@ -2027,7 +2015,7 @@
           "duration_ms": 220360
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "ANGEL",
           "artists": [
             "keshi"
@@ -2039,7 +2027,7 @@
           "duration_ms": 247282
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "الليلادي",
           "artists": [
             "Amr Diab"
@@ -2051,7 +2039,7 @@
           "duration_ms": 176640
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "hero",
           "artists": [
             "starfall"
@@ -2061,6 +2049,18 @@
           "uri": "spotify:track:4mhn601d6PE1dR3QCON9bF",
           "url": "https://open.spotify.com/track/4mhn601d6PE1dR3QCON9bF",
           "duration_ms": 184142
+        },
+        {
+          "rank": 8,
+          "name": "fantasmas",
+          "artists": [
+            "HUMBE"
+          ],
+          "album": "fantasmas",
+          "image": "https://i.scdn.co/image/ab67616d0000b273492f5309ef0e7dd60e09f3d8",
+          "uri": "spotify:track:5rcnAHBclBs0OGV4rATEnR",
+          "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR",
+          "duration_ms": 287248
         },
         {
           "rank": 9,
@@ -2101,18 +2101,6 @@
         },
         {
           "rank": 12,
-          "name": "All Mine",
-          "artists": [
-            "PLAZA"
-          ],
-          "album": "All Mine",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739508c0f8fe9667910168362a",
-          "uri": "spotify:track:7GoXK3wa1Bxt9gVUJvv7Cy",
-          "url": "https://open.spotify.com/track/7GoXK3wa1Bxt9gVUJvv7Cy",
-          "duration_ms": 234871
-        },
-        {
-          "rank": 13,
           "name": "Moonstruck",
           "artists": [
             "ENHYPEN"
@@ -2122,6 +2110,18 @@
           "uri": "spotify:track:3gYWGRS64XrGSrjD3vvtga",
           "url": "https://open.spotify.com/track/3gYWGRS64XrGSrjD3vvtga",
           "duration_ms": 158660
+        },
+        {
+          "rank": 13,
+          "name": "All Mine",
+          "artists": [
+            "PLAZA"
+          ],
+          "album": "All Mine",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739508c0f8fe9667910168362a",
+          "uri": "spotify:track:7GoXK3wa1Bxt9gVUJvv7Cy",
+          "url": "https://open.spotify.com/track/7GoXK3wa1Bxt9gVUJvv7Cy",
+          "duration_ms": 234871
         },
         {
           "rank": 14,
@@ -2137,18 +2137,6 @@
         },
         {
           "rank": 15,
-          "name": "LIMBO",
-          "artists": [
-            "keshi"
-          ],
-          "album": "GABRIEL",
-          "image": "https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb",
-          "uri": "spotify:track:2bdVgAQgosGUJoViVDNeOV",
-          "url": "https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV",
-          "duration_ms": 212784
-        },
-        {
-          "rank": 16,
           "name": "Julieta",
           "artists": [
             "LATIN MAFIA"
@@ -2158,6 +2146,18 @@
           "uri": "spotify:track:4emEXP671dnpn1thHrogSe",
           "url": "https://open.spotify.com/track/4emEXP671dnpn1thHrogSe",
           "duration_ms": 210413
+        },
+        {
+          "rank": 16,
+          "name": "Yally Zaalan",
+          "artists": [
+            "Mohamed Hamaki"
+          ],
+          "album": "Omroh Ma Yeghib",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733bbba5c0407a0522f97e07dd",
+          "uri": "spotify:track:1gJfRu9I7hadI70g3YEyt8",
+          "url": "https://open.spotify.com/track/1gJfRu9I7hadI70g3YEyt8",
+          "duration_ms": 292440
         },
         {
           "rank": 17,
@@ -2174,15 +2174,15 @@
         },
         {
           "rank": 18,
-          "name": "Yally Zaalan",
+          "name": "Ay Vamos",
           "artists": [
-            "Mohamed Hamaki"
+            "J Balvin"
           ],
-          "album": "Omroh Ma Yeghib",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733bbba5c0407a0522f97e07dd",
-          "uri": "spotify:track:1gJfRu9I7hadI70g3YEyt8",
-          "url": "https://open.spotify.com/track/1gJfRu9I7hadI70g3YEyt8",
-          "duration_ms": 292440
+          "album": "La Familia B Sides",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734277da4c011dcc87f012bbab",
+          "uri": "spotify:track:6Ges5C2IE738iJh4HyQizQ",
+          "url": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ",
+          "duration_ms": 226413
         },
         {
           "rank": 19,
@@ -2222,15 +2222,15 @@
         },
         {
           "rank": 22,
-          "name": "Ay Vamos",
+          "name": "LIMBO",
           "artists": [
-            "J Balvin"
+            "keshi"
           ],
-          "album": "La Familia B Sides",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734277da4c011dcc87f012bbab",
-          "uri": "spotify:track:6Ges5C2IE738iJh4HyQizQ",
-          "url": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ",
-          "duration_ms": 226413
+          "album": "GABRIEL",
+          "image": "https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb",
+          "uri": "spotify:track:2bdVgAQgosGUJoViVDNeOV",
+          "url": "https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV",
+          "duration_ms": 212784
         },
         {
           "rank": 23,
@@ -2393,18 +2393,6 @@
         },
         {
           "rank": 36,
-          "name": "Call Me By Your Name",
-          "artists": [
-            "Sophie Castillo"
-          ],
-          "album": "Call Me By Your Name",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f11c4c3163a7d2df8f600431",
-          "uri": "spotify:track:6FWxFrGQ9YboLvC8vvrT07",
-          "url": "https://open.spotify.com/track/6FWxFrGQ9YboLvC8vvrT07",
-          "duration_ms": 168021
-        },
-        {
-          "rank": 37,
           "name": "VeLDÁ",
           "artists": [
             "Bad Bunny",
@@ -2418,7 +2406,7 @@
           "duration_ms": 235336
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Virgen",
           "artists": [
             "Adolescent's Orquesta"
@@ -2430,7 +2418,7 @@
           "duration_ms": 273763
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "Dujem",
           "artists": [
             "Butrint Imeri"
@@ -2442,7 +2430,7 @@
           "duration_ms": 157441
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "New Woman (feat. ROSALÍA)",
           "artists": [
             "LISA",
@@ -2455,7 +2443,7 @@
           "duration_ms": 179789
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "اخدني معك",
           "artists": [
             "Fadel Chaker"
@@ -2467,7 +2455,7 @@
           "duration_ms": 313939
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Mirada",
           "artists": [
             "Ivan Cornejo"
@@ -2479,7 +2467,7 @@
           "duration_ms": 167522
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "Dream",
           "artists": [
             "keshi"
@@ -2491,7 +2479,7 @@
           "duration_ms": 210070
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "Like That",
           "artists": [
             "keshi"
@@ -2503,7 +2491,7 @@
           "duration_ms": 180106
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "Sweet Dreams (feat. Miguel)",
           "artists": [
             "j-hope",
@@ -2516,21 +2504,7 @@
           "duration_ms": 172952
         },
         {
-          "rank": 46,
-          "name": "Bittersweet (feat. LeeHi)",
-          "artists": [
-            "WONWOO",
-            "MINGYU",
-            "LEEHI"
-          ],
-          "album": "Bittersweet (feat. LeeHi)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734a40f1624faabce03d3eabbb",
-          "uri": "spotify:track:347PJwH4XqRbeaKaIW9sX3",
-          "url": "https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3",
-          "duration_ms": 174773
-        },
-        {
-          "rank": 47,
+          "rank": 45,
           "name": "Staying",
           "artists": [
             "Lizzy McAlpine"
@@ -2542,7 +2516,7 @@
           "duration_ms": 151647
         },
         {
-          "rank": 48,
+          "rank": 46,
           "name": "Ojos Tristes (with The Marías)",
           "artists": [
             "Selena Gomez",
@@ -2556,7 +2530,7 @@
           "duration_ms": 201920
         },
         {
-          "rank": 49,
+          "rank": 47,
           "name": "Still Monster",
           "artists": [
             "ENHYPEN"
@@ -2568,16 +2542,42 @@
           "duration_ms": 186119
         },
         {
-          "rank": 50,
-          "name": "Tamally Maak",
+          "rank": 48,
+          "name": "Bittersweet (feat. LeeHi)",
           "artists": [
-            "Amr Diab"
+            "WONWOO",
+            "MINGYU",
+            "LEEHI"
           ],
-          "album": "Tamally Maak",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-          "uri": "spotify:track:6TYFcqqQVQPb3YsgfRhvqs",
-          "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
-          "duration_ms": 269232
+          "album": "Bittersweet (feat. LeeHi)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734a40f1624faabce03d3eabbb",
+          "uri": "spotify:track:347PJwH4XqRbeaKaIW9sX3",
+          "url": "https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3",
+          "duration_ms": 174773
+        },
+        {
+          "rank": 49,
+          "name": "Te Me Vas",
+          "artists": [
+            "Prince Royce"
+          ],
+          "album": "Phase II",
+          "image": "https://i.scdn.co/image/ab67616d0000b2737f187201bff22a11f0d6053b",
+          "uri": "spotify:track:18MbEK3bfXlTBQZSr74afQ",
+          "url": "https://open.spotify.com/track/18MbEK3bfXlTBQZSr74afQ",
+          "duration_ms": 198973
+        },
+        {
+          "rank": 50,
+          "name": "Reggaeton",
+          "artists": [
+            "J Balvin"
+          ],
+          "album": "Reggaeton",
+          "image": "https://i.scdn.co/image/ab67616d0000b27304d849b0b580859bdb70e644",
+          "uri": "spotify:track:2D3z17LBMJ2HEHeBFFjTLi",
+          "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi",
+          "duration_ms": 158800
         }
       ],
       "artists": [
