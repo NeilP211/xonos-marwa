@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-30T16:27:46.828Z",
-  "is_playing": true,
+  "updated_at": "2026-07-30T19:27:45.371Z",
+  "is_playing": false,
   "track": {
-    "name": "Horas Lindas",
+    "name": "Mi Atención",
     "artists": [
-      "Adolescent's Orquesta"
+      "Martox"
     ],
-    "album": "Persona Ideal",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f421d294e9eb94e809defe72",
-    "uri": "spotify:track:2nvtRCFSEyhH5omASgHSOH"
+    "album": "Caracol",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f4d8a9f412f95ce5757f7cf5",
+    "uri": "spotify:track:0KXKWw0nTmIvCKkFcYVhes"
   },
-  "played_at": "2026-07-30T16:27:46.828Z"
+  "played_at": "2026-07-30T19:14:28.051Z"
 }
