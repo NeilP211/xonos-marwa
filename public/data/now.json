@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-07-30T11:09:00.273Z",
+  "updated_at": "2026-07-30T14:05:57.615Z",
   "is_playing": false,
   "track": {
-    "name": "Volare",
+    "name": "CANAIMA",
     "artists": [
+      "Big Soto",
       "Danny Ocean"
     ],
-    "album": "@dannocean",
-    "image": "https://i.scdn.co/image/ab67616d0000b273219973bcf027114a95e7996b",
-    "uri": "spotify:track:7nE9H4e4uPOis5sJY39fOc"
+    "album": "CANAIMA",
+    "image": "https://i.scdn.co/image/ab67616d0000b273281edc3096b0e610bffe1768",
+    "uri": "spotify:track:5QsTUq4tWI0QiVAMNoKDFs"
   },
-  "played_at": "2026-07-29T22:48:21.941Z"
+  "played_at": "2026-07-30T11:29:03.125Z"
 }

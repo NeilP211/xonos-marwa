@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T11:09:00.199Z",
+  "updated_at": "2026-07-30T14:05:57.520Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -11300,6 +11300,72 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273219973bcf027114a95e7996b",
       "uri": "spotify:track:7nE9H4e4uPOis5sJY39fOc",
       "duration_ms": 147598
+    },
+    {
+      "played_at": "2026-07-30T06:20:03.331Z",
+      "name": "La Paso Cabrón (feat. Gigolo y La Exce, Falsetto y Sammy, Mike Duran & Baby Angel)",
+      "artists": [
+        "Trap Capos",
+        "Noriel",
+        "Gigolo Y La Exce",
+        "Sammy & Falsetto",
+        "Mike Duran",
+        "Baby Angel"
+      ],
+      "album": "Trap Capos: Season 1",
+      "image": "https://i.scdn.co/image/ab67616d0000b27377ecc981b6490db46a2aecae",
+      "uri": "spotify:track:2rnvFmtBu8L32HcFXgBf9F",
+      "duration_ms": 303640
+    },
+    {
+      "played_at": "2026-07-30T11:15:13.777Z",
+      "name": "La Paso Cabrón (feat. Gigolo y La Exce, Falsetto y Sammy, Mike Duran & Baby Angel)",
+      "artists": [
+        "Trap Capos",
+        "Noriel",
+        "Gigolo Y La Exce",
+        "Sammy & Falsetto",
+        "Mike Duran",
+        "Baby Angel"
+      ],
+      "album": "Trap Capos: Season 1",
+      "image": "https://i.scdn.co/image/ab67616d0000b27377ecc981b6490db46a2aecae",
+      "uri": "spotify:track:2rnvFmtBu8L32HcFXgBf9F",
+      "duration_ms": 303640
+    },
+    {
+      "played_at": "2026-07-30T11:17:38.144Z",
+      "name": "Mis Días A Tu Suerte",
+      "artists": [
+        "Rels B"
+      ],
+      "album": "afroLOVA 25'",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730e409fad9527196e73e423ba",
+      "uri": "spotify:track:0XRJc66Gcvq8F98KE1TXD8",
+      "duration_ms": 143750
+    },
+    {
+      "played_at": "2026-07-30T11:26:30.713Z",
+      "name": "Dulcito e Coco",
+      "artists": [
+        "Vicente Garcia"
+      ],
+      "album": "A la Mar",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d736613f902425dbf608194d",
+      "uri": "spotify:track:7Li9u5C7CNLvqOqhrhZEML",
+      "duration_ms": 189066
+    },
+    {
+      "played_at": "2026-07-30T11:29:03.125Z",
+      "name": "CANAIMA",
+      "artists": [
+        "Big Soto",
+        "Danny Ocean"
+      ],
+      "album": "CANAIMA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273281edc3096b0e610bffe1768",
+      "uri": "spotify:track:5QsTUq4tWI0QiVAMNoKDFs",
+      "duration_ms": 151967
     }
   ]
 }

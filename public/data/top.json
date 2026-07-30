@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T11:09:00.132Z",
+  "generated_at": "2026-07-30T14:05:57.372Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -346,6 +346,23 @@
         },
         {
           "rank": 29,
+          "name": "La Paso Cabrón (feat. Gigolo y La Exce, Falsetto y Sammy, Mike Duran & Baby Angel)",
+          "artists": [
+            "Trap Capos",
+            "Noriel",
+            "Gigolo Y La Exce",
+            "Sammy & Falsetto",
+            "Mike Duran",
+            "Baby Angel"
+          ],
+          "album": "Trap Capos: Season 1",
+          "image": "https://i.scdn.co/image/ab67616d0000b27377ecc981b6490db46a2aecae",
+          "uri": "spotify:track:2rnvFmtBu8L32HcFXgBf9F",
+          "url": "https://open.spotify.com/track/2rnvFmtBu8L32HcFXgBf9F",
+          "duration_ms": 303640
+        },
+        {
+          "rank": 30,
           "name": "Flawless Execution",
           "artists": [
             "Pierce The Veil"
@@ -357,7 +374,7 @@
           "duration_ms": 240053
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "love song",
           "artists": [
             "Lee Yerin"
@@ -369,7 +386,7 @@
           "duration_ms": 203658
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Borro Cassette",
           "artists": [
             "Maluma"
@@ -381,7 +398,7 @@
           "duration_ms": 207296
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Chica de Verde",
           "artists": [
             "Bruno Romano",
@@ -394,7 +411,7 @@
           "duration_ms": 225694
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "ULTIMA VEZ",
           "artists": [
             "Becky G"
@@ -406,7 +423,7 @@
           "duration_ms": 194706
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Pressure",
           "artists": [
             "Paramore"
@@ -418,7 +435,7 @@
           "duration_ms": 185733
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Hold On Till May",
           "artists": [
             "Pierce The Veil",
@@ -431,7 +448,7 @@
           "duration_ms": 278586
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "COQUETA",
           "artists": [
             "Fuerza Regida",
@@ -444,7 +461,20 @@
           "duration_ms": 241648
         },
         {
-          "rank": 37,
+          "rank": 38,
+          "name": "CANAIMA",
+          "artists": [
+            "Big Soto",
+            "Danny Ocean"
+          ],
+          "album": "NOSTALGIA CITY",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e427ca2cdd9702fe60ec4ddd",
+          "uri": "spotify:track:1PqEsoekuO7LmxQC0ybQ3z",
+          "url": "https://open.spotify.com/track/1PqEsoekuO7LmxQC0ybQ3z",
+          "duration_ms": 151967
+        },
+        {
+          "rank": 39,
           "name": "NO SOY EL MISMO",
           "artists": [
             "Joey V Mendez"
@@ -456,7 +486,7 @@
           "duration_ms": 195923
         },
         {
-          "rank": 38,
+          "rank": 40,
           "name": "Bulls In The Bronx",
           "artists": [
             "Pierce The Veil"
@@ -468,7 +498,7 @@
           "duration_ms": 267866
         },
         {
-          "rank": 39,
+          "rank": 41,
           "name": "Deslocado",
           "artists": [
             "NAPA"
@@ -480,7 +510,7 @@
           "duration_ms": 179996
         },
         {
-          "rank": 40,
+          "rank": 42,
           "name": "Can't Leave Alone (feat. Avenoir & Maz B)",
           "artists": [
             "Pino",
@@ -495,7 +525,7 @@
           "duration_ms": 213413
         },
         {
-          "rank": 41,
+          "rank": 43,
           "name": "EoO",
           "artists": [
             "Bad Bunny"
@@ -507,7 +537,7 @@
           "duration_ms": 204768
         },
         {
-          "rank": 42,
+          "rank": 44,
           "name": "Paraíso",
           "artists": [
             "La Cassandra",
@@ -520,7 +550,7 @@
           "duration_ms": 170226
         },
         {
-          "rank": 43,
+          "rank": 45,
           "name": "A Lonely Night",
           "artists": [
             "The Weeknd"
@@ -532,7 +562,7 @@
           "duration_ms": 220173
         },
         {
-          "rank": 44,
+          "rank": 46,
           "name": "Damn The Man, Save The Empire",
           "artists": [
             "Pierce The Veil"
@@ -544,7 +574,7 @@
           "duration_ms": 237000
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "Deseándote",
           "artists": [
             "Frankie Ruiz"
@@ -556,7 +586,7 @@
           "duration_ms": 281333
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "Red Swan",
           "artists": [
             "YOSHIKI",
@@ -569,7 +599,7 @@
           "duration_ms": 263720
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "All That Matters - Single Version",
           "artists": [
             "Justin Bieber"
@@ -581,7 +611,7 @@
           "duration_ms": 191160
         },
         {
-          "rank": 48,
+          "rank": 50,
           "name": "A Veces Tu, A Veces Yo",
           "artists": [
             "Julio Iglesias"
@@ -591,30 +621,6 @@
           "uri": "spotify:track:0EOhH2L1RVEvssIltBES3E",
           "url": "https://open.spotify.com/track/0EOhH2L1RVEvssIltBES3E",
           "duration_ms": 171493
-        },
-        {
-          "rank": 49,
-          "name": "Sure Thing",
-          "artists": [
-            "Miguel"
-          ],
-          "album": "All I Want Is You",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c",
-          "uri": "spotify:track:0JXXNGljqupsJaZsgSbMZV",
-          "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV",
-          "duration_ms": 195373
-        },
-        {
-          "rank": 50,
-          "name": "Usted",
-          "artists": [
-            "Luis Miguel"
-          ],
-          "album": "Romance",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bda5c1e56bf06c3c7fc173f7",
-          "uri": "spotify:track:0MHSnVk2CrGP8hIkxpxwMJ",
-          "url": "https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ",
-          "duration_ms": 223200
         }
       ],
       "artists": [
