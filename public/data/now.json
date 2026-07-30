@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-30T19:27:45.371Z",
+  "updated_at": "2026-07-30T22:07:52.532Z",
   "is_playing": false,
   "track": {
-    "name": "Mi Atención",
+    "name": "Even When I’m Not With You",
     "artists": [
-      "Martox"
+      "Pierce The Veil"
     ],
-    "album": "Caracol",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f4d8a9f412f95ce5757f7cf5",
-    "uri": "spotify:track:0KXKWw0nTmIvCKkFcYVhes"
+    "album": "The Jaws Of Life",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+    "uri": "spotify:track:6yJmxPGazR55GAQdyHPf6q"
   },
-  "played_at": "2026-07-30T19:14:28.051Z"
+  "played_at": "2026-07-30T22:06:27.226Z"
 }

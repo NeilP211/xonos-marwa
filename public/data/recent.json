@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T19:27:45.328Z",
+  "updated_at": "2026-07-30T22:07:52.353Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -11662,6 +11662,62 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f4d8a9f412f95ce5757f7cf5",
       "uri": "spotify:track:0KXKWw0nTmIvCKkFcYVhes",
       "duration_ms": 212179
+    },
+    {
+      "played_at": "2026-07-30T21:51:46.679Z",
+      "name": "Emergency Contact",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:4amltxLIfFmtYEvZbdgDqO",
+      "duration_ms": 240000
+    },
+    {
+      "played_at": "2026-07-30T21:55:44.451Z",
+      "name": "Damn The Man, Save The Empire",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:57ISsI9qQcAUkhiqwEMhxG",
+      "duration_ms": 237000
+    },
+    {
+      "played_at": "2026-07-30T21:58:46.339Z",
+      "name": "12 Fractures",
+      "artists": [
+        "Pierce The Veil",
+        "chloe moriondo"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+      "duration_ms": 181600
+    },
+    {
+      "played_at": "2026-07-30T22:03:32.702Z",
+      "name": "One Hundred Sleepless Nights",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:5TNX6rJ91T8PdEt94X50Y9",
+      "duration_ms": 221840
+    },
+    {
+      "played_at": "2026-07-30T22:06:27.226Z",
+      "name": "Even When I’m Not With You",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:6yJmxPGazR55GAQdyHPf6q",
+      "duration_ms": 174146
     }
   ]
 }
