@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-29T22:02:26.307Z",
-  "is_playing": true,
+  "updated_at": "2026-07-30T02:31:26.580Z",
+  "is_playing": false,
   "track": {
-    "name": "Flores",
+    "name": "Volare",
     "artists": [
-      "LATIN MAFIA"
+      "Danny Ocean"
     ],
-    "album": "Flores",
-    "image": "https://i.scdn.co/image/ab67616d0000b27383b56220919a4023ab399c6e",
-    "uri": "spotify:track:1dyA1Re4QEQQWGDDT7h9TK"
+    "album": "@dannocean",
+    "image": "https://i.scdn.co/image/ab67616d0000b273219973bcf027114a95e7996b",
+    "uri": "spotify:track:7nE9H4e4uPOis5sJY39fOc"
   },
-  "played_at": "2026-07-29T22:02:26.307Z"
+  "played_at": "2026-07-29T22:48:21.941Z"
 }
