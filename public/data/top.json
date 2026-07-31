@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T14:11:03.596Z",
+  "generated_at": "2026-07-31T16:46:45.968Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2646,11 +2646,11 @@
         },
         {
           "rank": 7,
-          "name": "LE SSERAFIM",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd4037f03c5f92e7e6ea89b9e",
+          "name": "Pierce The Veil",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6f8f8d13be17bf486219edc7",
           "genres": [],
-          "uri": "spotify:artist:4SpbR6yFEvexJuaBpgAU5p",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         },
         {
           "rank": 8,
@@ -2662,6 +2662,14 @@
         },
         {
           "rank": 9,
+          "name": "LE SSERAFIM",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd4037f03c5f92e7e6ea89b9e",
+          "genres": [],
+          "uri": "spotify:artist:4SpbR6yFEvexJuaBpgAU5p",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "rank": 10,
           "name": "Darviin",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1ceaf70db97291849b8a9ffa",
           "genres": [],
@@ -2669,7 +2677,7 @@
           "url": "https://open.spotify.com/artist/6dL0CCjAn3nxhZpGVmcO4E"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "The Marías",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
           "genres": [],
@@ -2677,7 +2685,7 @@
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Sherine",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1fa228ebdfdbd596bfa1bd77",
           "genres": [],
@@ -2685,20 +2693,12 @@
           "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Cigarettes After Sex",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
           "genres": [],
           "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        },
-        {
-          "rank": 13,
-          "name": "Pierce The Veil",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6f8f8d13be17bf486219edc7",
-          "genres": [],
-          "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         },
         {
           "rank": 14,
@@ -2710,19 +2710,19 @@
         },
         {
           "rank": 15,
-          "name": "Danny Ocean",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6d11079e9ea4fd57b5df6c97",
-          "genres": [],
-          "uri": "spotify:artist:5H1nN1SzW0qNeUEZvuXjAj",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "rank": 16,
           "name": "KAROL G",
           "image": "https://i.scdn.co/image/ab6761610000e5eb66041ce9eb4497057cbc3496",
           "genres": [],
           "uri": "spotify:artist:790FomKkXshlbRYZFtlgla",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "rank": 16,
+          "name": "Danny Ocean",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6d11079e9ea4fd57b5df6c97",
+          "genres": [],
+          "uri": "spotify:artist:5H1nN1SzW0qNeUEZvuXjAj",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         },
         {
           "rank": 17,
@@ -2878,19 +2878,19 @@
         },
         {
           "rank": 36,
-          "name": "NewJeans",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8dae71b664393f38ba91f891",
-          "genres": [],
-          "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        },
-        {
-          "rank": 37,
           "name": "Zhou Shen",
           "image": "https://i.scdn.co/image/ab6761610000e5eb555f21234ccc27d609c6f000",
           "genres": [],
           "uri": "spotify:artist:0BezPR1Hn38i8qShQKunSD",
           "url": "https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD"
+        },
+        {
+          "rank": 37,
+          "name": "NewJeans",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8dae71b664393f38ba91f891",
+          "genres": [],
+          "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         },
         {
           "rank": 38,
@@ -2902,38 +2902,6 @@
         },
         {
           "rank": 39,
-          "name": "TOMORROW X TOGETHER",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb54fc4bff90d96d3ef0179e62",
-          "genres": [],
-          "uri": "spotify:artist:0ghlgldX5Dd6720Q3qFyQB",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        },
-        {
-          "rank": 40,
-          "name": "邹沛沛",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735e10693b2c3d38dd7ad4299a",
-          "genres": [],
-          "uri": "spotify:artist:4ST2uUeBAbGgmskBWYRB8S",
-          "url": "https://open.spotify.com/artist/4ST2uUeBAbGgmskBWYRB8S"
-        },
-        {
-          "rank": 41,
-          "name": "Sabrina Carpenter",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb78e45cfa4697ce3c437cb455",
-          "genres": [],
-          "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        },
-        {
-          "rank": 42,
-          "name": "Enrique Iglesias",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb4fa1405802a42c665b0f2dd1",
-          "genres": [],
-          "uri": "spotify:artist:7qG3b048QCHVRO5Pv1T5lw",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "rank": 43,
           "name": "Luis Miguel",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6481401e529e475116702a29",
           "genres": [],
@@ -2941,7 +2909,47 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         },
         {
+          "rank": 40,
+          "name": "TOMORROW X TOGETHER",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb54fc4bff90d96d3ef0179e62",
+          "genres": [],
+          "uri": "spotify:artist:0ghlgldX5Dd6720Q3qFyQB",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "rank": 41,
+          "name": "邹沛沛",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735e10693b2c3d38dd7ad4299a",
+          "genres": [],
+          "uri": "spotify:artist:4ST2uUeBAbGgmskBWYRB8S",
+          "url": "https://open.spotify.com/artist/4ST2uUeBAbGgmskBWYRB8S"
+        },
+        {
+          "rank": 42,
+          "name": "Sabrina Carpenter",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb78e45cfa4697ce3c437cb455",
+          "genres": [],
+          "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        },
+        {
+          "rank": 43,
+          "name": "Rels B",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb15cc5d75a093b40a9be0ff5c",
+          "genres": [],
+          "uri": "spotify:artist:2IMZYfNi21MGqxopj9fWx8",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
           "rank": 44,
+          "name": "Enrique Iglesias",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb4fa1405802a42c665b0f2dd1",
+          "genres": [],
+          "uri": "spotify:artist:7qG3b048QCHVRO5Pv1T5lw",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "rank": 45,
           "name": "Eydie Gormé",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1c0da336a4cea059e7da771d",
           "genres": [],
@@ -2949,7 +2957,7 @@
           "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Billie Eilish",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da",
           "genres": [],
@@ -2957,20 +2965,12 @@
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Pino",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf2d9d7a12ece34e15d164e64",
           "genres": [],
           "uri": "spotify:artist:58DUKFTIbamsxqTHfoofpu",
           "url": "https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu"
-        },
-        {
-          "rank": 47,
-          "name": "Rels B",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb15cc5d75a093b40a9be0ff5c",
-          "genres": [],
-          "uri": "spotify:artist:2IMZYfNi21MGqxopj9fWx8",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         },
         {
           "rank": 48,
