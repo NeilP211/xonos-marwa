@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T22:07:52.026Z",
+  "generated_at": "2026-07-31T02:56:33.544Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -17,18 +17,6 @@
         },
         {
           "rank": 2,
-          "name": "Shared Trauma",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
-          "url": "https://open.spotify.com/track/0ZHcRJMgSjQ3Gjf80ti943",
-          "duration_ms": 253000
-        },
-        {
-          "rank": 3,
           "name": "12 Fractures",
           "artists": [
             "Pierce The Veil",
@@ -39,6 +27,18 @@
           "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
           "url": "https://open.spotify.com/track/2R5SzmhzoaCkjDJcSaGrN3",
           "duration_ms": 181600
+        },
+        {
+          "rank": 3,
+          "name": "Shared Trauma",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
+          "url": "https://open.spotify.com/track/0ZHcRJMgSjQ3Gjf80ti943",
+          "duration_ms": 253000
         },
         {
           "rank": 4,
@@ -153,6 +153,18 @@
         },
         {
           "rank": 13,
+          "name": "Emergency Contact",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:4amltxLIfFmtYEvZbdgDqO",
+          "url": "https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO",
+          "duration_ms": 240000
+        },
+        {
+          "rank": 14,
           "name": "El Replay",
           "artists": [
             "Joey V Mendez"
@@ -164,7 +176,7 @@
           "duration_ms": 170400
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Death Of An Executioner",
           "artists": [
             "Pierce The Veil"
@@ -174,18 +186,6 @@
           "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
           "url": "https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp",
           "duration_ms": 267800
-        },
-        {
-          "rank": 15,
-          "name": "Emergency Contact",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:4amltxLIfFmtYEvZbdgDqO",
-          "url": "https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO",
-          "duration_ms": 240000
         },
         {
           "rank": 16,
@@ -310,6 +310,18 @@
         },
         {
           "rank": 26,
+          "name": "Damn The Man, Save The Empire",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:57ISsI9qQcAUkhiqwEMhxG",
+          "url": "https://open.spotify.com/track/57ISsI9qQcAUkhiqwEMhxG",
+          "duration_ms": 237000
+        },
+        {
+          "rank": 27,
           "name": "quelomamen",
           "artists": [
             "Danny Ocean"
@@ -321,7 +333,7 @@
           "duration_ms": 136331
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Favour",
           "artists": [
             "Avenoir"
@@ -333,7 +345,7 @@
           "duration_ms": 156000
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Como Es Que Se Hace",
           "artists": [
             "Yandel",
@@ -346,7 +358,7 @@
           "duration_ms": 205320
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Cariño",
           "artists": [
             "The Marías"
@@ -358,7 +370,7 @@
           "duration_ms": 258713
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Props & Mayhem",
           "artists": [
             "Pierce The Veil"
@@ -370,7 +382,7 @@
           "duration_ms": 217853
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "La Paso Cabrón (feat. Gigolo y La Exce, Falsetto y Sammy, Mike Duran & Baby Angel)",
           "artists": [
             "Trap Capos",
@@ -387,7 +399,7 @@
           "duration_ms": 303640
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Flawless Execution",
           "artists": [
             "Pierce The Veil"
@@ -399,7 +411,7 @@
           "duration_ms": 240053
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "So Far So Fake",
           "artists": [
             "Pierce The Veil"
@@ -411,7 +423,7 @@
           "duration_ms": 236160
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "love song",
           "artists": [
             "Lee Yerin"
@@ -423,7 +435,7 @@
           "duration_ms": 203658
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Borro Cassette",
           "artists": [
             "Maluma"
@@ -435,7 +447,7 @@
           "duration_ms": 207296
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Chica de Verde",
           "artists": [
             "Bruno Romano",
@@ -448,7 +460,7 @@
           "duration_ms": 225694
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "ULTIMA VEZ",
           "artists": [
             "Becky G"
@@ -460,7 +472,7 @@
           "duration_ms": 194706
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Pressure",
           "artists": [
             "Paramore"
@@ -472,7 +484,7 @@
           "duration_ms": 185733
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "La Gloria Eres Tu",
           "artists": [
             "Luis Miguel"
@@ -484,7 +496,7 @@
           "duration_ms": 202760
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Hold On Till May",
           "artists": [
             "Pierce The Veil",
@@ -497,7 +509,7 @@
           "duration_ms": 278586
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "COQUETA",
           "artists": [
             "Fuerza Regida",
@@ -510,7 +522,7 @@
           "duration_ms": 241648
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "CANAIMA",
           "artists": [
             "Big Soto",
@@ -523,7 +535,7 @@
           "duration_ms": 151967
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "NO SOY EL MISMO",
           "artists": [
             "Joey V Mendez"
@@ -535,7 +547,7 @@
           "duration_ms": 195923
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Bulls In The Bronx",
           "artists": [
             "Pierce The Veil"
@@ -547,7 +559,7 @@
           "duration_ms": 267866
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Deslocado",
           "artists": [
             "NAPA"
@@ -559,7 +571,7 @@
           "duration_ms": 179996
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Can't Leave Alone (feat. Avenoir & Maz B)",
           "artists": [
             "Pino",
@@ -574,7 +586,7 @@
           "duration_ms": 213413
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "EoO",
           "artists": [
             "Bad Bunny"
@@ -586,7 +598,7 @@
           "duration_ms": 204768
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "A Lonely Night",
           "artists": [
             "The Weeknd"
@@ -596,18 +608,6 @@
           "uri": "spotify:track:4UknpXoLjlB7Mao4UWcJ2o",
           "url": "https://open.spotify.com/track/4UknpXoLjlB7Mao4UWcJ2o",
           "duration_ms": 220173
-        },
-        {
-          "rank": 49,
-          "name": "Damn The Man, Save The Empire",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:57ISsI9qQcAUkhiqwEMhxG",
-          "url": "https://open.spotify.com/track/57ISsI9qQcAUkhiqwEMhxG",
-          "duration_ms": 237000
         },
         {
           "rank": 50,
