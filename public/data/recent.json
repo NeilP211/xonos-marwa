@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T13:24:26.567Z",
+  "updated_at": "2026-08-02T16:01:48.854Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -11718,6 +11718,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
       "uri": "spotify:track:6yJmxPGazR55GAQdyHPf6q",
       "duration_ms": 174146
+    },
+    {
+      "played_at": "2026-08-02T15:14:09.590Z",
+      "name": "Entrance",
+      "artists": [
+        "Loathe",
+        "bucki sugar"
+      ],
+      "album": "A Stranger To You",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+      "uri": "spotify:track:3fbxw3kKc1DXur3hxgTdXA",
+      "duration_ms": 121306
     }
   ]
 }
