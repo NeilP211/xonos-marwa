@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T12:26:15.491Z",
+  "generated_at": "2026-08-03T17:09:24.769Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -698,7 +698,7 @@
         {
           "rank": 10,
           "name": "Amr Diab",
-          "image": "https://i.scdn.co/image/ab6761610000e5eba3d2681e2de8161c7a9702f0",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb71f255e69340c2e86a282e8a",
           "genres": [],
           "uri": "spotify:artist:5abSRg0xN1NV3gLbuvX24M",
           "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
@@ -1812,7 +1812,7 @@
         {
           "rank": 30,
           "name": "Amr Diab",
-          "image": "https://i.scdn.co/image/ab6761610000e5eba3d2681e2de8161c7a9702f0",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb71f255e69340c2e86a282e8a",
           "genres": [],
           "uri": "spotify:artist:5abSRg0xN1NV3gLbuvX24M",
           "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
@@ -2623,7 +2623,7 @@
         {
           "rank": 4,
           "name": "Amr Diab",
-          "image": "https://i.scdn.co/image/ab6761610000e5eba3d2681e2de8161c7a9702f0",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb71f255e69340c2e86a282e8a",
           "genres": [],
           "uri": "spotify:artist:5abSRg0xN1NV3gLbuvX24M",
           "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
@@ -2870,19 +2870,19 @@
         },
         {
           "rank": 35,
-          "name": "Rocco",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebfafe10116210a495dae342fa",
-          "genres": [],
-          "uri": "spotify:artist:30gZlVVUt3gwNXlLorZjuq",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
-        },
-        {
-          "rank": 36,
           "name": "Zhou Shen",
           "image": "https://i.scdn.co/image/ab6761610000e5eb555f21234ccc27d609c6f000",
           "genres": [],
           "uri": "spotify:artist:0BezPR1Hn38i8qShQKunSD",
           "url": "https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD"
+        },
+        {
+          "rank": 36,
+          "name": "Rocco",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebfafe10116210a495dae342fa",
+          "genres": [],
+          "uri": "spotify:artist:30gZlVVUt3gwNXlLorZjuq",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
         },
         {
           "rank": 37,
