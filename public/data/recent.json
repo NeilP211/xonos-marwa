@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T02:56:28.179Z",
+  "updated_at": "2026-08-03T06:28:47.211Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -11775,6 +11775,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
       "uri": "spotify:track:3ovTVdjeOH27MKv1Gd6jPH",
       "duration_ms": 346053
+    },
+    {
+      "played_at": "2026-08-03T04:56:01.089Z",
+      "name": "Flxr",
+      "artists": [
+        "OsamaSon"
+      ],
+      "album": "Flex Musix (FLXTRA)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736f3676f3d941404a69fe5caf",
+      "uri": "spotify:track:1zCXBi4exzsUGCq73vG10v",
+      "duration_ms": 105144
     }
   ]
 }

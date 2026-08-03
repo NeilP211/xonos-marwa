@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-08-03T02:56:28.295Z",
+  "updated_at": "2026-08-03T06:28:47.243Z",
   "is_playing": false,
   "track": {
-    "name": "Block Of Flats",
+    "name": "Flxr",
     "artists": [
-      "Loathe",
-      "Static Dress"
+      "OsamaSon"
     ],
-    "album": "A Stranger To You",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
-    "uri": "spotify:track:3ovTVdjeOH27MKv1Gd6jPH"
+    "album": "Flex Musix (FLXTRA)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736f3676f3d941404a69fe5caf",
+    "uri": "spotify:track:1zCXBi4exzsUGCq73vG10v"
   },
-  "played_at": "2026-08-03T01:59:22.057Z"
+  "played_at": "2026-08-03T04:56:01.089Z"
 }
