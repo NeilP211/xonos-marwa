@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-04T14:18:13.149Z",
+  "updated_at": "2026-08-04T16:52:22.905Z",
   "is_playing": false,
   "track": {
-    "name": "Flxr",
+    "name": "Risk It All",
     "artists": [
-      "OsamaSon"
+      "Bruno Mars"
     ],
-    "album": "Flex Musix (FLXTRA)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2736f3676f3d941404a69fe5caf",
-    "uri": "spotify:track:1zCXBi4exzsUGCq73vG10v"
+    "album": "The Romantic",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395",
+    "uri": "spotify:track:5y2ijHECwFYWqcAHKTZgzD"
   },
-  "played_at": "2026-08-03T04:56:01.089Z"
+  "played_at": "2026-08-04T16:52:22.905Z"
 }

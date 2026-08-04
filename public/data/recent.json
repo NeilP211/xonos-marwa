@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T14:18:13.115Z",
+  "updated_at": "2026-08-04T16:52:22.656Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -11786,6 +11786,84 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2736f3676f3d941404a69fe5caf",
       "uri": "spotify:track:1zCXBi4exzsUGCq73vG10v",
       "duration_ms": 105144
+    },
+    {
+      "played_at": "2026-08-04T16:07:28.222Z",
+      "name": "12 Fractures",
+      "artists": [
+        "Pierce The Veil",
+        "chloe moriondo"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+      "duration_ms": 181600
+    },
+    {
+      "played_at": "2026-08-04T16:12:12.477Z",
+      "name": "I Will Be Your Friend",
+      "artists": [
+        "Sade"
+      ],
+      "album": "Diamond Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ad27e16c5f844ea1ad6797cd",
+      "uri": "spotify:track:29pqGFsm1NPsVHfSrjaDUJ",
+      "duration_ms": 283426
+    },
+    {
+      "played_at": "2026-08-04T16:15:51.753Z",
+      "name": "Be That Easy",
+      "artists": [
+        "Sade"
+      ],
+      "album": "Soldier of Love",
+      "image": "https://i.scdn.co/image/ab67616d0000b27398da02db8bb9253c3367e41a",
+      "uri": "spotify:track:5KADKKJqxxF2d0a9Ir2lK3",
+      "duration_ms": 219200
+    },
+    {
+      "played_at": "2026-08-04T16:22:18.556Z",
+      "name": "Kissing in Cars (Bonus Track)",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Selfish Machines (Reissue)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733c8674afa47336f571b13ebd",
+      "uri": "spotify:track:21n769QrJtrmN0pXuBkYOm",
+      "duration_ms": 257211
+    },
+    {
+      "played_at": "2026-08-04T16:28:05.441Z",
+      "name": "Art of War",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Art of War",
+      "image": "https://i.scdn.co/image/ab67616d0000b273257de814fe4a9c88e7523e62",
+      "uri": "spotify:track:7FdS8jLabsc3ym9VY8kGjK",
+      "duration_ms": 126973
+    },
+    {
+      "played_at": "2026-08-04T16:33:34.197Z",
+      "name": "House Of Cards",
+      "artists": [
+        "Radiohead"
+      ],
+      "album": "In Rainbows",
+      "image": "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9",
+      "uri": "spotify:track:48X4D1FYOShPz2VF3YdfCF",
+      "duration_ms": 328293
+    },
+    {
+      "played_at": "2026-08-04T16:41:18.645Z",
+      "name": "The Same",
+      "artists": [
+        "The Poles"
+      ],
+      "album": "We Get, The Same",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734a610c59b2c4e424a1116948",
+      "uri": "spotify:track:3TJfYBSPlJ0zaj3T2IyU2N",
+      "duration_ms": 256303
     }
   ]
 }
