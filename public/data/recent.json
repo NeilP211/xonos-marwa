@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T16:52:22.656Z",
+  "updated_at": "2026-08-04T19:38:53.982Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -11864,6 +11864,162 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734a610c59b2c4e424a1116948",
       "uri": "spotify:track:3TJfYBSPlJ0zaj3T2IyU2N",
       "duration_ms": 256303
+    },
+    {
+      "played_at": "2026-08-04T16:56:29.085Z",
+      "name": "Risk It All",
+      "artists": [
+        "Bruno Mars"
+      ],
+      "album": "The Romantic",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395",
+      "uri": "spotify:track:5y2ijHECwFYWqcAHKTZgzD",
+      "duration_ms": 204068
+    },
+    {
+      "played_at": "2026-08-04T17:04:41.715Z",
+      "name": "A Lonely Night",
+      "artists": [
+        "The Weeknd"
+      ],
+      "album": "Starboy",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+      "uri": "spotify:track:0ifooM33X1iBxVYyOkSbXW",
+      "duration_ms": 220173
+    },
+    {
+      "played_at": "2026-08-04T17:12:00.628Z",
+      "name": "Nobody New",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Nobody New",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734076c62eeace86cc7bde7aef",
+      "uri": "spotify:track:3BUc2A0MJ53FHwiy3eohBt",
+      "duration_ms": 215200
+    },
+    {
+      "played_at": "2026-08-04T17:17:22.053Z",
+      "name": "Lifter",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Adrenaline",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0aa988082afc4ea586ab8dc",
+      "uri": "spotify:track:129Jx52FwTa2pilZohst80",
+      "duration_ms": 283133
+    },
+    {
+      "played_at": "2026-08-04T17:23:39.707Z",
+      "name": "Sienna",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Submarine",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831",
+      "uri": "spotify:track:0InIeZW4P6VO7dUGRM4AKH",
+      "duration_ms": 224840
+    },
+    {
+      "played_at": "2026-08-04T18:13:28.158Z",
+      "name": "Heavy",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "CINEMA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273657d6776f64aa731c8d1748b",
+      "uri": "spotify:track:1ShRHPAiiIrh0arZbSFmx1",
+      "duration_ms": 253213
+    },
+    {
+      "played_at": "2026-08-04T18:56:05.278Z",
+      "name": "Back To Me",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Back To Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a66ab2cbaebcc84ddd45a078",
+      "uri": "spotify:track:4E0P1xs3JNmsNr5c5nFTZJ",
+      "duration_ms": 214800
+    },
+    {
+      "played_at": "2026-08-04T18:59:41.201Z",
+      "name": "Nobody New",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Back To Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a66ab2cbaebcc84ddd45a078",
+      "uri": "spotify:track:4pwJ6OujVQL3IpCr8KeXIg",
+      "duration_ms": 215200
+    },
+    {
+      "played_at": "2026-08-04T19:03:19.294Z",
+      "name": "Ay No Puedo",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Submarine",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831",
+      "uri": "spotify:track:3L0JDlycMhSA7R0M0OfNIY",
+      "duration_ms": 181546
+    },
+    {
+      "played_at": "2026-08-04T19:07:16.966Z",
+      "name": "Love You Anyway",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Submarine",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831",
+      "uri": "spotify:track:3vxvz0JoRDvnx2jG9oPljA",
+      "duration_ms": 237133
+    },
+    {
+      "played_at": "2026-08-04T19:13:42.311Z",
+      "name": "Creo En Ti",
+      "artists": [
+        "maye"
+      ],
+      "album": "Creo En Ti",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739fb7d7747c51df4258a368ec",
+      "uri": "spotify:track:69vFMxC1GJZpwo5kgGuofZ",
+      "duration_ms": 202425
+    },
+    {
+      "played_at": "2026-08-04T19:18:11.603Z",
+      "name": "اثينا",
+      "artists": [
+        "Loathe",
+        "bucki sugar"
+      ],
+      "album": "A Stranger To You",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+      "uri": "spotify:track:2rEecgbKjRo5JwDL6Q4HN1",
+      "duration_ms": 127133
+    },
+    {
+      "played_at": "2026-08-04T19:24:04.371Z",
+      "name": "The Way It Breaks",
+      "artists": [
+        "Loathe",
+        "Mansur Brown"
+      ],
+      "album": "A Stranger To You",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+      "uri": "spotify:track:5fMekKJEsEhR7NyhluDeX3",
+      "duration_ms": 306786
+    },
+    {
+      "played_at": "2026-08-04T19:36:52.144Z",
+      "name": "Is It Really You?",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "I Let It in and It Took Everything",
+      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+      "uri": "spotify:track:4OmlsAT8r4q9vPFBvfYgyZ",
+      "duration_ms": 287627
     }
   ]
 }

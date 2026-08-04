@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-04T16:52:22.905Z",
-  "is_playing": false,
+  "updated_at": "2026-08-04T19:38:54.075Z",
+  "is_playing": true,
   "track": {
-    "name": "Risk It All",
+    "name": "No Stranger To You...",
     "artists": [
-      "Bruno Mars"
+      "Loathe"
     ],
-    "album": "The Romantic",
-    "image": "https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395",
-    "uri": "spotify:track:5y2ijHECwFYWqcAHKTZgzD"
+    "album": "A Stranger To You",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+    "uri": "spotify:track:7rZetbeg5iTN98VcGRljsO"
   },
-  "played_at": "2026-08-04T16:52:22.905Z"
+  "played_at": "2026-08-04T19:38:54.075Z"
 }
