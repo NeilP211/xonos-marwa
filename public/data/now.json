@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-04T19:38:54.075Z",
-  "is_playing": true,
+  "updated_at": "2026-08-04T22:13:48.350Z",
+  "is_playing": false,
   "track": {
-    "name": "No Stranger To You...",
+    "name": "Screaming",
     "artists": [
       "Loathe"
     ],
-    "album": "A Stranger To You",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
-    "uri": "spotify:track:7rZetbeg5iTN98VcGRljsO"
+    "album": "I Let It in and It Took Everything",
+    "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+    "uri": "spotify:track:611WshW3yQKLCQ2pTCOii4"
   },
-  "played_at": "2026-08-04T19:38:54.075Z"
+  "played_at": "2026-08-04T20:39:25.448Z"
 }
