@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T08:38:30.554Z",
+  "generated_at": "2026-08-06T11:23:50.607Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1714,19 +1714,19 @@
         },
         {
           "rank": 19,
-          "name": "TUL8TE",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
-          "genres": [],
-          "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
-          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
-        },
-        {
-          "rank": 20,
           "name": "Loathe",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
           "genres": [],
           "uri": "spotify:artist:4G9wSdX0klmoHfjm9i6DLd",
           "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
+        },
+        {
+          "rank": 20,
+          "name": "TUL8TE",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
+          "genres": [],
+          "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
         },
         {
           "rank": 21,
