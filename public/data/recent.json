@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T22:13:05.640Z",
+  "updated_at": "2026-08-06T02:41:49.565Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -12163,6 +12163,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
       "uri": "spotify:track:611WshW3yQKLCQ2pTCOii4",
       "duration_ms": 354640
+    },
+    {
+      "played_at": "2026-08-06T01:35:34.161Z",
+      "name": "New Faces in the Dark",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "I Let It in and It Took Everything",
+      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+      "uri": "spotify:track:73ESek0SF1ZcdRKMc8hsKi",
+      "duration_ms": 192053
     }
   ]
 }
