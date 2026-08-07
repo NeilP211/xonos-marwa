@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-08-06T14:13:39.940Z",
+  "updated_at": "2026-08-07T00:03:33.176Z",
   "is_playing": false,
   "track": {
-    "name": "New Faces in the Dark",
+    "name": "12 Fractures",
     "artists": [
-      "Loathe"
+      "Pierce The Veil",
+      "chloe moriondo"
     ],
-    "album": "I Let It in and It Took Everything",
-    "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
-    "uri": "spotify:track:73ESek0SF1ZcdRKMc8hsKi"
+    "album": "The Jaws Of Life",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+    "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3"
   },
-  "played_at": "2026-08-06T01:35:34.161Z"
+  "played_at": "2026-08-06T15:59:20.726Z"
 }

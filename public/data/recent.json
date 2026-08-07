@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T14:13:39.855Z",
+  "updated_at": "2026-08-07T00:03:33.137Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -12174,6 +12174,52 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
       "uri": "spotify:track:73ESek0SF1ZcdRKMc8hsKi",
       "duration_ms": 192053
+    },
+    {
+      "played_at": "2026-08-06T14:44:59.846Z",
+      "name": "Is It Really You?",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "I Let It in and It Took Everything",
+      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+      "uri": "spotify:track:4OmlsAT8r4q9vPFBvfYgyZ",
+      "duration_ms": 287627
+    },
+    {
+      "played_at": "2026-08-06T14:48:21.123Z",
+      "name": "SOLITO (feat. maye)",
+      "artists": [
+        "JEREMIAS",
+        "maye"
+      ],
+      "album": "SOLITO (feat. maye)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733441830d5d9471a1ba6f6dce",
+      "uri": "spotify:track:4iffzLSZ9bH0Ach2NUMcqH",
+      "duration_ms": 200298
+    },
+    {
+      "played_at": "2026-08-06T14:51:43.630Z",
+      "name": "Creo En Ti",
+      "artists": [
+        "maye"
+      ],
+      "album": "Creo En Ti",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739fb7d7747c51df4258a368ec",
+      "uri": "spotify:track:69vFMxC1GJZpwo5kgGuofZ",
+      "duration_ms": 202425
+    },
+    {
+      "played_at": "2026-08-06T15:59:20.726Z",
+      "name": "12 Fractures",
+      "artists": [
+        "Pierce The Veil",
+        "chloe moriondo"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+      "duration_ms": 181600
     }
   ]
 }
