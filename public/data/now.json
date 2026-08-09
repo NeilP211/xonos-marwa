@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-09T04:18:56.305Z",
+  "updated_at": "2026-08-09T06:58:42.885Z",
   "is_playing": false,
   "track": {
-    "name": "12 Fractures",
+    "name": "The Way It Breaks",
     "artists": [
-      "Pierce The Veil",
-      "chloe moriondo"
+      "Loathe",
+      "Mansur Brown"
     ],
-    "album": "The Jaws Of Life",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-    "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3"
+    "album": "A Stranger To You",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+    "uri": "spotify:track:5fMekKJEsEhR7NyhluDeX3"
   },
-  "played_at": "2026-08-06T15:59:20.726Z"
+  "played_at": "2026-08-09T06:10:23.736Z"
 }

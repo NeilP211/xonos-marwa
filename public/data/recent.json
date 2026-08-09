@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T04:18:56.188Z",
+  "updated_at": "2026-08-09T06:58:42.814Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -12220,6 +12220,99 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
       "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
       "duration_ms": 181600
+    },
+    {
+      "played_at": "2026-08-09T04:26:45.899Z",
+      "name": "Fangs",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "A Stranger To You",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+      "uri": "spotify:track:6amjt9z0UcPusbO9UQ7zlp",
+      "duration_ms": 249293
+    },
+    {
+      "played_at": "2026-08-09T04:28:16.657Z",
+      "name": "Fangs",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "A Stranger To You",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+      "uri": "spotify:track:6amjt9z0UcPusbO9UQ7zlp",
+      "duration_ms": 249293
+    },
+    {
+      "played_at": "2026-08-09T04:33:57.435Z",
+      "name": "The Ladder",
+      "artists": [
+        "Loathe",
+        "Jordan Rakei"
+      ],
+      "album": "A Stranger To You",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+      "uri": "spotify:track:4ibtBP1AEUhVA2xiYHxBiK",
+      "duration_ms": 303280
+    },
+    {
+      "played_at": "2026-08-09T04:39:21.277Z",
+      "name": "No Stranger To You...",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "A Stranger To You",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+      "uri": "spotify:track:7rZetbeg5iTN98VcGRljsO",
+      "duration_ms": 288000
+    },
+    {
+      "played_at": "2026-08-09T04:47:18.304Z",
+      "name": "The Way It Breaks",
+      "artists": [
+        "Loathe",
+        "Mansur Brown"
+      ],
+      "album": "A Stranger To You",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+      "uri": "spotify:track:5fMekKJEsEhR7NyhluDeX3",
+      "duration_ms": 306786
+    },
+    {
+      "played_at": "2026-08-09T04:56:57.395Z",
+      "name": "The Way It Breaks",
+      "artists": [
+        "Loathe",
+        "Mansur Brown"
+      ],
+      "album": "A Stranger To You",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+      "uri": "spotify:track:5fMekKJEsEhR7NyhluDeX3",
+      "duration_ms": 306786
+    },
+    {
+      "played_at": "2026-08-09T05:05:11.464Z",
+      "name": "The Way It Breaks",
+      "artists": [
+        "Loathe",
+        "Mansur Brown"
+      ],
+      "album": "A Stranger To You",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+      "uri": "spotify:track:5fMekKJEsEhR7NyhluDeX3",
+      "duration_ms": 306786
+    },
+    {
+      "played_at": "2026-08-09T06:10:23.736Z",
+      "name": "The Way It Breaks",
+      "artists": [
+        "Loathe",
+        "Mansur Brown"
+      ],
+      "album": "A Stranger To You",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+      "uri": "spotify:track:5fMekKJEsEhR7NyhluDeX3",
+      "duration_ms": 306786
     }
   ]
 }
