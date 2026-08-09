@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T06:58:42.720Z",
+  "generated_at": "2026-08-09T09:40:45.392Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -105,6 +105,19 @@
         },
         {
           "rank": 9,
+          "name": "The Way It Breaks",
+          "artists": [
+            "Loathe",
+            "Mansur Brown"
+          ],
+          "album": "A Stranger To You",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+          "uri": "spotify:track:5fMekKJEsEhR7NyhluDeX3",
+          "url": "https://open.spotify.com/track/5fMekKJEsEhR7NyhluDeX3",
+          "duration_ms": 306786
+        },
+        {
+          "rank": 10,
           "name": "Mi Atención",
           "artists": [
             "Martox"
@@ -116,7 +129,7 @@
           "duration_ms": 212179
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Por qué dudas de mi?",
           "artists": [
             "Danny Ocean"
@@ -128,7 +141,7 @@
           "duration_ms": 112694
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Descifrar",
           "artists": [
             "maye"
@@ -138,19 +151,6 @@
           "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
           "url": "https://open.spotify.com/track/431vrxogdCt65ZSWfUrP1G",
           "duration_ms": 178700
-        },
-        {
-          "rank": 12,
-          "name": "The Way It Breaks",
-          "artists": [
-            "Loathe",
-            "Mansur Brown"
-          ],
-          "album": "A Stranger To You",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
-          "uri": "spotify:track:5fMekKJEsEhR7NyhluDeX3",
-          "url": "https://open.spotify.com/track/5fMekKJEsEhR7NyhluDeX3",
-          "duration_ms": 306786
         },
         {
           "rank": 13,
