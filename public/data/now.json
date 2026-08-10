@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-08-10T16:00:18.253Z",
-  "is_playing": true,
+  "updated_at": "2026-08-10T18:59:20.055Z",
+  "is_playing": false,
   "track": {
-    "name": "The Way It Breaks",
+    "name": "Creo En Ti",
     "artists": [
-      "Loathe",
-      "Mansur Brown"
+      "maye"
     ],
-    "album": "A Stranger To You",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
-    "uri": "spotify:track:5fMekKJEsEhR7NyhluDeX3"
+    "album": "Creo En Ti",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739fb7d7747c51df4258a368ec",
+    "uri": "spotify:track:69vFMxC1GJZpwo5kgGuofZ"
   },
-  "played_at": "2026-08-10T16:00:18.253Z"
+  "played_at": "2026-08-10T18:00:40.485Z"
 }
