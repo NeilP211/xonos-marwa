@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T18:59:19.816Z",
+  "generated_at": "2026-08-10T21:42:27.546Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -239,6 +239,18 @@
         },
         {
           "rank": 20,
+          "name": "Creo En Ti",
+          "artists": [
+            "maye"
+          ],
+          "album": "Creo En Ti",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bf6193692771714429d04e93",
+          "uri": "spotify:track:0v7MT9ZBZUWoTHoBSY171B",
+          "url": "https://open.spotify.com/track/0v7MT9ZBZUWoTHoBSY171B",
+          "duration_ms": 202425
+        },
+        {
+          "rank": 21,
           "name": "Art of War",
           "artists": [
             "Avenoir"
@@ -250,7 +262,7 @@
           "duration_ms": 126973
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "DtMF",
           "artists": [
             "Bad Bunny"
@@ -262,7 +274,7 @@
           "duration_ms": 237117
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "雨蝶 - R&B微醺版",
           "artists": [
             "微醺卡带"
@@ -274,7 +286,7 @@
           "duration_ms": 234984
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "El Replay",
           "artists": [
             "Joey V Mendez"
@@ -286,7 +298,7 @@
           "duration_ms": 170400
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Bendito",
           "artists": [
             "Rawayana"
@@ -298,7 +310,7 @@
           "duration_ms": 154586
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Emergency Contact",
           "artists": [
             "Pierce The Veil"
@@ -310,7 +322,7 @@
           "duration_ms": 240000
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Bórrame La Memoria?",
           "artists": [
             "Manuel Lizarazo"
@@ -322,7 +334,7 @@
           "duration_ms": 132755
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Como Es Que Se Hace",
           "artists": [
             "Yandel",
@@ -333,18 +345,6 @@
           "uri": "spotify:track:0ou3TddCNhvZeyGFbz7Y6E",
           "url": "https://open.spotify.com/track/0ou3TddCNhvZeyGFbz7Y6E",
           "duration_ms": 205320
-        },
-        {
-          "rank": 28,
-          "name": "Creo En Ti",
-          "artists": [
-            "maye"
-          ],
-          "album": "Creo En Ti",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bf6193692771714429d04e93",
-          "uri": "spotify:track:0v7MT9ZBZUWoTHoBSY171B",
-          "url": "https://open.spotify.com/track/0v7MT9ZBZUWoTHoBSY171B",
-          "duration_ms": 202425
         },
         {
           "rank": 29,
