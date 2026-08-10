@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T13:11:37.761Z",
-  "is_playing": false,
+  "updated_at": "2026-08-10T16:00:18.253Z",
+  "is_playing": true,
   "track": {
     "name": "The Way It Breaks",
     "artists": [
@@ -11,5 +11,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
     "uri": "spotify:track:5fMekKJEsEhR7NyhluDeX3"
   },
-  "played_at": "2026-08-09T06:10:23.736Z"
+  "played_at": "2026-08-10T16:00:18.253Z"
 }
