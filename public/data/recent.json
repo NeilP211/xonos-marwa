@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T04:47:42.734Z",
+  "updated_at": "2026-08-12T07:26:34.100Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -12550,6 +12550,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2739fb7d7747c51df4258a368ec",
       "uri": "spotify:track:69vFMxC1GJZpwo5kgGuofZ",
       "duration_ms": 202425
+    },
+    {
+      "played_at": "2026-08-12T05:51:04.480Z",
+      "name": "seasons",
+      "artists": [
+        "wave to earth"
+      ],
+      "album": "summer flows 0.02",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b975ed7ccd57f3a00d570cf",
+      "uri": "spotify:track:0aVd7QiY8BstysHb62c5Fi",
+      "duration_ms": 256000
     }
   ]
 }

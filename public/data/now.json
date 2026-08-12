@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-12T04:47:42.826Z",
+  "updated_at": "2026-08-12T07:26:34.169Z",
   "is_playing": false,
   "track": {
-    "name": "Creo En Ti",
+    "name": "seasons",
     "artists": [
-      "maye"
+      "wave to earth"
     ],
-    "album": "Creo En Ti",
-    "image": "https://i.scdn.co/image/ab67616d0000b2739fb7d7747c51df4258a368ec",
-    "uri": "spotify:track:69vFMxC1GJZpwo5kgGuofZ"
+    "album": "summer flows 0.02",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733b975ed7ccd57f3a00d570cf",
+    "uri": "spotify:track:0aVd7QiY8BstysHb62c5Fi"
   },
-  "played_at": "2026-08-10T18:00:40.485Z"
+  "played_at": "2026-08-12T05:51:04.480Z"
 }
