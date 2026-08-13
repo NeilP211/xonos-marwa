@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-12T21:47:50.063Z",
+  "updated_at": "2026-08-13T02:05:36.608Z",
   "is_playing": false,
   "track": {
-    "name": "seasons",
+    "name": "A Sad Cartoon",
     "artists": [
-      "wave to earth"
+      "Loathe"
     ],
-    "album": "summer flows 0.02",
-    "image": "https://i.scdn.co/image/ab67616d0000b2733b975ed7ccd57f3a00d570cf",
-    "uri": "spotify:track:0aVd7QiY8BstysHb62c5Fi"
+    "album": "I Let It in and It Took Everything",
+    "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+    "uri": "spotify:track:2fyDWKsx5904KnZMGllmAv"
   },
-  "played_at": "2026-08-12T05:51:04.480Z"
+  "played_at": "2026-08-13T00:21:33.868Z"
 }

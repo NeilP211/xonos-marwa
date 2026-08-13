@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T21:47:49.977Z",
+  "updated_at": "2026-08-13T02:05:36.568Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -12561,6 +12561,51 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2733b975ed7ccd57f3a00d570cf",
       "uri": "spotify:track:0aVd7QiY8BstysHb62c5Fi",
       "duration_ms": 256000
+    },
+    {
+      "played_at": "2026-08-12T23:54:15.555Z",
+      "name": "The Way It Breaks",
+      "artists": [
+        "Loathe",
+        "Mansur Brown"
+      ],
+      "album": "A Stranger To You",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+      "uri": "spotify:track:5fMekKJEsEhR7NyhluDeX3",
+      "duration_ms": 306786
+    },
+    {
+      "played_at": "2026-08-13T00:09:07.919Z",
+      "name": "Two-Way Mirror",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "I Let It in and It Took Everything",
+      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+      "uri": "spotify:track:0b4TKuvZ4eJ8eHgJgXaCnN",
+      "duration_ms": 300186
+    },
+    {
+      "played_at": "2026-08-13T00:16:01.159Z",
+      "name": "Babylon...",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "The Cold Sun",
+      "image": "https://i.scdn.co/image/ab67616d0000b273394871f10feb6f0bffc26aab",
+      "uri": "spotify:track:08on2wzs5D8ccY4oRrMR7G",
+      "duration_ms": 257464
+    },
+    {
+      "played_at": "2026-08-13T00:21:33.868Z",
+      "name": "A Sad Cartoon",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "I Let It in and It Took Everything",
+      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+      "uri": "spotify:track:2fyDWKsx5904KnZMGllmAv",
+      "duration_ms": 315880
     }
   ]
 }
