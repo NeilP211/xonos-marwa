@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T04:51:48.356Z",
+  "generated_at": "2026-08-13T07:36:35.225Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2799,14 +2799,6 @@
         },
         {
           "rank": 32,
-          "name": "KISS OF LIFE",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb4b89abdc6c414c949aa45cbe",
-          "genres": [],
-          "uri": "spotify:artist:4TEK9tIkcoxib4GxT3O4ky",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        },
-        {
-          "rank": 33,
           "name": "Rawayana",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5d52d93053343dc60653bbde",
           "genres": [],
@@ -2814,12 +2806,20 @@
           "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "Jung Kook",
           "image": "https://i.scdn.co/image/ab6761610000e5eb71089d18c93e3a51e70ff0dc",
           "genres": [],
           "uri": "spotify:artist:6HaGTQPmzraVmaVxvz6EUc",
           "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "rank": 34,
+          "name": "KISS OF LIFE",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb4b89abdc6c414c949aa45cbe",
+          "genres": [],
+          "uri": "spotify:artist:4TEK9tIkcoxib4GxT3O4ky",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
         },
         {
           "rank": 35,
@@ -2919,6 +2919,14 @@
         },
         {
           "rank": 47,
+          "name": "Loathe",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
+          "genres": [],
+          "uri": "spotify:artist:4G9wSdX0klmoHfjm9i6DLd",
+          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
+        },
+        {
+          "rank": 48,
           "name": "Billie Eilish",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da",
           "genres": [],
@@ -2926,7 +2934,7 @@
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Milena",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf7a24a6e14e58a3106344603",
           "genres": [],
@@ -2934,20 +2942,12 @@
           "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Avenoir",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb4931e767936dbd7d806089c",
           "genres": [],
           "uri": "spotify:artist:3Z7onAknzpinUu3KtmgeZb",
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        },
-        {
-          "rank": 50,
-          "name": "Evdeki Saat",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb0c445a93b34624df2007ac07",
-          "genres": [],
-          "uri": "spotify:artist:0w92tV1EQp7sxly7UjGR4P",
-          "url": "https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P"
         }
       ]
     }
