@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-14T02:03:38.353Z",
+  "updated_at": "2026-08-14T04:48:53.347Z",
   "is_playing": false,
   "track": {
-    "name": "A Sad Cartoon",
+    "name": "sing it all again",
     "artists": [
-      "Loathe"
+      "wave to earth"
     ],
-    "album": "I Let It in and It Took Everything",
-    "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
-    "uri": "spotify:track:2fyDWKsx5904KnZMGllmAv"
+    "album": "bad pieces",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739a03ff40f308fea55054aa68",
+    "uri": "spotify:track:1pmFLmqdLGcIbmSpYRWATO"
   },
-  "played_at": "2026-08-13T00:21:33.868Z"
+  "played_at": "2026-08-14T04:25:26.644Z"
 }

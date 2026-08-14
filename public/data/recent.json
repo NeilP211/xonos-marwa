@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T02:03:38.276Z",
+  "updated_at": "2026-08-14T04:48:53.010Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -12606,6 +12606,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
       "uri": "spotify:track:2fyDWKsx5904KnZMGllmAv",
       "duration_ms": 315880
+    },
+    {
+      "played_at": "2026-08-14T03:51:44.937Z",
+      "name": "talking 'bout u",
+      "artists": [
+        "wave to earth"
+      ],
+      "album": "bad pieces",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739a03ff40f308fea55054aa68",
+      "uri": "spotify:track:6WFIaZXxivhdpg4tvuMsLx",
+      "duration_ms": 254202
+    },
+    {
+      "played_at": "2026-08-14T03:57:28.889Z",
+      "name": "everything comes and goes",
+      "artists": [
+        "wave to earth"
+      ],
+      "album": "bad pieces",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739a03ff40f308fea55054aa68",
+      "uri": "spotify:track:5OtjoGrtps5lPY62292nKc",
+      "duration_ms": 259400
+    },
+    {
+      "played_at": "2026-08-14T04:00:22.128Z",
+      "name": "babo",
+      "artists": [
+        "wave to earth"
+      ],
+      "album": "bad pieces",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739a03ff40f308fea55054aa68",
+      "uri": "spotify:track:4HXTX6vUZt1vVY2JOpxxBn",
+      "duration_ms": 171724
+    },
+    {
+      "played_at": "2026-08-14T04:25:26.644Z",
+      "name": "sing it all again",
+      "artists": [
+        "wave to earth"
+      ],
+      "album": "bad pieces",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739a03ff40f308fea55054aa68",
+      "uri": "spotify:track:1pmFLmqdLGcIbmSpYRWATO",
+      "duration_ms": 235516
     }
   ]
 }
