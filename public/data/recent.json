@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T13:09:16.625Z",
+  "updated_at": "2026-08-14T15:53:26.363Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -12817,6 +12817,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209",
       "uri": "spotify:track:5expoVGQPvXuwBBFuNGqBd",
       "duration_ms": 177946
+    },
+    {
+      "played_at": "2026-08-14T13:34:33.315Z",
+      "name": "BUMPA",
+      "artists": [
+        "BIBI"
+      ],
+      "album": "BUMPA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732d1df2c8f8bf05cd3dea060b",
+      "uri": "spotify:track:6GSdBUjAnJmIjxMAYz5WCa",
+      "duration_ms": 218366
     }
   ]
 }

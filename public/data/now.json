@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-14T13:09:16.708Z",
+  "updated_at": "2026-08-14T15:53:26.451Z",
   "is_playing": false,
   "track": {
-    "name": "Hurt",
+    "name": "BUMPA",
     "artists": [
-      "NewJeans"
+      "BIBI"
     ],
-    "album": "NewJeans 1st EP 'New Jeans'",
-    "image": "https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209",
-    "uri": "spotify:track:5expoVGQPvXuwBBFuNGqBd"
+    "album": "BUMPA",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732d1df2c8f8bf05cd3dea060b",
+    "uri": "spotify:track:6GSdBUjAnJmIjxMAYz5WCa"
   },
-  "played_at": "2026-08-14T12:56:44.893Z"
+  "played_at": "2026-08-14T13:34:33.315Z"
 }
