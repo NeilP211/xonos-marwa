@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T10:04:16.248Z",
+  "updated_at": "2026-08-14T13:09:16.625Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -12650,6 +12650,173 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2739a03ff40f308fea55054aa68",
       "uri": "spotify:track:1pmFLmqdLGcIbmSpYRWATO",
       "duration_ms": 235516
+    },
+    {
+      "played_at": "2026-08-14T11:45:46.524Z",
+      "name": "White Hot",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "White Hot / Saint Cecilia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cad47aae991a6b3d92f99f85",
+      "uri": "spotify:track:6NCUsc3nuKxBTyH4E4Pu5c",
+      "duration_ms": 210500
+    },
+    {
+      "played_at": "2026-08-14T11:53:09.589Z",
+      "name": "Beautiful Liar",
+      "artists": [
+        "Beyoncé",
+        "Shakira"
+      ],
+      "album": "B'Day Deluxe Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b",
+      "uri": "spotify:track:2HWWNoWEEEECwZhAiLg7ib",
+      "duration_ms": 199853
+    },
+    {
+      "played_at": "2026-08-14T11:57:13.148Z",
+      "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
+      "artists": [
+        "The Adventures Of Stevie V"
+      ],
+      "album": "Dirty Cash (Money Talks)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735893643e11d44e3ef569479c",
+      "uri": "spotify:track:3lcUQs5nyrjoHpQR9Vo2aA",
+      "duration_ms": 243133
+    },
+    {
+      "played_at": "2026-08-14T12:02:48.435Z",
+      "name": "How...Tragic!",
+      "artists": [
+        "Omori"
+      ],
+      "album": "Omori (Original Game Soundtrack), Pt. 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b27395a158cfb5c145340c771bed",
+      "uri": "spotify:track:7aWtwrJDGCUIJDmQI2hwU2",
+      "duration_ms": 64989
+    },
+    {
+      "played_at": "2026-08-14T12:05:06.622Z",
+      "name": "Coquette Habit",
+      "artists": [
+        "Sophie Woodhouse"
+      ],
+      "album": "Dear Diary",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b7b85af1ed91cf57629d449f",
+      "uri": "spotify:track:3iLg0JDGhUlnMJSAyquF7d",
+      "duration_ms": 137793
+    },
+    {
+      "played_at": "2026-08-14T12:08:00.590Z",
+      "name": "Duet",
+      "artists": [
+        "Omori"
+      ],
+      "album": "Omori (Original Game Soundtrack), Pt.3",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b080961348b7c4402e0186e9",
+      "uri": "spotify:track:5RzB3KcfvZgvsWcsETVsqG",
+      "duration_ms": 132468
+    },
+    {
+      "played_at": "2026-08-14T12:13:22.559Z",
+      "name": "Always",
+      "artists": [
+        "Daniel Caesar"
+      ],
+      "album": "NEVER ENOUGH",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737c68face1dc58127f3a7b1cc",
+      "uri": "spotify:track:2LlOeW5rVcvl3QcPNPcDus",
+      "duration_ms": 225312
+    },
+    {
+      "played_at": "2026-08-14T12:17:19.175Z",
+      "name": "do you think you could love me?",
+      "artists": [
+        "yung kai"
+      ],
+      "album": "do you think you could love me?",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738651ac3aa58d3b328b245e97",
+      "uri": "spotify:track:2SyLEZFDH9pHAF4GpfVRJS",
+      "duration_ms": 236140
+    },
+    {
+      "played_at": "2026-08-14T12:22:57.837Z",
+      "name": "The Most Beautiful Thing",
+      "artists": [
+        "Bruno Major"
+      ],
+      "album": "To Let A Good Thing Die",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e321a69d7454d9365c667187",
+      "uri": "spotify:track:07koEqsKHZTlGVMC9eoEjO",
+      "duration_ms": 235426
+    },
+    {
+      "played_at": "2026-08-14T12:26:46.159Z",
+      "name": "Sexy to Someone",
+      "artists": [
+        "Clairo"
+      ],
+      "album": "Sexy to Someone",
+      "image": "https://i.scdn.co/image/ab67616d0000b27374362c2135b974941620e189",
+      "uri": "spotify:track:2Nq4SFbvYYZa8AF7lD7CWU",
+      "duration_ms": 207795
+    },
+    {
+      "played_at": "2026-08-14T12:32:04.690Z",
+      "name": "lovememore.",
+      "artists": [
+        "dosii"
+      ],
+      "album": "dosii",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f122f5f25a1c8d12ba06e05",
+      "uri": "spotify:track:0P9XwjnnIPQFTwdqvu01Mf",
+      "duration_ms": 231709
+    },
+    {
+      "played_at": "2026-08-14T12:35:58.945Z",
+      "name": "El Sueño de la Muñeca",
+      "artists": [
+        "Agustín Barrios Mangoré",
+        "Fernando Espí"
+      ],
+      "album": "Nana. Canciones de Cuna para Guitarra (Lullabies for Guitar)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734031c73ffb8302f866e5e012",
+      "uri": "spotify:track:1hfDrDh4ei2QXjSnwFqFbr",
+      "duration_ms": 175828
+    },
+    {
+      "played_at": "2026-08-14T12:42:11.183Z",
+      "name": "Can't Get You",
+      "artists": [
+        "JAEHYUN"
+      ],
+      "album": "J - The 1st Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b53a1f7473bda51dedbab579",
+      "uri": "spotify:track:5rQK8kcBmwVGuJqqzMJApQ",
+      "duration_ms": 251146
+    },
+    {
+      "played_at": "2026-08-14T12:51:53.464Z",
+      "name": "let's go picnic",
+      "artists": [
+        "george"
+      ],
+      "album": "cassette",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a40f25202f2014c7fae0bcc6",
+      "uri": "spotify:track:6nLK3EpVQLW1SC3lmlejoU",
+      "duration_ms": 231043
+    },
+    {
+      "played_at": "2026-08-14T12:56:44.893Z",
+      "name": "Hurt",
+      "artists": [
+        "NewJeans"
+      ],
+      "album": "NewJeans 1st EP 'New Jeans'",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209",
+      "uri": "spotify:track:5expoVGQPvXuwBBFuNGqBd",
+      "duration_ms": 177946
     }
   ]
 }

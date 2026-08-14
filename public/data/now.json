@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-14T10:04:16.342Z",
+  "updated_at": "2026-08-14T13:09:16.708Z",
   "is_playing": false,
   "track": {
-    "name": "sing it all again",
+    "name": "Hurt",
     "artists": [
-      "wave to earth"
+      "NewJeans"
     ],
-    "album": "bad pieces",
-    "image": "https://i.scdn.co/image/ab67616d0000b2739a03ff40f308fea55054aa68",
-    "uri": "spotify:track:1pmFLmqdLGcIbmSpYRWATO"
+    "album": "NewJeans 1st EP 'New Jeans'",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209",
+    "uri": "spotify:track:5expoVGQPvXuwBBFuNGqBd"
   },
-  "played_at": "2026-08-14T04:25:26.644Z"
+  "played_at": "2026-08-14T12:56:44.893Z"
 }
