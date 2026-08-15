@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-14T21:26:34.995Z",
+  "updated_at": "2026-08-15T01:18:33.759Z",
   "is_playing": false,
   "track": {
-    "name": "BUMPA",
+    "name": "Still With You",
     "artists": [
-      "BIBI"
+      "Jung Kook"
     ],
-    "album": "BUMPA",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732d1df2c8f8bf05cd3dea060b",
-    "uri": "spotify:track:6GSdBUjAnJmIjxMAYz5WCa"
+    "album": "Still With You",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d",
+    "uri": "spotify:track:0eFMbKCRw8KByXyWBw8WO7"
   },
-  "played_at": "2026-08-14T13:34:33.315Z"
+  "played_at": "2026-08-15T00:06:37.719Z"
 }
