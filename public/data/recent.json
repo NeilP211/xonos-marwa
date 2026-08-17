@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T12:46:13.296Z",
+  "updated_at": "2026-08-17T15:26:23.215Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -12883,6 +12883,447 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273aed0f31dcd91c3c0a4a6ca73",
       "uri": "spotify:track:1MJyiTlVdSLAjI9aclZ3hL",
       "duration_ms": 193040
+    },
+    {
+      "played_at": "2026-08-17T12:49:08.290Z",
+      "name": "Restless",
+      "artists": [
+        "BIBI"
+      ],
+      "album": "Restless",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738413c6700b3225e9bf59e417",
+      "uri": "spotify:track:2Lf2P7Hei9O23LeZQACn8E",
+      "duration_ms": 267080
+    },
+    {
+      "played_at": "2026-08-17T12:54:48.148Z",
+      "name": "UFO",
+      "artists": [
+        "Gemini",
+        "Seori"
+      ],
+      "album": "Inside Out",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736d0c8fb619b2c14ebc8ca020",
+      "uri": "spotify:track:3RIDQ0NiYcV896kb0mWz3k",
+      "duration_ms": 199986
+    },
+    {
+      "played_at": "2026-08-17T12:57:08.515Z",
+      "name": "TASTE",
+      "artists": [
+        "JUNNY"
+      ],
+      "album": "dopamine",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736ce456c694ab80bf1b97c588",
+      "uri": "spotify:track:1kjvQtcfHC8sd3nmCdlQLu",
+      "duration_ms": 137960
+    },
+    {
+      "played_at": "2026-08-17T13:00:27.042Z",
+      "name": "Peaches",
+      "artists": [
+        "KAI"
+      ],
+      "album": "Peaches - The 2nd Mini Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e17d7c9f32167b7b7c8e9f21",
+      "uri": "spotify:track:237OjBs3wvamAFpHp0yItw",
+      "duration_ms": 198080
+    },
+    {
+      "played_at": "2026-08-17T13:04:10.113Z",
+      "name": "Umm… Life",
+      "artists": [
+        "BIBI"
+      ],
+      "album": "Life is a Bi…",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735ab0f207b5e583a951915b2d",
+      "uri": "spotify:track:1VUMGh78m27FPB1vXL9ipW",
+      "duration_ms": 131209
+    },
+    {
+      "played_at": "2026-08-17T13:08:00.274Z",
+      "name": "Manhattan Haze",
+      "artists": [
+        "I'MIN",
+        "Daryl Kim"
+      ],
+      "album": "Manhattan Haze",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ad12ac5a18d40d1261b0b04b",
+      "uri": "spotify:track:1iKeTiCf0WIGIMAjdVoFFz",
+      "duration_ms": 229638
+    },
+    {
+      "played_at": "2026-08-17T13:11:16.023Z",
+      "name": "Can't Love You Anymore (With OHHYUK)",
+      "artists": [
+        "IU",
+        "OHHYUK"
+      ],
+      "album": "Palette",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e",
+      "uri": "spotify:track:5MvxeZPiiLAuB5gI8k3ynk",
+      "duration_ms": 195230
+    },
+    {
+      "played_at": "2026-08-17T13:13:53.253Z",
+      "name": "Life is a Bi…",
+      "artists": [
+        "BIBI"
+      ],
+      "album": "Life is a Bi…",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735ab0f207b5e583a951915b2d",
+      "uri": "spotify:track:4d79iPe88TzFewhFk2vrcy",
+      "duration_ms": 156741
+    },
+    {
+      "played_at": "2026-08-17T13:18:12.358Z",
+      "name": "Roses",
+      "artists": [
+        "JAEHYUN"
+      ],
+      "album": "J - The 1st Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b53a1f7473bda51dedbab579",
+      "uri": "spotify:track:1caThyEzTgp9LS3yneZSOO",
+      "duration_ms": 168093
+    },
+    {
+      "played_at": "2026-08-17T13:21:33.944Z",
+      "name": "Anywhere But Home",
+      "artists": [
+        "SEULGI"
+      ],
+      "album": "28 Reasons - The 1st Mini Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735621e37ae828d16c0fd9b57c",
+      "uri": "spotify:track:7vRodvsF37NGUYRSVMIRXj",
+      "duration_ms": 201093
+    },
+    {
+      "played_at": "2026-08-17T13:24:31.122Z",
+      "name": "Apocalypse",
+      "artists": [
+        "BIBI"
+      ],
+      "album": "EVE: ROMANCE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aed0f31dcd91c3c0a4a6ca73",
+      "uri": "spotify:track:53bnkcyDpei0ZlC30au1t7",
+      "duration_ms": 176735
+    },
+    {
+      "played_at": "2026-08-17T13:28:51.959Z",
+      "name": "camping everywhere",
+      "artists": [
+        "george"
+      ],
+      "album": "Dingo X george",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bf0da0aa640aa3a1c40e84fd",
+      "uri": "spotify:track:2jtUeOhBKxWqYVTmLvJBzW",
+      "duration_ms": 177465
+    },
+    {
+      "played_at": "2026-08-17T13:31:20.284Z",
+      "name": "Cool With You",
+      "artists": [
+        "NewJeans"
+      ],
+      "album": "NewJeans 2nd EP 'Get Up'",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b",
+      "uri": "spotify:track:02wk5BttM0QL38ERjLPQJB",
+      "duration_ms": 147880
+    },
+    {
+      "played_at": "2026-08-17T13:34:23.071Z",
+      "name": "Hongdae R&B",
+      "artists": [
+        "BIBI"
+      ],
+      "album": "EVE: ROMANCE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aed0f31dcd91c3c0a4a6ca73",
+      "uri": "spotify:track:5Alhp4aSOOfwDTynJ6ggEa",
+      "duration_ms": 182299
+    },
+    {
+      "played_at": "2026-08-17T13:37:48.831Z",
+      "name": "Love Again",
+      "artists": [
+        "BAEKHYUN"
+      ],
+      "album": "Delight - The 2nd Mini Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a280844e6f3397b0632ff64f",
+      "uri": "spotify:track:4dYODiAYvJHWQJtNganYCY",
+      "duration_ms": 205293
+    },
+    {
+      "played_at": "2026-08-17T13:42:16.175Z",
+      "name": "Forever Only",
+      "artists": [
+        "JAEHYUN"
+      ],
+      "album": "Forever Only - SM STATION : NCT LAB",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737684475e021f73ca153b23c4",
+      "uri": "spotify:track:0fN27m84ofEpWHGwJ0THYz",
+      "duration_ms": 196120
+    },
+    {
+      "played_at": "2026-08-17T13:45:34.732Z",
+      "name": "The girl in my memories (Digging club Seoul Ver.)",
+      "artists": [
+        "jeebanoff"
+      ],
+      "album": "Onstage Digging Club Seoul THEME 04",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312144ee15779556ce3b3aad5",
+      "uri": "spotify:track:72znGmipHo5wclQX7RKhpB",
+      "duration_ms": 198050
+    },
+    {
+      "played_at": "2026-08-17T13:49:06.808Z",
+      "name": "Burn it (feat. DEAN)",
+      "artists": [
+        "BIBI",
+        "DEAN"
+      ],
+      "album": "EVE: ROMANCE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aed0f31dcd91c3c0a4a6ca73",
+      "uri": "spotify:track:55EIqap20T9m7VWY0Q3piz",
+      "duration_ms": 211618
+    },
+    {
+      "played_at": "2026-08-17T13:54:05.896Z",
+      "name": "풀어",
+      "artists": [
+        "DEAN",
+        "ZICO"
+      ],
+      "album": "130 Mood : TRBL",
+      "image": "https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3",
+      "uri": "spotify:track:2p980qlVXYLh3HdHusbhfa",
+      "duration_ms": 211972
+    },
+    {
+      "played_at": "2026-08-17T13:57:16.222Z",
+      "name": "Planet Girl (Feat. pH-1)",
+      "artists": [
+        "Jooyoung",
+        "pH-1"
+      ],
+      "album": "Fountain",
+      "image": "https://i.scdn.co/image/ab67616d0000b27390fbbd7a50597ea7d0eb7f35",
+      "uri": "spotify:track:33G3yRbFmwmYVw0N12v177",
+      "duration_ms": 189883
+    },
+    {
+      "played_at": "2026-08-17T14:00:22.225Z",
+      "name": "Ditto",
+      "artists": [
+        "NewJeans"
+      ],
+      "album": "Ditto",
+      "image": "https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f",
+      "uri": "spotify:track:3r8RuvgbX9s7ammBn07D3W",
+      "duration_ms": 185506
+    },
+    {
+      "played_at": "2026-08-17T14:05:40.945Z",
+      "name": "House of Cards (Full Length Edition)",
+      "artists": [
+        "BTS"
+      ],
+      "album": "The Most Beautiful Moment in Life: Young Forever",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cf5fcabbbae09fa45aa5116f",
+      "uri": "spotify:track:6S2gYweMmT6xygVh5q3QLa",
+      "duration_ms": 226212
+    },
+    {
+      "played_at": "2026-08-17T14:08:41.455Z",
+      "name": "Attention",
+      "artists": [
+        "NewJeans"
+      ],
+      "album": "NewJeans 1st EP 'New Jeans'",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209",
+      "uri": "spotify:track:2pIUpMhHL6L9Z5lnKxJJr9",
+      "duration_ms": 180066
+    },
+    {
+      "played_at": "2026-08-17T14:12:09.015Z",
+      "name": "하루살이",
+      "artists": [
+        "DEAN",
+        "SULLI",
+        "Rad Museum"
+      ],
+      "album": "하루살이",
+      "image": "https://i.scdn.co/image/ab67616d0000b27324eb27f095031b1c29bcce20",
+      "uri": "spotify:track:2AA1f7utyvXpmtKsEvp5lz",
+      "duration_ms": 207112
+    },
+    {
+      "played_at": "2026-08-17T14:17:05.032Z",
+      "name": "Chi-Ka",
+      "artists": [
+        "Tabber",
+        "DEAN"
+      ],
+      "album": "Chi-Ka",
+      "image": "https://i.scdn.co/image/ab67616d0000b273085bd9c4c669ac924baa6d3b",
+      "uri": "spotify:track:3aUySszCHEifnEOqm0nCKr",
+      "duration_ms": 203953
+    },
+    {
+      "played_at": "2026-08-17T14:19:35.716Z",
+      "name": "Dandelion",
+      "artists": [
+        "JAEHYUN"
+      ],
+      "album": "J - The 1st Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b53a1f7473bda51dedbab579",
+      "uri": "spotify:track:4d9vh09S952aur0SM4RhzT",
+      "duration_ms": 150240
+    },
+    {
+      "played_at": "2026-08-17T14:22:45.202Z",
+      "name": "Lips Hips Kiss",
+      "artists": [
+        "KISS OF LIFE"
+      ],
+      "album": "224",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ed8f6ba97a5f0bda2b9d9306",
+      "uri": "spotify:track:5Q4DLsIx0Fl0IDCCWHsLlH",
+      "duration_ms": 189040
+    },
+    {
+      "played_at": "2026-08-17T14:26:35.203Z",
+      "name": "NAN CHUN",
+      "artists": [
+        "SE SO NEON"
+      ],
+      "album": "NAN CHUN",
+      "image": "https://i.scdn.co/image/ab67616d0000b27362fa9ca3dea123404eda1b71",
+      "uri": "spotify:track:4TBHfv2isYco3fNKjQ8oSI",
+      "duration_ms": 229493
+    },
+    {
+      "played_at": "2026-08-17T14:30:47.162Z",
+      "name": "Flamin' Hot Lemon",
+      "artists": [
+        "JAEHYUN"
+      ],
+      "album": "J - The 1st Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b53a1f7473bda51dedbab579",
+      "uri": "spotify:track:63QGnW9l5fJVXejFFdFd2i",
+      "duration_ms": 168453
+    },
+    {
+      "played_at": "2026-08-17T14:34:26.833Z",
+      "name": "girl (feat. BLOO)",
+      "artists": [
+        "oceanfromtheblue",
+        "BLOO"
+      ],
+      "album": "a-side: 90s kids never get old",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739012be54a9bf782f8c621385",
+      "uri": "spotify:track:3YRhajr2ECwLcCpONejGJF",
+      "duration_ms": 219221
+    },
+    {
+      "played_at": "2026-08-17T14:37:44.275Z",
+      "name": "She lives in Paris",
+      "artists": [
+        "Gemini"
+      ],
+      "album": "She lives in Paris",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325347e589f4df978913883b2",
+      "uri": "spotify:track:5PvMK77XUHP4EwdttBNX3o",
+      "duration_ms": 197000
+    },
+    {
+      "played_at": "2026-08-17T14:42:37.307Z",
+      "name": "Control Me",
+      "artists": [
+        "Colde"
+      ],
+      "album": "Control Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732d1dbd5b4b7b00fe42cbbdf3",
+      "uri": "spotify:track:6e38ee2ioja5CGPMVpgnr0",
+      "duration_ms": 206999
+    },
+    {
+      "played_at": "2026-08-17T14:45:30.993Z",
+      "name": "Broken Love",
+      "artists": [
+        "Gemini"
+      ],
+      "album": "Going",
+      "image": "https://i.scdn.co/image/ab67616d0000b273495aeeb01a9a88c9e176618b",
+      "uri": "spotify:track:6GehOJs060WzAi78QArj7p",
+      "duration_ms": 173240
+    },
+    {
+      "played_at": "2026-08-17T14:48:11.849Z",
+      "name": "Right Now",
+      "artists": [
+        "NewJeans"
+      ],
+      "album": "Supernatural",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737e1eeb0d7cc374a168369c80",
+      "uri": "spotify:track:58Q3FZFs1YXPpliWQB5kXB",
+      "duration_ms": 160413
+    },
+    {
+      "played_at": "2026-08-17T14:51:18.237Z",
+      "name": "KAZINO",
+      "artists": [
+        "BIBI"
+      ],
+      "album": "KAZINO",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ba84f2821a0c0ff527121229",
+      "uri": "spotify:track:245onUPHGD1DYuiacxTuW0",
+      "duration_ms": 185946
+    },
+    {
+      "played_at": "2026-08-17T14:56:07.160Z",
+      "name": "fairy of shampoo",
+      "artists": [
+        "dosii"
+      ],
+      "album": "echo",
+      "image": "https://i.scdn.co/image/ab67616d0000b273acda05b28ab3c3bb96d9b496",
+      "uri": "spotify:track:72eVBUhcdUQusHUhDbfQoQ",
+      "duration_ms": 212053
+    },
+    {
+      "played_at": "2026-08-17T14:58:47.297Z",
+      "name": "Best Lover",
+      "artists": [
+        "88rising",
+        "BIBI"
+      ],
+      "album": "Head In The Clouds Forever",
+      "image": "https://i.scdn.co/image/ab67616d0000b27323f104dd8ed0331ce45752b2",
+      "uri": "spotify:track:0uXLCWhlJnwPNccIezaaRK",
+      "duration_ms": 152910
+    },
+    {
+      "played_at": "2026-08-17T15:01:08.818Z",
+      "name": "AVOCADO (feat. Gliiico)",
+      "artists": [
+        "CHAEYOUNG",
+        "Gliiico"
+      ],
+      "album": "LIL FANTASY vol.1",
+      "image": "https://i.scdn.co/image/ab67616d0000b273759b87e84c739bb9ff57b6ac",
+      "uri": "spotify:track:1fYSCk0DhxprTVb1B2zg4Q",
+      "duration_ms": 141078
+    },
+    {
+      "played_at": "2026-08-17T15:05:55.570Z",
+      "name": "DIE 4 YOU",
+      "artists": [
+        "DEAN"
+      ],
+      "album": "DIE 4 YOU",
+      "image": "https://i.scdn.co/image/ab67616d0000b273058833119cfac69bc09b11a2",
+      "uri": "spotify:track:7yZD4AVfQtAZD4cG8eRnPk",
+      "duration_ms": 194045
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-17T12:46:13.406Z",
-  "is_playing": true,
+  "updated_at": "2026-08-17T15:26:23.317Z",
+  "is_playing": false,
   "track": {
-    "name": "Restless",
+    "name": "DIE 4 YOU",
     "artists": [
-      "BIBI"
+      "DEAN"
     ],
-    "album": "Restless",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738413c6700b3225e9bf59e417",
-    "uri": "spotify:track:2Lf2P7Hei9O23LeZQACn8E"
+    "album": "DIE 4 YOU",
+    "image": "https://i.scdn.co/image/ab67616d0000b273058833119cfac69bc09b11a2",
+    "uri": "spotify:track:7yZD4AVfQtAZD4cG8eRnPk"
   },
-  "played_at": "2026-08-17T12:46:13.406Z"
+  "played_at": "2026-08-17T15:05:55.570Z"
 }
