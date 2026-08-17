@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-17T09:42:40.928Z",
-  "is_playing": false,
+  "updated_at": "2026-08-17T12:46:13.406Z",
+  "is_playing": true,
   "track": {
-    "name": "Still With You",
+    "name": "Restless",
     "artists": [
-      "Jung Kook"
+      "BIBI"
     ],
-    "album": "Still With You",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d",
-    "uri": "spotify:track:0eFMbKCRw8KByXyWBw8WO7"
+    "album": "Restless",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738413c6700b3225e9bf59e417",
+    "uri": "spotify:track:2Lf2P7Hei9O23LeZQACn8E"
   },
-  "played_at": "2026-08-15T00:06:37.719Z"
+  "played_at": "2026-08-17T12:46:13.406Z"
 }

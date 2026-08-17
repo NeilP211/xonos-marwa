@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T09:42:40.833Z",
+  "updated_at": "2026-08-17T12:46:13.296Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -12839,6 +12839,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d",
       "uri": "spotify:track:0eFMbKCRw8KByXyWBw8WO7",
       "duration_ms": 239905
+    },
+    {
+      "played_at": "2026-08-17T12:33:38.862Z",
+      "name": "Still With You",
+      "artists": [
+        "Jung Kook"
+      ],
+      "album": "Still With You",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d",
+      "uri": "spotify:track:0eFMbKCRw8KByXyWBw8WO7",
+      "duration_ms": 239905
+    },
+    {
+      "played_at": "2026-08-17T12:38:37.112Z",
+      "name": "Do Me Right",
+      "artists": [
+        "Gemini"
+      ],
+      "album": "Still Blue",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b7ce24c3fe0b15f535e03ae6",
+      "uri": "spotify:track:419qEKI3RalGHPVzEDQeNY",
+      "duration_ms": 205560
+    },
+    {
+      "played_at": "2026-08-17T12:41:27.152Z",
+      "name": "Smoke",
+      "artists": [
+        "JAEHYUN"
+      ],
+      "album": "J - The 1st Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b53a1f7473bda51dedbab579",
+      "uri": "spotify:track:5TvEmwYx56gqksISSMqgzk",
+      "duration_ms": 169533
+    },
+    {
+      "played_at": "2026-08-17T12:44:40.744Z",
+      "name": "Scott and Zelda",
+      "artists": [
+        "BIBI"
+      ],
+      "album": "EVE: ROMANCE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aed0f31dcd91c3c0a4a6ca73",
+      "uri": "spotify:track:1MJyiTlVdSLAjI9aclZ3hL",
+      "duration_ms": 193040
     }
   ]
 }
