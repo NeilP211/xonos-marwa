@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T18:39:31.457Z",
+  "generated_at": "2026-08-18T21:26:00.778Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -130,18 +130,6 @@
         },
         {
           "rank": 11,
-          "name": "Por qué dudas de mi?",
-          "artists": [
-            "Danny Ocean"
-          ],
-          "album": "babylona blue",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
-          "uri": "spotify:track:6VEWNOA9aKe2ZtOfk7HeDA",
-          "url": "https://open.spotify.com/track/6VEWNOA9aKe2ZtOfk7HeDA",
-          "duration_ms": 112694
-        },
-        {
-          "rank": 12,
           "name": "Fangs",
           "artists": [
             "Loathe"
@@ -153,7 +141,7 @@
           "duration_ms": 249293
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Death Of An Executioner",
           "artists": [
             "Pierce The Veil"
@@ -165,7 +153,7 @@
           "duration_ms": 267800
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Paraíso",
           "artists": [
             "La Cassandra",
@@ -178,19 +166,7 @@
           "duration_ms": 170226
         },
         {
-          "rank": 15,
-          "name": "quelomamen",
-          "artists": [
-            "Danny Ocean"
-          ],
-          "album": "babylona blue",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
-          "uri": "spotify:track:2QPH4nsBCojHQSrM1AlKWn",
-          "url": "https://open.spotify.com/track/2QPH4nsBCojHQSrM1AlKWn",
-          "duration_ms": 136331
-        },
-        {
-          "rank": 16,
+          "rank": 14,
           "name": "Creo En Ti",
           "artists": [
             "maye"
@@ -202,7 +178,7 @@
           "duration_ms": 202425
         },
         {
-          "rank": 17,
+          "rank": 15,
           "name": "Art of War",
           "artists": [
             "Avenoir"
@@ -214,7 +190,7 @@
           "duration_ms": 126973
         },
         {
-          "rank": 18,
+          "rank": 16,
           "name": "A Lonely Night",
           "artists": [
             "The Weeknd"
@@ -226,7 +202,19 @@
           "duration_ms": 220173
         },
         {
-          "rank": 19,
+          "rank": 17,
+          "name": "Por qué dudas de mi?",
+          "artists": [
+            "Danny Ocean"
+          ],
+          "album": "babylona blue",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
+          "uri": "spotify:track:6VEWNOA9aKe2ZtOfk7HeDA",
+          "url": "https://open.spotify.com/track/6VEWNOA9aKe2ZtOfk7HeDA",
+          "duration_ms": 112694
+        },
+        {
+          "rank": 18,
           "name": "Bendito",
           "artists": [
             "Rawayana"
@@ -238,7 +226,7 @@
           "duration_ms": 154586
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "In Another Time",
           "artists": [
             "Sade"
@@ -250,7 +238,7 @@
           "duration_ms": 304413
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Emergency Contact",
           "artists": [
             "Pierce The Veil"
@@ -262,19 +250,19 @@
           "duration_ms": 240000
         },
         {
-          "rank": 22,
-          "name": "Bórrame La Memoria?",
+          "rank": 21,
+          "name": "quelomamen",
           "artists": [
-            "Manuel Lizarazo"
+            "Danny Ocean"
           ],
-          "album": "Quien es Manuel Lizarazo?",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a45aa835f47b68364dbded81",
-          "uri": "spotify:track:4bwmGXUuGZGNwySDNTtR1v",
-          "url": "https://open.spotify.com/track/4bwmGXUuGZGNwySDNTtR1v",
-          "duration_ms": 132755
+          "album": "babylona blue",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
+          "uri": "spotify:track:2QPH4nsBCojHQSrM1AlKWn",
+          "url": "https://open.spotify.com/track/2QPH4nsBCojHQSrM1AlKWn",
+          "duration_ms": 136331
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Como Es Que Se Hace",
           "artists": [
             "Yandel",
@@ -287,7 +275,7 @@
           "duration_ms": 205320
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Cariño",
           "artists": [
             "The Marías"
@@ -299,7 +287,7 @@
           "duration_ms": 258713
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Props & Mayhem",
           "artists": [
             "Pierce The Veil"
@@ -311,7 +299,7 @@
           "duration_ms": 217853
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "So Far So Fake",
           "artists": [
             "Pierce The Veil"
@@ -323,7 +311,7 @@
           "duration_ms": 236160
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Descifrar",
           "artists": [
             "maye"
@@ -335,7 +323,7 @@
           "duration_ms": 178700
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "ULTIMA VEZ",
           "artists": [
             "Becky G"
@@ -347,7 +335,7 @@
           "duration_ms": 194706
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "Pressure",
           "artists": [
             "Paramore"
@@ -359,7 +347,7 @@
           "duration_ms": 185733
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "I Will Be Your Friend",
           "artists": [
             "Sade"
@@ -371,7 +359,7 @@
           "duration_ms": 283426
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "COQUETA",
           "artists": [
             "Fuerza Regida",
@@ -384,7 +372,7 @@
           "duration_ms": 241648
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "CANAIMA",
           "artists": [
             "Big Soto",
@@ -397,7 +385,7 @@
           "duration_ms": 151967
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "La Gloria Eres Tu",
           "artists": [
             "Luis Miguel"
@@ -409,19 +397,7 @@
           "duration_ms": 202760
         },
         {
-          "rank": 34,
-          "name": "Flor De Michoacán",
-          "artists": [
-            "Menny Flores"
-          ],
-          "album": "Flor De Michoacán",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
-          "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3",
-          "url": "https://open.spotify.com/track/33vQCR90JDkXzcRvRVi0H3",
-          "duration_ms": 193853
-        },
-        {
-          "rank": 35,
+          "rank": 33,
           "name": "당돌한 여자",
           "artists": [
             "JIHYO",
@@ -436,7 +412,7 @@
           "duration_ms": 185533
         },
         {
-          "rank": 36,
+          "rank": 34,
           "name": "No Stranger To You...",
           "artists": [
             "Loathe"
@@ -448,7 +424,7 @@
           "duration_ms": 288000
         },
         {
-          "rank": 37,
+          "rank": 35,
           "name": "A Veces Tu, A Veces Yo",
           "artists": [
             "Julio Iglesias"
@@ -460,7 +436,7 @@
           "duration_ms": 171493
         },
         {
-          "rank": 38,
+          "rank": 36,
           "name": "Deseándote",
           "artists": [
             "Frankie Ruiz"
@@ -472,7 +448,7 @@
           "duration_ms": 281333
         },
         {
-          "rank": 39,
+          "rank": 37,
           "name": "Un Ratito",
           "artists": [
             "La Isla Centeno"
@@ -484,7 +460,7 @@
           "duration_ms": 180000
         },
         {
-          "rank": 40,
+          "rank": 38,
           "name": "Red Swan",
           "artists": [
             "YOSHIKI",
@@ -497,7 +473,7 @@
           "duration_ms": 263720
         },
         {
-          "rank": 41,
+          "rank": 39,
           "name": "Ojos Tristes (with The Marías)",
           "artists": [
             "Selena Gomez",
@@ -511,7 +487,7 @@
           "duration_ms": 201920
         },
         {
-          "rank": 42,
+          "rank": 40,
           "name": "Flxr",
           "artists": [
             "OsamaSon"
@@ -523,7 +499,7 @@
           "duration_ms": 105144
         },
         {
-          "rank": 43,
+          "rank": 41,
           "name": "capaz (merengueton)",
           "artists": [
             "Alleh",
@@ -536,7 +512,7 @@
           "duration_ms": 173858
         },
         {
-          "rank": 44,
+          "rank": 42,
           "name": "Te Pue' Cuidar",
           "artists": [
             "Brray",
@@ -549,7 +525,7 @@
           "duration_ms": 231586
         },
         {
-          "rank": 45,
+          "rank": 43,
           "name": "اثينا",
           "artists": [
             "Loathe",
@@ -562,7 +538,7 @@
           "duration_ms": 127133
         },
         {
-          "rank": 46,
+          "rank": 44,
           "name": "La Paso Cabrón (feat. Gigolo y La Exce, Falsetto y Sammy, Mike Duran & Baby Angel)",
           "artists": [
             "Trap Capos",
@@ -579,7 +555,7 @@
           "duration_ms": 303640
         },
         {
-          "rank": 47,
+          "rank": 45,
           "name": "For All I Know",
           "artists": [
             "Bury Me With You"
@@ -591,7 +567,19 @@
           "duration_ms": 192147
         },
         {
-          "rank": 48,
+          "rank": 46,
+          "name": "Flor De Michoacán",
+          "artists": [
+            "Menny Flores"
+          ],
+          "album": "Flor De Michoacán",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
+          "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3",
+          "url": "https://open.spotify.com/track/33vQCR90JDkXzcRvRVi0H3",
+          "duration_ms": 193853
+        },
+        {
+          "rank": 47,
           "name": "Nobody New",
           "artists": [
             "The Marías"
@@ -603,7 +591,7 @@
           "duration_ms": 215200
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Ay No Puedo",
           "artists": [
             "The Marías"
@@ -615,7 +603,7 @@
           "duration_ms": 181546
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Block Of Flats",
           "artists": [
             "Loathe",
@@ -626,6 +614,18 @@
           "uri": "spotify:track:3ovTVdjeOH27MKv1Gd6jPH",
           "url": "https://open.spotify.com/track/3ovTVdjeOH27MKv1Gd6jPH",
           "duration_ms": 346053
+        },
+        {
+          "rank": 50,
+          "name": "Today I Saw The Whole World",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "Misadventures",
+          "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+          "uri": "spotify:track:48vr34351V9Sz1QVxmbYNf",
+          "url": "https://open.spotify.com/track/48vr34351V9Sz1QVxmbYNf",
+          "duration_ms": 221960
         }
       ],
       "artists": [

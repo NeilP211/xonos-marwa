@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-18T18:39:31.664Z",
+  "updated_at": "2026-08-18T21:26:00.924Z",
   "is_playing": false,
   "track": {
-    "name": "Hysteric Glamour",
+    "name": "Faded Love",
     "artists": [
-      "Tabber"
+      "Wonder Girls"
     ],
-    "album": "Hysteric Glamour",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a38874a022c4adb163629820",
-    "uri": "spotify:track:6N6qFybzXW3ntTLo4vlaG9"
+    "album": "REBOOT",
+    "image": "https://i.scdn.co/image/ab67616d0000b273af44773914c32c0327509e57",
+    "uri": "spotify:track:0atlweNQsTyvhaXLJZvyba"
   },
-  "played_at": "2026-08-18T18:39:01.240Z"
+  "played_at": "2026-08-18T19:06:44.065Z"
 }
