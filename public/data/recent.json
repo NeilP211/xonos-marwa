@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T15:33:09.514Z",
+  "updated_at": "2026-08-18T18:39:31.604Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -13371,6 +13371,161 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735503eeb8dc15639de719dd03",
       "uri": "spotify:track:5NQpRUfFQh3jB0guBAkYWu",
       "duration_ms": 180013
+    },
+    {
+      "played_at": "2026-08-18T16:49:09.128Z",
+      "name": "Last Scene",
+      "artists": [
+        "g0nny"
+      ],
+      "album": "Last Scene",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1ccffb7368cbca7d67d1a1a",
+      "uri": "spotify:track:0tJU0IwpKmUSg2uFOZ7RC6",
+      "duration_ms": 226000
+    },
+    {
+      "played_at": "2026-08-18T16:54:47.759Z",
+      "name": "Last Scene",
+      "artists": [
+        "g0nny"
+      ],
+      "album": "Last Scene",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1ccffb7368cbca7d67d1a1a",
+      "uri": "spotify:track:0tJU0IwpKmUSg2uFOZ7RC6",
+      "duration_ms": 226000
+    },
+    {
+      "played_at": "2026-08-18T16:58:42.530Z",
+      "name": "BAND-AID",
+      "artists": [
+        "CHAEYOUNG"
+      ],
+      "album": "LIL FANTASY vol.1",
+      "image": "https://i.scdn.co/image/ab67616d0000b273759b87e84c739bb9ff57b6ac",
+      "uri": "spotify:track:0K0HJ6NQeU9pKdJIC4KXTm",
+      "duration_ms": 145643
+    },
+    {
+      "played_at": "2026-08-18T17:02:29.122Z",
+      "name": "NOT ME!",
+      "artists": [
+        "jeebanoff"
+      ],
+      "album": "Talking Book",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735faa97a43955e4de1b892878",
+      "uri": "spotify:track:5ZerthyBS6NWAOwuPCSftJ",
+      "duration_ms": 190097
+    },
+    {
+      "played_at": "2026-08-18T17:07:34.772Z",
+      "name": "I Love It",
+      "artists": [
+        "DEAN",
+        "DOK2"
+      ],
+      "album": "130 Mood : TRBL",
+      "image": "https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3",
+      "uri": "spotify:track:6CBA5xTE7Z4cyA9rzlhFdA",
+      "duration_ms": 216559
+    },
+    {
+      "played_at": "2026-08-18T17:11:40.337Z",
+      "name": "MIMI",
+      "artists": [
+        "youra"
+      ],
+      "album": "GAUSSIAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273878494aab27d59546c00ef1e",
+      "uri": "spotify:track:4RfVtka58I93lEnPsLlBEZ",
+      "duration_ms": 207413
+    },
+    {
+      "played_at": "2026-08-18T17:16:36.227Z",
+      "name": "Chroma Drift",
+      "artists": [
+        "PLAVE"
+      ],
+      "album": "Caligo Pt.1",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ca59009b95be7b850357de10",
+      "uri": "spotify:track:0BA3uoKlu9CsHgXIeAiXmJ",
+      "duration_ms": 210826
+    },
+    {
+      "played_at": "2026-08-18T17:22:34.267Z",
+      "name": "Animal Farm",
+      "artists": [
+        "BIBI"
+      ],
+      "album": "Lowlife Princess: Noir",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733ff822c49ebd2697d6c17371",
+      "uri": "spotify:track:52E1RaEQsm97GgjFQCER9L",
+      "duration_ms": 203945
+    },
+    {
+      "played_at": "2026-08-18T17:26:01.436Z",
+      "name": "Why So Lonely",
+      "artists": [
+        "Wonder Girls"
+      ],
+      "album": "Why So Lonely",
+      "image": "https://i.scdn.co/image/ab67616d0000b273544a6e99632cd340e1619796",
+      "uri": "spotify:track:2FBNkgK3GbF2tVWxKNFRjX",
+      "duration_ms": 206706
+    },
+    {
+      "played_at": "2026-08-18T17:39:03.763Z",
+      "name": "Midnight Cruise",
+      "artists": [
+        "BIBI"
+      ],
+      "album": "EVE: ROMANCE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aed0f31dcd91c3c0a4a6ca73",
+      "uri": "spotify:track:5V07BlPJAYdvu7oF1SkN64",
+      "duration_ms": 164936
+    },
+    {
+      "played_at": "2026-08-18T17:42:04.102Z",
+      "name": "Sugarcoat (NATTY Solo)",
+      "artists": [
+        "KISS OF LIFE"
+      ],
+      "album": "KISS OF LIFE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c",
+      "uri": "spotify:track:0NoeYUnwpb9R26mpylHcR9",
+      "duration_ms": 179866
+    },
+    {
+      "played_at": "2026-08-18T17:45:41.677Z",
+      "name": "Pygma girl",
+      "artists": [
+        "BIBI"
+      ],
+      "album": "EVE: ROMANCE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aed0f31dcd91c3c0a4a6ca73",
+      "uri": "spotify:track:5fR0q66vzg3bCvH2vhBFUe",
+      "duration_ms": 217060
+    },
+    {
+      "played_at": "2026-08-18T17:57:43.441Z",
+      "name": "Go Back",
+      "artists": [
+        "SE SO NEON"
+      ],
+      "album": "Go Back",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bfcfaab84a69c353c8073f05",
+      "uri": "spotify:track:437zT0VOOlmLuhq6ugODHA",
+      "duration_ms": 227489
+    },
+    {
+      "played_at": "2026-08-18T18:39:01.240Z",
+      "name": "Hysteric Glamour",
+      "artists": [
+        "Tabber"
+      ],
+      "album": "Hysteric Glamour",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a38874a022c4adb163629820",
+      "uri": "spotify:track:6N6qFybzXW3ntTLo4vlaG9",
+      "duration_ms": 174756
     }
   ]
 }

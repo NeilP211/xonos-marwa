@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T15:33:09.466Z",
+  "generated_at": "2026-08-18T18:39:31.457Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -55,30 +55,6 @@
         },
         {
           "rank": 5,
-          "name": "Resilience",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
-          "url": "https://open.spotify.com/track/08vqJRf0PuLF1YACmIG3o8",
-          "duration_ms": 220360
-        },
-        {
-          "rank": 6,
-          "name": "All My Heart",
-          "artists": [
-            "Sleeping With Sirens"
-          ],
-          "album": "Let's Cheers To This",
-          "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
-          "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
-          "url": "https://open.spotify.com/track/5ANZkftsPAO0yhynm9jwlU",
-          "duration_ms": 279293
-        },
-        {
-          "rank": 7,
           "name": "Flaca",
           "artists": [
             "Cultura Profética",
@@ -91,7 +67,19 @@
           "duration_ms": 255875
         },
         {
-          "rank": 8,
+          "rank": 6,
+          "name": "Resilience",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+          "url": "https://open.spotify.com/track/08vqJRf0PuLF1YACmIG3o8",
+          "duration_ms": 220360
+        },
+        {
+          "rank": 7,
           "name": "Toronto",
           "artists": [
             "Nandé",
@@ -105,7 +93,7 @@
           "duration_ms": 198888
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Is It Really You?",
           "artists": [
             "Loathe"
@@ -117,7 +105,7 @@
           "duration_ms": 287627
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Mi Atención",
           "artists": [
             "Martox"
@@ -127,6 +115,18 @@
           "uri": "spotify:track:0KXKWw0nTmIvCKkFcYVhes",
           "url": "https://open.spotify.com/track/0KXKWw0nTmIvCKkFcYVhes",
           "duration_ms": 212179
+        },
+        {
+          "rank": 10,
+          "name": "All My Heart",
+          "artists": [
+            "Sleeping With Sirens"
+          ],
+          "album": "Let's Cheers To This",
+          "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+          "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
+          "url": "https://open.spotify.com/track/5ANZkftsPAO0yhynm9jwlU",
+          "duration_ms": 279293
         },
         {
           "rank": 11,
@@ -312,6 +312,257 @@
         },
         {
           "rank": 26,
+          "name": "So Far So Fake",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:3fWibgdtgIie6LKTZ2rUoI",
+          "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI",
+          "duration_ms": 236160
+        },
+        {
+          "rank": 27,
+          "name": "Descifrar",
+          "artists": [
+            "maye"
+          ],
+          "album": "Descifrar",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
+          "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
+          "url": "https://open.spotify.com/track/431vrxogdCt65ZSWfUrP1G",
+          "duration_ms": 178700
+        },
+        {
+          "rank": 28,
+          "name": "ULTIMA VEZ",
+          "artists": [
+            "Becky G"
+          ],
+          "album": "ENCUENTROS",
+          "image": "https://i.scdn.co/image/ab67616d0000b273dbfbee12776b67e143bf8bcf",
+          "uri": "spotify:track:6v1lkugKv62O74e8eABtQu",
+          "url": "https://open.spotify.com/track/6v1lkugKv62O74e8eABtQu",
+          "duration_ms": 194706
+        },
+        {
+          "rank": 29,
+          "name": "Pressure",
+          "artists": [
+            "Paramore"
+          ],
+          "album": "All We Know Is Falling",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
+          "uri": "spotify:track:7mG2RbhyzGsjpQOz568d39",
+          "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39",
+          "duration_ms": 185733
+        },
+        {
+          "rank": 30,
+          "name": "I Will Be Your Friend",
+          "artists": [
+            "Sade"
+          ],
+          "album": "Diamond Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ad27e16c5f844ea1ad6797cd",
+          "uri": "spotify:track:29pqGFsm1NPsVHfSrjaDUJ",
+          "url": "https://open.spotify.com/track/29pqGFsm1NPsVHfSrjaDUJ",
+          "duration_ms": 283426
+        },
+        {
+          "rank": 31,
+          "name": "COQUETA",
+          "artists": [
+            "Fuerza Regida",
+            "Grupo Frontera"
+          ],
+          "album": "MALA MÍA",
+          "image": "https://i.scdn.co/image/ab67616d0000b27304874856f3c501181d060128",
+          "uri": "spotify:track:1PREzVLuDT6PSE9sej4wnV",
+          "url": "https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV",
+          "duration_ms": 241648
+        },
+        {
+          "rank": 32,
+          "name": "CANAIMA",
+          "artists": [
+            "Big Soto",
+            "Danny Ocean"
+          ],
+          "album": "NOSTALGIA CITY",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e427ca2cdd9702fe60ec4ddd",
+          "uri": "spotify:track:1PqEsoekuO7LmxQC0ybQ3z",
+          "url": "https://open.spotify.com/track/1PqEsoekuO7LmxQC0ybQ3z",
+          "duration_ms": 151967
+        },
+        {
+          "rank": 33,
+          "name": "La Gloria Eres Tu",
+          "artists": [
+            "Luis Miguel"
+          ],
+          "album": "Romances",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c57a66b0e7b4f65850594107",
+          "uri": "spotify:track:5SPUsNcUtRUpAPj7rJq7CD",
+          "url": "https://open.spotify.com/track/5SPUsNcUtRUpAPj7rJq7CD",
+          "duration_ms": 202760
+        },
+        {
+          "rank": 34,
+          "name": "Flor De Michoacán",
+          "artists": [
+            "Menny Flores"
+          ],
+          "album": "Flor De Michoacán",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
+          "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3",
+          "url": "https://open.spotify.com/track/33vQCR90JDkXzcRvRVi0H3",
+          "duration_ms": 193853
+        },
+        {
+          "rank": 35,
+          "name": "당돌한 여자",
+          "artists": [
+            "JIHYO",
+            "NAYEON",
+            "쯔위",
+            "Chaeyeong"
+          ],
+          "album": "투유 프로젝트 - 슈가맨 Pt.11",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e3c5360152c87edc29302306",
+          "uri": "spotify:track:7AqScxClmkJdqHZjWSkKH8",
+          "url": "https://open.spotify.com/track/7AqScxClmkJdqHZjWSkKH8",
+          "duration_ms": 185533
+        },
+        {
+          "rank": 36,
+          "name": "No Stranger To You...",
+          "artists": [
+            "Loathe"
+          ],
+          "album": "A Stranger To You",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+          "uri": "spotify:track:7rZetbeg5iTN98VcGRljsO",
+          "url": "https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO",
+          "duration_ms": 288000
+        },
+        {
+          "rank": 37,
+          "name": "A Veces Tu, A Veces Yo",
+          "artists": [
+            "Julio Iglesias"
+          ],
+          "album": "El Amor",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730c30c4a5ffff61a7f0ec065b",
+          "uri": "spotify:track:0EOhH2L1RVEvssIltBES3E",
+          "url": "https://open.spotify.com/track/0EOhH2L1RVEvssIltBES3E",
+          "duration_ms": 171493
+        },
+        {
+          "rank": 38,
+          "name": "Deseándote",
+          "artists": [
+            "Frankie Ruiz"
+          ],
+          "album": "Frankie Ruiz La Leyenda",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
+          "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
+          "url": "https://open.spotify.com/track/0FsXZAMf6NACvNJ2LI6ySp",
+          "duration_ms": 281333
+        },
+        {
+          "rank": 39,
+          "name": "Un Ratito",
+          "artists": [
+            "La Isla Centeno"
+          ],
+          "album": "Medianoche",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e1555524026379924f950859",
+          "uri": "spotify:track:0UdIQSZNxYKBd47fV9eRlq",
+          "url": "https://open.spotify.com/track/0UdIQSZNxYKBd47fV9eRlq",
+          "duration_ms": 180000
+        },
+        {
+          "rank": 40,
+          "name": "Red Swan",
+          "artists": [
+            "YOSHIKI",
+            "HYDE"
+          ],
+          "album": "Red Swan",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
+          "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX",
+          "url": "https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX",
+          "duration_ms": 263720
+        },
+        {
+          "rank": 41,
+          "name": "Ojos Tristes (with The Marías)",
+          "artists": [
+            "Selena Gomez",
+            "benny blanco",
+            "The Marías"
+          ],
+          "album": "I Said I Love You First",
+          "image": "https://i.scdn.co/image/ab67616d0000b27302479f0a8f30875dce4a35be",
+          "uri": "spotify:track:1DpC4L3JjsGRW7y6eTHaMj",
+          "url": "https://open.spotify.com/track/1DpC4L3JjsGRW7y6eTHaMj",
+          "duration_ms": 201920
+        },
+        {
+          "rank": 42,
+          "name": "Flxr",
+          "artists": [
+            "OsamaSon"
+          ],
+          "album": "Flex Musix (FLXTRA)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736f3676f3d941404a69fe5caf",
+          "uri": "spotify:track:1zCXBi4exzsUGCq73vG10v",
+          "url": "https://open.spotify.com/track/1zCXBi4exzsUGCq73vG10v",
+          "duration_ms": 105144
+        },
+        {
+          "rank": 43,
+          "name": "capaz (merengueton)",
+          "artists": [
+            "Alleh",
+            "Yorghaki"
+          ],
+          "album": "LA CIUDAD",
+          "image": "https://i.scdn.co/image/ab67616d0000b27353596a050e8369c51da11029",
+          "uri": "spotify:track:2dd3G3ZqEcG2cNS1tp3oEk",
+          "url": "https://open.spotify.com/track/2dd3G3ZqEcG2cNS1tp3oEk",
+          "duration_ms": 173858
+        },
+        {
+          "rank": 44,
+          "name": "Te Pue' Cuidar",
+          "artists": [
+            "Brray",
+            "Rauw Alejandro"
+          ],
+          "album": "Err Bambini",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732ef5da265b2bd7e6a9a0dfad",
+          "uri": "spotify:track:2echCKqz515YJli33xrrad",
+          "url": "https://open.spotify.com/track/2echCKqz515YJli33xrrad",
+          "duration_ms": 231586
+        },
+        {
+          "rank": 45,
+          "name": "اثينا",
+          "artists": [
+            "Loathe",
+            "bucki sugar"
+          ],
+          "album": "A Stranger To You",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+          "uri": "spotify:track:2rEecgbKjRo5JwDL6Q4HN1",
+          "url": "https://open.spotify.com/track/2rEecgbKjRo5JwDL6Q4HN1",
+          "duration_ms": 127133
+        },
+        {
+          "rank": 46,
           "name": "La Paso Cabrón (feat. Gigolo y La Exce, Falsetto y Sammy, Mike Duran & Baby Angel)",
           "artists": [
             "Trap Capos",
@@ -328,304 +579,53 @@
           "duration_ms": 303640
         },
         {
-          "rank": 27,
-          "name": "So Far So Fake",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:3fWibgdtgIie6LKTZ2rUoI",
-          "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI",
-          "duration_ms": 236160
-        },
-        {
-          "rank": 28,
-          "name": "Descifrar",
-          "artists": [
-            "maye"
-          ],
-          "album": "Descifrar",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
-          "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
-          "url": "https://open.spotify.com/track/431vrxogdCt65ZSWfUrP1G",
-          "duration_ms": 178700
-        },
-        {
-          "rank": 29,
-          "name": "love song",
-          "artists": [
-            "Lee Yerin"
-          ],
-          "album": "love song",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730ff6834ec0e689a5c207c6d8",
-          "uri": "spotify:track:4YK6kyQr9E3KRdi08w3pQz",
-          "url": "https://open.spotify.com/track/4YK6kyQr9E3KRdi08w3pQz",
-          "duration_ms": 203658
-        },
-        {
-          "rank": 30,
-          "name": "ULTIMA VEZ",
-          "artists": [
-            "Becky G"
-          ],
-          "album": "ENCUENTROS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273dbfbee12776b67e143bf8bcf",
-          "uri": "spotify:track:6v1lkugKv62O74e8eABtQu",
-          "url": "https://open.spotify.com/track/6v1lkugKv62O74e8eABtQu",
-          "duration_ms": 194706
-        },
-        {
-          "rank": 31,
-          "name": "Pressure",
-          "artists": [
-            "Paramore"
-          ],
-          "album": "All We Know Is Falling",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
-          "uri": "spotify:track:7mG2RbhyzGsjpQOz568d39",
-          "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39",
-          "duration_ms": 185733
-        },
-        {
-          "rank": 32,
-          "name": "I Will Be Your Friend",
-          "artists": [
-            "Sade"
-          ],
-          "album": "Diamond Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ad27e16c5f844ea1ad6797cd",
-          "uri": "spotify:track:29pqGFsm1NPsVHfSrjaDUJ",
-          "url": "https://open.spotify.com/track/29pqGFsm1NPsVHfSrjaDUJ",
-          "duration_ms": 283426
-        },
-        {
-          "rank": 33,
-          "name": "COQUETA",
-          "artists": [
-            "Fuerza Regida",
-            "Grupo Frontera"
-          ],
-          "album": "MALA MÍA",
-          "image": "https://i.scdn.co/image/ab67616d0000b27304874856f3c501181d060128",
-          "uri": "spotify:track:1PREzVLuDT6PSE9sej4wnV",
-          "url": "https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV",
-          "duration_ms": 241648
-        },
-        {
-          "rank": 34,
-          "name": "CANAIMA",
-          "artists": [
-            "Big Soto",
-            "Danny Ocean"
-          ],
-          "album": "NOSTALGIA CITY",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e427ca2cdd9702fe60ec4ddd",
-          "uri": "spotify:track:1PqEsoekuO7LmxQC0ybQ3z",
-          "url": "https://open.spotify.com/track/1PqEsoekuO7LmxQC0ybQ3z",
-          "duration_ms": 151967
-        },
-        {
-          "rank": 35,
-          "name": "See You Around?",
-          "artists": [
-            "Mahfouz"
-          ],
-          "album": "See You Around?",
-          "image": "https://i.scdn.co/image/ab67616d0000b273796f6dedcf655d6502623326",
-          "uri": "spotify:track:2bsx9BLCFXv9Kz3JJW4MhB",
-          "url": "https://open.spotify.com/track/2bsx9BLCFXv9Kz3JJW4MhB",
-          "duration_ms": 215040
-        },
-        {
-          "rank": 36,
-          "name": "La Gloria Eres Tu",
-          "artists": [
-            "Luis Miguel"
-          ],
-          "album": "Romances",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c57a66b0e7b4f65850594107",
-          "uri": "spotify:track:5SPUsNcUtRUpAPj7rJq7CD",
-          "url": "https://open.spotify.com/track/5SPUsNcUtRUpAPj7rJq7CD",
-          "duration_ms": 202760
-        },
-        {
-          "rank": 37,
-          "name": "Flor De Michoacán",
-          "artists": [
-            "Menny Flores"
-          ],
-          "album": "Flor De Michoacán",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
-          "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3",
-          "url": "https://open.spotify.com/track/33vQCR90JDkXzcRvRVi0H3",
-          "duration_ms": 193853
-        },
-        {
-          "rank": 38,
-          "name": "당돌한 여자",
-          "artists": [
-            "JIHYO",
-            "NAYEON",
-            "쯔위",
-            "Chaeyeong"
-          ],
-          "album": "투유 프로젝트 - 슈가맨 Pt.11",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e3c5360152c87edc29302306",
-          "uri": "spotify:track:7AqScxClmkJdqHZjWSkKH8",
-          "url": "https://open.spotify.com/track/7AqScxClmkJdqHZjWSkKH8",
-          "duration_ms": 185533
-        },
-        {
-          "rank": 39,
-          "name": "No Stranger To You...",
-          "artists": [
-            "Loathe"
-          ],
-          "album": "A Stranger To You",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
-          "uri": "spotify:track:7rZetbeg5iTN98VcGRljsO",
-          "url": "https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO",
-          "duration_ms": 288000
-        },
-        {
-          "rank": 40,
-          "name": "A Veces Tu, A Veces Yo",
-          "artists": [
-            "Julio Iglesias"
-          ],
-          "album": "El Amor",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730c30c4a5ffff61a7f0ec065b",
-          "uri": "spotify:track:0EOhH2L1RVEvssIltBES3E",
-          "url": "https://open.spotify.com/track/0EOhH2L1RVEvssIltBES3E",
-          "duration_ms": 171493
-        },
-        {
-          "rank": 41,
-          "name": "Deseándote",
-          "artists": [
-            "Frankie Ruiz"
-          ],
-          "album": "Frankie Ruiz La Leyenda",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
-          "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
-          "url": "https://open.spotify.com/track/0FsXZAMf6NACvNJ2LI6ySp",
-          "duration_ms": 281333
-        },
-        {
-          "rank": 42,
-          "name": "Un Ratito",
-          "artists": [
-            "La Isla Centeno"
-          ],
-          "album": "Medianoche",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e1555524026379924f950859",
-          "uri": "spotify:track:0UdIQSZNxYKBd47fV9eRlq",
-          "url": "https://open.spotify.com/track/0UdIQSZNxYKBd47fV9eRlq",
-          "duration_ms": 180000
-        },
-        {
-          "rank": 43,
-          "name": "Red Swan",
-          "artists": [
-            "YOSHIKI",
-            "HYDE"
-          ],
-          "album": "Red Swan",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
-          "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX",
-          "url": "https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX",
-          "duration_ms": 263720
-        },
-        {
-          "rank": 44,
-          "name": "Ojos Tristes (with The Marías)",
-          "artists": [
-            "Selena Gomez",
-            "benny blanco",
-            "The Marías"
-          ],
-          "album": "I Said I Love You First",
-          "image": "https://i.scdn.co/image/ab67616d0000b27302479f0a8f30875dce4a35be",
-          "uri": "spotify:track:1DpC4L3JjsGRW7y6eTHaMj",
-          "url": "https://open.spotify.com/track/1DpC4L3JjsGRW7y6eTHaMj",
-          "duration_ms": 201920
-        },
-        {
-          "rank": 45,
-          "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
-          "artists": [
-            "DJ Khaled",
-            "Rihanna",
-            "Bryson Tiller"
-          ],
-          "album": "Grateful",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f2b55cfff049e03f92834b50",
-          "uri": "spotify:track:1OAh8uOEOvTDqkKFsKksCi",
-          "url": "https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi",
-          "duration_ms": 204173
-        },
-        {
-          "rank": 46,
-          "name": "Yally Zaalan",
-          "artists": [
-            "Mohamed Hamaki"
-          ],
-          "album": "Omroh Ma Yeghib",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733bbba5c0407a0522f97e07dd",
-          "uri": "spotify:track:1gJfRu9I7hadI70g3YEyt8",
-          "url": "https://open.spotify.com/track/1gJfRu9I7hadI70g3YEyt8",
-          "duration_ms": 292440
-        },
-        {
           "rank": 47,
-          "name": "Let Love Bleed Red",
+          "name": "For All I Know",
           "artists": [
-            "Sleeping With Sirens"
+            "Bury Me With You"
           ],
-          "album": "With Ears To See And Eyes To Hear",
-          "image": "https://i.scdn.co/image/ab67616d0000b273032fd22bde573d0746c87352",
-          "uri": "spotify:track:1v8RDUkhH5wR9IBrC6Hroy",
-          "url": "https://open.spotify.com/track/1v8RDUkhH5wR9IBrC6Hroy",
-          "duration_ms": 222493
+          "album": "Caskets For Two",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736c53d16a591c0282852df2a0",
+          "uri": "spotify:track:30oj4DBRqrypU1963sr0k4",
+          "url": "https://open.spotify.com/track/30oj4DBRqrypU1963sr0k4",
+          "duration_ms": 192147
         },
         {
           "rank": 48,
-          "name": "Flxr",
+          "name": "Nobody New",
           "artists": [
-            "OsamaSon"
+            "The Marías"
           ],
-          "album": "Flex Musix (FLXTRA)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736f3676f3d941404a69fe5caf",
-          "uri": "spotify:track:1zCXBi4exzsUGCq73vG10v",
-          "url": "https://open.spotify.com/track/1zCXBi4exzsUGCq73vG10v",
-          "duration_ms": 105144
+          "album": "Nobody New",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734076c62eeace86cc7bde7aef",
+          "uri": "spotify:track:3BUc2A0MJ53FHwiy3eohBt",
+          "url": "https://open.spotify.com/track/3BUc2A0MJ53FHwiy3eohBt",
+          "duration_ms": 215200
         },
         {
           "rank": 49,
-          "name": "capaz (merengueton)",
+          "name": "Ay No Puedo",
           "artists": [
-            "Alleh",
-            "Yorghaki"
+            "The Marías"
           ],
-          "album": "LA CIUDAD",
-          "image": "https://i.scdn.co/image/ab67616d0000b27353596a050e8369c51da11029",
-          "uri": "spotify:track:2dd3G3ZqEcG2cNS1tp3oEk",
-          "url": "https://open.spotify.com/track/2dd3G3ZqEcG2cNS1tp3oEk",
-          "duration_ms": 173858
+          "album": "Submarine",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831",
+          "uri": "spotify:track:3L0JDlycMhSA7R0M0OfNIY",
+          "url": "https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY",
+          "duration_ms": 181546
         },
         {
           "rank": 50,
-          "name": "Te Pue' Cuidar",
+          "name": "Block Of Flats",
           "artists": [
-            "Brray",
-            "Rauw Alejandro"
+            "Loathe",
+            "Static Dress"
           ],
-          "album": "Err Bambini",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732ef5da265b2bd7e6a9a0dfad",
-          "uri": "spotify:track:2echCKqz515YJli33xrrad",
-          "url": "https://open.spotify.com/track/2echCKqz515YJli33xrrad",
-          "duration_ms": 231586
+          "album": "A Stranger To You",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+          "uri": "spotify:track:3ovTVdjeOH27MKv1Gd6jPH",
+          "url": "https://open.spotify.com/track/3ovTVdjeOH27MKv1Gd6jPH",
+          "duration_ms": 346053
         }
       ],
       "artists": [
@@ -679,30 +679,6 @@
         },
         {
           "rank": 7,
-          "name": "Sleeping With Sirens",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb1e2ceb6044f42f7c6dde5433",
-          "genres": [],
-          "uri": "spotify:artist:3N8Hy6xQnQv1F1XCiyGQqA",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        },
-        {
-          "rank": 8,
-          "name": "Bad Bunny",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
-          "genres": [],
-          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "rank": 9,
-          "name": "Rawayana",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb5d52d93053343dc60653bbde",
-          "genres": [],
-          "uri": "spotify:artist:2AbQwU2cuEGfD465wCXlg2",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "rank": 10,
           "name": "Maluma",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1b0d196ca84f4a0d076b4570",
           "genres": [],
@@ -710,7 +686,23 @@
           "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         },
         {
-          "rank": 11,
+          "rank": 8,
+          "name": "Rawayana",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb5d52d93053343dc60653bbde",
+          "genres": [],
+          "uri": "spotify:artist:2AbQwU2cuEGfD465wCXlg2",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "rank": 9,
+          "name": "Bad Bunny",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
+          "genres": [],
+          "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "rank": 10,
           "name": "maye",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc44bdd7c78e751026c67857c",
           "genres": [],
@@ -718,7 +710,7 @@
           "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "J Balvin",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0405b03342c2e56751b9923d",
           "genres": [],
@@ -726,7 +718,7 @@
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Manuel Lizarazo",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8dcc84acf5e98c1dbeed63e8",
           "genres": [],
@@ -734,7 +726,7 @@
           "url": "https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "wave to earth",
           "image": "https://i.scdn.co/image/ab6761610000e5eb11fa75d331351ecfc2e93faf",
           "genres": [],
@@ -742,15 +734,7 @@
           "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
         },
         {
-          "rank": 15,
-          "name": "KAROL G",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb3869e286c9043f85e8e4bc06",
-          "genres": [],
-          "uri": "spotify:artist:790FomKkXshlbRYZFtlgla",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "rank": 16,
+          "rank": 14,
           "name": "La Cassandra",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0e36113807a01c6d03538d16",
           "genres": [],
@@ -758,7 +742,7 @@
           "url": "https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw"
         },
         {
-          "rank": 17,
+          "rank": 15,
           "name": "Feid",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e529f4ad13f86c69962cb12",
           "genres": [],
@@ -766,15 +750,7 @@
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "rank": 18,
-          "name": "Deftones",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
-          "genres": [],
-          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        },
-        {
-          "rank": 19,
+          "rank": 16,
           "name": "Rauw Alejandro",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6d72db3fd29576caa9cb821f",
           "genres": [],
@@ -782,39 +758,23 @@
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "rank": 20,
-          "name": "TUL8TE",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
+          "rank": 17,
+          "name": "Deftones",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
-          "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
-          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 21,
-          "name": "Saint Levant",
-          "image": "https://i.scdn.co/image/ab6761610000e5eba6cf77fbcdc8d5f9bf33a032",
+          "rank": 18,
+          "name": "KAROL G",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb3869e286c9043f85e8e4bc06",
           "genres": [],
-          "uri": "spotify:artist:5ZZsFnpO7frU8h5xH1wtjT",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+          "uri": "spotify:artist:790FomKkXshlbRYZFtlgla",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
         {
-          "rank": 22,
-          "name": "My Chemical Romance",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb9c00ad0308287b38b8fdabc2",
-          "genres": [],
-          "uri": "spotify:artist:7FBcuc1gsnv6Y1nwFtNRCb",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        },
-        {
-          "rank": 23,
-          "name": "Jasiel Nuñez",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb9658b7f44b66e675013ee372",
-          "genres": [],
-          "uri": "spotify:artist:0T8Ix53aIN4F7aEKj4EnKy",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "rank": 24,
+          "rank": 19,
           "name": "BIBI",
           "image": "https://i.scdn.co/image/ab6761610000e5ebba83b68a9ffebc68cf5003e1",
           "genres": [],
@@ -822,7 +782,31 @@
           "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         },
         {
-          "rank": 25,
+          "rank": 20,
+          "name": "Sleeping With Sirens",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb1e2ceb6044f42f7c6dde5433",
+          "genres": [],
+          "uri": "spotify:artist:3N8Hy6xQnQv1F1XCiyGQqA",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        },
+        {
+          "rank": 21,
+          "name": "My Chemical Romance",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb9c00ad0308287b38b8fdabc2",
+          "genres": [],
+          "uri": "spotify:artist:7FBcuc1gsnv6Y1nwFtNRCb",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        },
+        {
+          "rank": 22,
+          "name": "Jasiel Nuñez",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb9658b7f44b66e675013ee372",
+          "genres": [],
+          "uri": "spotify:artist:0T8Ix53aIN4F7aEKj4EnKy",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "rank": 23,
           "name": "JAEHYUN",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb1300fcdeb3f107cb34a402f",
           "genres": [],
@@ -830,7 +814,7 @@
           "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
         },
         {
-          "rank": 26,
+          "rank": 24,
           "name": "Wisp",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
           "genres": [],
@@ -838,7 +822,7 @@
           "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         },
         {
-          "rank": 27,
+          "rank": 25,
           "name": "NewJeans",
           "image": "https://i.scdn.co/image/ab6761610000e5eb841bdcf28a956f3a384ffcf4",
           "genres": [],
@@ -846,47 +830,7 @@
           "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         },
         {
-          "rank": 28,
-          "name": "The Weeknd",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
-          "genres": [],
-          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "rank": 29,
-          "name": "Radiohead",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb4104fbd80f1f795728abbd59",
-          "genres": [],
-          "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        },
-        {
-          "rank": 30,
-          "name": "Gemini",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb7ab6efd2c31f175164b0ca4f",
-          "genres": [],
-          "uri": "spotify:artist:67IWlRdLy3UcfY3q968euj",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
-        },
-        {
-          "rank": 31,
-          "name": "Paramore",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
-          "genres": [],
-          "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        },
-        {
-          "rank": 32,
-          "name": "Rels B",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb15cc5d75a093b40a9be0ff5c",
-          "genres": [],
-          "uri": "spotify:artist:2IMZYfNi21MGqxopj9fWx8",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "rank": 33,
+          "rank": 26,
           "name": "DEAN",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0380068b5097515265c51f4b",
           "genres": [],
@@ -894,23 +838,31 @@
           "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
         },
         {
-          "rank": 34,
-          "name": "Adolescent's Orquesta",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb85cbe9f05b11e3ea3d20ff0b",
+          "rank": 27,
+          "name": "Radiohead",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb4104fbd80f1f795728abbd59",
           "genres": [],
-          "uri": "spotify:artist:70nxnxEqDQIEWneRjg2Q4O",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+          "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         },
         {
-          "rank": 35,
-          "name": "Bruno Mars",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc7688aad1bf03986934d7e26",
+          "rank": 28,
+          "name": "Gemini",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb7ab6efd2c31f175164b0ca4f",
           "genres": [],
-          "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "uri": "spotify:artist:67IWlRdLy3UcfY3q968euj",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
         },
         {
-          "rank": 36,
+          "rank": 29,
+          "name": "Paramore",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
+          "genres": [],
+          "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        },
+        {
+          "rank": 30,
           "name": "SWEET SPINE",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7c2eb9baf53a42dd4be9fc6f",
           "genres": [],
@@ -918,7 +870,7 @@
           "url": "https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff"
         },
         {
-          "rank": 37,
+          "rank": 31,
           "name": "ENHYPEN",
           "image": "https://i.scdn.co/image/ab6761610000e5eb590b808769f5826ce94d1dd4",
           "genres": [],
@@ -926,7 +878,7 @@
           "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         },
         {
-          "rank": 38,
+          "rank": 32,
           "name": "Isles & Glaciers",
           "image": "https://i.scdn.co/image/ab67616d0000b273e347aa93ae66368940be31b9",
           "genres": [],

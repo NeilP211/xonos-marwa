@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-18T15:33:09.555Z",
+  "updated_at": "2026-08-18T18:39:31.664Z",
   "is_playing": false,
   "track": {
-    "name": "Heaven",
+    "name": "Hysteric Glamour",
     "artists": [
-      "Red Velvet - IRENE & SEULGI"
+      "Tabber"
     ],
-    "album": "TILT - The 2nd Mini Album",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735503eeb8dc15639de719dd03",
-    "uri": "spotify:track:5NQpRUfFQh3jB0guBAkYWu"
+    "album": "Hysteric Glamour",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a38874a022c4adb163629820",
+    "uri": "spotify:track:6N6qFybzXW3ntTLo4vlaG9"
   },
-  "played_at": "2026-08-17T16:05:24.469Z"
+  "played_at": "2026-08-18T18:39:01.240Z"
 }
