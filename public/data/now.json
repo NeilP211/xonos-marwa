@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-08-19T18:37:16.839Z",
+  "updated_at": "2026-08-19T21:26:14.857Z",
   "is_playing": false,
   "track": {
-    "name": "Safety Zone",
+    "name": "Try Again",
     "artists": [
-      "LEEHI"
+      "JAEHYUN",
+      "d.ear"
     ],
-    "album": "4 ONLY",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69",
-    "uri": "spotify:track:4yUrkvM634vJTljUN9gDxV"
+    "album": "Try Again - SM STATION",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733e3eb54b0842a353b2a7ec00",
+    "uri": "spotify:track:4Sav8RLaXMBpTZX6xNPj0K"
   },
-  "played_at": "2026-08-19T16:05:33.557Z"
+  "played_at": "2026-08-19T19:03:37.593Z"
 }
