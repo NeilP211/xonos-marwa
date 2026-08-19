@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T15:32:48.873Z",
+  "updated_at": "2026-08-19T18:37:16.803Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -13594,6 +13594,41 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273af44773914c32c0327509e57",
       "uri": "spotify:track:0atlweNQsTyvhaXLJZvyba",
       "duration_ms": 233306
+    },
+    {
+      "played_at": "2026-08-19T15:57:43.228Z",
+      "name": "긴 밤 (feat. GIRIBOY)",
+      "artists": [
+        "Seori",
+        "GIRIBOY"
+      ],
+      "album": "긴 밤 (feat. Giriboy)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732651ce5362d02b32f041ddc4",
+      "uri": "spotify:track:45ryK5kAHyUxV1C73fdur5",
+      "duration_ms": 210853
+    },
+    {
+      "played_at": "2026-08-19T16:01:25.018Z",
+      "name": "긴 밤 (feat. GIRIBOY)",
+      "artists": [
+        "Seori",
+        "GIRIBOY"
+      ],
+      "album": "긴 밤 (feat. Giriboy)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732651ce5362d02b32f041ddc4",
+      "uri": "spotify:track:45ryK5kAHyUxV1C73fdur5",
+      "duration_ms": 210853
+    },
+    {
+      "played_at": "2026-08-19T16:05:33.557Z",
+      "name": "Safety Zone",
+      "artists": [
+        "LEEHI"
+      ],
+      "album": "4 ONLY",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69",
+      "uri": "spotify:track:4yUrkvM634vJTljUN9gDxV",
+      "duration_ms": 248093
     }
   ]
 }

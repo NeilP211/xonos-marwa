@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T15:32:48.795Z",
+  "generated_at": "2026-08-19T18:37:16.690Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -855,19 +855,19 @@
         },
         {
           "rank": 29,
-          "name": "Wonder Girls",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855",
-          "genres": [],
-          "uri": "spotify:artist:3Cv2vi3WTl8VZOTdrBkKdM",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
-        },
-        {
-          "rank": 30,
           "name": "Paramore",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
           "genres": [],
           "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF",
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        },
+        {
+          "rank": 30,
+          "name": "Wonder Girls",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855",
+          "genres": [],
+          "uri": "spotify:artist:3Cv2vi3WTl8VZOTdrBkKdM",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
         },
         {
           "rank": 31,

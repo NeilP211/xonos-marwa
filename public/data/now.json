@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-19T15:32:48.978Z",
+  "updated_at": "2026-08-19T18:37:16.839Z",
   "is_playing": false,
   "track": {
-    "name": "Faded Love",
+    "name": "Safety Zone",
     "artists": [
-      "Wonder Girls"
+      "LEEHI"
     ],
-    "album": "REBOOT",
-    "image": "https://i.scdn.co/image/ab67616d0000b273af44773914c32c0327509e57",
-    "uri": "spotify:track:0atlweNQsTyvhaXLJZvyba"
+    "album": "4 ONLY",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69",
+    "uri": "spotify:track:4yUrkvM634vJTljUN9gDxV"
   },
-  "played_at": "2026-08-18T19:06:44.065Z"
+  "played_at": "2026-08-19T16:05:33.557Z"
 }
