@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-08-20T15:34:40.732Z",
+  "updated_at": "2026-08-20T18:40:33.559Z",
   "is_playing": false,
   "track": {
-    "name": "Try Again",
+    "name": "Desnúdate",
     "artists": [
-      "JAEHYUN",
-      "d.ear"
+      "J Balvin"
     ],
-    "album": "Try Again - SM STATION",
-    "image": "https://i.scdn.co/image/ab67616d0000b2733e3eb54b0842a353b2a7ec00",
-    "uri": "spotify:track:4Sav8RLaXMBpTZX6xNPj0K"
+    "album": "La Familia",
+    "image": "https://i.scdn.co/image/ab67616d0000b273eb748e8ded0f408299326b94",
+    "uri": "spotify:track:2NOrzvW356mqOjOJdrvA5A"
   },
-  "played_at": "2026-08-19T19:03:37.593Z"
+  "played_at": "2026-08-20T18:22:22.668Z"
 }

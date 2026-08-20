@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T15:34:40.606Z",
+  "updated_at": "2026-08-20T18:40:33.475Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -13653,6 +13653,260 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2733e3eb54b0842a353b2a7ec00",
       "uri": "spotify:track:4Sav8RLaXMBpTZX6xNPj0K",
       "duration_ms": 178233
+    },
+    {
+      "played_at": "2026-08-20T16:34:31.558Z",
+      "name": "Restless",
+      "artists": [
+        "BIBI"
+      ],
+      "album": "Restless",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738413c6700b3225e9bf59e417",
+      "uri": "spotify:track:2Lf2P7Hei9O23LeZQACn8E",
+      "duration_ms": 267080
+    },
+    {
+      "played_at": "2026-08-20T16:40:16.085Z",
+      "name": "Mi Casita",
+      "artists": [
+        "Motherflowers"
+      ],
+      "album": "Mi Casita",
+      "image": "https://i.scdn.co/image/ab67616d0000b27310a3574a92a96514c75b23ed",
+      "uri": "spotify:track:5MQPlCMoRXxIg1waL0Keo8",
+      "duration_ms": 249579
+    },
+    {
+      "played_at": "2026-08-20T16:44:40.059Z",
+      "name": "QUE HACES",
+      "artists": [
+        "Becky G",
+        "Manuel Turizo"
+      ],
+      "album": "QUE HACES",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cfdc7c6e909ced5ff7c2b1d3",
+      "uri": "spotify:track:4ad3yFpPEMFLnvCtvbman5",
+      "duration_ms": 171813
+    },
+    {
+      "played_at": "2026-08-20T16:48:01.756Z",
+      "name": "Sobrio",
+      "artists": [
+        "Maluma"
+      ],
+      "album": "Don Juan",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733922dfdc676790220e0a7750",
+      "uri": "spotify:track:387Dc03iCK2iZ6PBHU1Vb5",
+      "duration_ms": 201180
+    },
+    {
+      "played_at": "2026-08-20T16:54:56.657Z",
+      "name": "El Gran Varon",
+      "artists": [
+        "Willie Colón"
+      ],
+      "album": "Legal Alien - Top Secrets",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343592161a15d2c47d51e8996",
+      "uri": "spotify:track:3TyMFBLPobtMaH8oeY0sMP",
+      "duration_ms": 414380
+    },
+    {
+      "played_at": "2026-08-20T16:59:07.932Z",
+      "name": "AyMami",
+      "artists": [
+        "Danny Ocean",
+        "Kenia Os"
+      ],
+      "album": "Babylon Club",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734330d7d9762313dff66f1ca7",
+      "uri": "spotify:track:2G9IqD0eydBfEaQlNTjij8",
+      "duration_ms": 164131
+    },
+    {
+      "played_at": "2026-08-20T17:02:54.139Z",
+      "name": "Chica de Verde",
+      "artists": [
+        "Bruno Romano",
+        "Elisa González"
+      ],
+      "album": "Chica de Verde",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da9eccf72a3e9d55e41db1f4",
+      "uri": "spotify:track:6ZxsJwY5QgN6R0mRBYWrHf",
+      "duration_ms": 225694
+    },
+    {
+      "played_at": "2026-08-20T17:05:53.276Z",
+      "name": "Descifrar",
+      "artists": [
+        "maye"
+      ],
+      "album": "Descifrar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
+      "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
+      "duration_ms": 178700
+    },
+    {
+      "played_at": "2026-08-20T17:10:10.359Z",
+      "name": "ADO",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "@dannocean",
+      "image": "https://i.scdn.co/image/ab67616d0000b273219973bcf027114a95e7996b",
+      "uri": "spotify:track:0HE89WugytozUPv2B9TV8W",
+      "duration_ms": 174000
+    },
+    {
+      "played_at": "2026-08-20T17:15:14.232Z",
+      "name": "Lo Que Tiene",
+      "artists": [
+        "Morad",
+        "Beny Jr",
+        "Rvfv"
+      ],
+      "album": "Lo Que Tiene",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ba7ac064c8615ab42905fcae",
+      "uri": "spotify:track:2StaHvXQpcMaJvC7OyS25X",
+      "duration_ms": 259200
+    },
+    {
+      "played_at": "2026-08-20T17:24:19.867Z",
+      "name": "Al Calor de Tu Vida",
+      "artists": [
+        "Dulce y Agraz",
+        "Valdes"
+      ],
+      "album": "Al Calor de Tu Vida",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d516c4524c18a03f1da67388",
+      "uri": "spotify:track:0FwFphyWpbafJ89wvDiBSf",
+      "duration_ms": 183799
+    },
+    {
+      "played_at": "2026-08-20T17:31:31.367Z",
+      "name": "Si Antes Te Hubiera Conocido",
+      "artists": [
+        "KAROL G"
+      ],
+      "album": "Si Antes Te Hubiera Conocido",
+      "image": "https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e",
+      "uri": "spotify:track:6WatFBLVB0x077xWeoVc2k",
+      "duration_ms": 195824
+    },
+    {
+      "played_at": "2026-08-20T17:40:16.726Z",
+      "name": "Bolero Estelar",
+      "artists": [
+        "La Isla Centeno"
+      ],
+      "album": "Canciones Para El Volcán",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739540a18191d908bf060065d0",
+      "uri": "spotify:track:50qUo5YgqnEezvRXDEvVL9",
+      "duration_ms": 238406
+    },
+    {
+      "played_at": "2026-08-20T17:44:27.026Z",
+      "name": "LATINA FOREVA",
+      "artists": [
+        "KAROL G"
+      ],
+      "album": "Tropicoqueta",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
+      "uri": "spotify:track:2KrQbq3aqGOFGnkTKnN2XA",
+      "duration_ms": 159522
+    },
+    {
+      "played_at": "2026-08-20T17:47:15.497Z",
+      "name": "Una Noche en Caracas (Tauro)",
+      "artists": [
+        "Bomba Estéreo",
+        "Rawayana",
+        "ASTROPICAL"
+      ],
+      "album": "ASTROPICAL",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732769d84d74fa75a74edaa41b",
+      "uri": "spotify:track:7BUHZyUzwQowMLJ3qLDxRd",
+      "duration_ms": 168029
+    },
+    {
+      "played_at": "2026-08-20T17:50:58.506Z",
+      "name": "EL CLúB",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:0iKo4pNNjHHdKUcFARlfCa",
+      "duration_ms": 222568
+    },
+    {
+      "played_at": "2026-08-20T17:57:02.652Z",
+      "name": "6 AM",
+      "artists": [
+        "J Balvin",
+        "Farruko"
+      ],
+      "album": "La Familia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb748e8ded0f408299326b94",
+      "uri": "spotify:track:7mPwkbaoiQ5bf8FPbRJzUr",
+      "duration_ms": 243226
+    },
+    {
+      "played_at": "2026-08-20T18:00:28.472Z",
+      "name": "Lose Control",
+      "artists": [
+        "J Balvin",
+        "Vein"
+      ],
+      "album": "La Familia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb748e8ded0f408299326b94",
+      "uri": "spotify:track:1BaFWMy0Xzoj2uiRe90D1k",
+      "duration_ms": 293666
+    },
+    {
+      "played_at": "2026-08-20T18:09:15.196Z",
+      "name": "QUE PRETENDES",
+      "artists": [
+        "J Balvin",
+        "Bad Bunny"
+      ],
+      "album": "OASIS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734891d9b25d8919448388f3bb",
+      "uri": "spotify:track:25ZAibhr3bdlMCLmubZDVt",
+      "duration_ms": 222346
+    },
+    {
+      "played_at": "2026-08-20T18:13:23.591Z",
+      "name": "Downtown",
+      "artists": [
+        "Anitta",
+        "J Balvin"
+      ],
+      "album": "Downtown",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738c6b830c36c7b4ac43c3cee8",
+      "uri": "spotify:track:3Ga6eKrUFf12ouh9Yw3v2D",
+      "duration_ms": 193456
+    },
+    {
+      "played_at": "2026-08-20T18:16:43.288Z",
+      "name": "Desnúdate",
+      "artists": [
+        "J Balvin"
+      ],
+      "album": "La Familia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb748e8ded0f408299326b94",
+      "uri": "spotify:track:2NOrzvW356mqOjOJdrvA5A",
+      "duration_ms": 223093
+    },
+    {
+      "played_at": "2026-08-20T18:22:22.668Z",
+      "name": "Desnúdate",
+      "artists": [
+        "J Balvin"
+      ],
+      "album": "La Familia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb748e8ded0f408299326b94",
+      "uri": "spotify:track:2NOrzvW356mqOjOJdrvA5A",
+      "duration_ms": 223093
     }
   ]
 }
