@@ -1,14 +1,17 @@
 {
-  "updated_at": "2026-08-21T01:22:11.472Z",
+  "updated_at": "2026-08-21T03:51:16.698Z",
   "is_playing": false,
   "track": {
-    "name": "Desnúdate",
+    "name": "X (feat. Maluma & Ozuna) - Remix",
     "artists": [
-      "J Balvin"
+      "Nicky Jam",
+      "J Balvin",
+      "Maluma",
+      "Ozuna"
     ],
-    "album": "La Familia",
-    "image": "https://i.scdn.co/image/ab67616d0000b273eb748e8ded0f408299326b94",
-    "uri": "spotify:track:2NOrzvW356mqOjOJdrvA5A"
+    "album": "X (feat. Maluma & Ozuna) [Remix]",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734b1734e4d48786063992ce04",
+    "uri": "spotify:track:6JjPBQfI2Y8nIjnm65X6Pw"
   },
-  "played_at": "2026-08-20T18:22:22.668Z"
+  "played_at": "2026-08-21T03:04:51.566Z"
 }
