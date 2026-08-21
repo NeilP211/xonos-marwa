@@ -1,17 +1,15 @@
 {
-  "updated_at": "2026-08-21T03:51:16.698Z",
+  "updated_at": "2026-08-21T06:50:03.443Z",
   "is_playing": false,
   "track": {
-    "name": "X (feat. Maluma & Ozuna) - Remix",
+    "name": "梅香如故",
     "artists": [
-      "Nicky Jam",
-      "J Balvin",
-      "Maluma",
-      "Ozuna"
+      "Mao Buyi",
+      "Zhou Shen"
     ],
-    "album": "X (feat. Maluma & Ozuna) [Remix]",
-    "image": "https://i.scdn.co/image/ab67616d0000b2734b1734e4d48786063992ce04",
-    "uri": "spotify:track:6JjPBQfI2Y8nIjnm65X6Pw"
+    "album": "梅香如故 - 電視劇《如懿傳》片尾曲",
+    "image": "https://i.scdn.co/image/ab67616d0000b273df93230c931a6d9ce1a8e002",
+    "uri": "spotify:track:2BahWV0ipNMYL01p29rQyE"
   },
-  "played_at": "2026-08-21T03:04:51.566Z"
+  "played_at": "2026-08-21T06:28:32.387Z"
 }

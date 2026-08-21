@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T03:51:16.627Z",
+  "updated_at": "2026-08-21T06:50:03.412Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -13921,6 +13921,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734b1734e4d48786063992ce04",
       "uri": "spotify:track:6JjPBQfI2Y8nIjnm65X6Pw",
       "duration_ms": 236000
+    },
+    {
+      "played_at": "2026-08-21T06:28:32.387Z",
+      "name": "梅香如故",
+      "artists": [
+        "Mao Buyi",
+        "Zhou Shen"
+      ],
+      "album": "梅香如故 - 電視劇《如懿傳》片尾曲",
+      "image": "https://i.scdn.co/image/ab67616d0000b273df93230c931a6d9ce1a8e002",
+      "uri": "spotify:track:2BahWV0ipNMYL01p29rQyE",
+      "duration_ms": 242773
     }
   ]
 }
