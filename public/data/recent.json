@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T15:23:43.661Z",
+  "updated_at": "2026-08-23T18:31:06.191Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -14183,6 +14183,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2733e41dc74562c58462d896986",
       "uri": "spotify:track:7vG1MXouw92YxaO7ALCS0L",
       "duration_ms": 169066
+    },
+    {
+      "played_at": "2026-08-23T16:59:45.798Z",
+      "name": "O Que É o Amor",
+      "artists": [
+        "Arlindo Cruz",
+        "Maria Rita"
+      ],
+      "album": "Fundamental - Arlindo Cruz",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738adc33470e5b049794996398",
+      "uri": "spotify:track:4jNlUAkoXMclxwA88IYyZ3",
+      "duration_ms": 213160
     }
   ]
 }

@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-08-23T15:23:43.762Z",
+  "updated_at": "2026-08-23T18:31:06.300Z",
   "is_playing": false,
   "track": {
-    "name": "El Hexxo",
+    "name": "O Que É o Amor",
     "artists": [
-      "Feid"
+      "Arlindo Cruz",
+      "Maria Rita"
     ],
-    "album": "EL GREEN PRINT: La Saga (Disc 1) — FEID VS FERXXO",
-    "image": "https://i.scdn.co/image/ab67616d0000b2733e41dc74562c58462d896986",
-    "uri": "spotify:track:7vG1MXouw92YxaO7ALCS0L"
+    "album": "Fundamental - Arlindo Cruz",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738adc33470e5b049794996398",
+    "uri": "spotify:track:4jNlUAkoXMclxwA88IYyZ3"
   },
-  "played_at": "2026-08-23T01:10:48.732Z"
+  "played_at": "2026-08-23T16:59:45.798Z"
 }
