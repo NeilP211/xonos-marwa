@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-08-22T21:23:13.822Z",
+  "updated_at": "2026-08-23T01:24:59.857Z",
   "is_playing": false,
   "track": {
-    "name": "梅香如故",
+    "name": "El Hexxo",
     "artists": [
-      "Mao Buyi",
-      "Zhou Shen"
+      "Feid"
     ],
-    "album": "梅香如故 - 電視劇《如懿傳》片尾曲",
-    "image": "https://i.scdn.co/image/ab67616d0000b273df93230c931a6d9ce1a8e002",
-    "uri": "spotify:track:2BahWV0ipNMYL01p29rQyE"
+    "album": "EL GREEN PRINT: La Saga (Disc 1) — FEID VS FERXXO",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733e41dc74562c58462d896986",
+    "uri": "spotify:track:7vG1MXouw92YxaO7ALCS0L"
   },
-  "played_at": "2026-08-21T06:28:32.387Z"
+  "played_at": "2026-08-23T01:10:48.732Z"
 }

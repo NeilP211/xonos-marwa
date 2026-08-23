@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T21:23:13.660Z",
+  "updated_at": "2026-08-23T01:24:59.787Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -13933,6 +13933,256 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273df93230c931a6d9ce1a8e002",
       "uri": "spotify:track:2BahWV0ipNMYL01p29rQyE",
       "duration_ms": 242773
+    },
+    {
+      "played_at": "2026-08-21T07:06:30.948Z",
+      "name": "忽而今夏",
+      "artists": [
+        "Silence Wang"
+      ],
+      "album": "忽而今夏",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bae45f015a7bbe6089d78f1f",
+      "uri": "spotify:track:5AdDYewuSNO7JeoSUtwk8u",
+      "duration_ms": 260720
+    },
+    {
+      "played_at": "2026-08-22T22:41:22.448Z",
+      "name": "忽而今夏",
+      "artists": [
+        "Silence Wang"
+      ],
+      "album": "忽而今夏",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bae45f015a7bbe6089d78f1f",
+      "uri": "spotify:track:5AdDYewuSNO7JeoSUtwk8u",
+      "duration_ms": 260720
+    },
+    {
+      "played_at": "2026-08-22T22:50:53.264Z",
+      "name": "写故事的人",
+      "artists": [
+        "Silence Wang"
+      ],
+      "album": "明日世界ACT I",
+      "image": "https://i.scdn.co/image/ab67616d0000b273710da17540f52c6839211088",
+      "uri": "spotify:track:4B60m9LglJFJAELc2lHdSu",
+      "duration_ms": 248240
+    },
+    {
+      "played_at": "2026-08-22T22:54:59.064Z",
+      "name": "如果爱忘了 - Live",
+      "artists": [
+        "Silence Wang",
+        "單依純"
+      ],
+      "album": "声生不息.家年华 (第十二期 Live)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731594226c1cea970e7a06d698",
+      "uri": "spotify:track:4OGJgmLfgtLCpWVLg4fvPl",
+      "duration_ms": 245394
+    },
+    {
+      "played_at": "2026-08-22T22:58:43.991Z",
+      "name": "你在我喜歡的世界裡（《愛你》影視劇主題曲）",
+      "artists": [
+        "Silence Wang"
+      ],
+      "album": "你在我喜歡的世界裡（《愛你》影視劇主題曲）",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737dfded45c8726807945392dd",
+      "uri": "spotify:track:14PzcR0qXHYCfPhvSM2RlT",
+      "duration_ms": 224516
+    },
+    {
+      "played_at": "2026-08-22T23:05:14.840Z",
+      "name": "晴",
+      "artists": [
+        "Silence Wang"
+      ],
+      "album": "传世乐章",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730a94a207ce02a625baf962cb",
+      "uri": "spotify:track:2iVwxFG2kqVGCsQUHWou1i",
+      "duration_ms": 250934
+    },
+    {
+      "played_at": "2026-08-22T23:08:47.166Z",
+      "name": "消散对白",
+      "artists": [
+        "丁禹兮"
+      ],
+      "album": "消散对白",
+      "image": "https://i.scdn.co/image/ab67616d0000b27304293ca43fd3921818aa1b3f",
+      "uri": "spotify:track:2vfj3bct5C6ZY6cuPmKC5l",
+      "duration_ms": 211886
+    },
+    {
+      "played_at": "2026-08-22T23:14:13.724Z",
+      "name": "像晴天像雨天（电视剧《难哄》心动曲）",
+      "artists": [
+        "Silence Wang"
+      ],
+      "album": "电视剧《难哄》影视原声带·只喜欢你Love Moments",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e315e968f364d79e460d8f62",
+      "uri": "spotify:track:298LjjcBvuQCAlwUWb9dKb",
+      "duration_ms": 236616
+    },
+    {
+      "played_at": "2026-08-22T23:17:58.692Z",
+      "name": "我想念",
+      "artists": [
+        "Silence Wang"
+      ],
+      "album": "我想念",
+      "image": "https://i.scdn.co/image/ab67616d0000b27329edb627db3e999a97db23a3",
+      "uri": "spotify:track:3n0JlhpBQfTstWqUaC1DMn",
+      "duration_ms": 224516
+    },
+    {
+      "played_at": "2026-08-22T23:22:00.591Z",
+      "name": "You Are My Light",
+      "artists": [
+        "赵露思 Rosy"
+      ],
+      "album": "You Are My Light",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eca312d4a74603bea2dce4fa",
+      "uri": "spotify:track:6MGKFae3F3yspS2Fi1Pp3Y",
+      "duration_ms": 152578
+    },
+    {
+      "played_at": "2026-08-22T23:26:05.927Z",
+      "name": "只想把你偷偷藏好(《偷偷藏不住》电视剧主题曲/片头曲)",
+      "artists": [
+        "Silence Wang",
+        "赵露思 Rosy"
+      ],
+      "album": "只想把你偷偷藏好(《偷偷藏不住》电视剧主题曲/片头曲)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739074f4c5a459ebe099ba7220",
+      "uri": "spotify:track:7cwB09xvS1ArgeXozdf3dU",
+      "duration_ms": 194423
+    },
+    {
+      "played_at": "2026-08-22T23:37:00.264Z",
+      "name": "Casi algo",
+      "artists": [
+        "Me Dicen Jos"
+      ],
+      "album": "Casi algo",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b3092d1991912ddea52f18c5",
+      "uri": "spotify:track:2lRIrlut8slUKShhAxJuK7",
+      "duration_ms": 165229
+    },
+    {
+      "played_at": "2026-08-22T23:41:52.916Z",
+      "name": "Hora Loca",
+      "artists": [
+        "Rawayana",
+        "Monsieur Periné"
+      ],
+      "album": "¿Quién trae las cornetas?",
+      "image": "https://i.scdn.co/image/ab67616d0000b27304ee4c8e013751482ea3b958",
+      "uri": "spotify:track:3lfjd8A0DkB84yrvjzkbry",
+      "duration_ms": 191825
+    },
+    {
+      "played_at": "2026-08-22T23:45:18.153Z",
+      "name": "Bellaquita",
+      "artists": [
+        "Dalex",
+        "Lenny Tavárez"
+      ],
+      "album": "Bellaquita",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a388491c6a870a4728e223bc",
+      "uri": "spotify:track:1tpbAGsGpZee5jDHMcLrUJ",
+      "duration_ms": 204786
+    },
+    {
+      "played_at": "2026-08-22T23:49:55.064Z",
+      "name": "Baja Pa' Acá",
+      "artists": [
+        "Rauw Alejandro",
+        "Alexis y Fido"
+      ],
+      "album": "Cosa Nuestra",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b",
+      "uri": "spotify:track:3HCcfBsa4TdiC0so0fPnRi",
+      "duration_ms": 200000
+    },
+    {
+      "played_at": "2026-08-23T00:14:42.103Z",
+      "name": "Corazón (feat. Nego do Borel)",
+      "artists": [
+        "Maluma",
+        "Nego do Borel"
+      ],
+      "album": "F.A.M.E.",
+      "image": "https://i.scdn.co/image/ab67616d0000b27395a2cf9262058fff7dfe3674",
+      "uri": "spotify:track:5cepAtqnEQ6yVG6088zMMu",
+      "duration_ms": 184066
+    },
+    {
+      "played_at": "2026-08-23T00:48:56.402Z",
+      "name": "Mis Días A Tu Suerte",
+      "artists": [
+        "Rels B"
+      ],
+      "album": "afroLOVA 25'",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730e409fad9527196e73e423ba",
+      "uri": "spotify:track:0XRJc66Gcvq8F98KE1TXD8",
+      "duration_ms": 143750
+    },
+    {
+      "played_at": "2026-08-23T00:53:07.381Z",
+      "name": "Callaita",
+      "artists": [
+        "Bad Bunny",
+        "Tainy"
+      ],
+      "album": "Callaita",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734aef420e62863ebf622c27f5",
+      "uri": "spotify:track:2TH65lNHgvLxCKXM3apjxI",
+      "duration_ms": 250533
+    },
+    {
+      "played_at": "2026-08-23T00:57:29.297Z",
+      "name": "Que vuelta vox",
+      "artists": [
+        "Feid"
+      ],
+      "album": "EL GREEN PRINT: La Saga (Disc 1) — FEID VS FERXXO",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733e41dc74562c58462d896986",
+      "uri": "spotify:track:50QNXm5mb1sUNhI4iTSzl9",
+      "duration_ms": 169266
+    },
+    {
+      "played_at": "2026-08-23T01:00:26.707Z",
+      "name": "TOY HERMOSO",
+      "artists": [
+        "Daddy Yankee"
+      ],
+      "album": "LAMENTO EN BAILE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737ce8db07e711e09e5a41e660",
+      "uri": "spotify:track:53WI3fCXxvtAXTlKeOf6I2",
+      "duration_ms": 176960
+    },
+    {
+      "played_at": "2026-08-23T01:07:59.212Z",
+      "name": "Te Pue' Cuidar",
+      "artists": [
+        "Brray",
+        "Rauw Alejandro"
+      ],
+      "album": "Te Pue' Cuidar",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359e8cef68cb7fbb574d47e6c",
+      "uri": "spotify:track:6AWCMZtNOwFFuZxFmm3A7a",
+      "duration_ms": 232013
+    },
+    {
+      "played_at": "2026-08-23T01:10:48.732Z",
+      "name": "El Hexxo",
+      "artists": [
+        "Feid"
+      ],
+      "album": "EL GREEN PRINT: La Saga (Disc 1) — FEID VS FERXXO",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733e41dc74562c58462d896986",
+      "uri": "spotify:track:7vG1MXouw92YxaO7ALCS0L",
+      "duration_ms": 169066
     }
   ]
 }
