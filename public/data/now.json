@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-23T21:22:25.277Z",
+  "updated_at": "2026-08-24T01:22:16.751Z",
   "is_playing": false,
   "track": {
-    "name": "O Que É o Amor",
+    "name": "Pal Agua",
     "artists": [
-      "Arlindo Cruz",
-      "Maria Rita"
+      "J Balvin",
+      "Ryan Castro"
     ],
-    "album": "Fundamental - Arlindo Cruz",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738adc33470e5b049794996398",
-    "uri": "spotify:track:4jNlUAkoXMclxwA88IYyZ3"
+    "album": "Pal Agua",
+    "image": "https://i.scdn.co/image/ab67616d0000b273376bc168ae803c37a2000235",
+    "uri": "spotify:track:5oG6xYYuukHrsK1SLagCn0"
   },
-  "played_at": "2026-08-23T16:59:45.798Z"
+  "played_at": "2026-08-23T23:26:40.762Z"
 }
