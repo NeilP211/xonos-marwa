@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T15:39:59.771Z",
+  "updated_at": "2026-08-24T18:41:44.265Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -14480,6 +14480,123 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273586cde445b4e951ae727c536",
       "uri": "spotify:track:4Xpt2bVLKFvlL5agz7cBTj",
       "duration_ms": 203463
+    },
+    {
+      "played_at": "2026-08-24T15:43:15.418Z",
+      "name": "Tuyo",
+      "artists": [
+        "Mora"
+      ],
+      "album": "Primer Dia de Clases",
+      "image": "https://i.scdn.co/image/ab67616d0000b27345aae7e257a0026e3909b803",
+      "uri": "spotify:track:4tQofG51E0juZBBVr6pral",
+      "duration_ms": 269714
+    },
+    {
+      "played_at": "2026-08-24T15:46:58.722Z",
+      "name": "Priti",
+      "artists": [
+        "Danny Ocean",
+        "Sech"
+      ],
+      "album": "Babylon Club",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734330d7d9762313dff66f1ca7",
+      "uri": "spotify:track:4seJa0pAQbNlbhYzxXLvm1",
+      "duration_ms": 130969
+    },
+    {
+      "played_at": "2026-08-24T15:50:03.756Z",
+      "name": "AMARGURA",
+      "artists": [
+        "KAROL G"
+      ],
+      "album": "MAÑANA SERÁ BONITO",
+      "image": "https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335",
+      "uri": "spotify:track:505v13epFXodT9fVAJ6h8k",
+      "duration_ms": 170480
+    },
+    {
+      "played_at": "2026-08-24T15:52:56.397Z",
+      "name": "mi refe",
+      "artists": [
+        "Beéle",
+        "Ovy On The Drums"
+      ],
+      "album": "BORONDO",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732feb67a486bcf117e7fb15b0",
+      "uri": "spotify:track:4zhk2RS2EZODmBW6il55Qj",
+      "duration_ms": 159404
+    },
+    {
+      "played_at": "2026-08-24T15:55:21.863Z",
+      "name": "Anoche",
+      "artists": [
+        "Danny Ocean",
+        "Aitana"
+      ],
+      "album": "Babylon Club",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734330d7d9762313dff66f1ca7",
+      "uri": "spotify:track:0ETWLLoRd6Z4r97h3740C1",
+      "duration_ms": 144950
+    },
+    {
+      "played_at": "2026-08-24T16:02:14.909Z",
+      "name": "KYLIE",
+      "artists": [
+        "Neisan"
+      ],
+      "album": "KYLIE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ec60f1d5f9529461a2491f11",
+      "uri": "spotify:track:7uc3re3vm37q79nvOXiAZz",
+      "duration_ms": 152448
+    },
+    {
+      "played_at": "2026-08-24T16:05:09.606Z",
+      "name": "Y Qué",
+      "artists": [
+        "Martox",
+        "Lena Dardelet"
+      ],
+      "album": "Y Qué",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aada9f071eb7bb5cb8f47b81",
+      "uri": "spotify:track:1Dd6CuCiuoTj0eiBnGnx4X",
+      "duration_ms": 168979
+    },
+    {
+      "played_at": "2026-08-24T16:08:04.877Z",
+      "name": "Piel Canela",
+      "artists": [
+        "Andrés Cepeda"
+      ],
+      "album": "Basado en una Historia Real",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732e078bda9ecb3b10232b2a99",
+      "uri": "spotify:track:6AxMX4W9tasxIIf3degsCd",
+      "duration_ms": 168466
+    },
+    {
+      "played_at": "2026-08-24T16:11:10.196Z",
+      "name": "Ponme En Tu Boca",
+      "artists": [
+        "Jerry Di",
+        "Danny Ocean",
+        "Corina Smith"
+      ],
+      "album": "Ponme En Tu Boca",
+      "image": "https://i.scdn.co/image/ab67616d0000b27337269a163d46ed4f4173009c",
+      "uri": "spotify:track:705z0RDjwU07P5dLUdrOpu",
+      "duration_ms": 184877
+    },
+    {
+      "played_at": "2026-08-24T16:17:14.499Z",
+      "name": "Callaita",
+      "artists": [
+        "Bad Bunny",
+        "Tainy"
+      ],
+      "album": "Callaita",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734aef420e62863ebf622c27f5",
+      "uri": "spotify:track:2TH65lNHgvLxCKXM3apjxI",
+      "duration_ms": 250533
     }
   ]
 }

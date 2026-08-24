@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-08-24T15:39:59.957Z",
+  "updated_at": "2026-08-24T18:41:44.356Z",
   "is_playing": false,
   "track": {
-    "name": "Carita Linda",
+    "name": "Callaita",
     "artists": [
-      "Rauw Alejandro"
+      "Bad Bunny",
+      "Tainy"
     ],
-    "album": "Cosa Nuestra: Capítulo 0",
-    "image": "https://i.scdn.co/image/ab67616d0000b273586cde445b4e951ae727c536",
-    "uri": "spotify:track:4Xpt2bVLKFvlL5agz7cBTj"
+    "album": "Callaita",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734aef420e62863ebf622c27f5",
+    "uri": "spotify:track:2TH65lNHgvLxCKXM3apjxI"
   },
-  "played_at": "2026-08-24T15:38:45.036Z"
+  "played_at": "2026-08-24T16:17:14.499Z"
 }
