@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-08-24T12:52:39.286Z",
+  "updated_at": "2026-08-24T15:39:59.957Z",
   "is_playing": false,
   "track": {
-    "name": "Pal Agua",
+    "name": "Carita Linda",
     "artists": [
-      "J Balvin",
-      "Ryan Castro"
+      "Rauw Alejandro"
     ],
-    "album": "Pal Agua",
-    "image": "https://i.scdn.co/image/ab67616d0000b273376bc168ae803c37a2000235",
-    "uri": "spotify:track:5oG6xYYuukHrsK1SLagCn0"
+    "album": "Cosa Nuestra: Capítulo 0",
+    "image": "https://i.scdn.co/image/ab67616d0000b273586cde445b4e951ae727c536",
+    "uri": "spotify:track:4Xpt2bVLKFvlL5agz7cBTj"
   },
-  "played_at": "2026-08-23T23:26:40.762Z"
+  "played_at": "2026-08-24T15:38:45.036Z"
 }
