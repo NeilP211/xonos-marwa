@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T09:36:29.326Z",
+  "generated_at": "2026-08-25T12:49:50.211Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -918,18 +918,6 @@
         },
         {
           "rank": 4,
-          "name": "A Lonely Night",
-          "artists": [
-            "The Weeknd"
-          ],
-          "album": "Starboy",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
-          "uri": "spotify:track:4UknpXoLjlB7Mao4UWcJ2o",
-          "url": "https://open.spotify.com/track/4UknpXoLjlB7Mao4UWcJ2o",
-          "duration_ms": 220173
-        },
-        {
-          "rank": 5,
           "name": "The Way It Breaks",
           "artists": [
             "Loathe",
@@ -940,6 +928,18 @@
           "uri": "spotify:track:5fMekKJEsEhR7NyhluDeX3",
           "url": "https://open.spotify.com/track/5fMekKJEsEhR7NyhluDeX3",
           "duration_ms": 306786
+        },
+        {
+          "rank": 5,
+          "name": "A Lonely Night",
+          "artists": [
+            "The Weeknd"
+          ],
+          "album": "Starboy",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
+          "uri": "spotify:track:4UknpXoLjlB7Mao4UWcJ2o",
+          "url": "https://open.spotify.com/track/4UknpXoLjlB7Mao4UWcJ2o",
+          "duration_ms": 220173
         },
         {
           "rank": 6,
@@ -1199,6 +1199,18 @@
         },
         {
           "rank": 27,
+          "name": "Fangs",
+          "artists": [
+            "Loathe"
+          ],
+          "album": "A Stranger To You",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+          "uri": "spotify:track:6amjt9z0UcPusbO9UQ7zlp",
+          "url": "https://open.spotify.com/track/6amjt9z0UcPusbO9UQ7zlp",
+          "duration_ms": 249293
+        },
+        {
+          "rank": 28,
           "name": "In Another Time",
           "artists": [
             "Sade"
@@ -1210,7 +1222,7 @@
           "duration_ms": 304413
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Como Es Que Se Hace",
           "artists": [
             "Yandel",
@@ -1223,7 +1235,7 @@
           "duration_ms": 205320
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Art of War",
           "artists": [
             "Avenoir"
@@ -1235,7 +1247,7 @@
           "duration_ms": 126973
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Boku no Sensou",
           "artists": [
             "Shinsei Kamattechan"
@@ -1247,7 +1259,7 @@
           "duration_ms": 280466
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "WHO DO U LUV",
           "artists": [
             "Avenoir"
@@ -1259,7 +1271,7 @@
           "duration_ms": 248760
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Deseándote",
           "artists": [
             "Frankie Ruiz"
@@ -1271,7 +1283,7 @@
           "duration_ms": 281333
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Bauklotze",
           "artists": [
             "Sawano Hiroyuki"
@@ -1283,7 +1295,7 @@
           "duration_ms": 236253
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "NUEVAYoL",
           "artists": [
             "Bad Bunny"
@@ -1295,7 +1307,7 @@
           "duration_ms": 183685
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "당돌한 여자",
           "artists": [
             "JIHYO",
@@ -1310,7 +1322,7 @@
           "duration_ms": 185533
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Emergency Contact",
           "artists": [
             "Pierce The Veil"
@@ -1322,7 +1334,7 @@
           "duration_ms": 240000
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Callaita",
           "artists": [
             "Bad Bunny",
@@ -1335,7 +1347,7 @@
           "duration_ms": 250533
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "M.",
           "artists": [
             "Anıl Emre Daldal"
@@ -1347,7 +1359,7 @@
           "duration_ms": 223750
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "If Looks Could Kill",
           "artists": [
             "A Heartwell Ending"
@@ -1359,7 +1371,19 @@
           "duration_ms": 205576
         },
         {
-          "rank": 40,
+          "rank": 41,
+          "name": "Is It Really You?",
+          "artists": [
+            "Loathe"
+          ],
+          "album": "I Let It in and It Took Everything",
+          "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+          "uri": "spotify:track:4OmlsAT8r4q9vPFBvfYgyZ",
+          "url": "https://open.spotify.com/track/4OmlsAT8r4q9vPFBvfYgyZ",
+          "duration_ms": 287627
+        },
+        {
+          "rank": 42,
           "name": "Virgen",
           "artists": [
             "Adolescent's Orquesta"
@@ -1371,7 +1395,7 @@
           "duration_ms": 271751
         },
         {
-          "rank": 41,
+          "rank": 43,
           "name": "Flaca",
           "artists": [
             "Cultura Profética",
@@ -1384,7 +1408,7 @@
           "duration_ms": 255875
         },
         {
-          "rank": 42,
+          "rank": 44,
           "name": "Body to Body",
           "artists": [
             "BTS"
@@ -1396,7 +1420,7 @@
           "duration_ms": 189725
         },
         {
-          "rank": 43,
+          "rank": 45,
           "name": "New Perspective",
           "artists": [
             "Panic! At The Disco"
@@ -1408,7 +1432,7 @@
           "duration_ms": 226786
         },
         {
-          "rank": 44,
+          "rank": 46,
           "name": "Nobody New",
           "artists": [
             "The Marías"
@@ -1420,7 +1444,7 @@
           "duration_ms": 215200
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "So Far So Fake",
           "artists": [
             "Pierce The Veil"
@@ -1432,7 +1456,7 @@
           "duration_ms": 236160
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "嘘",
           "artists": [
             "SID"
@@ -1444,7 +1468,7 @@
           "duration_ms": 205973
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "Bendito",
           "artists": [
             "Rawayana"
@@ -1456,7 +1480,7 @@
           "duration_ms": 154586
         },
         {
-          "rank": 48,
+          "rank": 50,
           "name": "Touch You",
           "artists": [
             "遠野高志",
@@ -1474,30 +1498,6 @@
           "uri": "spotify:track:6qWEpnyU43Bcrx3vfbGuVm",
           "url": "https://open.spotify.com/track/6qWEpnyU43Bcrx3vfbGuVm",
           "duration_ms": 206180
-        },
-        {
-          "rank": 49,
-          "name": "Beso",
-          "artists": [
-            "Jósean Log"
-          ],
-          "album": "Háblate de Mí",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a8659bf75fee7dc8c01afc67",
-          "uri": "spotify:track:4PpuZIMmeng6qPicveSI22",
-          "url": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22",
-          "duration_ms": 211021
-        },
-        {
-          "rank": 50,
-          "name": "You're All I Want",
-          "artists": [
-            "Cigarettes After Sex"
-          ],
-          "album": "You're All I Want",
-          "image": "https://i.scdn.co/image/ab67616d0000b273963454e08e5e9def7e8cd204",
-          "uri": "spotify:track:2cTvZSCqzjkTMkIypLxUFH",
-          "url": "https://open.spotify.com/track/2cTvZSCqzjkTMkIypLxUFH",
-          "duration_ms": 264453
         }
       ],
       "artists": [
