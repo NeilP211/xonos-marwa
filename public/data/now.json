@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-25T01:20:03.332Z",
-  "is_playing": false,
+  "updated_at": "2026-08-25T03:49:54.542Z",
+  "is_playing": true,
   "track": {
-    "name": "Quién tiene tu amor",
+    "name": "Tú Con El",
     "artists": [
-      "Catalina y Las Bordonas de Oro"
+      "Frankie Ruiz"
     ],
-    "album": "Quién tiene tu amor",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738490facecf0820c609a5bb53",
-    "uri": "spotify:track:4M9qjadXHJ8c1CsRDMW15S"
+    "album": "Cantándole al Amor, Vol. 2",
+    "image": "https://i.scdn.co/image/ab67616d0000b273babb730e7b5636d04cad1b1e",
+    "uri": "spotify:track:6sRQjwLPdzADXhgZeKy6PQ"
   },
-  "played_at": "2026-08-24T19:30:38.572Z"
+  "played_at": "2026-08-25T03:49:54.542Z"
 }
