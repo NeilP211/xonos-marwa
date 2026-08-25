@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-25T18:40:53.180Z",
-  "is_playing": false,
+  "updated_at": "2026-08-25T21:29:25.119Z",
+  "is_playing": true,
   "track": {
-    "name": "Is It Really You?",
+    "name": "Morado",
     "artists": [
-      "Loathe"
+      "J Balvin"
     ],
-    "album": "I Let It in and It Took Everything",
-    "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
-    "uri": "spotify:track:4OmlsAT8r4q9vPFBvfYgyZ"
+    "album": "Colores",
+    "image": "https://i.scdn.co/image/ab67616d0000b27335692baca45542527d742d0d",
+    "uri": "spotify:track:35KmOEIUqAGn02t7n4qaIr"
   },
-  "played_at": "2026-08-25T05:56:08.651Z"
+  "played_at": "2026-08-25T21:29:25.119Z"
 }

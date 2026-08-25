@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T18:40:53.079Z",
+  "updated_at": "2026-08-25T21:29:24.975Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -14725,6 +14725,40 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
       "uri": "spotify:track:4OmlsAT8r4q9vPFBvfYgyZ",
       "duration_ms": 287627
+    },
+    {
+      "played_at": "2026-08-25T21:04:24.800Z",
+      "name": "Is It Really You?",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "I Let It in and It Took Everything",
+      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+      "uri": "spotify:track:4OmlsAT8r4q9vPFBvfYgyZ",
+      "duration_ms": 287627
+    },
+    {
+      "played_at": "2026-08-25T21:09:30.030Z",
+      "name": "Contigo Quiero Todo",
+      "artists": [
+        "Edgar Alejandro"
+      ],
+      "album": "Contigo Quiero Todo",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a7e5d229040f4d1a183ddbb4",
+      "uri": "spotify:track:3RDs5lVKTVFyZdx2xhoLC9",
+      "duration_ms": 246465
+    },
+    {
+      "played_at": "2026-08-25T21:17:08.706Z",
+      "name": "Bésame",
+      "artists": [
+        "El Otro Polo",
+        "Rawayana"
+      ],
+      "album": "A Color",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f5eda9a494f46c0da42eada0",
+      "uri": "spotify:track:05ayzVXVRd5JBtCkQiMFJY",
+      "duration_ms": 170520
     }
   ]
 }
