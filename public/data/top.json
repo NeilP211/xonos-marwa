@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T12:49:50.211Z",
+  "generated_at": "2026-08-25T15:43:03.557Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1535,19 +1535,19 @@
         },
         {
           "rank": 5,
-          "name": "Deftones",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
-          "genres": [],
-          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        },
-        {
-          "rank": 6,
           "name": "Loathe",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
           "genres": [],
           "uri": "spotify:artist:4G9wSdX0klmoHfjm9i6DLd",
           "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
+        },
+        {
+          "rank": 6,
+          "name": "Deftones",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
+          "genres": [],
+          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
           "rank": 7,
@@ -1807,6 +1807,14 @@
         },
         {
           "rank": 39,
+          "name": "Zhou Shen",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb555f21234ccc27d609c6f000",
+          "genres": [],
+          "uri": "spotify:artist:0BezPR1Hn38i8qShQKunSD",
+          "url": "https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD"
+        },
+        {
+          "rank": 40,
           "name": "The Weeknd",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
           "genres": [],
@@ -1814,7 +1822,7 @@
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "PRYVT",
           "image": "https://i.scdn.co/image/ab6761610000e5eb012e40962788790bb7b60f75",
           "genres": [],
@@ -1822,7 +1830,7 @@
           "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "La Isla Centeno",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf55def158ecb9a2b89f5e0bd",
           "genres": [],
@@ -1830,7 +1838,7 @@
           "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "CORTIS",
           "image": "https://i.scdn.co/image/ab6761610000e5eb267afab76836557af2bd37c8",
           "genres": [],
@@ -1838,7 +1846,7 @@
           "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Sawano Hiroyuki",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7bd33413d188115f3d40e8e1",
           "genres": [],
@@ -1846,7 +1854,7 @@
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Adolescent's Orquesta",
           "image": "https://i.scdn.co/image/ab6761610000e5eb85cbe9f05b11e3ea3d20ff0b",
           "genres": [],
@@ -1854,7 +1862,7 @@
           "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Bruno Mars",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc7688aad1bf03986934d7e26",
           "genres": [],
@@ -1862,7 +1870,7 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Menny Flores",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbb7c35cc0701c97917699796",
           "genres": [],
@@ -1870,7 +1878,7 @@
           "url": "https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV"
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Romeo Santos",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
           "genres": [],
@@ -1878,7 +1886,7 @@
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Silence Wang",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe031c2c433fefe3fd10f5caa",
           "genres": [],
@@ -1886,20 +1894,12 @@
           "url": "https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Prince Royce",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6ce83e3425a74cb9d6bdb1dc",
           "genres": [],
           "uri": "spotify:artist:3MHaV05u0io8fQbZ2XPtlC",
           "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "rank": 50,
-          "name": "Morad",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebad6c5175ba73bba50f96c193",
-          "genres": [],
-          "uri": "spotify:artist:4az97MtWmBQ5Db3GfDh9j9",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         }
       ]
     },
