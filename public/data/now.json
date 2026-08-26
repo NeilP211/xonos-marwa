@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-08-25T21:29:25.119Z",
-  "is_playing": true,
+  "updated_at": "2026-08-26T01:23:05.378Z",
+  "is_playing": false,
   "track": {
-    "name": "Morado",
+    "name": "Hold On Till May",
     "artists": [
-      "J Balvin"
+      "Pierce The Veil",
+      "Lindsey Stamey"
     ],
-    "album": "Colores",
-    "image": "https://i.scdn.co/image/ab67616d0000b27335692baca45542527d742d0d",
-    "uri": "spotify:track:35KmOEIUqAGn02t7n4qaIr"
+    "album": "Collide With The Sky",
+    "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+    "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J"
   },
-  "played_at": "2026-08-25T21:29:25.119Z"
+  "played_at": "2026-08-25T23:36:07.917Z"
 }
