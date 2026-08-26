@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-26T16:18:42.061Z",
-  "is_playing": true,
+  "updated_at": "2026-08-26T19:49:05.699Z",
+  "is_playing": false,
   "track": {
-    "name": "Damn The Man, Save The Empire",
+    "name": "Emergency Contact",
     "artists": [
       "Pierce The Veil"
     ],
     "album": "The Jaws Of Life",
     "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-    "uri": "spotify:track:57ISsI9qQcAUkhiqwEMhxG"
+    "uri": "spotify:track:4amltxLIfFmtYEvZbdgDqO"
   },
-  "played_at": "2026-08-26T16:18:42.061Z"
+  "played_at": "2026-08-26T19:49:05.699Z"
 }

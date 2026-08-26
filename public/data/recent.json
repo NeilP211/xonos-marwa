@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T16:18:41.914Z",
+  "updated_at": "2026-08-26T19:49:05.525Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -15051,6 +15051,128 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
       "uri": "spotify:track:3EKh7JNsBrGoh2xqPotBKT",
       "duration_ms": 223546
+    },
+    {
+      "played_at": "2026-08-26T16:20:41.390Z",
+      "name": "Caraphernelia",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Selfish Machines",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
+      "uri": "spotify:track:2G8PweZBBwTpyP8vpNQJK2",
+      "duration_ms": 268480
+    },
+    {
+      "played_at": "2026-08-26T17:24:52.215Z",
+      "name": "Caraphernelia",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Selfish Machines",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
+      "uri": "spotify:track:2G8PweZBBwTpyP8vpNQJK2",
+      "duration_ms": 268480
+    },
+    {
+      "played_at": "2026-08-26T17:30:44.666Z",
+      "name": "Bulls In The Bronx",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:23UoI3jlFiWdo5jadUYo69",
+      "duration_ms": 267866
+    },
+    {
+      "played_at": "2026-08-26T17:34:45.145Z",
+      "name": "Flawless Execution",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3XfmKIeWD1gGrKhwIEon6Q",
+      "duration_ms": 240053
+    },
+    {
+      "played_at": "2026-08-26T19:09:59.075Z",
+      "name": "Resilience",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+      "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-08-26T19:13:01.040Z",
+      "name": "12 Fractures",
+      "artists": [
+        "Pierce The Veil",
+        "chloe moriondo"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+      "duration_ms": 181600
+    },
+    {
+      "played_at": "2026-08-26T19:23:03.278Z",
+      "name": "Circles",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Misadventures",
+      "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+      "uri": "spotify:track:6zUy2nnchfZpzaDalE6sO2",
+      "duration_ms": 224306
+    },
+    {
+      "played_at": "2026-08-26T19:26:46.411Z",
+      "name": "The Jaws Of Life",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:4mfbHWZCIsDVMKk9HAqEgF",
+      "duration_ms": 222666
+    },
+    {
+      "played_at": "2026-08-26T19:28:27.672Z",
+      "name": "Irrational Fears - Interlude",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:1AtTmjAqrlmg9P2enDqVg9",
+      "duration_ms": 21560
+    },
+    {
+      "played_at": "2026-08-26T19:32:28.251Z",
+      "name": "Even When I’m Not With You",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:6yJmxPGazR55GAQdyHPf6q",
+      "duration_ms": 174146
+    },
+    {
+      "played_at": "2026-08-26T19:38:25.035Z",
+      "name": "Bulls In The Bronx",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:23UoI3jlFiWdo5jadUYo69",
+      "duration_ms": 267866
     }
   ]
 }
