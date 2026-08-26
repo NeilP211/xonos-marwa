@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-08-26T12:54:45.300Z",
-  "is_playing": false,
+  "updated_at": "2026-08-26T16:18:42.061Z",
+  "is_playing": true,
   "track": {
-    "name": "Hold On Till May",
+    "name": "Damn The Man, Save The Empire",
     "artists": [
-      "Pierce The Veil",
-      "Lindsey Stamey"
+      "Pierce The Veil"
     ],
-    "album": "Collide With The Sky",
-    "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-    "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J"
+    "album": "The Jaws Of Life",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+    "uri": "spotify:track:57ISsI9qQcAUkhiqwEMhxG"
   },
-  "played_at": "2026-08-25T23:36:07.917Z"
+  "played_at": "2026-08-26T16:18:42.061Z"
 }
