@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T01:23:05.045Z",
+  "generated_at": "2026-08-26T03:54:23.086Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2389,6 +2389,19 @@
         },
         {
           "rank": 43,
+          "name": "The Way It Breaks",
+          "artists": [
+            "Loathe",
+            "Mansur Brown"
+          ],
+          "album": "A Stranger To You",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+          "uri": "spotify:track:5fMekKJEsEhR7NyhluDeX3",
+          "url": "https://open.spotify.com/track/5fMekKJEsEhR7NyhluDeX3",
+          "duration_ms": 306786
+        },
+        {
+          "rank": 44,
           "name": "Still Monster",
           "artists": [
             "ENHYPEN"
@@ -2400,7 +2413,7 @@
           "duration_ms": 186119
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Te Me Vas",
           "artists": [
             "Prince Royce"
@@ -2412,7 +2425,7 @@
           "duration_ms": 198973
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Reggaeton",
           "artists": [
             "J Balvin"
@@ -2422,19 +2435,6 @@
           "uri": "spotify:track:2D3z17LBMJ2HEHeBFFjTLi",
           "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi",
           "duration_ms": 158800
-        },
-        {
-          "rank": 46,
-          "name": "The Way It Breaks",
-          "artists": [
-            "Loathe",
-            "Mansur Brown"
-          ],
-          "album": "A Stranger To You",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
-          "uri": "spotify:track:5fMekKJEsEhR7NyhluDeX3",
-          "url": "https://open.spotify.com/track/5fMekKJEsEhR7NyhluDeX3",
-          "duration_ms": 306786
         },
         {
           "rank": 47,
@@ -2794,6 +2794,14 @@
         },
         {
           "rank": 39,
+          "name": "Loathe",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
+          "genres": [],
+          "uri": "spotify:artist:4G9wSdX0klmoHfjm9i6DLd",
+          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
+        },
+        {
+          "rank": 40,
           "name": "邹沛沛",
           "image": "https://i.scdn.co/image/ab67616d0000b2735e10693b2c3d38dd7ad4299a",
           "genres": [],
@@ -2801,7 +2809,7 @@
           "url": "https://open.spotify.com/artist/4ST2uUeBAbGgmskBWYRB8S"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Sabrina Carpenter",
           "image": "https://i.scdn.co/image/ab6761610000e5eb78e45cfa4697ce3c437cb455",
           "genres": [],
@@ -2809,7 +2817,7 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Rels B",
           "image": "https://i.scdn.co/image/ab6761610000e5eb15cc5d75a093b40a9be0ff5c",
           "genres": [],
@@ -2817,7 +2825,7 @@
           "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Enrique Iglesias",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4fa1405802a42c665b0f2dd1",
           "genres": [],
@@ -2825,7 +2833,7 @@
           "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Eydie Gormé",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1c0da336a4cea059e7da771d",
           "genres": [],
@@ -2833,7 +2841,7 @@
           "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "TOMORROW X TOGETHER",
           "image": "https://i.scdn.co/image/ab6761610000e5eb54fc4bff90d96d3ef0179e62",
           "genres": [],
@@ -2841,7 +2849,7 @@
           "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Pino",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf2d9d7a12ece34e15d164e64",
           "genres": [],
@@ -2849,20 +2857,12 @@
           "url": "https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
           "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        },
-        {
-          "rank": 47,
-          "name": "Loathe",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
-          "genres": [],
-          "uri": "spotify:artist:4G9wSdX0klmoHfjm9i6DLd",
-          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
         },
         {
           "rank": 48,
