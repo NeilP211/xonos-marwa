@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-27T00:31:11.790Z",
-  "is_playing": false,
+  "updated_at": "2026-08-27T13:53:36.826Z",
+  "is_playing": true,
   "track": {
-    "name": "Death Of An Executioner",
+    "name": "Nuestro Sueño",
     "artists": [
-      "Pierce The Veil"
+      "Grupo Niche"
     ],
-    "album": "The Jaws Of Life",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-    "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp"
+    "album": "The Best",
+    "image": "https://i.scdn.co/image/ab67616d0000b27351c9409f7962e3aee55c74c6",
+    "uri": "spotify:track:0g9d2hcBECm8eOuxG9w5kH"
   },
-  "played_at": "2026-08-26T22:00:06.864Z"
+  "played_at": "2026-08-27T13:53:36.826Z"
 }

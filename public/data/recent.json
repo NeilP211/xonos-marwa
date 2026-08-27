@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T00:31:11.692Z",
+  "updated_at": "2026-08-27T13:53:36.724Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -15217,6 +15217,30 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
       "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
       "duration_ms": 267800
+    },
+    {
+      "played_at": "2026-08-27T13:44:20.473Z",
+      "name": "King For A Day",
+      "artists": [
+        "Pierce The Veil",
+        "Kellin Quinn"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:1IT0WQk5J8NsaeII8ktdlZ",
+      "duration_ms": 236293
+    },
+    {
+      "played_at": "2026-08-27T13:49:22.093Z",
+      "name": "Llévame",
+      "artists": [
+        "Bruno Romano",
+        "Thiago Muller"
+      ],
+      "album": "Llévame",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b827a895171e8d07687961f0",
+      "uri": "spotify:track:4mJYjmCeiuYarCtAc26VyS",
+      "duration_ms": 214219
     }
   ]
 }
