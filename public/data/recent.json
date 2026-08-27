@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T19:49:05.525Z",
+  "updated_at": "2026-08-27T00:31:11.692Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -15173,6 +15173,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
       "uri": "spotify:track:23UoI3jlFiWdo5jadUYo69",
       "duration_ms": 267866
+    },
+    {
+      "played_at": "2026-08-26T21:51:10.890Z",
+      "name": "Emergency Contact",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:4amltxLIfFmtYEvZbdgDqO",
+      "duration_ms": 240000
+    },
+    {
+      "played_at": "2026-08-26T21:54:45.596Z",
+      "name": "Emergency Contact",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:4amltxLIfFmtYEvZbdgDqO",
+      "duration_ms": 240000
+    },
+    {
+      "played_at": "2026-08-26T21:55:54.086Z",
+      "name": "Death Of An Executioner",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
+      "duration_ms": 267800
+    },
+    {
+      "played_at": "2026-08-26T22:00:06.864Z",
+      "name": "Death Of An Executioner",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
+      "duration_ms": 267800
     }
   ]
 }
