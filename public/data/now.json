@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-27T13:53:36.826Z",
-  "is_playing": true,
+  "updated_at": "2026-08-28T00:16:54.861Z",
+  "is_playing": false,
   "track": {
-    "name": "Nuestro Sueño",
+    "name": "ADO",
     "artists": [
-      "Grupo Niche"
+      "Danny Ocean"
     ],
-    "album": "The Best",
-    "image": "https://i.scdn.co/image/ab67616d0000b27351c9409f7962e3aee55c74c6",
-    "uri": "spotify:track:0g9d2hcBECm8eOuxG9w5kH"
+    "album": "@dannocean",
+    "image": "https://i.scdn.co/image/ab67616d0000b273219973bcf027114a95e7996b",
+    "uri": "spotify:track:0HE89WugytozUPv2B9TV8W"
   },
-  "played_at": "2026-08-27T13:53:36.826Z"
+  "played_at": "2026-08-27T21:59:02.959Z"
 }
