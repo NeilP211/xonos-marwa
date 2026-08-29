@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-29T09:48:24.289Z",
+  "updated_at": "2026-08-29T16:21:59.959Z",
   "is_playing": false,
   "track": {
-    "name": "Caraphernelia",
+    "name": "Pass The Nirvana",
     "artists": [
       "Pierce The Veil"
     ],
-    "album": "Selfish Machines",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
-    "uri": "spotify:track:2G8PweZBBwTpyP8vpNQJK2"
+    "album": "The Jaws Of Life",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+    "uri": "spotify:track:7I93h9I0RUqt1ci3Bfa290"
   },
-  "played_at": "2026-08-28T21:38:03.524Z"
+  "played_at": "2026-08-28T21:41:53.770Z"
 }

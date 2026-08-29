@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T09:48:24.176Z",
+  "updated_at": "2026-08-29T16:21:59.868Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -15822,6 +15822,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
       "uri": "spotify:track:2G8PweZBBwTpyP8vpNQJK2",
       "duration_ms": 268480
+    },
+    {
+      "played_at": "2026-08-28T21:41:53.770Z",
+      "name": "Pass The Nirvana",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:7I93h9I0RUqt1ci3Bfa290",
+      "duration_ms": 197373
     }
   ]
 }

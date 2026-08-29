@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T09:48:24.085Z",
+  "generated_at": "2026-08-29T16:21:59.547Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1866,18 +1866,6 @@
         },
         {
           "rank": 2,
-          "name": "Incondicional",
-          "artists": [
-            "Prince Royce"
-          ],
-          "album": "Phase II",
-          "image": "https://i.scdn.co/image/ab67616d0000b2737f187201bff22a11f0d6053b",
-          "uri": "spotify:track:5GQIxPkd4OaLECpw8ZPZFm",
-          "url": "https://open.spotify.com/track/5GQIxPkd4OaLECpw8ZPZFm",
-          "duration_ms": 207813
-        },
-        {
-          "rank": 3,
           "name": "Resilience",
           "artists": [
             "Pierce The Veil"
@@ -1887,6 +1875,18 @@
           "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
           "url": "https://open.spotify.com/track/08vqJRf0PuLF1YACmIG3o8",
           "duration_ms": 220360
+        },
+        {
+          "rank": 3,
+          "name": "Incondicional",
+          "artists": [
+            "Prince Royce"
+          ],
+          "album": "Phase II",
+          "image": "https://i.scdn.co/image/ab67616d0000b2737f187201bff22a11f0d6053b",
+          "uri": "spotify:track:5GQIxPkd4OaLECpw8ZPZFm",
+          "url": "https://open.spotify.com/track/5GQIxPkd4OaLECpw8ZPZFm",
+          "duration_ms": 207813
         },
         {
           "rank": 4,
@@ -2781,6 +2781,14 @@
         },
         {
           "rank": 40,
+          "name": "Enrique Iglesias",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb4fa1405802a42c665b0f2dd1",
+          "genres": [],
+          "uri": "spotify:artist:7qG3b048QCHVRO5Pv1T5lw",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "rank": 41,
           "name": "邹沛沛",
           "image": "https://i.scdn.co/image/ab67616d0000b2735e10693b2c3d38dd7ad4299a",
           "genres": [],
@@ -2788,7 +2796,7 @@
           "url": "https://open.spotify.com/artist/4ST2uUeBAbGgmskBWYRB8S"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Sabrina Carpenter",
           "image": "https://i.scdn.co/image/ab6761610000e5eb78e45cfa4697ce3c437cb455",
           "genres": [],
@@ -2796,20 +2804,12 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Rels B",
           "image": "https://i.scdn.co/image/ab6761610000e5eb15cc5d75a093b40a9be0ff5c",
           "genres": [],
           "uri": "spotify:artist:2IMZYfNi21MGqxopj9fWx8",
           "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "rank": 43,
-          "name": "Enrique Iglesias",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb4fa1405802a42c665b0f2dd1",
-          "genres": [],
-          "uri": "spotify:artist:7qG3b048QCHVRO5Pv1T5lw",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         },
         {
           "rank": 44,
@@ -2837,6 +2837,14 @@
         },
         {
           "rank": 47,
+          "name": "Aventura",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb4cd0464ef7d8eb8521f72dd8",
+          "genres": [],
+          "uri": "spotify:artist:1qto4hHid1P71emI6Fd8xi",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "rank": 48,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -2844,7 +2852,7 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Billie Eilish",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da",
           "genres": [],
@@ -2852,20 +2860,12 @@
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Milena",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf7a24a6e14e58a3106344603",
           "genres": [],
           "uri": "spotify:artist:2ODok2cPMF1Z1gZetfaL6n",
           "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
-        },
-        {
-          "rank": 50,
-          "name": "Avenoir",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb4931e767936dbd7d806089c",
-          "genres": [],
-          "uri": "spotify:artist:3Z7onAknzpinUu3KtmgeZb",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ]
     }
