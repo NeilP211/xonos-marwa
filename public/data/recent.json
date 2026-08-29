@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T15:01:41.459Z",
+  "updated_at": "2026-08-29T01:30:46.464Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -15363,6 +15363,465 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273219973bcf027114a95e7996b",
       "uri": "spotify:track:0HE89WugytozUPv2B9TV8W",
       "duration_ms": 174000
+    },
+    {
+      "played_at": "2026-08-28T16:06:39.279Z",
+      "name": "Después de ti",
+      "artists": [
+        "KAROL G",
+        "Greg Gonzalez"
+      ],
+      "album": "Después de ti",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c1be5200d48a960457889ed",
+      "uri": "spotify:track:6PbhFQkpQjoojWo2b6Ghoi",
+      "duration_ms": 268996
+    },
+    {
+      "played_at": "2026-08-28T16:11:07.816Z",
+      "name": "Amar De Nuevo",
+      "artists": [
+        "Rauw Alejandro"
+      ],
+      "album": "Cosa Nuestra",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b",
+      "uri": "spotify:track:4jjFjbqCTkaN1mGb0BMYl2",
+      "duration_ms": 268042
+    },
+    {
+      "played_at": "2026-08-28T16:15:37.842Z",
+      "name": "VENGA lo que VENGA",
+      "artists": [
+        "Fonseca",
+        "Rawayana"
+      ],
+      "album": "VENGA lo que VENGA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273292481ec504b9cdf76f39517",
+      "uri": "spotify:track:53q6jYH4RpudSBrCu321al",
+      "duration_ms": 188584
+    },
+    {
+      "played_at": "2026-08-28T16:18:57.427Z",
+      "name": "Hawái",
+      "artists": [
+        "Maluma"
+      ],
+      "album": "PAPI JUANCHO",
+      "image": "https://i.scdn.co/image/ab67616d0000b273079fb6c5ba37dc11d66ce1e2",
+      "uri": "spotify:track:1yoMvmasuxZfqHEipJhRbp",
+      "duration_ms": 199112
+    },
+    {
+      "played_at": "2026-08-28T16:24:37.225Z",
+      "name": "Better Late Than Never",
+      "artists": [
+        "Romeo Santos",
+        "Prince Royce"
+      ],
+      "album": "Better Late Than Never",
+      "image": "https://i.scdn.co/image/ab67616d0000b27391750ed467a5ecc14beaa03f",
+      "uri": "spotify:track:6E16aoeOwaph7iNqiw38Mo",
+      "duration_ms": 248217
+    },
+    {
+      "played_at": "2026-08-28T16:29:29.012Z",
+      "name": "EL CLúB",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:0iKo4pNNjHHdKUcFARlfCa",
+      "duration_ms": 222568
+    },
+    {
+      "played_at": "2026-08-28T16:55:35.249Z",
+      "name": "QUE HACES",
+      "artists": [
+        "Becky G",
+        "Manuel Turizo"
+      ],
+      "album": "QUE HACES",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cfdc7c6e909ced5ff7c2b1d3",
+      "uri": "spotify:track:4ad3yFpPEMFLnvCtvbman5",
+      "duration_ms": 171813
+    },
+    {
+      "played_at": "2026-08-28T17:00:39.331Z",
+      "name": "La Paso Cabrón (feat. Gigolo y La Exce, Falsetto y Sammy, Mike Duran & Baby Angel)",
+      "artists": [
+        "Trap Capos",
+        "Noriel",
+        "Gigolo Y La Exce",
+        "Sammy & Falsetto",
+        "Mike Duran",
+        "Baby Angel"
+      ],
+      "album": "Trap Capos: Season 1",
+      "image": "https://i.scdn.co/image/ab67616d0000b27377ecc981b6490db46a2aecae",
+      "uri": "spotify:track:2rnvFmtBu8L32HcFXgBf9F",
+      "duration_ms": 303640
+    },
+    {
+      "played_at": "2026-08-28T17:05:19.776Z",
+      "name": "RUDEBOYZ",
+      "artists": [
+        "Feid",
+        "The Rudeboyz"
+      ],
+      "album": "INTER SHIBUYA (FERXXO EDITION)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27382877ed8854250100fb4a3f1",
+      "uri": "spotify:track:19bRjBsNb33qkJkyYNZT16",
+      "duration_ms": 186680
+    },
+    {
+      "played_at": "2026-08-28T17:08:52.899Z",
+      "name": "Si por Mi Fuera",
+      "artists": [
+        "Los Rumberos",
+        "Juan Pablo Vega"
+      ],
+      "album": "Si por Mi Fuera",
+      "image": "https://i.scdn.co/image/ab67616d0000b27311b11823ccc2d14df2508d83",
+      "uri": "spotify:track:5z9a61fPYYlb2hV0GLVYaB",
+      "duration_ms": 212680
+    },
+    {
+      "played_at": "2026-08-28T17:14:11.618Z",
+      "name": "LA VILLA",
+      "artists": [
+        "Ryan Castro",
+        "Kapo",
+        "Gangsta"
+      ],
+      "album": "LA VILLA",
+      "image": "https://i.scdn.co/image/ab67616d0000b27326d18a5ac713d07e5ac3bb63",
+      "uri": "spotify:track:6YkGw5op7PeyP2gmMMMrfJ",
+      "duration_ms": 192111
+    },
+    {
+      "played_at": "2026-08-28T17:18:15.289Z",
+      "name": "6 AM",
+      "artists": [
+        "J Balvin",
+        "Farruko"
+      ],
+      "album": "La Familia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb748e8ded0f408299326b94",
+      "uri": "spotify:track:7mPwkbaoiQ5bf8FPbRJzUr",
+      "duration_ms": 243226
+    },
+    {
+      "played_at": "2026-08-28T17:23:13.273Z",
+      "name": "SI ES AMOR",
+      "artists": [
+        "Danny Ocean",
+        "Beéle"
+      ],
+      "album": "@dannocean",
+      "image": "https://i.scdn.co/image/ab67616d0000b273219973bcf027114a95e7996b",
+      "uri": "spotify:track:7JahThtCGJ9cdn6HWTWf9S",
+      "duration_ms": 212914
+    },
+    {
+      "played_at": "2026-08-28T17:26:27.950Z",
+      "name": "Vuelve",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "Vuelve",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ce591c6a4ecad6ac5bae64d1",
+      "uri": "spotify:track:4KM3EegQxVIvcihTEjPdRf",
+      "duration_ms": 194233
+    },
+    {
+      "played_at": "2026-08-28T17:31:28.090Z",
+      "name": "Usted",
+      "artists": [
+        "Luis Miguel"
+      ],
+      "album": "Romance",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bda5c1e56bf06c3c7fc173f7",
+      "uri": "spotify:track:0MHSnVk2CrGP8hIkxpxwMJ",
+      "duration_ms": 223200
+    },
+    {
+      "played_at": "2026-08-28T17:34:45.569Z",
+      "name": "Kaleidoscope",
+      "artists": [
+        "maye"
+      ],
+      "album": "Kaleidoscope",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c556c93a612fedd5cd7ac849",
+      "uri": "spotify:track:0kJqmEL3UbprAkBSFBdZY4",
+      "duration_ms": 179191
+    },
+    {
+      "played_at": "2026-08-28T17:41:11.737Z",
+      "name": "Oh Qué Será?",
+      "artists": [
+        "Willie Colón"
+      ],
+      "album": "Greatest Hits",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f37950978573d045e79d886b",
+      "uri": "spotify:track:2n1MTLCis6qPSDKdr5XSDI",
+      "duration_ms": 304200
+    },
+    {
+      "played_at": "2026-08-28T17:43:53.811Z",
+      "name": "Besito en la Frente",
+      "artists": [
+        "Rauw Alejandro"
+      ],
+      "album": "Cosa Nuestra: Capítulo 0",
+      "image": "https://i.scdn.co/image/ab67616d0000b273586cde445b4e951ae727c536",
+      "uri": "spotify:track:2b7Si9I7PtpgGOnUE8Qogd",
+      "duration_ms": 161622
+    },
+    {
+      "played_at": "2026-08-28T17:48:56.722Z",
+      "name": "Blanco Y Negro",
+      "artists": [
+        "LAGOS",
+        "ELENA ROSE"
+      ],
+      "album": "Alta Fidelidad",
+      "image": "https://i.scdn.co/image/ab67616d0000b273426acdbc33190501c1ccdd10",
+      "uri": "spotify:track:4TvGs15vEOOHLnzBvJwao4",
+      "duration_ms": 212852
+    },
+    {
+      "played_at": "2026-08-28T17:52:46.548Z",
+      "name": "Traicionera",
+      "artists": [
+        "Sebastian Yatra"
+      ],
+      "album": "MANTRA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a04e5df68ea4c891a4252c7e",
+      "uri": "spotify:track:4Ft0391aLVNtCPPseh98lp",
+      "duration_ms": 229386
+    },
+    {
+      "played_at": "2026-08-28T17:59:19.307Z",
+      "name": "Por Ti, Yo",
+      "artists": [
+        "La Quinna"
+      ],
+      "album": "Por Ti, Yo",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393d03e7267c3002d177f6424",
+      "uri": "spotify:track:01dfWAtKjp990rN0SM4bWZ",
+      "duration_ms": 309146
+    },
+    {
+      "played_at": "2026-08-28T18:03:22.262Z",
+      "name": "LA CANCIÓN",
+      "artists": [
+        "J Balvin",
+        "Bad Bunny"
+      ],
+      "album": "OASIS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734891d9b25d8919448388f3bb",
+      "uri": "spotify:track:0fea68AdmYNygeTGI4RC18",
+      "duration_ms": 242573
+    },
+    {
+      "played_at": "2026-08-28T18:08:08.103Z",
+      "name": "Sexo Virtual",
+      "artists": [
+        "Rauw Alejandro"
+      ],
+      "album": "VICE VERSA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f793c0c53727d8c5c950f809",
+      "uri": "spotify:track:1lV3QHHMAQt0Kc1ioZq2MP",
+      "duration_ms": 208291
+    },
+    {
+      "played_at": "2026-08-28T18:11:29.172Z",
+      "name": "Cuando Me Enamoro",
+      "artists": [
+        "Enrique Iglesias",
+        "Juan Luis Guerra 4.40"
+      ],
+      "album": "Euphoria",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f6fa4a75fccc308f26c726c6",
+      "uri": "spotify:track:4PHX6bpHDxiR9RGzAKWcyk",
+      "duration_ms": 200586
+    },
+    {
+      "played_at": "2026-08-28T18:17:18.566Z",
+      "name": "Secreto De Amor",
+      "artists": [
+        "Joan Sebastian"
+      ],
+      "album": "Secreto De Amor",
+      "image": "https://i.scdn.co/image/ab67616d0000b273078eeb66acfcc9c323fe2a76",
+      "uri": "spotify:track:47PiSg7z5qjUyEGKN4I1g7",
+      "duration_ms": 273008
+    },
+    {
+      "played_at": "2026-08-28T18:21:24.395Z",
+      "name": "Culpable O No - Miénteme Como Siempre",
+      "artists": [
+        "Luis Miguel"
+      ],
+      "album": "Busca Una Mujer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737144526743136029a4d61aca",
+      "uri": "spotify:track:7BwxbmYFy0l3ROHDjV2c14",
+      "duration_ms": 237240
+    },
+    {
+      "played_at": "2026-08-28T18:26:31.268Z",
+      "name": "Mi Atención",
+      "artists": [
+        "Martox"
+      ],
+      "album": "Caracol",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f4d8a9f412f95ce5757f7cf5",
+      "uri": "spotify:track:0KXKWw0nTmIvCKkFcYVhes",
+      "duration_ms": 212179
+    },
+    {
+      "played_at": "2026-08-28T18:30:14.217Z",
+      "name": "Veneno",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "54+1",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d8243a13e6f41310a5fa7b96",
+      "uri": "spotify:track:19vrzibX1lFlT2V2ToVQkv",
+      "duration_ms": 222511
+    },
+    {
+      "played_at": "2026-08-28T18:34:24.806Z",
+      "name": "no tiene sentido",
+      "artists": [
+        "Beéle"
+      ],
+      "album": "no tiene sentido",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d1a6e9b763a9b3db59bb054",
+      "uri": "spotify:track:6dbh2fgGhV5s8rxSOOsEMv",
+      "duration_ms": 158036
+    },
+    {
+      "played_at": "2026-08-28T18:45:39.515Z",
+      "name": "Corazón Sin Cara",
+      "artists": [
+        "Prince Royce"
+      ],
+      "album": "Prince Royce",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a484690118ec2c7a2e2ae124",
+      "uri": "spotify:track:0u4N6w5lBw5xMrzJitRWUo",
+      "duration_ms": 211453
+    },
+    {
+      "played_at": "2026-08-28T18:49:26.364Z",
+      "name": "Llévame Contigo",
+      "artists": [
+        "Romeo Santos"
+      ],
+      "album": "Fórmula Vol. 1 (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731d6d3d544ca5b46453fafbb6",
+      "uri": "spotify:track:0uLwWjN1KFO678WNJcZDkw",
+      "duration_ms": 226400
+    },
+    {
+      "played_at": "2026-08-28T18:56:41.635Z",
+      "name": "Ciego De Amor - Featuring Anthony Santos",
+      "artists": [
+        "Aventura",
+        "Anthony Santos"
+      ],
+      "album": "God's Project",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737ccd22cc18d53dd443c69d43",
+      "uri": "spotify:track:1IdSPagRNE4i6cr6I8QBYD",
+      "duration_ms": 307933
+    },
+    {
+      "played_at": "2026-08-28T18:59:47.937Z",
+      "name": "Niña De Mi Corazón",
+      "artists": [
+        "Karlos Rosé"
+      ],
+      "album": "Géminis",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e43ba1e6fad450668f5ce5ed",
+      "uri": "spotify:track:1fwtJ5PoXp02amYo4gFHpP",
+      "duration_ms": 185813
+    },
+    {
+      "played_at": "2026-08-28T19:03:59.023Z",
+      "name": "Eres Mía",
+      "artists": [
+        "Romeo Santos"
+      ],
+      "album": "Fórmula, Vol. 2 (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0e4b48b060715c9aa7fca18",
+      "uri": "spotify:track:6I86RF3odBlcuZA9Vfjzeq",
+      "duration_ms": 250640
+    },
+    {
+      "played_at": "2026-08-28T19:11:53.936Z",
+      "name": "One Hundred Sleepless Nights",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:5TNX6rJ91T8PdEt94X50Y9",
+      "duration_ms": 221840
+    },
+    {
+      "played_at": "2026-08-28T19:15:51.481Z",
+      "name": "Damn The Man, Save The Empire",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:57ISsI9qQcAUkhiqwEMhxG",
+      "duration_ms": 237000
+    },
+    {
+      "played_at": "2026-08-28T19:19:35.342Z",
+      "name": "Hell Above",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:3EKh7JNsBrGoh2xqPotBKT",
+      "duration_ms": 223546
+    },
+    {
+      "played_at": "2026-08-28T19:23:32.196Z",
+      "name": "So Far So Fake",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3fWibgdtgIie6LKTZ2rUoI",
+      "duration_ms": 236160
+    },
+    {
+      "played_at": "2026-08-28T19:27:13.014Z",
+      "name": "Resilience",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+      "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-08-28T21:38:03.524Z",
+      "name": "Caraphernelia",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Selfish Machines",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
+      "uri": "spotify:track:2G8PweZBBwTpyP8vpNQJK2",
+      "duration_ms": 268480
     }
   ]
 }

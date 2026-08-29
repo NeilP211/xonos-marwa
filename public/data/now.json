@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-28T15:01:41.493Z",
-  "is_playing": false,
+  "updated_at": "2026-08-29T01:30:46.625Z",
+  "is_playing": true,
   "track": {
-    "name": "ADO",
+    "name": "Pass The Nirvana",
     "artists": [
-      "Danny Ocean"
+      "Pierce The Veil"
     ],
-    "album": "@dannocean",
-    "image": "https://i.scdn.co/image/ab67616d0000b273219973bcf027114a95e7996b",
-    "uri": "spotify:track:0HE89WugytozUPv2B9TV8W"
+    "album": "The Jaws Of Life",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+    "uri": "spotify:track:7I93h9I0RUqt1ci3Bfa290"
   },
-  "played_at": "2026-08-27T21:59:02.959Z"
+  "played_at": "2026-08-29T01:30:46.625Z"
 }
