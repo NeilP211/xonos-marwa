@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-08-29T20:34:19.205Z",
+  "updated_at": "2026-08-29T23:02:19.814Z",
   "is_playing": false,
   "track": {
-    "name": "Pass The Nirvana",
+    "name": "La Perla",
     "artists": [
-      "Pierce The Veil"
+      "ROSALÍA",
+      "Yahritza Y Su Esencia"
     ],
-    "album": "The Jaws Of Life",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-    "uri": "spotify:track:7I93h9I0RUqt1ci3Bfa290"
+    "album": "LUX",
+    "image": "https://i.scdn.co/image/ab67616d0000b27393ee2e2f2dfb7de9befcc164",
+    "uri": "spotify:track:4oVO4fGNRRvEn0CRuFO4qv"
   },
-  "played_at": "2026-08-28T21:41:53.770Z"
+  "played_at": "2026-08-29T22:58:39.238Z"
 }

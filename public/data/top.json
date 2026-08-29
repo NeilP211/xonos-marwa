@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T20:34:18.974Z",
+  "generated_at": "2026-08-29T23:02:19.550Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -115,6 +115,18 @@
         },
         {
           "rank": 10,
+          "name": "Descifrar",
+          "artists": [
+            "maye"
+          ],
+          "album": "Descifrar",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
+          "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
+          "url": "https://open.spotify.com/track/431vrxogdCt65ZSWfUrP1G",
+          "duration_ms": 178700
+        },
+        {
+          "rank": 11,
           "name": "Circles",
           "artists": [
             "Pierce The Veil"
@@ -126,7 +138,7 @@
           "duration_ms": 224306
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "大魚 - 唱片版",
           "artists": [
             "Zhou Shen"
@@ -138,7 +150,7 @@
           "duration_ms": 317597
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "O Que É o Amor",
           "artists": [
             "Arlindo Cruz",
@@ -151,7 +163,7 @@
           "duration_ms": 212453
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Resilience",
           "artists": [
             "Pierce The Veil"
@@ -163,7 +175,7 @@
           "duration_ms": 220360
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Mi Casita",
           "artists": [
             "Motherflowers"
@@ -175,7 +187,7 @@
           "duration_ms": 249579
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Mis Días A Tu Suerte",
           "artists": [
             "Rels B"
@@ -187,7 +199,7 @@
           "duration_ms": 143750
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "EL CLúB",
           "artists": [
             "Bad Bunny"
@@ -199,7 +211,7 @@
           "duration_ms": 222568
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Tiempo de Nada",
           "artists": [
             "Morad"
@@ -211,7 +223,7 @@
           "duration_ms": 230204
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Lose Control",
           "artists": [
             "J Balvin",
@@ -224,7 +236,7 @@
           "duration_ms": 293666
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Flxr",
           "artists": [
             "OsamaSon"
@@ -236,7 +248,7 @@
           "duration_ms": 105144
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Bulls In The Bronx",
           "artists": [
             "Pierce The Veil"
@@ -248,7 +260,7 @@
           "duration_ms": 267866
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "LATINA FOREVA",
           "artists": [
             "KAROL G"
@@ -260,7 +272,7 @@
           "duration_ms": 159522
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Art of War",
           "artists": [
             "Avenoir"
@@ -272,7 +284,7 @@
           "duration_ms": 126973
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "اثينا",
           "artists": [
             "Loathe",
@@ -285,7 +297,7 @@
           "duration_ms": 127133
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Mi Mente",
           "artists": [
             "Morad",
@@ -298,7 +310,7 @@
           "duration_ms": 223080
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Nobody New",
           "artists": [
             "The Marías"
@@ -310,7 +322,7 @@
           "duration_ms": 215200
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Hell Above",
           "artists": [
             "Pierce The Veil"
@@ -322,7 +334,7 @@
           "duration_ms": 223546
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Ay No Puedo",
           "artists": [
             "The Marías"
@@ -334,7 +346,7 @@
           "duration_ms": 181546
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "So Far So Fake",
           "artists": [
             "Pierce The Veil"
@@ -346,7 +358,7 @@
           "duration_ms": 236160
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Block Of Flats",
           "artists": [
             "Loathe",
@@ -359,7 +371,7 @@
           "duration_ms": 346053
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Death Of An Executioner",
           "artists": [
             "Pierce The Veil"
@@ -369,18 +381,6 @@
           "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
           "url": "https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp",
           "duration_ms": 267800
-        },
-        {
-          "rank": 31,
-          "name": "Descifrar",
-          "artists": [
-            "maye"
-          ],
-          "album": "Descifrar",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
-          "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
-          "url": "https://open.spotify.com/track/431vrxogdCt65ZSWfUrP1G",
-          "duration_ms": 178700
         },
         {
           "rank": 32,
@@ -482,6 +482,18 @@
         },
         {
           "rank": 40,
+          "name": "Margarita",
+          "artists": [
+            "Danny Ocean"
+          ],
+          "album": "Babylon Club",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734330d7d9762313dff66f1ca7",
+          "uri": "spotify:track:6FFpD5jRXlDWhnCc4YF8ed",
+          "url": "https://open.spotify.com/track/6FFpD5jRXlDWhnCc4YF8ed",
+          "duration_ms": 153189
+        },
+        {
+          "rank": 41,
           "name": "Si Me Voy (with The Marías)",
           "artists": [
             "Cuco",
@@ -494,7 +506,7 @@
           "duration_ms": 203219
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "talking 'bout u",
           "artists": [
             "wave to earth"
@@ -506,7 +518,21 @@
           "duration_ms": 254202
         },
         {
-          "rank": 42,
+          "rank": 43,
+          "name": "Ponme En Tu Boca",
+          "artists": [
+            "Jerry Di",
+            "Danny Ocean",
+            "Corina Smith"
+          ],
+          "album": "Ponme En Tu Boca",
+          "image": "https://i.scdn.co/image/ab67616d0000b27337269a163d46ed4f4173009c",
+          "uri": "spotify:track:705z0RDjwU07P5dLUdrOpu",
+          "url": "https://open.spotify.com/track/705z0RDjwU07P5dLUdrOpu",
+          "duration_ms": 184877
+        },
+        {
+          "rank": 44,
           "name": "Callaita",
           "artists": [
             "Bad Bunny",
@@ -519,7 +545,7 @@
           "duration_ms": 250533
         },
         {
-          "rank": 43,
+          "rank": 45,
           "name": "Beautiful Liar",
           "artists": [
             "Beyoncé",
@@ -532,7 +558,7 @@
           "duration_ms": 199840
         },
         {
-          "rank": 44,
+          "rank": 46,
           "name": "ADO",
           "artists": [
             "Danny Ocean"
@@ -544,7 +570,7 @@
           "duration_ms": 174000
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "6 AM",
           "artists": [
             "J Balvin",
@@ -557,7 +583,7 @@
           "duration_ms": 243226
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "Kaleidoscope",
           "artists": [
             "maye"
@@ -569,7 +595,7 @@
           "duration_ms": 179191
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "SOLITO (feat. maye)",
           "artists": [
             "JEREMIAS",
@@ -582,7 +608,7 @@
           "duration_ms": 200298
         },
         {
-          "rank": 48,
+          "rank": 50,
           "name": "A LAS MUJERES SE LE DA!",
           "artists": [
             "Tambor Urbano"
@@ -592,31 +618,6 @@
           "uri": "spotify:track:1XYL4FtdMg3qqR1VntmfTM",
           "url": "https://open.spotify.com/track/1XYL4FtdMg3qqR1VntmfTM",
           "duration_ms": 164910
-        },
-        {
-          "rank": 49,
-          "name": "大鱼",
-          "artists": [
-            "Zhou Shen",
-            "郭沁"
-          ],
-          "album": "大鱼",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c42d83efe293fceb5207584b",
-          "uri": "spotify:track:29QGf7AAwnv3fXs7acLq3t",
-          "url": "https://open.spotify.com/track/29QGf7AAwnv3fXs7acLq3t",
-          "duration_ms": 300331
-        },
-        {
-          "rank": 50,
-          "name": "PAZ",
-          "artists": [
-            "JEREMIAS"
-          ],
-          "album": "NOTES FROM LATAM",
-          "image": "https://i.scdn.co/image/ab67616d0000b27322349037e96c5ae1d2108502",
-          "uri": "spotify:track:2O0qeFf9jkWQO9GMF7bgPY",
-          "url": "https://open.spotify.com/track/2O0qeFf9jkWQO9GMF7bgPY",
-          "duration_ms": 155709
         }
       ],
       "artists": [
@@ -670,6 +671,14 @@
         },
         {
           "rank": 7,
+          "name": "Feid",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb7e529f4ad13f86c69962cb12",
+          "genres": [],
+          "uri": "spotify:artist:2LRoIwlKmHjgvigdNGBHNo",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "rank": 8,
           "name": "The Marías",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
           "genres": [],
@@ -677,20 +686,12 @@
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Rauw Alejandro",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6d72db3fd29576caa9cb821f",
           "genres": [],
           "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "rank": 9,
-          "name": "Feid",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb7e529f4ad13f86c69962cb12",
-          "genres": [],
-          "uri": "spotify:artist:2LRoIwlKmHjgvigdNGBHNo",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
           "rank": 10,
@@ -758,6 +759,14 @@
         },
         {
           "rank": 18,
+          "name": "Willie Colón",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb4934a2c42935c770bb3ee1af",
+          "genres": [],
+          "uri": "spotify:artist:7x5Slu7yTE5icZjNsc3OzW",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "rank": 19,
           "name": "JAEHYUN",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb1300fcdeb3f107cb34a402f",
           "genres": [],
@@ -765,7 +774,7 @@
           "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "NewJeans",
           "image": "https://i.scdn.co/image/ab6761610000e5eb841bdcf28a956f3a384ffcf4",
           "genres": [],
@@ -773,7 +782,7 @@
           "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Frankie Ruiz",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc2ecc3ba06ba1a211d11af35",
           "genres": [],
@@ -781,7 +790,7 @@
           "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "DEAN",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0380068b5097515265c51f4b",
           "genres": [],
@@ -789,7 +798,7 @@
           "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Gemini",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7ab6efd2c31f175164b0ca4f",
           "genres": [],
@@ -797,7 +806,7 @@
           "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Romeo Santos",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
           "genres": [],
@@ -805,7 +814,7 @@
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Wonder Girls",
           "image": "https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855",
           "genres": [],
@@ -813,7 +822,7 @@
           "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Aventura",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4cd0464ef7d8eb8521f72dd8",
           "genres": [],
@@ -821,7 +830,7 @@
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "BAEKHYUN",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7d4e246f8c54be347e06bffe",
           "genres": [],

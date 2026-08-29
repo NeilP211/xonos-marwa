@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T20:34:19.054Z",
+  "updated_at": "2026-08-29T23:02:19.713Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -15833,6 +15833,157 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
       "uri": "spotify:track:7I93h9I0RUqt1ci3Bfa290",
       "duration_ms": 197373
+    },
+    {
+      "played_at": "2026-08-29T21:40:07.292Z",
+      "name": "Margarita",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "Babylon Club",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734330d7d9762313dff66f1ca7",
+      "uri": "spotify:track:6FFpD5jRXlDWhnCc4YF8ed",
+      "duration_ms": 153189
+    },
+    {
+      "played_at": "2026-08-29T21:43:06.443Z",
+      "name": "Descifrar",
+      "artists": [
+        "maye"
+      ],
+      "album": "Descifrar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
+      "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
+      "duration_ms": 178700
+    },
+    {
+      "played_at": "2026-08-29T21:51:46.512Z",
+      "name": "Babylona",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "Babylon Club",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734330d7d9762313dff66f1ca7",
+      "uri": "spotify:track:3m9ffnQYlWhsIClqADZ5SO",
+      "duration_ms": 144854
+    },
+    {
+      "played_at": "2026-08-29T22:00:18.467Z",
+      "name": "80´s",
+      "artists": [
+        "Josue Alaniz"
+      ],
+      "album": "80´s",
+      "image": "https://i.scdn.co/image/ab67616d0000b27371ca7a6b2dfe69c6326ec834",
+      "uri": "spotify:track:5Td97aXNSQWyOhy9hJVZc4",
+      "duration_ms": 213088
+    },
+    {
+      "played_at": "2026-08-29T22:04:40.642Z",
+      "name": "Ponme En Tu Boca",
+      "artists": [
+        "Jerry Di",
+        "Danny Ocean",
+        "Corina Smith"
+      ],
+      "album": "Ponme En Tu Boca",
+      "image": "https://i.scdn.co/image/ab67616d0000b27337269a163d46ed4f4173009c",
+      "uri": "spotify:track:705z0RDjwU07P5dLUdrOpu",
+      "duration_ms": 184877
+    },
+    {
+      "played_at": "2026-08-29T22:34:12.622Z",
+      "name": "X",
+      "artists": [
+        "Nicky Jam",
+        "J Balvin"
+      ],
+      "album": "Intimo",
+      "image": "https://i.scdn.co/image/ab67616d0000b273072a21c666bf2f7b3fababef",
+      "uri": "spotify:track:5YUyW9opqNsMSEzzecZih1",
+      "duration_ms": 172854
+    },
+    {
+      "played_at": "2026-08-29T22:37:00.364Z",
+      "name": "50 PALOS",
+      "artists": [
+        "Feid"
+      ],
+      "album": "FERXXOCALIPSIS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242",
+      "uri": "spotify:track:2FhmPPAersOD9YcQ9v8upy",
+      "duration_ms": 167240
+    },
+    {
+      "played_at": "2026-08-29T22:39:38.512Z",
+      "name": "LA PROPUESTA",
+      "artists": [
+        "Rels B",
+        "Los Sufridos"
+      ],
+      "album": "afroLOVA 25'",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730e409fad9527196e73e423ba",
+      "uri": "spotify:track:6EUfOXUQtIAHKkBBOqMS2w",
+      "duration_ms": 157714
+    },
+    {
+      "played_at": "2026-08-29T22:43:11.246Z",
+      "name": "Mejor Que a Ti Me Va",
+      "artists": [
+        "Frank Reyes"
+      ],
+      "album": "Descarada",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb6b41419a8b88b3d7015875",
+      "uri": "spotify:track:5mGVlfAVAJDlGkRquubeko",
+      "duration_ms": 212278
+    },
+    {
+      "played_at": "2026-08-29T22:47:01.820Z",
+      "name": "Volví",
+      "artists": [
+        "Aventura",
+        "Bad Bunny"
+      ],
+      "album": "Volví",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312bcec4f18ee130369ce170c",
+      "uri": "spotify:track:2vmfvSoZBFAt9hhRoEByLi",
+      "duration_ms": 230125
+    },
+    {
+      "played_at": "2026-08-29T22:51:05.333Z",
+      "name": "Dardos",
+      "artists": [
+        "Romeo Santos",
+        "Prince Royce"
+      ],
+      "album": "Better Late Than Never",
+      "image": "https://i.scdn.co/image/ab67616d0000b27391750ed467a5ecc14beaa03f",
+      "uri": "spotify:track:5SudOD9R1Of6CsJVWZy6CQ",
+      "duration_ms": 243070
+    },
+    {
+      "played_at": "2026-08-29T22:55:23.247Z",
+      "name": "la culpa (track 11)",
+      "artists": [
+        "Alleh",
+        "Yorghaki"
+      ],
+      "album": "LA CIUDAD",
+      "image": "https://i.scdn.co/image/ab67616d0000b27353596a050e8369c51da11029",
+      "uri": "spotify:track:24XwHoTZKMFVwdIMGyEz39",
+      "duration_ms": 165120
+    },
+    {
+      "played_at": "2026-08-29T22:58:39.238Z",
+      "name": "La Perla",
+      "artists": [
+        "ROSALÍA",
+        "Yahritza Y Su Esencia"
+      ],
+      "album": "LUX",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393ee2e2f2dfb7de9befcc164",
+      "uri": "spotify:track:4oVO4fGNRRvEn0CRuFO4qv",
+      "duration_ms": 195546
     }
   ]
 }
