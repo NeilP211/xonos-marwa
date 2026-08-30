@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T16:15:00.950Z",
+  "updated_at": "2026-08-30T20:42:50.785Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -15996,6 +15996,114 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2739a47efebd6a6ebad21c53867",
       "uri": "spotify:track:0ou3TddCNhvZeyGFbz7Y6E",
       "duration_ms": 205320
+    },
+    {
+      "played_at": "2026-08-30T18:50:13.652Z",
+      "name": "Como Es Que Se Hace",
+      "artists": [
+        "Yandel",
+        "LATIN MAFIA"
+      ],
+      "album": "Infinito",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739a47efebd6a6ebad21c53867",
+      "uri": "spotify:track:0ou3TddCNhvZeyGFbz7Y6E",
+      "duration_ms": 205320
+    },
+    {
+      "played_at": "2026-08-30T18:53:54.942Z",
+      "name": "El Amor Se Ve",
+      "artists": [
+        "Rawayana",
+        "Servando & Florentino"
+      ],
+      "album": "El Amor Se Ve",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734045b5c51d4f48f9bfd3e756",
+      "uri": "spotify:track:2NFirAJZQwIO71ViP3fB9M",
+      "duration_ms": 220786
+    },
+    {
+      "played_at": "2026-08-30T18:57:22.727Z",
+      "name": "Borro Cassette",
+      "artists": [
+        "Maluma"
+      ],
+      "album": "Pretty Boy, Dirty Boy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c7b78f86d070f52f45ad125f",
+      "uri": "spotify:track:6DUdDIRgLqCGq1DwkNWQTN",
+      "duration_ms": 207296
+    },
+    {
+      "played_at": "2026-08-30T19:01:18.535Z",
+      "name": "VeLDÁ",
+      "artists": [
+        "Bad Bunny",
+        "Omar Courtz",
+        "Dei V"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:7d6yK8v8J484SWH5prIQiE",
+      "duration_ms": 235336
+    },
+    {
+      "played_at": "2026-08-30T19:07:01.273Z",
+      "name": "KETU TeCRÉ",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:4c2Pc0NrfkesPR0jff6q3F",
+      "duration_ms": 250789
+    },
+    {
+      "played_at": "2026-08-30T19:10:51.448Z",
+      "name": "TU VAS SIN (fav)",
+      "artists": [
+        "Rels B"
+      ],
+      "album": "afroLOVA 25'",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730e409fad9527196e73e423ba",
+      "uri": "spotify:track:6uiQ0DqbXTBc8tl0AUKZkR",
+      "duration_ms": 110495
+    },
+    {
+      "played_at": "2026-08-30T19:13:57.789Z",
+      "name": "Pégate",
+      "artists": [
+        "Standly"
+      ],
+      "album": "Hasta Que Salga el Sol",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735b10803724f1af443bb60e01",
+      "uri": "spotify:track:6XUhm8HUzw0BFNf7NKk1E4",
+      "duration_ms": 186122
+    },
+    {
+      "played_at": "2026-08-30T19:17:03.927Z",
+      "name": "ALGUIEN COMO TÚ",
+      "artists": [
+        "MAGNA"
+      ],
+      "album": "ALGUIEN COMO TÚ",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e92667ea77b3c9ffb65f6ee4",
+      "uri": "spotify:track:5u3akOE4Rsf2rxeYWOjUPu",
+      "duration_ms": 182151
+    },
+    {
+      "played_at": "2026-08-30T19:22:07.874Z",
+      "name": "La Paso Cabrón (feat. Gigolo y La Exce, Falsetto y Sammy, Mike Duran & Baby Angel)",
+      "artists": [
+        "Trap Capos",
+        "Noriel",
+        "Gigolo Y La Exce",
+        "Sammy & Falsetto",
+        "Mike Duran",
+        "Baby Angel"
+      ],
+      "album": "Trap Capos: Season 1",
+      "image": "https://i.scdn.co/image/ab67616d0000b27377ecc981b6490db46a2aecae",
+      "uri": "spotify:track:2rnvFmtBu8L32HcFXgBf9F",
+      "duration_ms": 303640
     }
   ]
 }
