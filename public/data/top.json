@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T20:42:50.630Z",
+  "generated_at": "2026-08-30T23:16:25.091Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2155,6 +2155,20 @@
         },
         {
           "rank": 24,
+          "name": "VeLDÁ",
+          "artists": [
+            "Bad Bunny",
+            "Omar Courtz",
+            "Dei V"
+          ],
+          "album": "DeBÍ TiRAR MáS FOToS",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "uri": "spotify:track:7d6yK8v8J484SWH5prIQiE",
+          "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE",
+          "duration_ms": 235336
+        },
+        {
+          "rank": 25,
           "name": "Die With A Smile",
           "artists": [
             "Lady Gaga",
@@ -2167,7 +2181,7 @@
           "duration_ms": 251667
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "All Mine",
           "artists": [
             "PLAZA"
@@ -2179,7 +2193,7 @@
           "duration_ms": 234871
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Deseándote",
           "artists": [
             "Frankie Ruiz"
@@ -2191,7 +2205,7 @@
           "duration_ms": 283546
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Ana Mosh Anani",
           "artists": [
             "Amr Diab"
@@ -2203,7 +2217,7 @@
           "duration_ms": 289959
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "LIMBO",
           "artists": [
             "keshi"
@@ -2215,7 +2229,7 @@
           "duration_ms": 212784
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Virgen",
           "artists": [
             "Adolescent's Orquesta"
@@ -2225,20 +2239,6 @@
           "uri": "spotify:track:1HWbpfmzt1YplLceHgirCv",
           "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv",
           "duration_ms": 273763
-        },
-        {
-          "rank": 30,
-          "name": "VeLDÁ",
-          "artists": [
-            "Bad Bunny",
-            "Omar Courtz",
-            "Dei V"
-          ],
-          "album": "DeBÍ TiRAR MáS FOToS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-          "uri": "spotify:track:7d6yK8v8J484SWH5prIQiE",
-          "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE",
-          "duration_ms": 235336
         },
         {
           "rank": 31,
@@ -2415,6 +2415,19 @@
         },
         {
           "rank": 45,
+          "name": "X",
+          "artists": [
+            "Nicky Jam",
+            "J Balvin"
+          ],
+          "album": "Intimo",
+          "image": "https://i.scdn.co/image/ab67616d0000b273072a21c666bf2f7b3fababef",
+          "uri": "spotify:track:5YUyW9opqNsMSEzzecZih1",
+          "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1",
+          "duration_ms": 172854
+        },
+        {
+          "rank": 46,
           "name": "Te Me Vas",
           "artists": [
             "Prince Royce"
@@ -2426,7 +2439,7 @@
           "duration_ms": 198973
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Reggaeton",
           "artists": [
             "J Balvin"
@@ -2438,7 +2451,7 @@
           "duration_ms": 158800
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Ice On My Teeth",
           "artists": [
             "ATEEZ"
@@ -2448,19 +2461,6 @@
           "uri": "spotify:track:62eDE0RR8Sgh7yw8ZLeyAM",
           "url": "https://open.spotify.com/track/62eDE0RR8Sgh7yw8ZLeyAM",
           "duration_ms": 183494
-        },
-        {
-          "rank": 48,
-          "name": "X",
-          "artists": [
-            "Nicky Jam",
-            "J Balvin"
-          ],
-          "album": "Intimo",
-          "image": "https://i.scdn.co/image/ab67616d0000b273072a21c666bf2f7b3fababef",
-          "uri": "spotify:track:5YUyW9opqNsMSEzzecZih1",
-          "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1",
-          "duration_ms": 172854
         },
         {
           "rank": 49,
@@ -2715,19 +2715,19 @@
         },
         {
           "rank": 29,
-          "name": "Colde",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb03b1ba24c2bf2c0b7ea0435",
-          "genres": [],
-          "uri": "spotify:artist:3VQDqjQ4wJyw8PzpGdlZpB",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        },
-        {
-          "rank": 30,
           "name": "Feid",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e529f4ad13f86c69962cb12",
           "genres": [],
           "uri": "spotify:artist:2LRoIwlKmHjgvigdNGBHNo",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "rank": 30,
+          "name": "Colde",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb03b1ba24c2bf2c0b7ea0435",
+          "genres": [],
+          "uri": "spotify:artist:3VQDqjQ4wJyw8PzpGdlZpB",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
         },
         {
           "rank": 31,
