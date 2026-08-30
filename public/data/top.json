@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T23:02:19.550Z",
+  "generated_at": "2026-08-30T04:14:50.626Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -799,19 +799,19 @@
         },
         {
           "rank": 23,
-          "name": "Gemini",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb7ab6efd2c31f175164b0ca4f",
-          "genres": [],
-          "uri": "spotify:artist:67IWlRdLy3UcfY3q968euj",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
-        },
-        {
-          "rank": 24,
           "name": "Romeo Santos",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
           "genres": [],
           "uri": "spotify:artist:5lwmRuXgjX8xIwlnauTZIP",
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "rank": 24,
+          "name": "Gemini",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb7ab6efd2c31f175164b0ca4f",
+          "genres": [],
+          "uri": "spotify:artist:67IWlRdLy3UcfY3q968euj",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
         },
         {
           "rank": 25,
@@ -823,19 +823,19 @@
         },
         {
           "rank": 26,
-          "name": "Aventura",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb4cd0464ef7d8eb8521f72dd8",
-          "genres": [],
-          "uri": "spotify:artist:1qto4hHid1P71emI6Fd8xi",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        },
-        {
-          "rank": 27,
           "name": "BAEKHYUN",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7d4e246f8c54be347e06bffe",
           "genres": [],
           "uri": "spotify:artist:4ufh0WuMZh6y4Dmdnklvdl",
           "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        },
+        {
+          "rank": 27,
+          "name": "Aventura",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb4cd0464ef7d8eb8521f72dd8",
+          "genres": [],
+          "uri": "spotify:artist:1qto4hHid1P71emI6Fd8xi",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ]
     },
@@ -1003,18 +1003,6 @@
         },
         {
           "rank": 14,
-          "name": "雨蝶 - R&B微醺版",
-          "artists": [
-            "微醺卡带"
-          ],
-          "album": "雨蝶 (R&B微醺版)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27381bfa5296306a950e8b64aa0",
-          "uri": "spotify:track:4BdMTfgOY7zGwIGCqJpEnm",
-          "url": "https://open.spotify.com/track/4BdMTfgOY7zGwIGCqJpEnm",
-          "duration_ms": 234984
-        },
-        {
-          "rank": 15,
           "name": "Descifrar",
           "artists": [
             "maye"
@@ -1024,6 +1012,18 @@
           "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
           "url": "https://open.spotify.com/track/431vrxogdCt65ZSWfUrP1G",
           "duration_ms": 178700
+        },
+        {
+          "rank": 15,
+          "name": "雨蝶 - R&B微醺版",
+          "artists": [
+            "微醺卡带"
+          ],
+          "album": "雨蝶 (R&B微醺版)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27381bfa5296306a950e8b64aa0",
+          "uri": "spotify:track:4BdMTfgOY7zGwIGCqJpEnm",
+          "url": "https://open.spotify.com/track/4BdMTfgOY7zGwIGCqJpEnm",
+          "duration_ms": 234984
         },
         {
           "rank": 16,
@@ -1739,6 +1739,14 @@
         },
         {
           "rank": 36,
+          "name": "Romeo Santos",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
+          "genres": [],
+          "uri": "spotify:artist:5lwmRuXgjX8xIwlnauTZIP",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "rank": 37,
           "name": "Morad",
           "image": "https://i.scdn.co/image/ab6761610000e5ebad6c5175ba73bba50f96c193",
           "genres": [],
@@ -1746,7 +1754,7 @@
           "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Radiohead",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4104fbd80f1f795728abbd59",
           "genres": [],
@@ -1754,7 +1762,7 @@
           "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "ELENA ROSE",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2948fdff5fcfa2303e18e12c",
           "genres": [],
@@ -1762,7 +1770,7 @@
           "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Mora",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe6252cc367480d8fe43e711f",
           "genres": [],
@@ -1770,7 +1778,7 @@
           "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Zhou Shen",
           "image": "https://i.scdn.co/image/ab6761610000e5eb555f21234ccc27d609c6f000",
           "genres": [],
@@ -1778,7 +1786,7 @@
           "url": "https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "The Weeknd",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
           "genres": [],
@@ -1786,7 +1794,7 @@
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "PRYVT",
           "image": "https://i.scdn.co/image/ab6761610000e5eb012e40962788790bb7b60f75",
           "genres": [],
@@ -1794,20 +1802,12 @@
           "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "La Isla Centeno",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf55def158ecb9a2b89f5e0bd",
           "genres": [],
           "uri": "spotify:artist:7EnLmrL4jTZKjeseaZyA0L",
           "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        },
-        {
-          "rank": 44,
-          "name": "Romeo Santos",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
-          "genres": [],
-          "uri": "spotify:artist:5lwmRuXgjX8xIwlnauTZIP",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         },
         {
           "rank": 45,

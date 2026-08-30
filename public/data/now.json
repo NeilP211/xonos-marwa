@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-29T23:02:19.814Z",
+  "updated_at": "2026-08-30T04:14:50.867Z",
   "is_playing": false,
   "track": {
-    "name": "La Perla",
+    "name": "Como Es Que Se Hace",
     "artists": [
-      "ROSALÍA",
-      "Yahritza Y Su Esencia"
+      "Yandel",
+      "LATIN MAFIA"
     ],
-    "album": "LUX",
-    "image": "https://i.scdn.co/image/ab67616d0000b27393ee2e2f2dfb7de9befcc164",
-    "uri": "spotify:track:4oVO4fGNRRvEn0CRuFO4qv"
+    "album": "Infinito",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739a47efebd6a6ebad21c53867",
+    "uri": "spotify:track:0ou3TddCNhvZeyGFbz7Y6E"
   },
-  "played_at": "2026-08-29T22:58:39.238Z"
+  "played_at": "2026-08-29T23:03:05.090Z"
 }
