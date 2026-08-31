@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T23:16:25.140Z",
+  "updated_at": "2026-08-31T04:19:56.717Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -16104,6 +16104,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27377ecc981b6490db46a2aecae",
       "uri": "spotify:track:2rnvFmtBu8L32HcFXgBf9F",
       "duration_ms": 303640
+    },
+    {
+      "played_at": "2026-08-30T19:34:46.971Z",
+      "name": "A Donde Vas",
+      "artists": [
+        "Felix Cumbe"
+      ],
+      "album": "Bachatiando",
+      "image": "https://i.scdn.co/image/ab67616d0000b27381145ed46da00236adf12039",
+      "uri": "spotify:track:0I9x5JbQqdz1NqAKasyUUM",
+      "duration_ms": 285885
     }
   ]
 }

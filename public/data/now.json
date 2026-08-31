@@ -1,19 +1,14 @@
 {
-  "updated_at": "2026-08-30T23:16:25.175Z",
+  "updated_at": "2026-08-31T04:19:56.814Z",
   "is_playing": false,
   "track": {
-    "name": "La Paso Cabrón (feat. Gigolo y La Exce, Falsetto y Sammy, Mike Duran & Baby Angel)",
+    "name": "A Donde Vas",
     "artists": [
-      "Trap Capos",
-      "Noriel",
-      "Gigolo Y La Exce",
-      "Sammy & Falsetto",
-      "Mike Duran",
-      "Baby Angel"
+      "Felix Cumbe"
     ],
-    "album": "Trap Capos: Season 1",
-    "image": "https://i.scdn.co/image/ab67616d0000b27377ecc981b6490db46a2aecae",
-    "uri": "spotify:track:2rnvFmtBu8L32HcFXgBf9F"
+    "album": "Bachatiando",
+    "image": "https://i.scdn.co/image/ab67616d0000b27381145ed46da00236adf12039",
+    "uri": "spotify:track:0I9x5JbQqdz1NqAKasyUUM"
   },
-  "played_at": "2026-08-30T19:22:07.874Z"
+  "played_at": "2026-08-30T19:34:46.971Z"
 }
