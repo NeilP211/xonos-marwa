@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-31T12:59:15.271Z",
+  "updated_at": "2026-08-31T20:41:42.122Z",
   "is_playing": false,
   "track": {
-    "name": "A Donde Vas",
+    "name": "Props & Mayhem",
     "artists": [
-      "Felix Cumbe"
+      "Pierce The Veil"
     ],
-    "album": "Bachatiando",
-    "image": "https://i.scdn.co/image/ab67616d0000b27381145ed46da00236adf12039",
-    "uri": "spotify:track:0I9x5JbQqdz1NqAKasyUUM"
+    "album": "Collide With The Sky",
+    "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+    "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO"
   },
-  "played_at": "2026-08-30T19:34:46.971Z"
+  "played_at": "2026-08-31T19:06:33.862Z"
 }
