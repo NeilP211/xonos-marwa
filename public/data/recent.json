@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T18:13:33.318Z",
+  "updated_at": "2026-09-01T23:05:44.698Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -16294,6 +16294,107 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
       "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO",
       "duration_ms": 217853
+    },
+    {
+      "played_at": "2026-09-01T19:35:34.499Z",
+      "name": "Deseándote",
+      "artists": [
+        "Frankie Ruiz"
+      ],
+      "album": "Frankie Ruiz La Leyenda",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
+      "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
+      "duration_ms": 281333
+    },
+    {
+      "played_at": "2026-09-01T19:39:18.405Z",
+      "name": "Ivonny Bonita",
+      "artists": [
+        "KAROL G"
+      ],
+      "album": "Tropicoqueta",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
+      "uri": "spotify:track:6Sv0CzVqzydd7NYQgAG70c",
+      "duration_ms": 222458
+    },
+    {
+      "played_at": "2026-09-01T19:41:00.964Z",
+      "name": "Amor Mio",
+      "artists": [
+        "Frank Sark"
+      ],
+      "album": "Latin Crooners",
+      "image": "https://i.scdn.co/image/ab67616d0000b27349bce3cd18deb6f0ef08e3ef",
+      "uri": "spotify:track:7DOqLMSxTh1s3WPTyqJ2pw",
+      "duration_ms": 102253
+    },
+    {
+      "played_at": "2026-09-01T19:45:56.845Z",
+      "name": "Aquel Nap ZzZz",
+      "artists": [
+        "Rauw Alejandro"
+      ],
+      "album": "VICE VERSA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f793c0c53727d8c5c950f809",
+      "uri": "spotify:track:5bQLsyTrUaMQRfr6whwGe5",
+      "duration_ms": 295038
+    },
+    {
+      "played_at": "2026-09-01T19:50:03.285Z",
+      "name": "Siesta Freestyle",
+      "artists": [
+        "Lewis OfMan",
+        "Alicia te quiero"
+      ],
+      "album": "Dancy Party",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730dfde54ca58fa9c1c5fa2d93",
+      "uri": "spotify:track:6ZHKeoIOkvmYUIfxHLtE2Z",
+      "duration_ms": 194160
+    },
+    {
+      "played_at": "2026-09-01T19:53:50.222Z",
+      "name": "Chica de Verde",
+      "artists": [
+        "Bruno Romano",
+        "Elisa González"
+      ],
+      "album": "Chica de Verde",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da9eccf72a3e9d55e41db1f4",
+      "uri": "spotify:track:6ZxsJwY5QgN6R0mRBYWrHf",
+      "duration_ms": 225694
+    },
+    {
+      "played_at": "2026-09-01T19:57:21.697Z",
+      "name": "Beso",
+      "artists": [
+        "Jósean Log"
+      ],
+      "album": "Háblate de Mí",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a8659bf75fee7dc8c01afc67",
+      "uri": "spotify:track:4PpuZIMmeng6qPicveSI22",
+      "duration_ms": 211021
+    },
+    {
+      "played_at": "2026-09-01T20:12:40.275Z",
+      "name": "Morado",
+      "artists": [
+        "J Balvin"
+      ],
+      "album": "Colores",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335692baca45542527d742d0d",
+      "uri": "spotify:track:35KmOEIUqAGn02t7n4qaIr",
+      "duration_ms": 200266
+    },
+    {
+      "played_at": "2026-09-01T22:10:55.972Z",
+      "name": "Desenfocao'",
+      "artists": [
+        "Rauw Alejandro"
+      ],
+      "album": "VICE VERSA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f793c0c53727d8c5c950f809",
+      "uri": "spotify:track:2CEf2gU5ZJamLXa3NrgAvA",
+      "duration_ms": 170535
     }
   ]
 }

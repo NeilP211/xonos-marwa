@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-01T18:13:33.354Z",
+  "updated_at": "2026-09-01T23:05:44.740Z",
   "is_playing": false,
   "track": {
-    "name": "Props & Mayhem",
+    "name": "Desenfocao'",
     "artists": [
-      "Pierce The Veil"
+      "Rauw Alejandro"
     ],
-    "album": "Collide With The Sky",
-    "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-    "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO"
+    "album": "VICE VERSA",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f793c0c53727d8c5c950f809",
+    "uri": "spotify:track:2CEf2gU5ZJamLXa3NrgAvA"
   },
-  "played_at": "2026-08-31T19:06:33.862Z"
+  "played_at": "2026-09-01T22:10:55.972Z"
 }
