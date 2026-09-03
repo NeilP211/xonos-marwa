@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-03T10:50:39.202Z",
+  "updated_at": "2026-09-03T15:58:38.686Z",
   "is_playing": false,
   "track": {
-    "name": "Desenfocao'",
+    "name": "Veneno",
     "artists": [
-      "Rauw Alejandro"
+      "Danny Ocean"
     ],
-    "album": "VICE VERSA",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f793c0c53727d8c5c950f809",
-    "uri": "spotify:track:2CEf2gU5ZJamLXa3NrgAvA"
+    "album": "54+1",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d8243a13e6f41310a5fa7b96",
+    "uri": "spotify:track:19vrzibX1lFlT2V2ToVQkv"
   },
-  "played_at": "2026-09-01T22:10:55.972Z"
+  "played_at": "2026-09-03T15:58:38.686Z"
 }

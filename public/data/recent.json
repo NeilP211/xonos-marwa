@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T10:50:39.161Z",
+  "updated_at": "2026-09-03T15:58:38.533Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -16395,6 +16395,216 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f793c0c53727d8c5c950f809",
       "uri": "spotify:track:2CEf2gU5ZJamLXa3NrgAvA",
       "duration_ms": 170535
+    },
+    {
+      "played_at": "2026-09-03T13:42:26.784Z",
+      "name": "NUEVAYoL",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
+      "duration_ms": 183685
+    },
+    {
+      "played_at": "2026-09-03T13:47:26.765Z",
+      "name": "Change (In the House of Flies)",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "White Pony",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
+      "uri": "spotify:track:51c94ac31swyDQj9B3Lzs3",
+      "duration_ms": 299533
+    },
+    {
+      "played_at": "2026-09-03T13:52:02.934Z",
+      "name": "stingray",
+      "artists": [
+        "Rehash"
+      ],
+      "album": "mock",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f50a9ad97d36ef45ac44937",
+      "uri": "spotify:track:1iegi4anCrPW5YReZbviwa",
+      "duration_ms": 184041
+    },
+    {
+      "played_at": "2026-09-03T13:56:03.389Z",
+      "name": "Dope",
+      "artists": [
+        "BTS"
+      ],
+      "album": "The Most Beautiful Moment in Life Pt.1",
+      "image": "https://i.scdn.co/image/ab67616d0000b273019385816d2b6c1760e0d7db",
+      "uri": "spotify:track:7jPCPDYoiaKeK7cgNGpIzq",
+      "duration_ms": 240020
+    },
+    {
+      "played_at": "2026-09-03T14:02:55.353Z",
+      "name": "Cosas Pendientes",
+      "artists": [
+        "Maluma"
+      ],
+      "album": "Cosas Pendientes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343d4c3906c628a39dcb790ca",
+      "uri": "spotify:track:0iVEujJcafOBnxa654fJYu",
+      "duration_ms": 184462
+    },
+    {
+      "played_at": "2026-09-03T14:07:22.649Z",
+      "name": "ستة الصبح",
+      "artists": [
+        "Hussain Aljassmi"
+      ],
+      "album": "حسين الجسمي ٢٠١٠",
+      "image": "https://i.scdn.co/image/ab67616d0000b273264f31393765cab26d646e44",
+      "uri": "spotify:track:4XwmkLMuFc96k7BJmXLUZF",
+      "duration_ms": 266840
+    },
+    {
+      "played_at": "2026-09-03T14:12:39.205Z",
+      "name": "Mikrokosmos",
+      "artists": [
+        "BTS"
+      ],
+      "album": "MAP OF THE SOUL : PERSONA",
+      "image": "https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f",
+      "uri": "spotify:track:0jSccBRnhNU4KtACMQPvco",
+      "duration_ms": 224225
+    },
+    {
+      "played_at": "2026-09-03T14:16:24.969Z",
+      "name": "Always",
+      "artists": [
+        "Daniel Caesar"
+      ],
+      "album": "NEVER ENOUGH",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737c68face1dc58127f3a7b1cc",
+      "uri": "spotify:track:2LlOeW5rVcvl3QcPNPcDus",
+      "duration_ms": 225312
+    },
+    {
+      "played_at": "2026-09-03T14:23:45.632Z",
+      "name": "War of Hormone",
+      "artists": [
+        "BTS"
+      ],
+      "album": "Dark & Wild",
+      "image": "https://i.scdn.co/image/ab67616d0000b273abe7090bc3ae94d741dfaf6b",
+      "uri": "spotify:track:29SjtKzBoJDgyIBusHylIS",
+      "duration_ms": 265602
+    },
+    {
+      "played_at": "2026-09-03T14:32:45.369Z",
+      "name": "Whenever",
+      "artists": [
+        "Lexie Liu"
+      ],
+      "album": "无限意识 Meta Ego",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e592aac2968df5d922ff919b",
+      "uri": "spotify:track:4lx9kWtacO0IuJuJcxOoHV",
+      "duration_ms": 194717
+    },
+    {
+      "played_at": "2026-09-03T14:35:31.932Z",
+      "name": "beside you",
+      "artists": [
+        "keshi"
+      ],
+      "album": "beside you",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da53f97b4b0f1e14d854f777",
+      "uri": "spotify:track:1Fhb9iJPufNMZSwupsXiRe",
+      "duration_ms": 166023
+    },
+    {
+      "played_at": "2026-09-03T14:40:30.699Z",
+      "name": "一個人",
+      "artists": [
+        "A-Lin"
+      ],
+      "album": "一個人",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a19f46e222d927c2c80383c2",
+      "uri": "spotify:track:5Vxi8yyujUP3tw8hfR6abp",
+      "duration_ms": 298322
+    },
+    {
+      "played_at": "2026-09-03T14:42:54.422Z",
+      "name": "Why Do You Only Take Everything That Belongs to Me?",
+      "artists": [
+        "Park Sung Il"
+      ],
+      "album": "When Life Gives you Tangerines OST from the Netflix Series",
+      "image": "https://i.scdn.co/image/ab67616d0000b27333955e7e0e9150ac79da2faa",
+      "uri": "spotify:track:0vOitdQvDSDImIop13s2G3",
+      "duration_ms": 143280
+    },
+    {
+      "played_at": "2026-09-03T14:46:57.784Z",
+      "name": "بيحن",
+      "artists": [
+        "Wael Kfoury"
+      ],
+      "album": "بيحن",
+      "image": "https://i.scdn.co/image/ab67616d0000b27365940244c5eba1dd67bfed00",
+      "uri": "spotify:track:0Gs8XF1W4VTuGn5HIHpu8k",
+      "duration_ms": 242912
+    },
+    {
+      "played_at": "2026-09-03T14:50:15.695Z",
+      "name": "Desert Oasis",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
+      "uri": "spotify:track:4raVYWt5YDX4GlLDUrRM9c",
+      "duration_ms": 154920
+    },
+    {
+      "played_at": "2026-09-03T14:54:31.963Z",
+      "name": "AFTER HOURS",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "AFTER HOURS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732838bcdc14743f3e74b897a9",
+      "uri": "spotify:track:2ss03wfWSV9g3DdvDklHH2",
+      "duration_ms": 173026
+    },
+    {
+      "played_at": "2026-09-03T14:57:01.659Z",
+      "name": "Mirage",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
+      "uri": "spotify:track:5as974bpTDV3CJGZYbK6kJ",
+      "duration_ms": 149253
+    },
+    {
+      "played_at": "2026-09-03T14:59:49.523Z",
+      "name": "Alone",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
+      "uri": "spotify:track:69ms7KvY7nETPn8mYwTahK",
+      "duration_ms": 145120
+    },
+    {
+      "played_at": "2026-09-03T15:55:29.282Z",
+      "name": "ASI ES LA VIDA",
+      "artists": [
+        "Enrique Iglesias",
+        "Maria Becerra"
+      ],
+      "album": "FINAL (Vol.2)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27357f51eb404ef198d1ae6ea39",
+      "uri": "spotify:track:33ggWc1Nai6fcNb2qM4lJ7",
+      "duration_ms": 172095
     }
   ]
 }
