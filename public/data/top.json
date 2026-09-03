@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T20:39:27.848Z",
+  "generated_at": "2026-09-03T23:03:08.896Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1198,6 +1198,18 @@
         },
         {
           "rank": 27,
+          "name": "NUEVAYoL",
+          "artists": [
+            "Bad Bunny"
+          ],
+          "album": "DeBÍ TiRAR MáS FOToS",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
+          "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5",
+          "duration_ms": 183685
+        },
+        {
+          "rank": 28,
           "name": "Como Es Que Se Hace",
           "artists": [
             "Yandel",
@@ -1210,7 +1222,7 @@
           "duration_ms": 205320
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "흩어진나날들",
           "artists": [
             "강수지"
@@ -1222,7 +1234,7 @@
           "duration_ms": 262126
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Fangs",
           "artists": [
             "Loathe"
@@ -1234,7 +1246,7 @@
           "duration_ms": 249293
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Is It Really You?",
           "artists": [
             "Loathe"
@@ -1246,7 +1258,7 @@
           "duration_ms": 287627
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Caraphernelia",
           "artists": [
             "Pierce The Veil"
@@ -1258,7 +1270,7 @@
           "duration_ms": 268480
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "In Another Time",
           "artists": [
             "Sade"
@@ -1270,7 +1282,7 @@
           "duration_ms": 304413
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "So Far So Fake",
           "artists": [
             "Pierce The Veil"
@@ -1282,7 +1294,7 @@
           "duration_ms": 236160
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Boku no Sensou",
           "artists": [
             "Shinsei Kamattechan"
@@ -1294,7 +1306,7 @@
           "duration_ms": 280466
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "WHO DO U LUV",
           "artists": [
             "Avenoir"
@@ -1306,7 +1318,7 @@
           "duration_ms": 248760
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Deseándote",
           "artists": [
             "Frankie Ruiz"
@@ -1318,7 +1330,7 @@
           "duration_ms": 281333
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Risk It All",
           "artists": [
             "Bruno Mars"
@@ -1330,7 +1342,7 @@
           "duration_ms": 204068
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Bauklotze",
           "artists": [
             "Sawano Hiroyuki"
@@ -1340,18 +1352,6 @@
           "uri": "spotify:track:6oh6pyBUaJWZbhQKsq0iAm",
           "url": "https://open.spotify.com/track/6oh6pyBUaJWZbhQKsq0iAm",
           "duration_ms": 236253
-        },
-        {
-          "rank": 39,
-          "name": "NUEVAYoL",
-          "artists": [
-            "Bad Bunny"
-          ],
-          "album": "DeBÍ TiRAR MáS FOToS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-          "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
-          "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5",
-          "duration_ms": 183685
         },
         {
           "rank": 40,
