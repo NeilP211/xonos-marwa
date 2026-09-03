@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T15:58:38.403Z",
+  "generated_at": "2026-09-03T20:39:27.848Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -260,6 +260,18 @@
         },
         {
           "rank": 22,
+          "name": "Veneno",
+          "artists": [
+            "Danny Ocean"
+          ],
+          "album": "54+1",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d8243a13e6f41310a5fa7b96",
+          "uri": "spotify:track:19vrzibX1lFlT2V2ToVQkv",
+          "url": "https://open.spotify.com/track/19vrzibX1lFlT2V2ToVQkv",
+          "duration_ms": 222511
+        },
+        {
+          "rank": 23,
           "name": "Lose Control",
           "artists": [
             "J Balvin",
@@ -272,7 +284,7 @@
           "duration_ms": 293666
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "King For A Day",
           "artists": [
             "Pierce The Veil",
@@ -285,7 +297,7 @@
           "duration_ms": 236293
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "LATINA FOREVA",
           "artists": [
             "KAROL G"
@@ -297,7 +309,7 @@
           "duration_ms": 159522
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Art of War",
           "artists": [
             "Avenoir"
@@ -309,7 +321,7 @@
           "duration_ms": 126973
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Props & Mayhem",
           "artists": [
             "Pierce The Veil"
@@ -321,7 +333,7 @@
           "duration_ms": 217853
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "La Paso Cabrón (feat. Gigolo y La Exce, Falsetto y Sammy, Mike Duran & Baby Angel)",
           "artists": [
             "Trap Capos",
@@ -338,7 +350,7 @@
           "duration_ms": 303640
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Mi Mente",
           "artists": [
             "Morad",
@@ -351,7 +363,20 @@
           "duration_ms": 223080
         },
         {
-          "rank": 29,
+          "rank": 30,
+          "name": "ASI ES LA VIDA",
+          "artists": [
+            "Enrique Iglesias",
+            "Maria Becerra"
+          ],
+          "album": "FINAL (Vol.2)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27357f51eb404ef198d1ae6ea39",
+          "uri": "spotify:track:33ggWc1Nai6fcNb2qM4lJ7",
+          "url": "https://open.spotify.com/track/33ggWc1Nai6fcNb2qM4lJ7",
+          "duration_ms": 172095
+        },
+        {
+          "rank": 31,
           "name": "Hell Above",
           "artists": [
             "Pierce The Veil"
@@ -363,7 +388,7 @@
           "duration_ms": 223546
         },
         {
-          "rank": 30,
+          "rank": 32,
           "name": "Flawless Execution",
           "artists": [
             "Pierce The Veil"
@@ -375,7 +400,7 @@
           "duration_ms": 240053
         },
         {
-          "rank": 31,
+          "rank": 33,
           "name": "So Far So Fake",
           "artists": [
             "Pierce The Veil"
@@ -387,7 +412,7 @@
           "duration_ms": 236160
         },
         {
-          "rank": 32,
+          "rank": 34,
           "name": "Death Of An Executioner",
           "artists": [
             "Pierce The Veil"
@@ -399,7 +424,7 @@
           "duration_ms": 267800
         },
         {
-          "rank": 33,
+          "rank": 35,
           "name": "QUE HACES",
           "artists": [
             "Becky G",
@@ -412,7 +437,7 @@
           "duration_ms": 171813
         },
         {
-          "rank": 34,
+          "rank": 36,
           "name": "The Ladder",
           "artists": [
             "Loathe",
@@ -425,7 +450,7 @@
           "duration_ms": 303280
         },
         {
-          "rank": 35,
+          "rank": 37,
           "name": "Amar De Nuevo",
           "artists": [
             "Rauw Alejandro"
@@ -437,7 +462,7 @@
           "duration_ms": 268042
         },
         {
-          "rank": 36,
+          "rank": 38,
           "name": "The Jaws Of Life",
           "artists": [
             "Pierce The Veil"
@@ -449,7 +474,7 @@
           "duration_ms": 222666
         },
         {
-          "rank": 37,
+          "rank": 39,
           "name": "NUEVAYoL",
           "artists": [
             "Bad Bunny"
@@ -461,7 +486,7 @@
           "duration_ms": 183685
         },
         {
-          "rank": 38,
+          "rank": 40,
           "name": "Aquel Nap ZzZz",
           "artists": [
             "Rauw Alejandro"
@@ -473,7 +498,7 @@
           "duration_ms": 295038
         },
         {
-          "rank": 39,
+          "rank": 41,
           "name": "Hold On Till May",
           "artists": [
             "Pierce The Veil",
@@ -486,7 +511,7 @@
           "duration_ms": 278586
         },
         {
-          "rank": 40,
+          "rank": 42,
           "name": "Margarita",
           "artists": [
             "Danny Ocean"
@@ -498,7 +523,7 @@
           "duration_ms": 153189
         },
         {
-          "rank": 41,
+          "rank": 43,
           "name": "Si Me Voy (with The Marías)",
           "artists": [
             "Cuco",
@@ -511,7 +536,7 @@
           "duration_ms": 203219
         },
         {
-          "rank": 42,
+          "rank": 44,
           "name": "Ivonny Bonita",
           "artists": [
             "KAROL G"
@@ -523,7 +548,7 @@
           "duration_ms": 222458
         },
         {
-          "rank": 43,
+          "rank": 45,
           "name": "talking 'bout u",
           "artists": [
             "wave to earth"
@@ -535,7 +560,7 @@
           "duration_ms": 254202
         },
         {
-          "rank": 44,
+          "rank": 46,
           "name": "Chica de Verde",
           "artists": [
             "Bruno Romano",
@@ -548,7 +573,7 @@
           "duration_ms": 225694
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "Ponme En Tu Boca",
           "artists": [
             "Jerry Di",
@@ -562,7 +587,7 @@
           "duration_ms": 184877
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "Callaita",
           "artists": [
             "Bad Bunny",
@@ -575,7 +600,7 @@
           "duration_ms": 250533
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "Beautiful Liar",
           "artists": [
             "Beyoncé",
@@ -588,7 +613,7 @@
           "duration_ms": 199840
         },
         {
-          "rank": 48,
+          "rank": 50,
           "name": "ADO",
           "artists": [
             "Danny Ocean"
@@ -598,32 +623,6 @@
           "uri": "spotify:track:7ffqx174e4SK2bfUjVqLdE",
           "url": "https://open.spotify.com/track/7ffqx174e4SK2bfUjVqLdE",
           "duration_ms": 174000
-        },
-        {
-          "rank": 49,
-          "name": "6 AM",
-          "artists": [
-            "J Balvin",
-            "Farruko"
-          ],
-          "album": "La Familia",
-          "image": "https://i.scdn.co/image/ab67616d0000b273eb748e8ded0f408299326b94",
-          "uri": "spotify:track:7mPwkbaoiQ5bf8FPbRJzUr",
-          "url": "https://open.spotify.com/track/7mPwkbaoiQ5bf8FPbRJzUr",
-          "duration_ms": 243226
-        },
-        {
-          "rank": 50,
-          "name": "Como Es Que Se Hace",
-          "artists": [
-            "Yandel",
-            "LATIN MAFIA"
-          ],
-          "album": "Infinito",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739a47efebd6a6ebad21c53867",
-          "uri": "spotify:track:0ou3TddCNhvZeyGFbz7Y6E",
-          "url": "https://open.spotify.com/track/0ou3TddCNhvZeyGFbz7Y6E",
-          "duration_ms": 205320
         }
       ],
       "artists": [
@@ -645,6 +644,14 @@
         },
         {
           "rank": 3,
+          "name": "Danny Ocean",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6d11079e9ea4fd57b5df6c97",
+          "genres": [],
+          "uri": "spotify:artist:5H1nN1SzW0qNeUEZvuXjAj",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "rank": 4,
           "name": "J Balvin",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0405b03342c2e56751b9923d",
           "genres": [],
@@ -652,20 +659,12 @@
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Bad Bunny",
           "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
           "genres": [],
           "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "rank": 5,
-          "name": "Danny Ocean",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6d11079e9ea4fd57b5df6c97",
-          "genres": [],
-          "uri": "spotify:artist:5H1nN1SzW0qNeUEZvuXjAj",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         },
         {
           "rank": 6,
@@ -805,19 +804,19 @@
         },
         {
           "rank": 23,
-          "name": "NewJeans",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb841bdcf28a956f3a384ffcf4",
-          "genres": [],
-          "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        },
-        {
-          "rank": 24,
           "name": "Avenoir",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb4931e767936dbd7d806089c",
           "genres": [],
           "uri": "spotify:artist:3Z7onAknzpinUu3KtmgeZb",
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        },
+        {
+          "rank": 24,
+          "name": "NewJeans",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb841bdcf28a956f3a384ffcf4",
+          "genres": [],
+          "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         },
         {
           "rank": 25,

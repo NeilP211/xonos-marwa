@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T15:58:38.533Z",
+  "updated_at": "2026-09-03T20:39:27.951Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -16605,6 +16605,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27357f51eb404ef198d1ae6ea39",
       "uri": "spotify:track:33ggWc1Nai6fcNb2qM4lJ7",
       "duration_ms": 172095
+    },
+    {
+      "played_at": "2026-09-03T17:26:00.933Z",
+      "name": "Veneno",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "54+1",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d8243a13e6f41310a5fa7b96",
+      "uri": "spotify:track:19vrzibX1lFlT2V2ToVQkv",
+      "duration_ms": 222511
     }
   ]
 }
