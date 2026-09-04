@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-04T03:28:24.740Z",
-  "is_playing": true,
+  "updated_at": "2026-09-04T10:53:16.459Z",
+  "is_playing": false,
   "track": {
-    "name": "Softcore",
+    "name": "Art of War",
     "artists": [
-      "The Neighbourhood"
+      "Avenoir"
     ],
-    "album": "Hard To Imagine The Neighbourhood Ever Changing",
-    "image": "https://i.scdn.co/image/ab67616d0000b2739b6ac98a52f62d5cb473da40",
-    "uri": "spotify:track:2K7xn816oNHJZ0aVqdQsha"
+    "album": "Mirage",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
+    "uri": "spotify:track:2RnB5R79oLcE8lCQbiaUZf"
   },
-  "played_at": "2026-09-04T03:28:24.740Z"
+  "played_at": "2026-09-04T04:54:37.813Z"
 }
