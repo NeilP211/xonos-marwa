@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-04T20:25:47.088Z",
+  "updated_at": "2026-09-04T22:50:11.654Z",
   "is_playing": false,
   "track": {
-    "name": "Paradise",
+    "name": "Lightspeed",
     "artists": [
       "Avenoir"
     ],
     "album": "Mirage",
     "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
-    "uri": "spotify:track:6mU00UhZ1jCEyEoja3B3hl"
+    "uri": "spotify:track:1GtCx7UBuJ5e1prUGoHDNh"
   },
-  "played_at": "2026-09-04T16:46:31.777Z"
+  "played_at": "2026-09-04T17:04:20.789Z"
 }

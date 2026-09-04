@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T20:25:46.938Z",
+  "updated_at": "2026-09-04T22:50:11.463Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -17177,6 +17177,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
       "uri": "spotify:track:6mU00UhZ1jCEyEoja3B3hl",
       "duration_ms": 113106
+    },
+    {
+      "played_at": "2026-09-04T17:04:20.789Z",
+      "name": "Lightspeed",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
+      "uri": "spotify:track:1GtCx7UBuJ5e1prUGoHDNh",
+      "duration_ms": 185720
     }
   ]
 }
