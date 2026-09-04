@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-04T15:55:48.147Z",
+  "updated_at": "2026-09-04T20:25:47.088Z",
   "is_playing": false,
   "track": {
-    "name": "Art of War",
+    "name": "Paradise",
     "artists": [
       "Avenoir"
     ],
     "album": "Mirage",
     "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
-    "uri": "spotify:track:2RnB5R79oLcE8lCQbiaUZf"
+    "uri": "spotify:track:6mU00UhZ1jCEyEoja3B3hl"
   },
-  "played_at": "2026-09-04T04:54:37.813Z"
+  "played_at": "2026-09-04T16:46:31.777Z"
 }

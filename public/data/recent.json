@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T15:55:48.033Z",
+  "updated_at": "2026-09-04T20:25:46.938Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -17100,6 +17100,83 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
       "uri": "spotify:track:2RnB5R79oLcE8lCQbiaUZf",
       "duration_ms": 126973
+    },
+    {
+      "played_at": "2026-09-04T16:32:01.119Z",
+      "name": "Art of War",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
+      "uri": "spotify:track:2RnB5R79oLcE8lCQbiaUZf",
+      "duration_ms": 126973
+    },
+    {
+      "played_at": "2026-09-04T16:34:45.973Z",
+      "name": "Alone",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
+      "uri": "spotify:track:69ms7KvY7nETPn8mYwTahK",
+      "duration_ms": 145120
+    },
+    {
+      "played_at": "2026-09-04T16:36:39.634Z",
+      "name": "Paradise",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
+      "uri": "spotify:track:6mU00UhZ1jCEyEoja3B3hl",
+      "duration_ms": 113106
+    },
+    {
+      "played_at": "2026-09-04T16:39:45.260Z",
+      "name": "Lightspeed",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
+      "uri": "spotify:track:1GtCx7UBuJ5e1prUGoHDNh",
+      "duration_ms": 185720
+    },
+    {
+      "played_at": "2026-09-04T16:42:03.823Z",
+      "name": "Art of War",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
+      "uri": "spotify:track:2RnB5R79oLcE8lCQbiaUZf",
+      "duration_ms": 126973
+    },
+    {
+      "played_at": "2026-09-04T16:44:28.824Z",
+      "name": "Alone",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
+      "uri": "spotify:track:69ms7KvY7nETPn8mYwTahK",
+      "duration_ms": 145120
+    },
+    {
+      "played_at": "2026-09-04T16:46:31.777Z",
+      "name": "Paradise",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
+      "uri": "spotify:track:6mU00UhZ1jCEyEoja3B3hl",
+      "duration_ms": 113106
     }
   ]
 }
