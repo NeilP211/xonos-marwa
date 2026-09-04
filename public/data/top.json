@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T23:03:08.896Z",
+  "generated_at": "2026-09-04T03:28:24.353Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -114,19 +114,6 @@
         },
         {
           "rank": 10,
-          "name": "12 Fractures",
-          "artists": [
-            "Pierce The Veil",
-            "chloe moriondo"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
-          "url": "https://open.spotify.com/track/2R5SzmhzoaCkjDJcSaGrN3",
-          "duration_ms": 181600
-        },
-        {
-          "rank": 11,
           "name": "Descifrar",
           "artists": [
             "maye"
@@ -138,7 +125,7 @@
           "duration_ms": 178700
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Emergency Contact",
           "artists": [
             "Pierce The Veil"
@@ -150,7 +137,7 @@
           "duration_ms": 240000
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "No Stranger To You...",
           "artists": [
             "Loathe"
@@ -162,7 +149,7 @@
           "duration_ms": 288000
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "大魚 - 唱片版",
           "artists": [
             "Zhou Shen"
@@ -174,7 +161,7 @@
           "duration_ms": 317597
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "O Que É o Amor",
           "artists": [
             "Arlindo Cruz",
@@ -187,7 +174,7 @@
           "duration_ms": 212453
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Resilience",
           "artists": [
             "Pierce The Veil"
@@ -199,7 +186,7 @@
           "duration_ms": 220360
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Mi Casita",
           "artists": [
             "Motherflowers"
@@ -211,7 +198,7 @@
           "duration_ms": 249579
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Mis Días A Tu Suerte",
           "artists": [
             "Rels B"
@@ -223,7 +210,7 @@
           "duration_ms": 143750
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Shared Trauma",
           "artists": [
             "Pierce The Veil"
@@ -235,7 +222,7 @@
           "duration_ms": 253000
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "EL CLúB",
           "artists": [
             "Bad Bunny"
@@ -247,7 +234,7 @@
           "duration_ms": 222568
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Tiempo de Nada",
           "artists": [
             "Morad"
@@ -259,7 +246,7 @@
           "duration_ms": 230204
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Veneno",
           "artists": [
             "Danny Ocean"
@@ -271,7 +258,7 @@
           "duration_ms": 222511
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Lose Control",
           "artists": [
             "J Balvin",
@@ -284,7 +271,7 @@
           "duration_ms": 293666
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "King For A Day",
           "artists": [
             "Pierce The Veil",
@@ -297,7 +284,7 @@
           "duration_ms": 236293
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "LATINA FOREVA",
           "artists": [
             "KAROL G"
@@ -307,6 +294,19 @@
           "uri": "spotify:track:2KrQbq3aqGOFGnkTKnN2XA",
           "url": "https://open.spotify.com/track/2KrQbq3aqGOFGnkTKnN2XA",
           "duration_ms": 159522
+        },
+        {
+          "rank": 25,
+          "name": "12 Fractures",
+          "artists": [
+            "Pierce The Veil",
+            "chloe moriondo"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+          "url": "https://open.spotify.com/track/2R5SzmhzoaCkjDJcSaGrN3",
+          "duration_ms": 181600
         },
         {
           "rank": 26,
@@ -1567,6 +1567,14 @@
         },
         {
           "rank": 10,
+          "name": "Avenoir",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb4931e767936dbd7d806089c",
+          "genres": [],
+          "uri": "spotify:artist:3Z7onAknzpinUu3KtmgeZb",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        },
+        {
+          "rank": 11,
           "name": "Rawayana",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5d52d93053343dc60653bbde",
           "genres": [],
@@ -1574,7 +1582,7 @@
           "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "KAROL G",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3869e286c9043f85e8e4bc06",
           "genres": [],
@@ -1582,7 +1590,7 @@
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Rauw Alejandro",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6d72db3fd29576caa9cb821f",
           "genres": [],
@@ -1590,7 +1598,7 @@
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "J Balvin",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0405b03342c2e56751b9923d",
           "genres": [],
@@ -1598,7 +1606,7 @@
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "My Chemical Romance",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9c00ad0308287b38b8fdabc2",
           "genres": [],
@@ -1606,20 +1614,12 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Linked Horizon",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1bd3d7f70a7478c63ab91689",
           "genres": [],
           "uri": "spotify:artist:3eNYrVLcWfjJ9JdH9kiPJO",
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
-        },
-        {
-          "rank": 16,
-          "name": "Avenoir",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb4931e767936dbd7d806089c",
-          "genres": [],
-          "uri": "spotify:artist:3Z7onAknzpinUu3KtmgeZb",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         },
         {
           "rank": 17,
@@ -1679,6 +1679,14 @@
         },
         {
           "rank": 24,
+          "name": "Maluma",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb1b0d196ca84f4a0d076b4570",
+          "genres": [],
+          "uri": "spotify:artist:1r4hJ1h58CWwUQe3MxPuau",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "rank": 25,
           "name": "Kali Uchis",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdeac5367816c7ab1f607e89a",
           "genres": [],
@@ -1686,7 +1694,7 @@
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "The Marías",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
           "genres": [],
@@ -1694,7 +1702,7 @@
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "maye",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc44bdd7c78e751026c67857c",
           "genres": [],
@@ -1702,7 +1710,7 @@
           "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "TUL8TE",
           "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
           "genres": [],
@@ -1710,20 +1718,12 @@
           "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Justin Bieber",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf20f7db5288bce9beede034",
           "genres": [],
           "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s",
           "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "rank": 29,
-          "name": "Maluma",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb1b0d196ca84f4a0d076b4570",
-          "genres": [],
-          "uri": "spotify:artist:1r4hJ1h58CWwUQe3MxPuau",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         },
         {
           "rank": 30,
@@ -1871,27 +1871,27 @@
         },
         {
           "rank": 48,
+          "name": "Silence Wang",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe031c2c433fefe3fd10f5caa",
+          "genres": [],
+          "uri": "spotify:artist:0PdNEiQ3MsJGCEgE13Tz60",
+          "url": "https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60"
+        },
+        {
+          "rank": 49,
+          "name": "Mora",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe6252cc367480d8fe43e711f",
+          "genres": [],
+          "uri": "spotify:artist:0Q8NcsJwoCbZOHHW63su5S",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "rank": 50,
           "name": "Bruno Mars",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc7688aad1bf03986934d7e26",
           "genres": [],
           "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C",
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "rank": 49,
-          "name": "Bruno Romano",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb048c29f827a167107701699f",
-          "genres": [],
-          "uri": "spotify:artist:5X0LwOlzNqPulEOFm9hH1k",
-          "url": "https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k"
-        },
-        {
-          "rank": 50,
-          "name": "Menny Flores",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebbb7c35cc0701c97917699796",
-          "genres": [],
-          "uri": "spotify:artist:5iV6pocuYqWg9Cx5JQNyJV",
-          "url": "https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV"
         }
       ]
     },

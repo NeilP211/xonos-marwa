@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-03T23:03:09.079Z",
-  "is_playing": false,
+  "updated_at": "2026-09-04T03:28:24.740Z",
+  "is_playing": true,
   "track": {
-    "name": "Veneno",
+    "name": "Softcore",
     "artists": [
-      "Danny Ocean"
+      "The Neighbourhood"
     ],
-    "album": "54+1",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d8243a13e6f41310a5fa7b96",
-    "uri": "spotify:track:19vrzibX1lFlT2V2ToVQkv"
+    "album": "Hard To Imagine The Neighbourhood Ever Changing",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739b6ac98a52f62d5cb473da40",
+    "uri": "spotify:track:2K7xn816oNHJZ0aVqdQsha"
   },
-  "played_at": "2026-09-03T17:26:00.933Z"
+  "played_at": "2026-09-04T03:28:24.740Z"
 }

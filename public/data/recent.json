@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T23:03:08.983Z",
+  "updated_at": "2026-09-04T03:28:24.584Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -16616,6 +16616,186 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d8243a13e6f41310a5fa7b96",
       "uri": "spotify:track:19vrzibX1lFlT2V2ToVQkv",
       "duration_ms": 222511
+    },
+    {
+      "played_at": "2026-09-04T01:41:48.061Z",
+      "name": "Ice cube",
+      "artists": [
+        "Milena"
+      ],
+      "album": "Riddle",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735bea6dcb8b762568600e6540",
+      "uri": "spotify:track:6cql1Qq0GqMWF2FhcRmQNP",
+      "duration_ms": 163000
+    },
+    {
+      "played_at": "2026-09-04T02:35:24.210Z",
+      "name": "DIE TRYING",
+      "artists": [
+        "PARTYNEXTDOOR",
+        "Drake",
+        "Yebba"
+      ],
+      "album": "$ome $exy $ongs 4 U",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
+      "uri": "spotify:track:0NUqi0ps17YpLUC3kgsZq0",
+      "duration_ms": 195431
+    },
+    {
+      "played_at": "2026-09-04T02:39:04.246Z",
+      "name": "A Lonely Night",
+      "artists": [
+        "The Weeknd"
+      ],
+      "album": "Starboy",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+      "uri": "spotify:track:0ifooM33X1iBxVYyOkSbXW",
+      "duration_ms": 220173
+    },
+    {
+      "played_at": "2026-09-04T02:42:26.780Z",
+      "name": "Lost in the Fire (feat. The Weeknd)",
+      "artists": [
+        "Gesaffelstein",
+        "The Weeknd"
+      ],
+      "album": "Hyperion",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737842fd51802451ff61483dcf",
+      "uri": "spotify:track:2vXKRlJBXyOcvZYTdNeckS",
+      "duration_ms": 202093
+    },
+    {
+      "played_at": "2026-09-04T02:43:49.779Z",
+      "name": "Best Time",
+      "artists": [
+        "Brent Faiyaz"
+      ],
+      "album": "Larger Than Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ceb160561269ab00b1df9678",
+      "uri": "spotify:track:1zgHn1EqUyA0HqNYMdJ5ia",
+      "duration_ms": 82508
+    },
+    {
+      "played_at": "2026-09-04T02:50:15.172Z",
+      "name": "NOBLE",
+      "artists": [
+        "F3miii"
+      ],
+      "album": "NOBLE (Slowed Down)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733e2c1f8bb3f146186e2a1dc5",
+      "uri": "spotify:track:4Jsus7N4d8hFB2G9gcRdBv",
+      "duration_ms": 185806
+    },
+    {
+      "played_at": "2026-09-04T02:50:27.309Z",
+      "name": "Lavender Sunflower",
+      "artists": [
+        "Tory Lanez"
+      ],
+      "album": "Alone At Prom",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730c5f23cbf0b1ab7e37d0dc67",
+      "uri": "spotify:track:1au2UduxcvHfa0fZS3Szci",
+      "duration_ms": 151966
+    },
+    {
+      "played_at": "2026-09-04T02:54:00.057Z",
+      "name": "Wish I Never Met You - Prison Tapes",
+      "artists": [
+        "Tory Lanez"
+      ],
+      "album": "Wish I Never Met You (Prison Tapes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a0d99927dabb2a8fc5014760",
+      "uri": "spotify:track:7MOjhqpSpGkeRyT4agpg12",
+      "duration_ms": 224262
+    },
+    {
+      "played_at": "2026-09-04T02:59:47.934Z",
+      "name": "Rock Your Body",
+      "artists": [
+        "Justin Timberlake"
+      ],
+      "album": "Justified",
+      "image": "https://i.scdn.co/image/ab67616d0000b273346a5742374ab4cf9ed32dee",
+      "uri": "spotify:track:1AWQoqb9bSvzTjaLralEkT",
+      "duration_ms": 267266
+    },
+    {
+      "played_at": "2026-09-04T03:04:03.861Z",
+      "name": "Timeless (feat Playboi Carti)",
+      "artists": [
+        "The Weeknd",
+        "Playboi Carti"
+      ],
+      "album": "Hurry Up Tomorrow",
+      "image": "https://i.scdn.co/image/ab67616d0000b273de79f330bc297af3fae736da",
+      "uri": "spotify:track:0FIDCNYYjNvPVimz5icugS",
+      "duration_ms": 256000
+    },
+    {
+      "played_at": "2026-09-04T03:07:37.363Z",
+      "name": "LIMBO",
+      "artists": [
+        "keshi"
+      ],
+      "album": "GABRIEL",
+      "image": "https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb",
+      "uri": "spotify:track:2bdVgAQgosGUJoViVDNeOV",
+      "duration_ms": 212784
+    },
+    {
+      "played_at": "2026-09-04T03:14:24.666Z",
+      "name": "Lovesong",
+      "artists": [
+        "Adele"
+      ],
+      "album": "21",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737e7e5dd9d1ab19fcded8a17f",
+      "uri": "spotify:track:7nm6DlSzzJTH1rk2e6EgJz",
+      "duration_ms": 316240
+    },
+    {
+      "played_at": "2026-09-04T03:17:33.257Z",
+      "name": "butterflies.",
+      "artists": [
+        "Brent Faiyaz"
+      ],
+      "album": "Icon",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d8acadd7be5455ea09c06cf9",
+      "uri": "spotify:track:4jyyma8YdFC4S4llusSFRu",
+      "duration_ms": 248297
+    },
+    {
+      "played_at": "2026-09-04T03:20:41.288Z",
+      "name": "Like a Tattoo",
+      "artists": [
+        "Sade"
+      ],
+      "album": "Love Deluxe",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
+      "uri": "spotify:track:4PEGwWH4tL6H7dGl4uVSPg",
+      "duration_ms": 218000
+    },
+    {
+      "played_at": "2026-09-04T03:25:10.610Z",
+      "name": "Pretty Boy",
+      "artists": [
+        "The Neighbourhood"
+      ],
+      "album": "Chip Chrome & The Mono-Tones",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735aa30ba7fff59083baccc773",
+      "uri": "spotify:track:7IL8PSVwLOJxqYne6azxQv",
+      "duration_ms": 234093
+    },
+    {
+      "played_at": "2026-09-04T03:27:19.664Z",
+      "name": "Reflections",
+      "artists": [
+        "The Neighbourhood"
+      ],
+      "album": "Hard To Imagine The Neighbourhood Ever Changing",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739b6ac98a52f62d5cb473da40",
+      "uri": "spotify:track:2xql0pid3EUwW38AsywxhV",
+      "duration_ms": 244013
     }
   ]
 }
