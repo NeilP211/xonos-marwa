@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T14:46:13.148Z",
+  "generated_at": "2026-09-05T17:11:41.887Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2224,6 +2224,19 @@
         },
         {
           "rank": 28,
+          "name": "The Way It Breaks",
+          "artists": [
+            "Loathe",
+            "Mansur Brown"
+          ],
+          "album": "A Stranger To You",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+          "uri": "spotify:track:5fMekKJEsEhR7NyhluDeX3",
+          "url": "https://open.spotify.com/track/5fMekKJEsEhR7NyhluDeX3",
+          "duration_ms": 306786
+        },
+        {
+          "rank": 29,
           "name": "اخدني معك",
           "artists": [
             "Fadel Chaker"
@@ -2235,7 +2248,7 @@
           "duration_ms": 313939
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "New Woman (feat. ROSALÍA)",
           "artists": [
             "LISA",
@@ -2248,7 +2261,7 @@
           "duration_ms": 179789
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "ANGEL",
           "artists": [
             "keshi"
@@ -2260,7 +2273,7 @@
           "duration_ms": 247282
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Mirada",
           "artists": [
             "Ivan Cornejo"
@@ -2272,7 +2285,7 @@
           "duration_ms": 167522
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Like That",
           "artists": [
             "keshi"
@@ -2284,7 +2297,7 @@
           "duration_ms": 180106
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Sweet Dreams (feat. Miguel)",
           "artists": [
             "j-hope",
@@ -2297,7 +2310,7 @@
           "duration_ms": 172952
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Staying",
           "artists": [
             "Lizzy McAlpine"
@@ -2309,7 +2322,7 @@
           "duration_ms": 151647
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Ojos Tristes (with The Marías)",
           "artists": [
             "Selena Gomez",
@@ -2321,19 +2334,6 @@
           "uri": "spotify:track:1DFmBjoeQN9DpOVTEewyx0",
           "url": "https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0",
           "duration_ms": 201920
-        },
-        {
-          "rank": 36,
-          "name": "The Way It Breaks",
-          "artists": [
-            "Loathe",
-            "Mansur Brown"
-          ],
-          "album": "A Stranger To You",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
-          "uri": "spotify:track:5fMekKJEsEhR7NyhluDeX3",
-          "url": "https://open.spotify.com/track/5fMekKJEsEhR7NyhluDeX3",
-          "duration_ms": 306786
         },
         {
           "rank": 37,
@@ -2822,6 +2822,14 @@
         },
         {
           "rank": 40,
+          "name": "Avenoir",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb4931e767936dbd7d806089c",
+          "genres": [],
+          "uri": "spotify:artist:3Z7onAknzpinUu3KtmgeZb",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        },
+        {
+          "rank": 41,
           "name": "Loathe",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
           "genres": [],
@@ -2829,7 +2837,7 @@
           "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "邹沛沛",
           "image": "https://i.scdn.co/image/ab67616d0000b2735e10693b2c3d38dd7ad4299a",
           "genres": [],
@@ -2837,7 +2845,7 @@
           "url": "https://open.spotify.com/artist/4ST2uUeBAbGgmskBWYRB8S"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Sabrina Carpenter",
           "image": "https://i.scdn.co/image/ab6761610000e5eb78e45cfa4697ce3c437cb455",
           "genres": [],
@@ -2845,20 +2853,12 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Rels B",
           "image": "https://i.scdn.co/image/ab6761610000e5eb85c6617e12de3109c04aaf1b",
           "genres": [],
           "uri": "spotify:artist:2IMZYfNi21MGqxopj9fWx8",
           "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "rank": 44,
-          "name": "Avenoir",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb4931e767936dbd7d806089c",
-          "genres": [],
-          "uri": "spotify:artist:3Z7onAknzpinUu3KtmgeZb",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         },
         {
           "rank": 45,
