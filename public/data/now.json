@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-04T22:50:11.654Z",
+  "updated_at": "2026-09-05T03:28:00.135Z",
   "is_playing": false,
   "track": {
-    "name": "Lightspeed",
+    "name": "The Way It Breaks",
     "artists": [
-      "Avenoir"
+      "Loathe",
+      "Mansur Brown"
     ],
-    "album": "Mirage",
-    "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
-    "uri": "spotify:track:1GtCx7UBuJ5e1prUGoHDNh"
+    "album": "A Stranger To You",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+    "uri": "spotify:track:5fMekKJEsEhR7NyhluDeX3"
   },
-  "played_at": "2026-09-04T17:04:20.789Z"
+  "played_at": "2026-09-04T22:52:13.909Z"
 }
