@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-09-05T03:28:00.135Z",
+  "updated_at": "2026-09-05T10:08:05.276Z",
   "is_playing": false,
   "track": {
-    "name": "The Way It Breaks",
+    "name": "明天过后",
     "artists": [
-      "Loathe",
-      "Mansur Brown"
+      "Jason Zhang"
     ],
-    "album": "A Stranger To You",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
-    "uri": "spotify:track:5fMekKJEsEhR7NyhluDeX3"
+    "album": "明天过后",
+    "image": "https://i.scdn.co/image/ab67616d0000b2730169bbbd2e6ea67be4acb421",
+    "uri": "spotify:track:7n90R277zv0ovKBFuiMR8r"
   },
-  "played_at": "2026-09-04T22:52:13.909Z"
+  "played_at": "2026-09-05T05:40:26.242Z"
 }

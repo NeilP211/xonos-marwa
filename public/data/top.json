@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T03:27:59.903Z",
+  "generated_at": "2026-09-05T10:08:05.035Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -401,6 +401,18 @@
         },
         {
           "rank": 33,
+          "name": "仰望星空",
+          "artists": [
+            "Jason Zhang"
+          ],
+          "album": "明天过后",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730169bbbd2e6ea67be4acb421",
+          "uri": "spotify:track:3DFUihPt9XDWzBpekthUGO",
+          "url": "https://open.spotify.com/track/3DFUihPt9XDWzBpekthUGO",
+          "duration_ms": 264840
+        },
+        {
+          "rank": 34,
           "name": "Hell Above",
           "artists": [
             "Pierce The Veil"
@@ -412,7 +424,7 @@
           "duration_ms": 223546
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Flawless Execution",
           "artists": [
             "Pierce The Veil"
@@ -424,7 +436,7 @@
           "duration_ms": 240053
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "So Far So Fake",
           "artists": [
             "Pierce The Veil"
@@ -436,7 +448,7 @@
           "duration_ms": 236160
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Death Of An Executioner",
           "artists": [
             "Pierce The Veil"
@@ -448,7 +460,7 @@
           "duration_ms": 267800
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "QUE HACES",
           "artists": [
             "Becky G",
@@ -461,7 +473,7 @@
           "duration_ms": 171813
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "The Ladder",
           "artists": [
             "Loathe",
@@ -474,7 +486,7 @@
           "duration_ms": 303280
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Amar De Nuevo",
           "artists": [
             "Rauw Alejandro"
@@ -486,7 +498,7 @@
           "duration_ms": 268042
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "The Jaws Of Life",
           "artists": [
             "Pierce The Veil"
@@ -498,7 +510,7 @@
           "duration_ms": 222666
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "NUEVAYoL",
           "artists": [
             "Bad Bunny"
@@ -510,7 +522,7 @@
           "duration_ms": 183685
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Aquel Nap ZzZz",
           "artists": [
             "Rauw Alejandro"
@@ -522,7 +534,7 @@
           "duration_ms": 295038
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Hold On Till May",
           "artists": [
             "Pierce The Veil",
@@ -535,7 +547,7 @@
           "duration_ms": 278586
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Margarita",
           "artists": [
             "Danny Ocean"
@@ -547,7 +559,7 @@
           "duration_ms": 153189
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Si Me Voy (with The Marías)",
           "artists": [
             "Cuco",
@@ -560,7 +572,7 @@
           "duration_ms": 203219
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Ivonny Bonita",
           "artists": [
             "KAROL G"
@@ -572,7 +584,7 @@
           "duration_ms": 222458
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "talking 'bout u",
           "artists": [
             "wave to earth"
@@ -584,7 +596,7 @@
           "duration_ms": 254202
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Chica de Verde",
           "artists": [
             "Bruno Romano",
@@ -597,7 +609,7 @@
           "duration_ms": 225694
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Paradise",
           "artists": [
             "Avenoir"
@@ -607,20 +619,6 @@
           "uri": "spotify:track:6mU00UhZ1jCEyEoja3B3hl",
           "url": "https://open.spotify.com/track/6mU00UhZ1jCEyEoja3B3hl",
           "duration_ms": 113106
-        },
-        {
-          "rank": 50,
-          "name": "Ponme En Tu Boca",
-          "artists": [
-            "Jerry Di",
-            "Danny Ocean",
-            "Corina Smith"
-          ],
-          "album": "Ponme En Tu Boca",
-          "image": "https://i.scdn.co/image/ab67616d0000b27337269a163d46ed4f4173009c",
-          "uri": "spotify:track:705z0RDjwU07P5dLUdrOpu",
-          "url": "https://open.spotify.com/track/705z0RDjwU07P5dLUdrOpu",
-          "duration_ms": 184877
         }
       ],
       "artists": [
@@ -650,19 +648,19 @@
         },
         {
           "rank": 4,
-          "name": "J Balvin",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb0405b03342c2e56751b9923d",
-          "genres": [],
-          "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "rank": 5,
           "name": "Avenoir",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb4931e767936dbd7d806089c",
           "genres": [],
           "uri": "spotify:artist:3Z7onAknzpinUu3KtmgeZb",
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        },
+        {
+          "rank": 5,
+          "name": "J Balvin",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb0405b03342c2e56751b9923d",
+          "genres": [],
+          "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
           "rank": 6,

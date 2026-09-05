@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T03:28:00.017Z",
+  "updated_at": "2026-09-05T10:08:05.166Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -17212,6 +17212,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
       "uri": "spotify:track:5fMekKJEsEhR7NyhluDeX3",
       "duration_ms": 306786
+    },
+    {
+      "played_at": "2026-09-05T03:51:06.348Z",
+      "name": "Prayers / Triangles",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Gore",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1de34b79834eddf96f803ff",
+      "uri": "spotify:track:0B1Iqqq8wVoXM5R5glHQES",
+      "duration_ms": 217920
+    },
+    {
+      "played_at": "2026-09-05T05:36:36.903Z",
+      "name": "仰望星空",
+      "artists": [
+        "Jason Zhang"
+      ],
+      "album": "明天过后",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730169bbbd2e6ea67be4acb421",
+      "uri": "spotify:track:3DFUihPt9XDWzBpekthUGO",
+      "duration_ms": 264840
+    },
+    {
+      "played_at": "2026-09-05T05:40:26.242Z",
+      "name": "明天过后",
+      "artists": [
+        "Jason Zhang"
+      ],
+      "album": "明天过后",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730169bbbd2e6ea67be4acb421",
+      "uri": "spotify:track:7n90R277zv0ovKBFuiMR8r",
+      "duration_ms": 237133
     }
   ]
 }
