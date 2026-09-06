@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T03:28:21.804Z",
+  "generated_at": "2026-09-06T10:28:47.789Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1081,18 +1081,6 @@
         },
         {
           "rank": 17,
-          "name": "Art of War",
-          "artists": [
-            "Avenoir"
-          ],
-          "album": "Mirage",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
-          "uri": "spotify:track:2RnB5R79oLcE8lCQbiaUZf",
-          "url": "https://open.spotify.com/track/2RnB5R79oLcE8lCQbiaUZf",
-          "duration_ms": 126973
-        },
-        {
-          "rank": 18,
           "name": "Mónaco",
           "artists": [
             "LAGOS",
@@ -1105,7 +1093,7 @@
           "duration_ms": 192313
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Akuma no Ko",
           "artists": [
             "Ai Higuchi"
@@ -1117,7 +1105,7 @@
           "duration_ms": 229960
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "日落计数器",
           "artists": [
             "莫非定律乐团"
@@ -1129,7 +1117,7 @@
           "duration_ms": 291564
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Shingeki Gt 20130218 Kyojin",
           "artists": [
             "Sawano Hiroyuki"
@@ -1141,7 +1129,7 @@
           "duration_ms": 151400
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Forever",
           "artists": [
             "keshi"
@@ -1153,7 +1141,7 @@
           "duration_ms": 171415
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Emergency Contact",
           "artists": [
             "Pierce The Veil"
@@ -1165,7 +1153,7 @@
           "duration_ms": 240000
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Nunca Más",
           "artists": [
             "La Isla Centeno"
@@ -1177,7 +1165,7 @@
           "duration_ms": 229214
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Jiyuu no Tsubasa",
           "artists": [
             "Linked Horizon"
@@ -1189,7 +1177,7 @@
           "duration_ms": 331946
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Flor De Michoacán",
           "artists": [
             "Menny Flores"
@@ -1201,7 +1189,7 @@
           "duration_ms": 193853
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "NUEVAYoL",
           "artists": [
             "Bad Bunny"
@@ -1213,7 +1201,7 @@
           "duration_ms": 183685
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "Como Es Que Se Hace",
           "artists": [
             "Yandel",
@@ -1226,7 +1214,7 @@
           "duration_ms": 205320
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "흩어진나날들",
           "artists": [
             "강수지"
@@ -1238,7 +1226,7 @@
           "duration_ms": 262126
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Fangs",
           "artists": [
             "Loathe"
@@ -1250,7 +1238,7 @@
           "duration_ms": 249293
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Is It Really You?",
           "artists": [
             "Loathe"
@@ -1262,7 +1250,7 @@
           "duration_ms": 287627
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Caraphernelia",
           "artists": [
             "Pierce The Veil"
@@ -1274,7 +1262,7 @@
           "duration_ms": 268480
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "In Another Time",
           "artists": [
             "Sade"
@@ -1286,7 +1274,7 @@
           "duration_ms": 304413
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "So Far So Fake",
           "artists": [
             "Pierce The Veil"
@@ -1296,6 +1284,18 @@
           "uri": "spotify:track:3fWibgdtgIie6LKTZ2rUoI",
           "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI",
           "duration_ms": 236160
+        },
+        {
+          "rank": 34,
+          "name": "Art of War",
+          "artists": [
+            "Avenoir"
+          ],
+          "album": "Mirage",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
+          "uri": "spotify:track:2RnB5R79oLcE8lCQbiaUZf",
+          "url": "https://open.spotify.com/track/2RnB5R79oLcE8lCQbiaUZf",
+          "duration_ms": 126973
         },
         {
           "rank": 35,
@@ -1779,6 +1779,14 @@
         },
         {
           "rank": 36,
+          "name": "Zhou Shen",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb555f21234ccc27d609c6f000",
+          "genres": [],
+          "uri": "spotify:artist:0BezPR1Hn38i8qShQKunSD",
+          "url": "https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD"
+        },
+        {
+          "rank": 37,
           "name": "Romeo Santos",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
           "genres": [],
@@ -1786,7 +1794,7 @@
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Morad",
           "image": "https://i.scdn.co/image/ab6761610000e5ebad6c5175ba73bba50f96c193",
           "genres": [],
@@ -1794,7 +1802,7 @@
           "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Radiohead",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4104fbd80f1f795728abbd59",
           "genres": [],
@@ -1802,20 +1810,12 @@
           "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "ELENA ROSE",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2948fdff5fcfa2303e18e12c",
           "genres": [],
           "uri": "spotify:artist:0zO8yNnw5GQgutcIyXfGBY",
           "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
-          "rank": 40,
-          "name": "Zhou Shen",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb555f21234ccc27d609c6f000",
-          "genres": [],
-          "uri": "spotify:artist:0BezPR1Hn38i8qShQKunSD",
-          "url": "https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD"
         },
         {
           "rank": 41,
