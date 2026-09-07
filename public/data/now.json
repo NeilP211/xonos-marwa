@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-06T22:44:55.297Z",
-  "is_playing": false,
+  "updated_at": "2026-09-07T03:28:05.407Z",
+  "is_playing": true,
   "track": {
-    "name": "明天过后",
+    "name": "消散对白",
     "artists": [
-      "Jason Zhang"
+      "丁禹兮"
     ],
-    "album": "明天过后",
-    "image": "https://i.scdn.co/image/ab67616d0000b2730169bbbd2e6ea67be4acb421",
-    "uri": "spotify:track:7n90R277zv0ovKBFuiMR8r"
+    "album": "消散对白",
+    "image": "https://i.scdn.co/image/ab67616d0000b27304293ca43fd3921818aa1b3f",
+    "uri": "spotify:track:2vfj3bct5C6ZY6cuPmKC5l"
   },
-  "played_at": "2026-09-05T05:40:26.242Z"
+  "played_at": "2026-09-07T03:28:05.407Z"
 }

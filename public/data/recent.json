@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T22:44:55.199Z",
+  "updated_at": "2026-09-07T03:28:05.257Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -17245,6 +17245,488 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2730169bbbd2e6ea67be4acb421",
       "uri": "spotify:track:7n90R277zv0ovKBFuiMR8r",
       "duration_ms": 237133
+    },
+    {
+      "played_at": "2026-09-06T23:25:05.912Z",
+      "name": "《春風不問》（《大夢歸離》影視劇人間曲）",
+      "artists": [
+        "Amber Kuo"
+      ],
+      "album": "《春風不問》（《大夢歸離》影視劇人間曲）",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f055712f4d69ea2e7b8723b",
+      "uri": "spotify:track:1VqoRzvZrIgPTUz0XvjbyT",
+      "duration_ms": 216923
+    },
+    {
+      "played_at": "2026-09-06T23:27:21.094Z",
+      "name": "Art of War",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a82c46b1b778f670609b88e2",
+      "uri": "spotify:track:1W5Du9CclU9myih1pu1eA5",
+      "duration_ms": 126973
+    },
+    {
+      "played_at": "2026-09-06T23:30:16.978Z",
+      "name": "Shameless",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Shameless",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736f7537be3ad088ea4177394a",
+      "uri": "spotify:track:2MJlhN2OockKCadeGS4AEP",
+      "duration_ms": 175386
+    },
+    {
+      "played_at": "2026-09-06T23:32:53.463Z",
+      "name": "Favour",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Favour",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d56b1e5772b1a52cf369d1b",
+      "uri": "spotify:track:7sYQ4bgCZAbnV3TdUbscFz",
+      "duration_ms": 156000
+    },
+    {
+      "played_at": "2026-09-06T23:34:59.303Z",
+      "name": "LINK UP",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "NOIRE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27345b5f10b9e02e258a6c573b8",
+      "uri": "spotify:track:04GLL6JKODDRtfmK4uEVlk",
+      "duration_ms": 125346
+    },
+    {
+      "played_at": "2026-09-06T23:55:30.056Z",
+      "name": "Can't Leave Alone (feat. Avenoir & Maz B)",
+      "artists": [
+        "Pino",
+        "Avenoir",
+        "Maz B",
+        "86"
+      ],
+      "album": "'02",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cfe5c69e0a4ae129fb436739",
+      "uri": "spotify:track:3bGfuGWywg85koHG8nturm",
+      "duration_ms": 213413
+    },
+    {
+      "played_at": "2026-09-06T23:57:39.475Z",
+      "name": "TMW",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "TMW",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734fe0775d2c7431476e43edc7",
+      "uri": "spotify:track:19Dhj2zNpcTX2mBYrxlkax",
+      "duration_ms": 128919
+    },
+    {
+      "played_at": "2026-09-07T00:00:33.020Z",
+      "name": "AFTER HOURS",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "AFTER HOURS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732838bcdc14743f3e74b897a9",
+      "uri": "spotify:track:2ss03wfWSV9g3DdvDklHH2",
+      "duration_ms": 173026
+    },
+    {
+      "played_at": "2026-09-07T00:03:36.827Z",
+      "name": "Lady",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a82c46b1b778f670609b88e2",
+      "uri": "spotify:track:6DgXb6t0sRDjtyldebcnEA",
+      "duration_ms": 183293
+    },
+    {
+      "played_at": "2026-09-07T00:06:21.063Z",
+      "name": "Eve",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Eve",
+      "image": "https://i.scdn.co/image/ab67616d0000b273abec3626942054c6c6b53e5a",
+      "uri": "spotify:track:4nwSwALkSaxA26bEANsi20",
+      "duration_ms": 163728
+    },
+    {
+      "played_at": "2026-09-07T00:08:57.148Z",
+      "name": "DIFFERENT",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "NOIRE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0f31b07cf90960adb477d54",
+      "uri": "spotify:track:1rgwKSuwFnq9nw54ZfKKjp",
+      "duration_ms": 155586
+    },
+    {
+      "played_at": "2026-09-07T00:11:33.666Z",
+      "name": "Love",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Medea",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737e9f23dba62be42eabfb5cbe",
+      "uri": "spotify:track:2eCdZl32tNYS2rPFIwKR8R",
+      "duration_ms": 156000
+    },
+    {
+      "played_at": "2026-09-07T00:14:14.682Z",
+      "name": "D4U - Spotify Singles",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "D4U - Spotify Singles",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e85f63189acd20f40f39f8ce",
+      "uri": "spotify:track:4ATldz2t0zMGWtFK3uqDL4",
+      "duration_ms": 160487
+    },
+    {
+      "played_at": "2026-09-07T00:18:05.744Z",
+      "name": "Too Much",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Too Much",
+      "image": "https://i.scdn.co/image/ab67616d0000b27344cf76119c987ab66d7b5773",
+      "uri": "spotify:track:4rzfXpou7FRHP1kIAerMCH",
+      "duration_ms": 230560
+    },
+    {
+      "played_at": "2026-09-07T00:20:35.508Z",
+      "name": "Mirage",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
+      "uri": "spotify:track:5as974bpTDV3CJGZYbK6kJ",
+      "duration_ms": 149253
+    },
+    {
+      "played_at": "2026-09-07T00:23:10.972Z",
+      "name": "Crisis Evasion",
+      "artists": [
+        "Maz B",
+        "Avenoir"
+      ],
+      "album": "Apollo",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d51f0d8fb16c129232ab32f5",
+      "uri": "spotify:track:590oorGK2QmupDeAGtk1Al",
+      "duration_ms": 154960
+    },
+    {
+      "played_at": "2026-09-07T00:27:20.259Z",
+      "name": "WHO DO U LUV",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "WHO DO U LUV",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373dc757337bcdd30b76723c5",
+      "uri": "spotify:track:74KASQI7XvyWdsNyQcJuv9",
+      "duration_ms": 248760
+    },
+    {
+      "played_at": "2026-09-07T00:30:23.670Z",
+      "name": "Heaven",
+      "artists": [
+        "Avenoir",
+        "Bryant Barnes"
+      ],
+      "album": "Heaven",
+      "image": "https://i.scdn.co/image/ab67616d0000b27327561fc5580ea628227b4bbe",
+      "uri": "spotify:track:6YeBgabF5qNtrPVnrxD2d2",
+      "duration_ms": 182906
+    },
+    {
+      "played_at": "2026-09-07T00:32:49.306Z",
+      "name": "Alone",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
+      "uri": "spotify:track:69ms7KvY7nETPn8mYwTahK",
+      "duration_ms": 145120
+    },
+    {
+      "played_at": "2026-09-07T00:35:48.100Z",
+      "name": "TRACK 02 (Dangerous Lover)",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "NOIRE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27345b5f10b9e02e258a6c573b8",
+      "uri": "spotify:track:6YoIklDN0qyJA1NuXwKrEw",
+      "duration_ms": 178280
+    },
+    {
+      "played_at": "2026-09-07T00:38:33.983Z",
+      "name": "MORAL",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "MORAL",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb37be7e6c9c4f9c6805e087",
+      "uri": "spotify:track:4FVeq46pcFppDtiMd8GReE",
+      "duration_ms": 165360
+    },
+    {
+      "played_at": "2026-09-07T00:42:13.786Z",
+      "name": "Superficial / Love",
+      "artists": [
+        "Avenoir",
+        "Strings From Paris"
+      ],
+      "album": "Medea",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f947725026e1baca1ae2295e",
+      "uri": "spotify:track:53fzAHD09qNmkveSms0NhI",
+      "duration_ms": 219311
+    },
+    {
+      "played_at": "2026-09-07T00:44:07.402Z",
+      "name": "Paradise",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
+      "uri": "spotify:track:6mU00UhZ1jCEyEoja3B3hl",
+      "duration_ms": 113106
+    },
+    {
+      "played_at": "2026-09-07T02:14:08.560Z",
+      "name": "MOVIE",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "NOIRE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27345b5f10b9e02e258a6c573b8",
+      "uri": "spotify:track:5Izl3SfU1DbkOkBZoQltsa",
+      "duration_ms": 166720
+    },
+    {
+      "played_at": "2026-09-07T02:17:07.407Z",
+      "name": "Desert Oasis",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
+      "uri": "spotify:track:4raVYWt5YDX4GlLDUrRM9c",
+      "duration_ms": 154920
+    },
+    {
+      "played_at": "2026-09-07T02:19:29.666Z",
+      "name": "MORTAL",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "NOIRE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27345b5f10b9e02e258a6c573b8",
+      "uri": "spotify:track:2DsKEr398bpEAOJvZjem6L",
+      "duration_ms": 141720
+    },
+    {
+      "played_at": "2026-09-07T02:21:37.052Z",
+      "name": "Art of War",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a82c46b1b778f670609b88e2",
+      "uri": "spotify:track:1W5Du9CclU9myih1pu1eA5",
+      "duration_ms": 126973
+    },
+    {
+      "played_at": "2026-09-07T02:24:32.926Z",
+      "name": "Shameless",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Shameless",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736f7537be3ad088ea4177394a",
+      "uri": "spotify:track:2MJlhN2OockKCadeGS4AEP",
+      "duration_ms": 175386
+    },
+    {
+      "played_at": "2026-09-07T02:27:09.295Z",
+      "name": "Favour",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Favour",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d56b1e5772b1a52cf369d1b",
+      "uri": "spotify:track:7sYQ4bgCZAbnV3TdUbscFz",
+      "duration_ms": 156000
+    },
+    {
+      "played_at": "2026-09-07T02:29:15.079Z",
+      "name": "LINK UP",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "NOIRE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27345b5f10b9e02e258a6c573b8",
+      "uri": "spotify:track:04GLL6JKODDRtfmK4uEVlk",
+      "duration_ms": 125346
+    },
+    {
+      "played_at": "2026-09-07T02:32:48.968Z",
+      "name": "Can't Leave Alone (feat. Avenoir & Maz B)",
+      "artists": [
+        "Pino",
+        "Avenoir",
+        "Maz B",
+        "86"
+      ],
+      "album": "'02",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cfe5c69e0a4ae129fb436739",
+      "uri": "spotify:track:3bGfuGWywg85koHG8nturm",
+      "duration_ms": 213413
+    },
+    {
+      "played_at": "2026-09-07T02:34:58.370Z",
+      "name": "TMW",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "TMW",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734fe0775d2c7431476e43edc7",
+      "uri": "spotify:track:19Dhj2zNpcTX2mBYrxlkax",
+      "duration_ms": 128919
+    },
+    {
+      "played_at": "2026-09-07T02:37:51.905Z",
+      "name": "AFTER HOURS",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "AFTER HOURS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732838bcdc14743f3e74b897a9",
+      "uri": "spotify:track:2ss03wfWSV9g3DdvDklHH2",
+      "duration_ms": 173026
+    },
+    {
+      "played_at": "2026-09-07T02:40:55.729Z",
+      "name": "Lady",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a82c46b1b778f670609b88e2",
+      "uri": "spotify:track:6DgXb6t0sRDjtyldebcnEA",
+      "duration_ms": 183293
+    },
+    {
+      "played_at": "2026-09-07T02:43:39.843Z",
+      "name": "Eve",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Eve",
+      "image": "https://i.scdn.co/image/ab67616d0000b273abec3626942054c6c6b53e5a",
+      "uri": "spotify:track:4nwSwALkSaxA26bEANsi20",
+      "duration_ms": 163728
+    },
+    {
+      "played_at": "2026-09-07T02:57:36.708Z",
+      "name": "Ceremony",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Ohms",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e142a930bfba61f6a3592b29",
+      "uri": "spotify:track:2X5SHv5ubRTNIgMxxCPYdo",
+      "duration_ms": 207752
+    },
+    {
+      "played_at": "2026-09-07T03:04:56.738Z",
+      "name": "Anniversary of an Uninteresting Event",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Deftones",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735775b5b98f82e62623965303",
+      "uri": "spotify:track:27gb40S6AIpP5lrhLxlfXj",
+      "duration_ms": 237333
+    },
+    {
+      "played_at": "2026-09-07T03:07:04.104Z",
+      "name": "This Link Is Dead",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Ohms",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e142a930bfba61f6a3592b29",
+      "uri": "spotify:track:0DtUyeqJIvuOY58kqg0ZCd",
+      "duration_ms": 277251
+    },
+    {
+      "played_at": "2026-09-07T03:14:40.836Z",
+      "name": "Love On The Brain",
+      "artists": [
+        "Rihanna"
+      ],
+      "album": "ANTI (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
+      "uri": "spotify:track:5oO3drDxtziYU2H1X23ZIp",
+      "duration_ms": 224000
+    },
+    {
+      "played_at": "2026-09-07T03:17:47.017Z",
+      "name": "Lightspeed",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d3eeb7465eff5f4b0950b66",
+      "uri": "spotify:track:1GtCx7UBuJ5e1prUGoHDNh",
+      "duration_ms": 185720
+    },
+    {
+      "played_at": "2026-09-07T03:20:06.351Z",
+      "name": "Tiramisu",
+      "artists": [
+        "Don Toliver"
+      ],
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+      "uri": "spotify:track:2GHKo6nrSjruvBEQbzD7Fw",
+      "duration_ms": 138947
+    },
+    {
+      "played_at": "2026-09-07T03:24:27.012Z",
+      "name": "Die For You",
+      "artists": [
+        "The Weeknd"
+      ],
+      "album": "Starboy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
+      "uri": "spotify:track:2LBqCSwhJGcFQeTHMVGwy3",
+      "duration_ms": 260253
+    },
+    {
+      "played_at": "2026-09-07T03:25:09.699Z",
+      "name": "Nothing Like The Knife",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "A Stranger To You",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+      "uri": "spotify:track:2VM6pk63p9JPlgOUqQb6tU",
+      "duration_ms": 42226
     }
   ]
 }
