@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T03:28:05.257Z",
+  "updated_at": "2026-09-07T11:51:32.758Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -17727,6 +17727,72 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
       "uri": "spotify:track:2VM6pk63p9JPlgOUqQb6tU",
       "duration_ms": 42226
+    },
+    {
+      "played_at": "2026-09-07T03:28:41.994Z",
+      "name": "消散对白",
+      "artists": [
+        "丁禹兮"
+      ],
+      "album": "消散对白",
+      "image": "https://i.scdn.co/image/ab67616d0000b27304293ca43fd3921818aa1b3f",
+      "uri": "spotify:track:2vfj3bct5C6ZY6cuPmKC5l",
+      "duration_ms": 211886
+    },
+    {
+      "played_at": "2026-09-07T03:33:03.291Z",
+      "name": "忽而今夏",
+      "artists": [
+        "Silence Wang"
+      ],
+      "album": "忽而今夏",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bae45f015a7bbe6089d78f1f",
+      "uri": "spotify:track:5AdDYewuSNO7JeoSUtwk8u",
+      "duration_ms": 260720
+    },
+    {
+      "played_at": "2026-09-07T03:51:01.939Z",
+      "name": "想你时风起 - 电视剧《我的人间烟火》回忆主题曲",
+      "artists": [
+        "單依純"
+      ],
+      "album": "想你时风起 (电视剧《我的人间烟火》回忆主题曲)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273443cb883e3c70795cd40a3fb",
+      "uri": "spotify:track:3oauI35ZN4vrbnr1mhNjf2",
+      "duration_ms": 276519
+    },
+    {
+      "played_at": "2026-09-07T08:45:47.370Z",
+      "name": "MOVIE",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "NOIRE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27345b5f10b9e02e258a6c573b8",
+      "uri": "spotify:track:5Izl3SfU1DbkOkBZoQltsa",
+      "duration_ms": 166720
+    },
+    {
+      "played_at": "2026-09-07T09:51:24.920Z",
+      "name": "Smooth Operator - Single Version",
+      "artists": [
+        "Sade"
+      ],
+      "album": "The Best of Sade",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+      "uri": "spotify:track:1Hv1VTm8zeOeybub15mA2R",
+      "duration_ms": 258693
+    },
+    {
+      "played_at": "2026-09-07T09:52:45.117Z",
+      "name": "Harleys In Hawaii",
+      "artists": [
+        "Katy Perry"
+      ],
+      "album": "Harleys In Hawaii",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f36563773a882c66e3fca58e",
+      "uri": "spotify:track:5nCthAh3jt4xKuLJAifAaR",
+      "duration_ms": 185815
     }
   ]
 }

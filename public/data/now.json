@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-07T03:28:05.407Z",
-  "is_playing": true,
+  "updated_at": "2026-09-07T11:51:32.882Z",
+  "is_playing": false,
   "track": {
-    "name": "消散对白",
+    "name": "Harleys In Hawaii",
     "artists": [
-      "丁禹兮"
+      "Katy Perry"
     ],
-    "album": "消散对白",
-    "image": "https://i.scdn.co/image/ab67616d0000b27304293ca43fd3921818aa1b3f",
-    "uri": "spotify:track:2vfj3bct5C6ZY6cuPmKC5l"
+    "album": "Harleys In Hawaii",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f36563773a882c66e3fca58e",
+    "uri": "spotify:track:5nCthAh3jt4xKuLJAifAaR"
   },
-  "played_at": "2026-09-07T03:28:05.407Z"
+  "played_at": "2026-09-07T09:52:45.117Z"
 }
