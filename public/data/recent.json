@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T17:27:39.640Z",
+  "updated_at": "2026-09-07T21:14:04.837Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -17793,6 +17793,337 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f36563773a882c66e3fca58e",
       "uri": "spotify:track:5nCthAh3jt4xKuLJAifAaR",
       "duration_ms": 185815
+    },
+    {
+      "played_at": "2026-09-07T18:57:46.848Z",
+      "name": "Harleys In Hawaii",
+      "artists": [
+        "Katy Perry"
+      ],
+      "album": "Harleys In Hawaii",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f36563773a882c66e3fca58e",
+      "uri": "spotify:track:5nCthAh3jt4xKuLJAifAaR",
+      "duration_ms": 185815
+    },
+    {
+      "played_at": "2026-09-07T19:01:13.619Z",
+      "name": "Bodies",
+      "artists": [
+        "keshi"
+      ],
+      "album": "Requiem",
+      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
+      "uri": "spotify:track:7AaCqnFCdfEKesBwSzS8NQ",
+      "duration_ms": 206237
+    },
+    {
+      "played_at": "2026-09-07T19:04:24.493Z",
+      "name": "Truth or Dare",
+      "artists": [
+        "Tyla"
+      ],
+      "album": "TYLA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b4e7b8d3e6d063692406021",
+      "uri": "spotify:track:7axl6v0Yv4ksLVMt6XItpc",
+      "duration_ms": 190392
+    },
+    {
+      "played_at": "2026-09-07T19:08:30.606Z",
+      "name": "Chicago",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "XSCAPE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0",
+      "uri": "spotify:track:5BKKy9fIJL5uM9fz1SnqyP",
+      "duration_ms": 245565
+    },
+    {
+      "played_at": "2026-09-07T19:11:38.611Z",
+      "name": "All I Can Say",
+      "artists": [
+        "Kali Uchis"
+      ],
+      "album": "Sincerely,",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a7493f1985f820a9add223d2",
+      "uri": "spotify:track:6ewcR0FnLdKjIt9gcMghrQ",
+      "duration_ms": 187455
+    },
+    {
+      "played_at": "2026-09-07T19:15:19.975Z",
+      "name": "Yours",
+      "artists": [
+        "maye"
+      ],
+      "album": "Yours",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730aedc3771cdda7f51002b8c4",
+      "uri": "spotify:track:0gmStTUTuiU807EB4KafOX",
+      "duration_ms": 220887
+    },
+    {
+      "played_at": "2026-09-07T19:19:21.988Z",
+      "name": "Sextape",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
+      "duration_ms": 241533
+    },
+    {
+      "played_at": "2026-09-07T19:23:15.267Z",
+      "name": "Liberian Girl - 2012 Remastered Version",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Bad (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
+      "uri": "spotify:track:2WzQbiXKpmRNLWXbqo8Z7b",
+      "duration_ms": 232801
+    },
+    {
+      "played_at": "2026-09-07T19:28:11.985Z",
+      "name": "Confident",
+      "artists": [
+        "Justin Bieber",
+        "Chance the Rapper"
+      ],
+      "album": "Journals",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358ae8fddecbd2630005409c9",
+      "uri": "spotify:track:3JsydWaf2Ev4ehaLUjj3SY",
+      "duration_ms": 248133
+    },
+    {
+      "played_at": "2026-09-07T19:32:28.461Z",
+      "name": "seasons",
+      "artists": [
+        "wave to earth"
+      ],
+      "album": "summer flows 0.02",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b975ed7ccd57f3a00d570cf",
+      "uri": "spotify:track:0aVd7QiY8BstysHb62c5Fi",
+      "duration_ms": 256000
+    },
+    {
+      "played_at": "2026-09-07T19:36:02.615Z",
+      "name": "I Don't Care",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "I Don't Care",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ee4633de5a5cc7742134139d",
+      "uri": "spotify:track:1OY9W4ZohLPBVqkNmEUNGH",
+      "duration_ms": 181028
+    },
+    {
+      "played_at": "2026-09-07T19:39:15.433Z",
+      "name": "Saccharine",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350d4bb50c617f43a4e1cf640",
+      "uri": "spotify:track:3J65NAYTuI4Bijum16hRTz",
+      "duration_ms": 192341
+    },
+    {
+      "played_at": "2026-09-07T19:42:11.138Z",
+      "name": "You're Not Gone, You're Just Dead!",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Till' Death Was Never Enough",
+      "image": "https://i.scdn.co/image/ab67616d0000b27371dcb0a7eb3e79a78c581565",
+      "uri": "spotify:track:2X2E0RIzYWt6HTDRSTG4qm",
+      "duration_ms": 175229
+    },
+    {
+      "played_at": "2026-09-07T19:45:11.083Z",
+      "name": "God Complex",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "God Complex",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f062d01dc9287023821ee9e",
+      "uri": "spotify:track:0k1iYOopB0ZTQjdK6lsopE",
+      "duration_ms": 179473
+    },
+    {
+      "played_at": "2026-09-07T19:48:54.812Z",
+      "name": "My Own Summer (Shove It)",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Around the Fur",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
+      "uri": "spotify:track:1158ckiB5S4cpsdYHDB9IF",
+      "duration_ms": 214760
+    },
+    {
+      "played_at": "2026-09-07T19:55:40.744Z",
+      "name": "Change (In the House of Flies)",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "White Pony",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
+      "uri": "spotify:track:51c94ac31swyDQj9B3Lzs3",
+      "duration_ms": 299533
+    },
+    {
+      "played_at": "2026-09-07T19:57:45.396Z",
+      "name": "Please Please Please Let Me Get What I Want - 2005 Remaster",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Covers",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358df6181041c38412db1b253",
+      "uri": "spotify:track:4HpIh5wWfkq5sSuCLLSwYR",
+      "duration_ms": 124173
+    },
+    {
+      "played_at": "2026-09-07T20:01:47.407Z",
+      "name": "Sextape",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
+      "duration_ms": 241533
+    },
+    {
+      "played_at": "2026-09-07T20:07:05.590Z",
+      "name": "Cherry Waves",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:70L6nHORQsblY813yNqUR3",
+      "duration_ms": 317706
+    },
+    {
+      "played_at": "2026-09-07T20:12:05.940Z",
+      "name": "Be Quiet and Drive (Far Away)",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Around the Fur",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
+      "uri": "spotify:track:4Uiw0Sl9yskBaC6P4DcdVD",
+      "duration_ms": 299866
+    },
+    {
+      "played_at": "2026-09-07T20:17:05.626Z",
+      "name": "Entombed",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Koi No Yokan",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
+      "uri": "spotify:track:4bLCPfBLKlqiONo6TALTh5",
+      "duration_ms": 299240
+    },
+    {
+      "played_at": "2026-09-07T20:20:44.909Z",
+      "name": "Risk",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:0lqHgjNrXmtFroWDqwV1iQ",
+      "duration_ms": 218800
+    },
+    {
+      "played_at": "2026-09-07T20:24:54.344Z",
+      "name": "i think about you all the time",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "private music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+      "uri": "spotify:track:0M5NH22uVXHSXjSi5SXTXM",
+      "duration_ms": 248957
+    },
+    {
+      "played_at": "2026-09-07T20:38:43.518Z",
+      "name": "Mascara",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Around the Fur",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
+      "uri": "spotify:track:4cLdpErILMO8Db8pQVAVcZ",
+      "duration_ms": 225293
+    },
+    {
+      "played_at": "2026-09-07T20:45:37.326Z",
+      "name": "Rosemary",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Koi No Yokan",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
+      "uri": "spotify:track:4FEr6dIdH6EqLKR0jB560J",
+      "duration_ms": 413346
+    },
+    {
+      "played_at": "2026-09-07T20:49:53.147Z",
+      "name": "Digital Bath",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "White Pony",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
+      "uri": "spotify:track:2jSJm3Gv6GLxduWLenmjKS",
+      "duration_ms": 255373
+    },
+    {
+      "played_at": "2026-09-07T20:53:01.871Z",
+      "name": "Diamond Eyes",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:6nmDEbjMZru5j55HIkX2yZ",
+      "duration_ms": 188266
+    },
+    {
+      "played_at": "2026-09-07T20:58:13.545Z",
+      "name": "infinite source",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "private music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+      "uri": "spotify:track:3txlvthoUa9vWvG1zr2Lnr",
+      "duration_ms": 212577
+    },
+    {
+      "played_at": "2026-09-07T21:04:44.750Z",
+      "name": "Passenger",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "White Pony",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
+      "uri": "spotify:track:7IoK6jZBxY7NMoQPoPXZCF",
+      "duration_ms": 368666
+    },
+    {
+      "played_at": "2026-09-07T21:09:33.042Z",
+      "name": "Beauty School",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:5sUCU4eiyf0pplIJ7OGEoc",
+      "duration_ms": 287840
     }
   ]
 }

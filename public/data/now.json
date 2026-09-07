@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-07T17:27:39.679Z",
+  "updated_at": "2026-09-07T21:14:04.872Z",
   "is_playing": false,
   "track": {
-    "name": "Harleys In Hawaii",
+    "name": "Beauty School",
     "artists": [
-      "Katy Perry"
+      "Deftones"
     ],
-    "album": "Harleys In Hawaii",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f36563773a882c66e3fca58e",
-    "uri": "spotify:track:5nCthAh3jt4xKuLJAifAaR"
+    "album": "Diamond Eyes",
+    "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+    "uri": "spotify:track:5sUCU4eiyf0pplIJ7OGEoc"
   },
-  "played_at": "2026-09-07T09:52:45.117Z"
+  "played_at": "2026-09-07T21:09:33.042Z"
 }
