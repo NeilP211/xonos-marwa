@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T16:12:17.285Z",
+  "updated_at": "2026-09-08T20:51:01.861Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -18427,6 +18427,324 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273519266cd05491a5b5bc22d1e",
       "uri": "spotify:track:69ZaPBHhRMRDjRpW1ivnOU",
       "duration_ms": 230577
+    },
+    {
+      "played_at": "2026-09-08T16:19:33.924Z",
+      "name": "Inocente",
+      "artists": [
+        "Romeo Santos"
+      ],
+      "album": "Fórmula, Vol. 2 (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0e4b48b060715c9aa7fca18",
+      "uri": "spotify:track:6rXvMpWJbTyhSrVWye7jPE",
+      "duration_ms": 236293
+    },
+    {
+      "played_at": "2026-09-08T18:04:05.504Z",
+      "name": "Art of War",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a82c46b1b778f670609b88e2",
+      "uri": "spotify:track:1W5Du9CclU9myih1pu1eA5",
+      "duration_ms": 126973
+    },
+    {
+      "played_at": "2026-09-08T18:07:07.353Z",
+      "name": "Shameless",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Shameless",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736f7537be3ad088ea4177394a",
+      "uri": "spotify:track:2MJlhN2OockKCadeGS4AEP",
+      "duration_ms": 175386
+    },
+    {
+      "played_at": "2026-09-08T18:09:45.434Z",
+      "name": "Favour",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Favour",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d56b1e5772b1a52cf369d1b",
+      "uri": "spotify:track:7sYQ4bgCZAbnV3TdUbscFz",
+      "duration_ms": 156000
+    },
+    {
+      "played_at": "2026-09-08T18:11:51.914Z",
+      "name": "LINK UP",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "NOIRE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27345b5f10b9e02e258a6c573b8",
+      "uri": "spotify:track:04GLL6JKODDRtfmK4uEVlk",
+      "duration_ms": 125346
+    },
+    {
+      "played_at": "2026-09-08T18:15:25.747Z",
+      "name": "Can't Leave Alone (feat. Avenoir & Maz B)",
+      "artists": [
+        "Pino",
+        "Avenoir",
+        "Maz B",
+        "86"
+      ],
+      "album": "'02",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cfe5c69e0a4ae129fb436739",
+      "uri": "spotify:track:3bGfuGWywg85koHG8nturm",
+      "duration_ms": 213413
+    },
+    {
+      "played_at": "2026-09-08T18:35:51.307Z",
+      "name": "Secreto De Amor",
+      "artists": [
+        "Joan Sebastian"
+      ],
+      "album": "Secreto De Amor",
+      "image": "https://i.scdn.co/image/ab67616d0000b273078eeb66acfcc9c323fe2a76",
+      "uri": "spotify:track:47PiSg7z5qjUyEGKN4I1g7",
+      "duration_ms": 273008
+    },
+    {
+      "played_at": "2026-09-08T18:40:05.241Z",
+      "name": "Secreto De Amor",
+      "artists": [
+        "Joan Sebastian"
+      ],
+      "album": "Secreto De Amor",
+      "image": "https://i.scdn.co/image/ab67616d0000b273078eeb66acfcc9c323fe2a76",
+      "uri": "spotify:track:47PiSg7z5qjUyEGKN4I1g7",
+      "duration_ms": 273008
+    },
+    {
+      "played_at": "2026-09-08T18:43:53.008Z",
+      "name": "Best Of Me",
+      "artists": [
+        "BTS"
+      ],
+      "album": "Love Yourself 承 'Her'",
+      "image": "https://i.scdn.co/image/ab67616d0000b27340f078d0a28bffb93e2e2c11",
+      "uri": "spotify:track:5C6A1WXVfKvBBQmaFFnBgs",
+      "duration_ms": 227191
+    },
+    {
+      "played_at": "2026-09-08T18:53:10.623Z",
+      "name": "Love Me Harder",
+      "artists": [
+        "Ariana Grande",
+        "The Weeknd"
+      ],
+      "album": "My Everything (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+      "uri": "spotify:track:5J4ZkQpzMUFojo1CtAZYpn",
+      "duration_ms": 236133
+    },
+    {
+      "played_at": "2026-09-08T18:55:48.665Z",
+      "name": "Milonga with Lover",
+      "artists": [
+        "김지수"
+      ],
+      "album": "The Trunk (Soundtrack from the Netflix Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ff65a3b9824c71944b4aa8a7",
+      "uri": "spotify:track:0jgeW704QYLHoLJdCx3ytA",
+      "duration_ms": 157522
+    },
+    {
+      "played_at": "2026-09-08T18:59:20.044Z",
+      "name": "Chroma Drift",
+      "artists": [
+        "PLAVE"
+      ],
+      "album": "Caligo Pt.1",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ca59009b95be7b850357de10",
+      "uri": "spotify:track:0BA3uoKlu9CsHgXIeAiXmJ",
+      "duration_ms": 210826
+    },
+    {
+      "played_at": "2026-09-08T19:02:27.486Z",
+      "name": "Sugar! Honey! Love!",
+      "artists": [
+        "Kali Uchis"
+      ],
+      "album": "Sincerely,",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a7493f1985f820a9add223d2",
+      "uri": "spotify:track:0iIut6VJ8lIT5di5ejg78O",
+      "duration_ms": 184871
+    },
+    {
+      "played_at": "2026-09-08T19:05:26.076Z",
+      "name": "Terciopelo",
+      "artists": [
+        "seye"
+      ],
+      "album": "Terciopelo",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739a374908199deaa80529e77a",
+      "uri": "spotify:track:3BfkRtP5fDcHa9ebwIaGMY",
+      "duration_ms": 178064
+    },
+    {
+      "played_at": "2026-09-08T19:09:02.684Z",
+      "name": "Creo En Ti",
+      "artists": [
+        "maye"
+      ],
+      "album": "Creo En Ti",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739fb7d7747c51df4258a368ec",
+      "uri": "spotify:track:69vFMxC1GJZpwo5kgGuofZ",
+      "duration_ms": 202425
+    },
+    {
+      "played_at": "2026-09-08T19:13:32.580Z",
+      "name": "TMW",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "TMW",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734fe0775d2c7431476e43edc7",
+      "uri": "spotify:track:19Dhj2zNpcTX2mBYrxlkax",
+      "duration_ms": 128919
+    },
+    {
+      "played_at": "2026-09-08T19:14:03.359Z",
+      "name": "DÁKITI",
+      "artists": [
+        "Bad Bunny",
+        "JHAYCO"
+      ],
+      "album": "DÁKITI",
+      "image": "https://i.scdn.co/image/ab67616d0000b27334c8199b0b3b3fb42b8a98a8",
+      "uri": "spotify:track:47EiUVwUp4C9fGccaPuUCS",
+      "duration_ms": 205090
+    },
+    {
+      "played_at": "2026-09-08T19:16:09.039Z",
+      "name": "DÁKITI",
+      "artists": [
+        "Bad Bunny",
+        "JHAYCO"
+      ],
+      "album": "DÁKITI",
+      "image": "https://i.scdn.co/image/ab67616d0000b27334c8199b0b3b3fb42b8a98a8",
+      "uri": "spotify:track:47EiUVwUp4C9fGccaPuUCS",
+      "duration_ms": 205090
+    },
+    {
+      "played_at": "2026-09-08T19:19:40.010Z",
+      "name": "Secreto De Amor",
+      "artists": [
+        "Joan Sebastian"
+      ],
+      "album": "Secreto De Amor",
+      "image": "https://i.scdn.co/image/ab67616d0000b273078eeb66acfcc9c323fe2a76",
+      "uri": "spotify:track:47PiSg7z5qjUyEGKN4I1g7",
+      "duration_ms": 273008
+    },
+    {
+      "played_at": "2026-09-08T19:25:37.637Z",
+      "name": "Si Antes Te Hubiera Conocido",
+      "artists": [
+        "KAROL G"
+      ],
+      "album": "Tropicoqueta",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
+      "uri": "spotify:track:73scB4Q4fcOmnsBVZPmk32",
+      "duration_ms": 195824
+    },
+    {
+      "played_at": "2026-09-08T19:28:12.537Z",
+      "name": "MI EX TENÍA RAZÓN",
+      "artists": [
+        "KAROL G"
+      ],
+      "album": "MAÑANA SERÁ BONITO (BICHOTA SEASON)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03",
+      "uri": "spotify:track:54zcJnb3tp9c5OVKREZ1Is",
+      "duration_ms": 154374
+    },
+    {
+      "played_at": "2026-09-08T19:32:31.926Z",
+      "name": "Secreto",
+      "artists": [
+        "Anuel AA",
+        "KAROL G"
+      ],
+      "album": "Secreto",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dc67d6f3cc602f02ed7fd932",
+      "uri": "spotify:track:5W83ErFkO3aKAIS1WMi6u0",
+      "duration_ms": 258799
+    },
+    {
+      "played_at": "2026-09-08T20:10:36.621Z",
+      "name": "CONTIGO VOY A MUERTE",
+      "artists": [
+        "KAROL G",
+        "Camilo"
+      ],
+      "album": "KG0516",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ae28c8f2748587cc2a33d6c2",
+      "uri": "spotify:track:615XWyY2RPfk3iuYcU6qvi",
+      "duration_ms": 219960
+    },
+    {
+      "played_at": "2026-09-08T20:17:12.284Z",
+      "name": "Andrea",
+      "artists": [
+        "Bad Bunny",
+        "Buscabulla"
+      ],
+      "album": "Un Verano Sin Ti",
+      "image": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+      "uri": "spotify:track:44XjoNvtwevktFKjvVe1vH",
+      "duration_ms": 339611
+    },
+    {
+      "played_at": "2026-09-08T20:21:10.364Z",
+      "name": "If Anything",
+      "artists": [
+        "Damdamgugu"
+      ],
+      "album": "Common Cold",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a475056ffb92b853b100282b",
+      "uri": "spotify:track:435aSGPRCgV4qZx7PDO9YQ",
+      "duration_ms": 237518
+    },
+    {
+      "played_at": "2026-09-08T20:25:45.129Z",
+      "name": "Ana Wel Amar",
+      "artists": [
+        "Hussain Aljassmi"
+      ],
+      "album": "Ana Wel Amar",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cacf0e52d888be3c1bee500f",
+      "uri": "spotify:track:3ugRZ02LY4JuNeISmv4bv3",
+      "duration_ms": 274208
+    },
+    {
+      "played_at": "2026-09-08T20:29:09.391Z",
+      "name": "Mucho Corazón",
+      "artists": [
+        "Luis Miguel"
+      ],
+      "album": "Romance",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bda5c1e56bf06c3c7fc173f7",
+      "uri": "spotify:track:5C1HYHG6b1wk9MpC2UP9C6",
+      "duration_ms": 203733
+    },
+    {
+      "played_at": "2026-09-08T20:32:45.472Z",
+      "name": "Savior (feat. B.I)",
+      "artists": [
+        "LEEHI",
+        "B.I"
+      ],
+      "album": "4 ONLY",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69",
+      "uri": "spotify:track:0DYvTdqBqW6erA1a7pFzVo",
+      "duration_ms": 215560
     }
   ]
 }

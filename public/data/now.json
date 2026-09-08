@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-08T16:12:17.382Z",
+  "updated_at": "2026-09-08T20:51:01.905Z",
   "is_playing": false,
   "track": {
-    "name": "Como Antes",
+    "name": "Savior (feat. B.I)",
     "artists": [
-      "Bad Bunny"
+      "LEEHI",
+      "B.I"
     ],
-    "album": "X 100PRE",
-    "image": "https://i.scdn.co/image/ab67616d0000b273519266cd05491a5b5bc22d1e",
-    "uri": "spotify:track:69ZaPBHhRMRDjRpW1ivnOU"
+    "album": "4 ONLY",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69",
+    "uri": "spotify:track:0DYvTdqBqW6erA1a7pFzVo"
   },
-  "played_at": "2026-09-08T04:14:41.550Z"
+  "played_at": "2026-09-08T20:32:45.472Z"
 }
