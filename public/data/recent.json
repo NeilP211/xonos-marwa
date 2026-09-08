@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T03:33:57.124Z",
+  "updated_at": "2026-09-08T10:48:34.629Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -18416,6 +18416,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f25017178f7d8bbab48acc0d",
       "uri": "spotify:track:3NYyi0nCnxhuChr6V5yaJn",
       "duration_ms": 168890
+    },
+    {
+      "played_at": "2026-09-08T04:14:41.550Z",
+      "name": "Como Antes",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "X 100PRE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273519266cd05491a5b5bc22d1e",
+      "uri": "spotify:track:69ZaPBHhRMRDjRpW1ivnOU",
+      "duration_ms": 230577
     }
   ]
 }

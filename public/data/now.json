@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-09-08T03:33:57.158Z",
+  "updated_at": "2026-09-08T10:48:34.725Z",
   "is_playing": false,
   "track": {
-    "name": "AMIGOS CON DERECHOS",
+    "name": "Como Antes",
     "artists": [
-      "Eslabon Armado",
-      "Peso Pluma"
+      "Bad Bunny"
     ],
-    "album": "NOCTURNO",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f25017178f7d8bbab48acc0d",
-    "uri": "spotify:track:3NYyi0nCnxhuChr6V5yaJn"
+    "album": "X 100PRE",
+    "image": "https://i.scdn.co/image/ab67616d0000b273519266cd05491a5b5bc22d1e",
+    "uri": "spotify:track:69ZaPBHhRMRDjRpW1ivnOU"
   },
-  "played_at": "2026-09-08T02:39:41.339Z"
+  "played_at": "2026-09-08T04:14:41.550Z"
 }

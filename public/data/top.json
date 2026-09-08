@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T03:33:56.988Z",
+  "generated_at": "2026-09-08T10:48:34.521Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1533,19 +1533,19 @@
         },
         {
           "rank": 4,
-          "name": "Loathe",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
-          "genres": [],
-          "uri": "spotify:artist:4G9wSdX0klmoHfjm9i6DLd",
-          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
-        },
-        {
-          "rank": 5,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
           "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        },
+        {
+          "rank": 5,
+          "name": "Loathe",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
+          "genres": [],
+          "uri": "spotify:artist:4G9wSdX0klmoHfjm9i6DLd",
+          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
         },
         {
           "rank": 6,
@@ -1637,6 +1637,14 @@
         },
         {
           "rank": 17,
+          "name": "wave to earth",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb11fa75d331351ecfc2e93faf",
+          "genres": [],
+          "uri": "spotify:artist:5069JTmv5ZDyPeZaCCXiCg",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        },
+        {
+          "rank": 18,
           "name": "Rels B",
           "image": "https://i.scdn.co/image/ab6761610000e5eb85c6617e12de3109c04aaf1b",
           "genres": [],
@@ -1644,7 +1652,7 @@
           "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Michael Jackson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb997cc9a4aec335d46c9481fd",
           "genres": [],
@@ -1652,20 +1660,12 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Cigarettes After Sex",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
           "genres": [],
           "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        },
-        {
-          "rank": 20,
-          "name": "wave to earth",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb11fa75d331351ecfc2e93faf",
-          "genres": [],
-          "uri": "spotify:artist:5069JTmv5ZDyPeZaCCXiCg",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
         },
         {
           "rank": 21,
@@ -1677,6 +1677,14 @@
         },
         {
           "rank": 22,
+          "name": "Kali Uchis",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebdeac5367816c7ab1f607e89a",
+          "genres": [],
+          "uri": "spotify:artist:1U1el3k54VvEUzo3ybLPlM",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "rank": 23,
           "name": "Wisp",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
           "genres": [],
@@ -1684,20 +1692,12 @@
           "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Maluma",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1b0d196ca84f4a0d076b4570",
           "genres": [],
           "uri": "spotify:artist:1r4hJ1h58CWwUQe3MxPuau",
           "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "rank": 24,
-          "name": "Kali Uchis",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebdeac5367816c7ab1f607e89a",
-          "genres": [],
-          "uri": "spotify:artist:1U1el3k54VvEUzo3ybLPlM",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         },
         {
           "rank": 25,
