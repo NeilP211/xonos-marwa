@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-07T21:14:04.872Z",
+  "updated_at": "2026-09-08T03:33:57.158Z",
   "is_playing": false,
   "track": {
-    "name": "Beauty School",
+    "name": "AMIGOS CON DERECHOS",
     "artists": [
-      "Deftones"
+      "Eslabon Armado",
+      "Peso Pluma"
     ],
-    "album": "Diamond Eyes",
-    "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
-    "uri": "spotify:track:5sUCU4eiyf0pplIJ7OGEoc"
+    "album": "NOCTURNO",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f25017178f7d8bbab48acc0d",
+    "uri": "spotify:track:3NYyi0nCnxhuChr6V5yaJn"
   },
-  "played_at": "2026-09-07T21:09:33.042Z"
+  "played_at": "2026-09-08T02:39:41.339Z"
 }

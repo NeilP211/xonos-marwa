@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T21:14:04.837Z",
+  "updated_at": "2026-09-08T03:33:57.124Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -18124,6 +18124,298 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
       "uri": "spotify:track:5sUCU4eiyf0pplIJ7OGEoc",
       "duration_ms": 287840
+    },
+    {
+      "played_at": "2026-09-07T21:17:02.314Z",
+      "name": "Hole in the Earth",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:5Bpc360LNUScK53FrM8nvB",
+      "duration_ms": 249320
+    },
+    {
+      "played_at": "2026-09-07T21:20:45.126Z",
+      "name": "Swerve City",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Koi No Yokan",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
+      "uri": "spotify:track:2OUR8g12h5qsGDs1v5lqvp",
+      "duration_ms": 164986
+    },
+    {
+      "played_at": "2026-09-07T21:28:52.855Z",
+      "name": "Knife Prty",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "White Pony",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
+      "uri": "spotify:track:42Kv1RoTAm09FeytxiuZIB",
+      "duration_ms": 289200
+    },
+    {
+      "played_at": "2026-09-07T21:32:35.128Z",
+      "name": "Xerces",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:5hxcxipGOjgTzrPOkfsyyS",
+      "duration_ms": 221800
+    },
+    {
+      "played_at": "2026-09-07T21:42:36.041Z",
+      "name": "Beware",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:2ASygm7048ssav4ekbehPS",
+      "duration_ms": 360666
+    },
+    {
+      "played_at": "2026-09-07T21:46:54.310Z",
+      "name": "Minerva",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Deftones",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735775b5b98f82e62623965303",
+      "uri": "spotify:track:1gzWd0ILFaCoHUfQSkCIvl",
+      "duration_ms": 257813
+    },
+    {
+      "played_at": "2026-09-07T21:51:00.728Z",
+      "name": "Bored",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Adrenaline",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0aa988082afc4ea586ab8dc",
+      "uri": "spotify:track:0PicuPCfXDJyyRtOR1ukGW",
+      "duration_ms": 245973
+    },
+    {
+      "played_at": "2026-09-07T21:55:33.739Z",
+      "name": "976-EVIL",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:3hb4W4FUPjyWUbYY2Sfih5",
+      "duration_ms": 272560
+    },
+    {
+      "played_at": "2026-09-08T02:34:16.168Z",
+      "name": "Needles and Pins",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Deftones",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735775b5b98f82e62623965303",
+      "uri": "spotify:track:1oTKnx7AgEhA5wUs3Z8rrr",
+      "duration_ms": 203066
+    },
+    {
+      "played_at": "2026-09-08T02:34:24.269Z",
+      "name": "Needles and Pins",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Deftones",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735775b5b98f82e62623965303",
+      "uri": "spotify:track:1oTKnx7AgEhA5wUs3Z8rrr",
+      "duration_ms": 203066
+    },
+    {
+      "played_at": "2026-09-08T02:34:31.759Z",
+      "name": "i think about you all the time",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "private music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+      "uri": "spotify:track:0M5NH22uVXHSXjSi5SXTXM",
+      "duration_ms": 248957
+    },
+    {
+      "played_at": "2026-09-08T02:35:20.924Z",
+      "name": "El verdadero amor perdona - dueto con Prince Royce",
+      "artists": [
+        "Maná",
+        "Prince Royce"
+      ],
+      "album": "Drama Y Luz Edición Deluxe",
+      "image": "https://i.scdn.co/image/ab67616d0000b273378f9769891c17741446a110",
+      "uri": "spotify:track:3Z3ZUu41QYobvrKr494Vjs",
+      "duration_ms": 238143
+    },
+    {
+      "played_at": "2026-09-08T02:35:23.353Z",
+      "name": "Carita Linda",
+      "artists": [
+        "Rauw Alejandro"
+      ],
+      "album": "Cosa Nuestra: Capítulo 0",
+      "image": "https://i.scdn.co/image/ab67616d0000b273586cde445b4e951ae727c536",
+      "uri": "spotify:track:4Xpt2bVLKFvlL5agz7cBTj",
+      "duration_ms": 203463
+    },
+    {
+      "played_at": "2026-09-08T02:35:29.812Z",
+      "name": "GuabanSexxx",
+      "artists": [
+        "Rauw Alejandro"
+      ],
+      "album": "Cosa Nuestra: Capítulo 0",
+      "image": "https://i.scdn.co/image/ab67616d0000b273586cde445b4e951ae727c536",
+      "uri": "spotify:track:6W2yL4Zfe2WoaSLj7xPJiM",
+      "duration_ms": 161055
+    },
+    {
+      "played_at": "2026-09-08T02:35:34.935Z",
+      "name": "Chachachá",
+      "artists": [
+        "Jósean Log"
+      ],
+      "album": "Háblate de Mí",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a8659bf75fee7dc8c01afc67",
+      "uri": "spotify:track:6aommJFM8i3iT4inKuDSXh",
+      "duration_ms": 215986
+    },
+    {
+      "played_at": "2026-09-08T02:35:36.176Z",
+      "name": "Chachachá",
+      "artists": [
+        "Jósean Log"
+      ],
+      "album": "Háblate de Mí",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a8659bf75fee7dc8c01afc67",
+      "uri": "spotify:track:6aommJFM8i3iT4inKuDSXh",
+      "duration_ms": 215986
+    },
+    {
+      "played_at": "2026-09-08T02:35:37.149Z",
+      "name": "Cariño",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Superclean, Vol. II",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a64b06c0eb30ce15c3e6edc1",
+      "uri": "spotify:track:16gJmoOqRt2lKmlXtDpWgH",
+      "duration_ms": 258713
+    },
+    {
+      "played_at": "2026-09-08T02:35:41.621Z",
+      "name": "Cariño",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Superclean, Vol. II",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a64b06c0eb30ce15c3e6edc1",
+      "uri": "spotify:track:16gJmoOqRt2lKmlXtDpWgH",
+      "duration_ms": 258713
+    },
+    {
+      "played_at": "2026-09-08T02:35:45.341Z",
+      "name": "orióN",
+      "artists": [
+        "Boza",
+        "ELENA ROSE"
+      ],
+      "album": "orióN",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731a70b48975a09636c84ce17f",
+      "uri": "spotify:track:5pVJ3IlnpIorU44oXizzG5",
+      "duration_ms": 240964
+    },
+    {
+      "played_at": "2026-09-08T02:35:46.101Z",
+      "name": "SILENCIO",
+      "artists": [
+        "Rauw Alejandro"
+      ],
+      "album": "Cosa Nuestra: Capítulo 0",
+      "image": "https://i.scdn.co/image/ab67616d0000b273586cde445b4e951ae727c536",
+      "uri": "spotify:track:4q8bfTmtDfgLGmDc5IuoIQ",
+      "duration_ms": 234461
+    },
+    {
+      "played_at": "2026-09-08T02:36:03.899Z",
+      "name": "SILENCIO",
+      "artists": [
+        "Rauw Alejandro"
+      ],
+      "album": "Cosa Nuestra: Capítulo 0",
+      "image": "https://i.scdn.co/image/ab67616d0000b273586cde445b4e951ae727c536",
+      "uri": "spotify:track:4q8bfTmtDfgLGmDc5IuoIQ",
+      "duration_ms": 234461
+    },
+    {
+      "played_at": "2026-09-08T02:37:33.820Z",
+      "name": "Brisa",
+      "artists": [
+        "Zion & Lennox",
+        "Danny Ocean"
+      ],
+      "album": "Brisa",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c37b0af66bd9ac336615213",
+      "uri": "spotify:track:5xhFO6kaUjGcSezSp5hIhG",
+      "duration_ms": 259333
+    },
+    {
+      "played_at": "2026-09-08T02:37:59.975Z",
+      "name": "Eres Arte <3",
+      "artists": [
+        "Eslabon Armado"
+      ],
+      "album": "Vibras De Noche II",
+      "image": "https://i.scdn.co/image/ab67616d0000b27399537e63f5e7d819319badcf",
+      "uri": "spotify:track:5yJBiHH4O9q3gFVFl4abUZ",
+      "duration_ms": 210122
+    },
+    {
+      "played_at": "2026-09-08T02:38:03.116Z",
+      "name": "Jugaste y Sufrí",
+      "artists": [
+        "Eslabon Armado",
+        "DannyLux"
+      ],
+      "album": "Corta Venas",
+      "image": "https://i.scdn.co/image/ab67616d0000b273657fa1079d4f17b7e06dd86e",
+      "uri": "spotify:track:3NqBxTOMCJ3zW9CIP51td4",
+      "duration_ms": 275194
+    },
+    {
+      "played_at": "2026-09-08T02:38:04.053Z",
+      "name": "AMIGOS CON DERECHOS",
+      "artists": [
+        "Eslabon Armado",
+        "Peso Pluma"
+      ],
+      "album": "NOCTURNO",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f25017178f7d8bbab48acc0d",
+      "uri": "spotify:track:3NYyi0nCnxhuChr6V5yaJn",
+      "duration_ms": 168890
+    },
+    {
+      "played_at": "2026-09-08T02:39:41.339Z",
+      "name": "AMIGOS CON DERECHOS",
+      "artists": [
+        "Eslabon Armado",
+        "Peso Pluma"
+      ],
+      "album": "NOCTURNO",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f25017178f7d8bbab48acc0d",
+      "uri": "spotify:track:3NYyi0nCnxhuChr6V5yaJn",
+      "duration_ms": 168890
     }
   ]
 }
