@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T23:14:14.824Z",
+  "generated_at": "2026-09-09T03:38:25.780Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1089,6 +1089,18 @@
         },
         {
           "rank": 16,
+          "name": "Art of War",
+          "artists": [
+            "Avenoir"
+          ],
+          "album": "Mirage",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a82c46b1b778f670609b88e2",
+          "uri": "spotify:track:1W5Du9CclU9myih1pu1eA5",
+          "url": "https://open.spotify.com/track/1W5Du9CclU9myih1pu1eA5",
+          "duration_ms": 126973
+        },
+        {
+          "rank": 17,
           "name": "Hold On Till May",
           "artists": [
             "Pierce The Veil",
@@ -1099,18 +1111,6 @@
           "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
           "url": "https://open.spotify.com/track/5u2FOoFhp495GIj5BJC77J",
           "duration_ms": 278586
-        },
-        {
-          "rank": 17,
-          "name": "Art of War",
-          "artists": [
-            "Avenoir"
-          ],
-          "album": "Mirage",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a82c46b1b778f670609b88e2",
-          "uri": "spotify:track:1W5Du9CclU9myih1pu1eA5",
-          "url": "https://open.spotify.com/track/1W5Du9CclU9myih1pu1eA5",
-          "duration_ms": 126973
         },
         {
           "rank": 18,
@@ -1428,18 +1428,6 @@
         },
         {
           "rank": 44,
-          "name": "M.",
-          "artists": [
-            "Anıl Emre Daldal"
-          ],
-          "album": "M.",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d7ddae05b16e763bc82b69a5",
-          "uri": "spotify:track:6wfb4nI2Vih263JqC8WSoW",
-          "url": "https://open.spotify.com/track/6wfb4nI2Vih263JqC8WSoW",
-          "duration_ms": 223750
-        },
-        {
-          "rank": 45,
           "name": "Favour",
           "artists": [
             "Avenoir"
@@ -1449,6 +1437,18 @@
           "uri": "spotify:track:7sYQ4bgCZAbnV3TdUbscFz",
           "url": "https://open.spotify.com/track/7sYQ4bgCZAbnV3TdUbscFz",
           "duration_ms": 156000
+        },
+        {
+          "rank": 45,
+          "name": "M.",
+          "artists": [
+            "Anıl Emre Daldal"
+          ],
+          "album": "M.",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d7ddae05b16e763bc82b69a5",
+          "uri": "spotify:track:6wfb4nI2Vih263JqC8WSoW",
+          "url": "https://open.spotify.com/track/6wfb4nI2Vih263JqC8WSoW",
+          "duration_ms": 223750
         },
         {
           "rank": 46,
@@ -1597,6 +1597,14 @@
         },
         {
           "rank": 11,
+          "name": "KAROL G",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb3869e286c9043f85e8e4bc06",
+          "genres": [],
+          "uri": "spotify:artist:790FomKkXshlbRYZFtlgla",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "rank": 12,
           "name": "Rawayana",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5d52d93053343dc60653bbde",
           "genres": [],
@@ -1604,20 +1612,12 @@
           "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Rauw Alejandro",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6d72db3fd29576caa9cb821f",
           "genres": [],
           "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "rank": 13,
-          "name": "KAROL G",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb3869e286c9043f85e8e4bc06",
-          "genres": [],
-          "uri": "spotify:artist:790FomKkXshlbRYZFtlgla",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
         {
           "rank": 14,
@@ -1709,6 +1709,14 @@
         },
         {
           "rank": 25,
+          "name": "Luis Miguel",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6481401e529e475116702a29",
+          "genres": [],
+          "uri": "spotify:artist:2nszmSgqreHSdJA3zWPyrW",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        },
+        {
+          "rank": 26,
           "name": "The Marías",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
           "genres": [],
@@ -1716,7 +1724,7 @@
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "maye",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc44bdd7c78e751026c67857c",
           "genres": [],
@@ -1724,7 +1732,7 @@
           "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "TUL8TE",
           "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
           "genres": [],
@@ -1732,7 +1740,7 @@
           "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Justin Bieber",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf20f7db5288bce9beede034",
           "genres": [],
@@ -1740,20 +1748,12 @@
           "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Joey V Mendez",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd6dc4f7cffa58ee9d73be6cf",
           "genres": [],
           "uri": "spotify:artist:24yO6ycVuKPoSHHB4Q0m7P",
           "url": "https://open.spotify.com/artist/24yO6ycVuKPoSHHB4Q0m7P"
-        },
-        {
-          "rank": 30,
-          "name": "Luis Miguel",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6481401e529e475116702a29",
-          "genres": [],
-          "uri": "spotify:artist:2nszmSgqreHSdJA3zWPyrW",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         },
         {
           "rank": 31,
@@ -1781,19 +1781,19 @@
         },
         {
           "rank": 34,
-          "name": "Paramore",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
-          "genres": [],
-          "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        },
-        {
-          "rank": 35,
           "name": "Romeo Santos",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
           "genres": [],
           "uri": "spotify:artist:5lwmRuXgjX8xIwlnauTZIP",
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "rank": 35,
+          "name": "Paramore",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
+          "genres": [],
+          "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         },
         {
           "rank": 36,
@@ -2400,6 +2400,18 @@
         },
         {
           "rank": 40,
+          "name": "Mucho Corazón",
+          "artists": [
+            "Luis Miguel"
+          ],
+          "album": "Romance",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bda5c1e56bf06c3c7fc173f7",
+          "uri": "spotify:track:5C1HYHG6b1wk9MpC2UP9C6",
+          "url": "https://open.spotify.com/track/5C1HYHG6b1wk9MpC2UP9C6",
+          "duration_ms": 203733
+        },
+        {
+          "rank": 41,
           "name": "Ay Vamos",
           "artists": [
             "J Balvin"
@@ -2411,7 +2423,7 @@
           "duration_ms": 226413
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Bodies",
           "artists": [
             "keshi"
@@ -2423,7 +2435,7 @@
           "duration_ms": 206237
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Tamally Maak",
           "artists": [
             "Amr Diab"
@@ -2435,7 +2447,7 @@
           "duration_ms": 269232
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Anlatamam",
           "artists": [
             "Toygar Işıklı"
@@ -2447,7 +2459,7 @@
           "duration_ms": 132550
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "BAILE INoLVIDABLE",
           "artists": [
             "Bad Bunny"
@@ -2459,7 +2471,7 @@
           "duration_ms": 367725
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "要不然我們就這樣一萬年",
           "artists": [
             "黃霄雲"
@@ -2471,7 +2483,7 @@
           "duration_ms": 284710
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Azul",
           "artists": [
             "J Balvin"
@@ -2483,7 +2495,7 @@
           "duration_ms": 205933
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "WELTiTA",
           "artists": [
             "Bad Bunny",
@@ -2496,7 +2508,7 @@
           "duration_ms": 187507
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "love.",
           "artists": [
             "wave to earth"
@@ -2508,7 +2520,7 @@
           "duration_ms": 307750
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "EoO",
           "artists": [
             "Bad Bunny"
@@ -2518,18 +2530,6 @@
           "uri": "spotify:track:6J5kc12BW5HuP3d7C3vvx8",
           "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8",
           "duration_ms": 204768
-        },
-        {
-          "rank": 50,
-          "name": "Mucho Corazón",
-          "artists": [
-            "Luis Miguel"
-          ],
-          "album": "Romance",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bda5c1e56bf06c3c7fc173f7",
-          "uri": "spotify:track:5C1HYHG6b1wk9MpC2UP9C6",
-          "url": "https://open.spotify.com/track/5C1HYHG6b1wk9MpC2UP9C6",
-          "duration_ms": 203733
         }
       ],
       "artists": [
@@ -2711,6 +2711,14 @@
         },
         {
           "rank": 23,
+          "name": "Ariana Grande",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb68412f2d0177a9ebc265ff58",
+          "genres": [],
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "rank": 24,
           "name": "ATEEZ",
           "image": "https://i.scdn.co/image/ab6761610000e5eb630859e6682cfa878243bacc",
           "genres": [],
@@ -2718,7 +2726,7 @@
           "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Pantoja",
           "image": "https://i.scdn.co/image/ab6761610000e5eb79c5add7566fcc23528512b1",
           "genres": [],
@@ -2726,20 +2734,12 @@
           "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "TUL8TE",
           "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
           "genres": [],
           "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
           "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
-        },
-        {
-          "rank": 26,
-          "name": "Ariana Grande",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb68412f2d0177a9ebc265ff58",
-          "genres": [],
-          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         },
         {
           "rank": 27,
