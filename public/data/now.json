@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-09-09T03:38:25.876Z",
+  "updated_at": "2026-09-09T10:54:55.783Z",
   "is_playing": false,
   "track": {
-    "name": "Savior (feat. B.I)",
+    "name": "DtMF",
     "artists": [
-      "LEEHI",
-      "B.I"
+      "Bad Bunny"
     ],
-    "album": "4 ONLY",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69",
-    "uri": "spotify:track:0DYvTdqBqW6erA1a7pFzVo"
+    "album": "DeBÍ TiRAR MáS FOToS",
+    "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya"
   },
-  "played_at": "2026-09-08T20:32:45.472Z"
+  "played_at": "2026-09-09T04:59:14.306Z"
 }
