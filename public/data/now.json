@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-09T16:06:15.845Z",
+  "updated_at": "2026-09-09T20:37:53.403Z",
   "is_playing": false,
   "track": {
-    "name": "DtMF",
+    "name": "仰望星雲",
     "artists": [
-      "Bad Bunny"
+      "张远"
     ],
-    "album": "DeBÍ TiRAR MáS FOToS",
-    "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-    "uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya"
+    "album": "仰望星雲",
+    "image": "https://i.scdn.co/image/ab67616d0000b273263b7c8e8e1e1cee46b65999",
+    "uri": "spotify:track:7bbB9Xkxoop9awSPjvoyxT"
   },
-  "played_at": "2026-09-09T04:59:14.306Z"
+  "played_at": "2026-09-09T19:52:07.703Z"
 }

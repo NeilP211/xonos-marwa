@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T16:06:15.692Z",
+  "generated_at": "2026-09-09T20:37:53.098Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -77,6 +77,25 @@
         },
         {
           "rank": 7,
+          "name": "PANTI Y COLALE 2.0",
+          "artists": [
+            "El Alfa",
+            "De La Ghetto",
+            "Zion",
+            "DJ Chulo NYC",
+            "El Cherry Scom",
+            "La Greña",
+            "Ronny GTA",
+            "Ezzy R"
+          ],
+          "album": "ADIOS",
+          "image": "https://i.scdn.co/image/ab67616d0000b27357534d4a0e296b1ecfeaf48c",
+          "uri": "spotify:track:2ZSBqVV3T89BohjsYHmWtJ",
+          "url": "https://open.spotify.com/track/2ZSBqVV3T89BohjsYHmWtJ",
+          "duration_ms": 279685
+        },
+        {
+          "rank": 8,
           "name": "The Way It Breaks",
           "artists": [
             "Loathe",
@@ -89,7 +108,7 @@
           "duration_ms": 306786
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Deseándote",
           "artists": [
             "Frankie Ruiz"
@@ -101,7 +120,7 @@
           "duration_ms": 281333
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Bulls In The Bronx",
           "artists": [
             "Pierce The Veil"
@@ -113,7 +132,7 @@
           "duration_ms": 267866
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Harleys In Hawaii",
           "artists": [
             "Katy Perry"
@@ -125,7 +144,7 @@
           "duration_ms": 185480
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Descifrar",
           "artists": [
             "maye"
@@ -137,7 +156,7 @@
           "duration_ms": 178700
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Secreto De Amor",
           "artists": [
             "Joan Sebastian"
@@ -149,7 +168,7 @@
           "duration_ms": 273008
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Is It Really You?",
           "artists": [
             "Loathe"
@@ -161,7 +180,7 @@
           "duration_ms": 287627
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Emergency Contact",
           "artists": [
             "Pierce The Veil"
@@ -173,7 +192,7 @@
           "duration_ms": 240000
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Si Antes Te Hubiera Conocido",
           "artists": [
             "KAROL G"
@@ -185,7 +204,7 @@
           "duration_ms": 195824
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Lightspeed",
           "artists": [
             "Avenoir"
@@ -197,7 +216,7 @@
           "duration_ms": 185720
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "大魚 - 唱片版",
           "artists": [
             "Zhou Shen"
@@ -209,7 +228,7 @@
           "duration_ms": 317597
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "O Que É o Amor",
           "artists": [
             "Arlindo Cruz",
@@ -222,7 +241,7 @@
           "duration_ms": 212453
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Alone",
           "artists": [
             "Avenoir"
@@ -234,7 +253,7 @@
           "duration_ms": 145120
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Paradise",
           "artists": [
             "Avenoir"
@@ -246,7 +265,7 @@
           "duration_ms": 113106
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Resilience",
           "artists": [
             "Pierce The Veil"
@@ -258,7 +277,7 @@
           "duration_ms": 220360
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Mi Casita",
           "artists": [
             "Motherflowers"
@@ -270,7 +289,7 @@
           "duration_ms": 249579
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Mis Días A Tu Suerte",
           "artists": [
             "Rels B"
@@ -282,7 +301,7 @@
           "duration_ms": 143750
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Shared Trauma",
           "artists": [
             "Pierce The Veil"
@@ -294,7 +313,7 @@
           "duration_ms": 253000
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "EL CLúB",
           "artists": [
             "Bad Bunny"
@@ -306,7 +325,7 @@
           "duration_ms": 222568
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Tiempo de Nada",
           "artists": [
             "Morad"
@@ -318,7 +337,7 @@
           "duration_ms": 230204
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Veneno",
           "artists": [
             "Danny Ocean"
@@ -330,7 +349,7 @@
           "duration_ms": 222511
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Lose Control",
           "artists": [
             "J Balvin",
@@ -343,7 +362,7 @@
           "duration_ms": 293666
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "King For A Day",
           "artists": [
             "Pierce The Veil",
@@ -356,7 +375,7 @@
           "duration_ms": 236293
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Anniversary of an Uninteresting Event",
           "artists": [
             "Deftones"
@@ -368,7 +387,7 @@
           "duration_ms": 237333
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "LATINA FOREVA",
           "artists": [
             "KAROL G"
@@ -380,7 +399,7 @@
           "duration_ms": 159522
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "12 Fractures",
           "artists": [
             "Pierce The Veil",
@@ -393,7 +412,7 @@
           "duration_ms": 181600
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Props & Mayhem",
           "artists": [
             "Pierce The Veil"
@@ -405,7 +424,7 @@
           "duration_ms": 217853
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Nothing Like The Knife",
           "artists": [
             "Loathe"
@@ -417,7 +436,7 @@
           "duration_ms": 42226
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Ceremony",
           "artists": [
             "Deftones"
@@ -429,7 +448,7 @@
           "duration_ms": 207752
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "La Paso Cabrón (feat. Gigolo y La Exce, Falsetto y Sammy, Mike Duran & Baby Angel)",
           "artists": [
             "Trap Capos",
@@ -446,7 +465,7 @@
           "duration_ms": 303640
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "消散对白",
           "artists": [
             "丁禹兮"
@@ -458,7 +477,7 @@
           "duration_ms": 211886
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Mi Mente",
           "artists": [
             "Morad",
@@ -471,7 +490,7 @@
           "duration_ms": 223080
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "ASI ES LA VIDA",
           "artists": [
             "Enrique Iglesias",
@@ -484,7 +503,7 @@
           "duration_ms": 172095
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "仰望星空",
           "artists": [
             "Jason Zhang"
@@ -496,7 +515,7 @@
           "duration_ms": 264840
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Hell Above",
           "artists": [
             "Pierce The Veil"
@@ -508,7 +527,7 @@
           "duration_ms": 223546
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Flawless Execution",
           "artists": [
             "Pierce The Veil"
@@ -520,7 +539,7 @@
           "duration_ms": 240053
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "So Far So Fake",
           "artists": [
             "Pierce The Veil"
@@ -532,7 +551,7 @@
           "duration_ms": 236160
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Death Of An Executioner",
           "artists": [
             "Pierce The Veil"
@@ -544,7 +563,7 @@
           "duration_ms": 267800
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "DÁKITI",
           "artists": [
             "Bad Bunny",
@@ -557,7 +576,7 @@
           "duration_ms": 205090
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "QUE HACES",
           "artists": [
             "Becky G",
@@ -570,7 +589,7 @@
           "duration_ms": 171813
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Amar De Nuevo",
           "artists": [
             "Rauw Alejandro"
@@ -582,7 +601,7 @@
           "duration_ms": 268042
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "The Jaws Of Life",
           "artists": [
             "Pierce The Veil"
@@ -594,7 +613,7 @@
           "duration_ms": 222666
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "忽而今夏",
           "artists": [
             "Silence Wang"
@@ -604,18 +623,6 @@
           "uri": "spotify:track:5AdDYewuSNO7JeoSUtwk8u",
           "url": "https://open.spotify.com/track/5AdDYewuSNO7JeoSUtwk8u",
           "duration_ms": 260720
-        },
-        {
-          "rank": 50,
-          "name": "NUEVAYoL",
-          "artists": [
-            "Bad Bunny"
-          ],
-          "album": "DeBÍ TiRAR MáS FOToS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-          "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
-          "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5",
-          "duration_ms": 183685
         }
       ],
       "artists": [
