@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-09T20:37:53.403Z",
+  "updated_at": "2026-09-09T23:00:34.790Z",
   "is_playing": false,
   "track": {
-    "name": "仰望星雲",
+    "name": "Radiant City",
     "artists": [
-      "张远"
+      "Deftones"
     ],
-    "album": "仰望星雲",
-    "image": "https://i.scdn.co/image/ab67616d0000b273263b7c8e8e1e1cee46b65999",
-    "uri": "spotify:track:7bbB9Xkxoop9awSPjvoyxT"
+    "album": "Ohms",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e142a930bfba61f6a3592b29",
+    "uri": "spotify:track:33Mdiqg5G8TNeaKQHntgyU"
   },
-  "played_at": "2026-09-09T19:52:07.703Z"
+  "played_at": "2026-09-09T21:33:32.019Z"
 }

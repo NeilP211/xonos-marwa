@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T20:37:53.287Z",
+  "updated_at": "2026-09-09T23:00:34.747Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -18807,6 +18807,83 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273263b7c8e8e1e1cee46b65999",
       "uri": "spotify:track:7bbB9Xkxoop9awSPjvoyxT",
       "duration_ms": 215362
+    },
+    {
+      "played_at": "2026-09-09T20:57:36.042Z",
+      "name": "Ceremony",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Ohms",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e142a930bfba61f6a3592b29",
+      "uri": "spotify:track:2X5SHv5ubRTNIgMxxCPYdo",
+      "duration_ms": 207752
+    },
+    {
+      "played_at": "2026-09-09T20:57:50.935Z",
+      "name": "Ceremony",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Ohms",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e142a930bfba61f6a3592b29",
+      "uri": "spotify:track:2X5SHv5ubRTNIgMxxCPYdo",
+      "duration_ms": 207752
+    },
+    {
+      "played_at": "2026-09-09T21:00:56.861Z",
+      "name": "Ceremony",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Ohms",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e142a930bfba61f6a3592b29",
+      "uri": "spotify:track:2X5SHv5ubRTNIgMxxCPYdo",
+      "duration_ms": 207752
+    },
+    {
+      "played_at": "2026-09-09T21:21:20.036Z",
+      "name": "Ceremony",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Ohms",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e142a930bfba61f6a3592b29",
+      "uri": "spotify:track:2X5SHv5ubRTNIgMxxCPYdo",
+      "duration_ms": 207752
+    },
+    {
+      "played_at": "2026-09-09T21:31:37.491Z",
+      "name": "Ceremony",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Ohms",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e142a930bfba61f6a3592b29",
+      "uri": "spotify:track:2X5SHv5ubRTNIgMxxCPYdo",
+      "duration_ms": 207752
+    },
+    {
+      "played_at": "2026-09-09T21:31:48.188Z",
+      "name": "Radiant City",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Ohms",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e142a930bfba61f6a3592b29",
+      "uri": "spotify:track:33Mdiqg5G8TNeaKQHntgyU",
+      "duration_ms": 215450
+    },
+    {
+      "played_at": "2026-09-09T21:33:32.019Z",
+      "name": "Radiant City",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Ohms",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e142a930bfba61f6a3592b29",
+      "uri": "spotify:track:33Mdiqg5G8TNeaKQHntgyU",
+      "duration_ms": 215450
     }
   ]
 }
