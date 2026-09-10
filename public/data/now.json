@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-09T23:00:34.790Z",
-  "is_playing": false,
+  "updated_at": "2026-09-10T03:36:00.956Z",
+  "is_playing": true,
   "track": {
-    "name": "Radiant City",
+    "name": "Mi Atención",
     "artists": [
-      "Deftones"
+      "Martox"
     ],
-    "album": "Ohms",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e142a930bfba61f6a3592b29",
-    "uri": "spotify:track:33Mdiqg5G8TNeaKQHntgyU"
+    "album": "Caracol",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f4d8a9f412f95ce5757f7cf5",
+    "uri": "spotify:track:0KXKWw0nTmIvCKkFcYVhes"
   },
-  "played_at": "2026-09-09T21:33:32.019Z"
+  "played_at": "2026-09-10T03:36:00.956Z"
 }

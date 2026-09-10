@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T23:00:34.747Z",
+  "updated_at": "2026-09-10T03:36:00.663Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -18884,6 +18884,211 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e142a930bfba61f6a3592b29",
       "uri": "spotify:track:33Mdiqg5G8TNeaKQHntgyU",
       "duration_ms": 215450
+    },
+    {
+      "played_at": "2026-09-10T00:49:04.771Z",
+      "name": "Anniversary of an Uninteresting Event",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Deftones",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735775b5b98f82e62623965303",
+      "uri": "spotify:track:27gb40S6AIpP5lrhLxlfXj",
+      "duration_ms": 237333
+    },
+    {
+      "played_at": "2026-09-10T00:58:46.451Z",
+      "name": "Anniversary of an Uninteresting Event",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Deftones",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735775b5b98f82e62623965303",
+      "uri": "spotify:track:27gb40S6AIpP5lrhLxlfXj",
+      "duration_ms": 237333
+    },
+    {
+      "played_at": "2026-09-10T01:03:24.436Z",
+      "name": "This Link Is Dead",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Ohms",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e142a930bfba61f6a3592b29",
+      "uri": "spotify:track:0DtUyeqJIvuOY58kqg0ZCd",
+      "duration_ms": 277251
+    },
+    {
+      "played_at": "2026-09-10T01:54:54.529Z",
+      "name": "Pompeji",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Ohms",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e142a930bfba61f6a3592b29",
+      "uri": "spotify:track:0qVlikZi9VNhMnPf47zGMv",
+      "duration_ms": 325539
+    },
+    {
+      "played_at": "2026-09-10T02:21:40.768Z",
+      "name": "The Way It Breaks",
+      "artists": [
+        "Loathe",
+        "Mansur Brown"
+      ],
+      "album": "A Stranger To You",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+      "uri": "spotify:track:5fMekKJEsEhR7NyhluDeX3",
+      "duration_ms": 306786
+    },
+    {
+      "played_at": "2026-09-10T02:27:10.392Z",
+      "name": "Creo En Ti",
+      "artists": [
+        "maye"
+      ],
+      "album": "Creo En Ti",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739fb7d7747c51df4258a368ec",
+      "uri": "spotify:track:69vFMxC1GJZpwo5kgGuofZ",
+      "duration_ms": 202425
+    },
+    {
+      "played_at": "2026-09-10T02:30:09.955Z",
+      "name": "Kaleidoscope",
+      "artists": [
+        "maye"
+      ],
+      "album": "Kaleidoscope",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c556c93a612fedd5cd7ac849",
+      "uri": "spotify:track:0kJqmEL3UbprAkBSFBdZY4",
+      "duration_ms": 179191
+    },
+    {
+      "played_at": "2026-09-10T02:33:12.047Z",
+      "name": "12 Fractures",
+      "artists": [
+        "Pierce The Veil",
+        "chloe moriondo"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+      "duration_ms": 181600
+    },
+    {
+      "played_at": "2026-09-10T02:40:23.238Z",
+      "name": "I Will Be Your Friend",
+      "artists": [
+        "Sade"
+      ],
+      "album": "Diamond Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ad27e16c5f844ea1ad6797cd",
+      "uri": "spotify:track:29pqGFsm1NPsVHfSrjaDUJ",
+      "duration_ms": 283426
+    },
+    {
+      "played_at": "2026-09-10T02:44:03.608Z",
+      "name": "Be That Easy",
+      "artists": [
+        "Sade"
+      ],
+      "album": "Soldier of Love",
+      "image": "https://i.scdn.co/image/ab67616d0000b27398da02db8bb9253c3367e41a",
+      "uri": "spotify:track:5KADKKJqxxF2d0a9Ir2lK3",
+      "duration_ms": 219200
+    },
+    {
+      "played_at": "2026-09-10T02:48:21.326Z",
+      "name": "Kissing in Cars (Bonus Track)",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Selfish Machines (Reissue)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733c8674afa47336f571b13ebd",
+      "uri": "spotify:track:21n769QrJtrmN0pXuBkYOm",
+      "duration_ms": 257211
+    },
+    {
+      "played_at": "2026-09-10T03:07:00.794Z",
+      "name": "Kissing in Cars (Bonus Track)",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Selfish Machines (Reissue)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733c8674afa47336f571b13ebd",
+      "uri": "spotify:track:21n769QrJtrmN0pXuBkYOm",
+      "duration_ms": 257211
+    },
+    {
+      "played_at": "2026-09-10T03:16:42.050Z",
+      "name": "An Ending In Itself",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "An Ending In Itself",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ffc097eec437725b51f276f3",
+      "uri": "spotify:track:6ySCFmhmWd4QiyK8f1nm32",
+      "duration_ms": 216884
+    },
+    {
+      "played_at": "2026-09-10T03:20:55.404Z",
+      "name": "Shared Trauma",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
+      "duration_ms": 253000
+    },
+    {
+      "played_at": "2026-09-10T03:24:57.545Z",
+      "name": "COQUETA",
+      "artists": [
+        "Fuerza Regida",
+        "Grupo Frontera"
+      ],
+      "album": "MALA MÍA",
+      "image": "https://i.scdn.co/image/ab67616d0000b27304874856f3c501181d060128",
+      "uri": "spotify:track:1PREzVLuDT6PSE9sej4wnV",
+      "duration_ms": 241648
+    },
+    {
+      "played_at": "2026-09-10T03:27:48.254Z",
+      "name": "Paraíso",
+      "artists": [
+        "La Cassandra",
+        "Martox"
+      ],
+      "album": "Paraíso",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d02059a93205bfe23e659358",
+      "uri": "spotify:track:0MISnYHBOzwTF3w8jJ3ar2",
+      "duration_ms": 170226
+    },
+    {
+      "played_at": "2026-09-10T03:32:04.868Z",
+      "name": "Flaca",
+      "artists": [
+        "Cultura Profética",
+        "Kapo"
+      ],
+      "album": "En bucle",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bdb7b2e807fd7b98ecc03b07",
+      "uri": "spotify:track:1rANpxB9ZtlcGTvandJAzI",
+      "duration_ms": 255875
+    },
+    {
+      "played_at": "2026-09-10T03:35:24.024Z",
+      "name": "Toronto",
+      "artists": [
+        "Nandé",
+        "Rawayana",
+        "Guaco"
+      ],
+      "album": "Toronto",
+      "image": "https://i.scdn.co/image/ab67616d0000b273271ed2eb8eaf2951660d5bbb",
+      "uri": "spotify:track:0nvg8vlz0qO47rkgOdVMwc",
+      "duration_ms": 198888
     }
   ]
 }
