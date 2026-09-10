@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T03:36:00.663Z",
+  "updated_at": "2026-09-10T10:51:07.933Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -19089,6 +19089,296 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273271ed2eb8eaf2951660d5bbb",
       "uri": "spotify:track:0nvg8vlz0qO47rkgOdVMwc",
       "duration_ms": 198888
+    },
+    {
+      "played_at": "2026-09-10T04:51:06.978Z",
+      "name": "Mi Atención",
+      "artists": [
+        "Martox"
+      ],
+      "album": "Caracol",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f4d8a9f412f95ce5757f7cf5",
+      "uri": "spotify:track:0KXKWw0nTmIvCKkFcYVhes",
+      "duration_ms": 212179
+    },
+    {
+      "played_at": "2026-09-10T04:55:38.108Z",
+      "name": "Pass The Nirvana",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:7I93h9I0RUqt1ci3Bfa290",
+      "duration_ms": 197373
+    },
+    {
+      "played_at": "2026-09-10T04:58:26.987Z",
+      "name": "Pass The Nirvana",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:7I93h9I0RUqt1ci3Bfa290",
+      "duration_ms": 197373
+    },
+    {
+      "played_at": "2026-09-10T04:58:47.288Z",
+      "name": "Luna",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "Pandora",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
+      "uri": "spotify:track:5ZKWXHh40U2QX1NHiWTnTk",
+      "duration_ms": 235894
+    },
+    {
+      "played_at": "2026-09-10T04:58:51.573Z",
+      "name": "Risk",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:0lqHgjNrXmtFroWDqwV1iQ",
+      "duration_ms": 218800
+    },
+    {
+      "played_at": "2026-09-10T04:58:57.030Z",
+      "name": "Under The Same Name",
+      "artists": [
+        "Whirr"
+      ],
+      "album": "Feels Like You",
+      "image": "https://i.scdn.co/image/ab67616d0000b27369d0325053f2c6413da72365",
+      "uri": "spotify:track:1lw2DlwxjAEWLMD7E1hnxD",
+      "duration_ms": 279451
+    },
+    {
+      "played_at": "2026-09-10T04:59:39.910Z",
+      "name": "Be Your Best",
+      "artists": [
+        "Fleshwater"
+      ],
+      "album": "2000: In Search Of The Endless Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273788396022297ee4ed07b36d3",
+      "uri": "spotify:track:2IAr6L3V7ImlYo6jIkWrSg",
+      "duration_ms": 296720
+    },
+    {
+      "played_at": "2026-09-10T05:07:16.710Z",
+      "name": "S.E.X. Narcissist",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350d4bb50c617f43a4e1cf640",
+      "uri": "spotify:track:6wC9CR5Dwbn9G6yo6PK1RP",
+      "duration_ms": 221091
+    },
+    {
+      "played_at": "2026-09-10T05:07:20.009Z",
+      "name": "Intro",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350d4bb50c617f43a4e1cf640",
+      "uri": "spotify:track:2oWvt0oERpusVJDG6kQoUo",
+      "duration_ms": 87784
+    },
+    {
+      "played_at": "2026-09-10T05:07:38.004Z",
+      "name": "Saccharine",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350d4bb50c617f43a4e1cf640",
+      "uri": "spotify:track:3J65NAYTuI4Bijum16hRTz",
+      "duration_ms": 192341
+    },
+    {
+      "played_at": "2026-09-10T05:15:18.388Z",
+      "name": "Chasing Ghosts",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost (Deluxe Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a9061d879762ad0a9fe15be9",
+      "uri": "spotify:track:1GLIHegm7oNoeTBGGTziDW",
+      "duration_ms": 246658
+    },
+    {
+      "played_at": "2026-09-10T05:18:04.596Z",
+      "name": "False Reaction",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost (Deluxe Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a9061d879762ad0a9fe15be9",
+      "uri": "spotify:track:4rdpn23tw2Sk3UGZTkZQHx",
+      "duration_ms": 166132
+    },
+    {
+      "played_at": "2026-09-10T05:25:18.677Z",
+      "name": "Saccharine - Spanish Version",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost (Deluxe Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a9061d879762ad0a9fe15be9",
+      "uri": "spotify:track:6I7EBwWVLDTk1Wvxn8FCtr",
+      "duration_ms": 192178
+    },
+    {
+      "played_at": "2026-09-10T05:29:49.559Z",
+      "name": "Chasing Ghosts - Acoustic",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost (Deluxe Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a9061d879762ad0a9fe15be9",
+      "uri": "spotify:track:4rblrhCmnaLdQQ12aDlXkZ",
+      "duration_ms": 240212
+    },
+    {
+      "played_at": "2026-09-10T05:29:50.579Z",
+      "name": "Intro",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350d4bb50c617f43a4e1cf640",
+      "uri": "spotify:track:2oWvt0oERpusVJDG6kQoUo",
+      "duration_ms": 87784
+    },
+    {
+      "played_at": "2026-09-10T05:29:51.362Z",
+      "name": "Intro",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350d4bb50c617f43a4e1cf640",
+      "uri": "spotify:track:2oWvt0oERpusVJDG6kQoUo",
+      "duration_ms": 87784
+    },
+    {
+      "played_at": "2026-09-10T05:36:48.828Z",
+      "name": "Burn Me With A Bible",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350d4bb50c617f43a4e1cf640",
+      "uri": "spotify:track:3Pur5ZFRlDmKhg67Y7i6Op",
+      "duration_ms": 245393
+    },
+    {
+      "played_at": "2026-09-10T05:41:03.333Z",
+      "name": "Eat",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350d4bb50c617f43a4e1cf640",
+      "uri": "spotify:track:0k5drOHc60GdBcUe2RMcWF",
+      "duration_ms": 254501
+    },
+    {
+      "played_at": "2026-09-10T05:41:37.767Z",
+      "name": "Indie",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350d4bb50c617f43a4e1cf640",
+      "uri": "spotify:track:0URBL54h1GTCBg6Y7Jj3HG",
+      "duration_ms": 174538
+    },
+    {
+      "played_at": "2026-09-10T05:43:58.283Z",
+      "name": "Indie",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350d4bb50c617f43a4e1cf640",
+      "uri": "spotify:track:0URBL54h1GTCBg6Y7Jj3HG",
+      "duration_ms": 174538
+    },
+    {
+      "played_at": "2026-09-10T05:51:03.399Z",
+      "name": "Lil Crush",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350d4bb50c617f43a4e1cf640",
+      "uri": "spotify:track:6CBZ7e4CQyPucgTfxveg7x",
+      "duration_ms": 181344
+    },
+    {
+      "played_at": "2026-09-10T05:54:46.739Z",
+      "name": "Wave In The Monitor",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350d4bb50c617f43a4e1cf640",
+      "uri": "spotify:track:0iLppbirWyO1ENDKqafawr",
+      "duration_ms": 223124
+    },
+    {
+      "played_at": "2026-09-10T05:55:06.970Z",
+      "name": "MATRIX FUNK",
+      "artists": [
+        "B3LIVINU",
+        "DJ LOGANFK"
+      ],
+      "album": "MATRIX FUNK",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f3518a14f6875469d181df12",
+      "uri": "spotify:track:0UrklNSvma66fmHaUFUQP6",
+      "duration_ms": 90495
+    },
+    {
+      "played_at": "2026-09-10T06:00:00.961Z",
+      "name": "MATRIX FUNK",
+      "artists": [
+        "B3LIVINU",
+        "DJ LOGANFK"
+      ],
+      "album": "MATRIX FUNK",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f3518a14f6875469d181df12",
+      "uri": "spotify:track:0UrklNSvma66fmHaUFUQP6",
+      "duration_ms": 90495
+    },
+    {
+      "played_at": "2026-09-10T06:05:00.902Z",
+      "name": "MATRIX FUNK (SLOWED)",
+      "artists": [
+        "B3LIVINU",
+        "DJ LOGANFK"
+      ],
+      "album": "MATRIX FUNK",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f3518a14f6875469d181df12",
+      "uri": "spotify:track:4faTXza0PZiKTa3GUtOpCH",
+      "duration_ms": 103230
+    },
+    {
+      "played_at": "2026-09-10T07:54:56.124Z",
+      "name": "MATRIX FUNK (SUPER SLOWED)",
+      "artists": [
+        "B3LIVINU",
+        "DJ LOGANFK"
+      ],
+      "album": "MATRIX FUNK VERSIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273295097bdc03a2e11415c66a6",
+      "uri": "spotify:track:6DdIZZokp7y8RbP3SOI8ji",
+      "duration_ms": 127985
     }
   ]
 }
