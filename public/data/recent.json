@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T20:32:39.687Z",
+  "updated_at": "2026-09-10T22:57:43.939Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -19379,6 +19379,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273295097bdc03a2e11415c66a6",
       "uri": "spotify:track:6DdIZZokp7y8RbP3SOI8ji",
       "duration_ms": 127985
+    },
+    {
+      "played_at": "2026-09-10T20:22:48.861Z",
+      "name": "Deseándote",
+      "artists": [
+        "Frankie Ruiz"
+      ],
+      "album": "Frankie Ruiz La Leyenda",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
+      "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
+      "duration_ms": 281333
     }
   ]
 }
