@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T22:57:43.939Z",
+  "updated_at": "2026-09-11T03:34:08.608Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -19390,6 +19390,237 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
       "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
       "duration_ms": 281333
+    },
+    {
+      "played_at": "2026-09-11T00:30:56.333Z",
+      "name": "Youngest Daughter",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Jar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+      "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
+      "duration_ms": 249514
+    },
+    {
+      "played_at": "2026-09-11T00:30:59.300Z",
+      "name": "In On It",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Jar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+      "uri": "spotify:track:0ey0KwCzoUdjvPzbLX8qSa",
+      "duration_ms": 203253
+    },
+    {
+      "played_at": "2026-09-11T00:30:59.376Z",
+      "name": "In On It",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Jar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+      "uri": "spotify:track:0ey0KwCzoUdjvPzbLX8qSa",
+      "duration_ms": 203253
+    },
+    {
+      "played_at": "2026-09-11T00:31:00.242Z",
+      "name": "Youngest Daughter",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Jar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+      "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
+      "duration_ms": 249514
+    },
+    {
+      "played_at": "2026-09-11T00:31:01.236Z",
+      "name": "Youngest Daughter",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Jar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+      "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
+      "duration_ms": 249514
+    },
+    {
+      "played_at": "2026-09-11T00:32:04.486Z",
+      "name": "In On It",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Jar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+      "uri": "spotify:track:0ey0KwCzoUdjvPzbLX8qSa",
+      "duration_ms": 203253
+    },
+    {
+      "played_at": "2026-09-11T00:40:57.124Z",
+      "name": "milk of the madonna",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "private music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+      "uri": "spotify:track:2463q6UN8BIDfeVI379qFz",
+      "duration_ms": 248840
+    },
+    {
+      "played_at": "2026-09-11T01:11:09.903Z",
+      "name": "Hearts / Wires",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Gore",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1de34b79834eddf96f803ff",
+      "uri": "spotify:track:1SeMnyEb5dwCBLU3QUC0K2",
+      "duration_ms": 320546
+    },
+    {
+      "played_at": "2026-09-11T01:18:44.437Z",
+      "name": "Simple Man - 2005 Remaster",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Covers",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358df6181041c38412db1b253",
+      "uri": "spotify:track:0OKl4ySuPS2VCuB0gby2pj",
+      "duration_ms": 380640
+    },
+    {
+      "played_at": "2026-09-11T01:22:16.766Z",
+      "name": "Around the Fur",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Around the Fur",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
+      "uri": "spotify:track:3Fwe3XoPOiyWUPYdBKMTqV",
+      "duration_ms": 211733
+    },
+    {
+      "played_at": "2026-09-11T01:25:08.069Z",
+      "name": "my mind is a mountain",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "private music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+      "uri": "spotify:track:0DMU0QiSypeYxL6BYdxjcy",
+      "duration_ms": 170941
+    },
+    {
+      "played_at": "2026-09-11T01:29:36.005Z",
+      "name": "Poor Aileen",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Ours Is Chrome",
+      "image": "https://i.scdn.co/image/ab67616d0000b27368f853b06423843e34c72422",
+      "uri": "spotify:track:6ysZGg7CqStzPV1ZALpNky",
+      "duration_ms": 267284
+    },
+    {
+      "played_at": "2026-09-11T01:34:24.338Z",
+      "name": "Beauty School",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27305dcb69c7d4b76293c77411e",
+      "uri": "spotify:track:7MMr2rAbKCecToZUbDAQg9",
+      "duration_ms": 287840
+    },
+    {
+      "played_at": "2026-09-11T01:38:55.555Z",
+      "name": "Bitches Brew",
+      "artists": [
+        "✝✝✝ (Crosses)"
+      ],
+      "album": "††† (Crosses)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733eeef35bcdc747ca4506a473",
+      "uri": "spotify:track:4E23uX1BDdUTk9x56nEbla",
+      "duration_ms": 208714
+    },
+    {
+      "played_at": "2026-09-11T01:41:59.353Z",
+      "name": "~metal dream",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "private music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+      "uri": "spotify:track:1HuuFLjgjIfzMFgGuZjv4Z",
+      "duration_ms": 182828
+    },
+    {
+      "played_at": "2026-09-11T01:57:48.433Z",
+      "name": "~metal dream",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "private music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+      "uri": "spotify:track:1HuuFLjgjIfzMFgGuZjv4Z",
+      "duration_ms": 182828
+    },
+    {
+      "played_at": "2026-09-11T02:58:02.609Z",
+      "name": "Caraphernelia",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Selfish Machines",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
+      "uri": "spotify:track:2G8PweZBBwTpyP8vpNQJK2",
+      "duration_ms": 268480
+    },
+    {
+      "played_at": "2026-09-11T03:16:34.052Z",
+      "name": "Fist",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Adrenaline",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0aa988082afc4ea586ab8dc",
+      "uri": "spotify:track:1Oii7zshrI6ihftpguVoj8",
+      "duration_ms": 215280
+    },
+    {
+      "played_at": "2026-09-11T03:20:36.236Z",
+      "name": "Sextape",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
+      "duration_ms": 241533
+    },
+    {
+      "played_at": "2026-09-11T03:27:54.701Z",
+      "name": "Collar of Truth",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Till' Death Was Never Enough",
+      "image": "https://i.scdn.co/image/ab67616d0000b27371dcb0a7eb3e79a78c581565",
+      "uri": "spotify:track:3jevUj1aIMpUN8yUULSja9",
+      "duration_ms": 187411
+    },
+    {
+      "played_at": "2026-09-11T03:32:48.434Z",
+      "name": "Phantom Bride",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Gore",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1de34b79834eddf96f803ff",
+      "uri": "spotify:track:33qrQEXQJg4uk6k8fZgoOa",
+      "duration_ms": 293053
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-10T22:57:44.049Z",
-  "is_playing": false,
+  "updated_at": "2026-09-11T03:34:08.761Z",
+  "is_playing": true,
   "track": {
-    "name": "Deseándote",
+    "name": "Do You Believe",
     "artists": [
-      "Frankie Ruiz"
+      "Deftones"
     ],
-    "album": "Frankie Ruiz La Leyenda",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
-    "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp"
+    "album": "Covers",
+    "image": "https://i.scdn.co/image/ab67616d0000b27358df6181041c38412db1b253",
+    "uri": "spotify:track:4hti9DCHFO5wAjfwaTee36"
   },
-  "played_at": "2026-09-10T20:22:48.861Z"
+  "played_at": "2026-09-11T03:34:08.761Z"
 }
