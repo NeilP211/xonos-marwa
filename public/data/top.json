@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T20:38:07.038Z",
+  "generated_at": "2026-09-11T23:02:42.315Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -884,6 +884,14 @@
         },
         {
           "rank": 33,
+          "name": "Linked Horizon",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb1bd3d7f70a7478c63ab91689",
+          "genres": [],
+          "uri": "spotify:artist:3eNYrVLcWfjJ9JdH9kiPJO",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        },
+        {
+          "rank": 34,
           "name": "Wonder Girls",
           "image": "https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855",
           "genres": [],
@@ -891,7 +899,7 @@
           "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "BAEKHYUN",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7d4e246f8c54be347e06bffe",
           "genres": [],
@@ -899,7 +907,7 @@
           "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Aventura",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4cd0464ef7d8eb8521f72dd8",
           "genres": [],

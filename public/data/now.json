@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-11T20:38:07.307Z",
+  "updated_at": "2026-09-11T23:02:42.587Z",
   "is_playing": false,
   "track": {
-    "name": "parasite",
+    "name": "Phantom Bride",
     "artists": [
-      "cloudyfield"
+      "Deftones"
     ],
-    "album": "parasite",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d24faed4b4ba9a26d090c4fd",
-    "uri": "spotify:track:5x9On0XqGcqRL2yoglqoG2"
+    "album": "Gore",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a1de34b79834eddf96f803ff",
+    "uri": "spotify:track:33qrQEXQJg4uk6k8fZgoOa"
   },
-  "played_at": "2026-09-11T20:31:01.695Z"
+  "played_at": "2026-09-11T21:04:11.269Z"
 }

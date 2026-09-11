@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T20:38:07.267Z",
+  "updated_at": "2026-09-11T23:02:42.450Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -19811,6 +19811,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d24faed4b4ba9a26d090c4fd",
       "uri": "spotify:track:5x9On0XqGcqRL2yoglqoG2",
       "duration_ms": 160750
+    },
+    {
+      "played_at": "2026-09-11T21:04:11.269Z",
+      "name": "Phantom Bride",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Gore",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1de34b79834eddf96f803ff",
+      "uri": "spotify:track:33qrQEXQJg4uk6k8fZgoOa",
+      "duration_ms": 293053
     }
   ]
 }
