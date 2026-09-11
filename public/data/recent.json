@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T03:34:08.608Z",
+  "updated_at": "2026-09-11T10:47:36.154Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -19621,6 +19621,63 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a1de34b79834eddf96f803ff",
       "uri": "spotify:track:33qrQEXQJg4uk6k8fZgoOa",
       "duration_ms": 293053
+    },
+    {
+      "played_at": "2026-09-11T03:40:32.773Z",
+      "name": "Do You Believe",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Covers",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358df6181041c38412db1b253",
+      "uri": "spotify:track:4hti9DCHFO5wAjfwaTee36",
+      "duration_ms": 208493
+    },
+    {
+      "played_at": "2026-09-11T03:47:51.362Z",
+      "name": "Caress",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Covers",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358df6181041c38412db1b253",
+      "uri": "spotify:track:1pVVwMFztJL6oXbZv3ndAO",
+      "duration_ms": 214133
+    },
+    {
+      "played_at": "2026-09-11T03:50:08.212Z",
+      "name": "Beware",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:2ASygm7048ssav4ekbehPS",
+      "duration_ms": 360666
+    },
+    {
+      "played_at": "2026-09-11T03:50:21.475Z",
+      "name": "Hold On Till May",
+      "artists": [
+        "Pierce The Veil",
+        "Lindsey Stamey"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
+      "duration_ms": 278586
+    },
+    {
+      "played_at": "2026-09-11T06:39:32.397Z",
+      "name": "MATRIX FUNK",
+      "artists": [
+        "B3LIVINU",
+        "DJ LOGANFK"
+      ],
+      "album": "MATRIX FUNK",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f3518a14f6875469d181df12",
+      "uri": "spotify:track:0UrklNSvma66fmHaUFUQP6",
+      "duration_ms": 90495
     }
   ]
 }

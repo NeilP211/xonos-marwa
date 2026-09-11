@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-11T03:34:08.761Z",
-  "is_playing": true,
+  "updated_at": "2026-09-11T10:47:36.265Z",
+  "is_playing": false,
   "track": {
-    "name": "Do You Believe",
+    "name": "MATRIX FUNK",
     "artists": [
-      "Deftones"
+      "B3LIVINU",
+      "DJ LOGANFK"
     ],
-    "album": "Covers",
-    "image": "https://i.scdn.co/image/ab67616d0000b27358df6181041c38412db1b253",
-    "uri": "spotify:track:4hti9DCHFO5wAjfwaTee36"
+    "album": "MATRIX FUNK",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f3518a14f6875469d181df12",
+    "uri": "spotify:track:0UrklNSvma66fmHaUFUQP6"
   },
-  "played_at": "2026-09-11T03:34:08.761Z"
+  "played_at": "2026-09-11T06:39:32.397Z"
 }
