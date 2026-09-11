@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-09-11T16:03:06.460Z",
+  "updated_at": "2026-09-11T20:38:07.307Z",
   "is_playing": false,
   "track": {
-    "name": "MATRIX FUNK",
+    "name": "parasite",
     "artists": [
-      "B3LIVINU",
-      "DJ LOGANFK"
+      "cloudyfield"
     ],
-    "album": "MATRIX FUNK",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f3518a14f6875469d181df12",
-    "uri": "spotify:track:0UrklNSvma66fmHaUFUQP6"
+    "album": "parasite",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d24faed4b4ba9a26d090c4fd",
+    "uri": "spotify:track:5x9On0XqGcqRL2yoglqoG2"
   },
-  "played_at": "2026-09-11T06:39:32.397Z"
+  "played_at": "2026-09-11T20:31:01.695Z"
 }

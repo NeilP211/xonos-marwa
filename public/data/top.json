@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T16:03:06.347Z",
+  "generated_at": "2026-09-11T20:38:07.038Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -836,14 +836,6 @@
         },
         {
           "rank": 27,
-          "name": "NewJeans",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb841bdcf28a956f3a384ffcf4",
-          "genres": [],
-          "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        },
-        {
-          "rank": 28,
           "name": "Frankie Ruiz",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc2ecc3ba06ba1a211d11af35",
           "genres": [],
@@ -851,12 +843,20 @@
           "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "Romeo Santos",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
           "genres": [],
           "uri": "spotify:artist:5lwmRuXgjX8xIwlnauTZIP",
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "rank": 29,
+          "name": "NewJeans",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb841bdcf28a956f3a384ffcf4",
+          "genres": [],
+          "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         },
         {
           "rank": 30,

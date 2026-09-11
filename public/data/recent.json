@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T16:03:06.406Z",
+  "updated_at": "2026-09-11T20:38:07.267Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -19678,6 +19678,139 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f3518a14f6875469d181df12",
       "uri": "spotify:track:0UrklNSvma66fmHaUFUQP6",
       "duration_ms": 90495
+    },
+    {
+      "played_at": "2026-09-11T16:57:43.814Z",
+      "name": "Shinzo wo Sasageyo! - TV Size",
+      "artists": [
+        "Linked Horizon"
+      ],
+      "album": "Shinzo wo Sasageyo! (TV Size)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6ba4e11adddb086d73d4474",
+      "uri": "spotify:track:27iksNpaur1CcH0w8703by",
+      "duration_ms": 90000
+    },
+    {
+      "played_at": "2026-09-11T16:59:15.185Z",
+      "name": "Red Swan - TV Edit -",
+      "artists": [
+        "YOSHIKI",
+        "HYDE"
+      ],
+      "album": "Red Swan - TV Edit -",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d9cb448f74614dd0cc3521a9",
+      "uri": "spotify:track:3qpNyeV4wr3YeCVfrosVyN",
+      "duration_ms": 90909
+    },
+    {
+      "played_at": "2026-09-11T17:00:45.763Z",
+      "name": "Shokei to Shikabane no Michi - TV Size",
+      "artists": [
+        "Linked Horizon"
+      ],
+      "album": "Shoukei to Shikabane no Michi (TV Size)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737b54782bab7e542874442e10",
+      "uri": "spotify:track:0q8WLWTRdN7XcNCoZIxCu9",
+      "duration_ms": 90090
+    },
+    {
+      "played_at": "2026-09-11T17:02:17.181Z",
+      "name": "Boku no Sensou - TV Size",
+      "artists": [
+        "Shinsei Kamattechan"
+      ],
+      "album": "Boku no Senso (TV Size)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bff7117d0d2a8ebe94888ec9",
+      "uri": "spotify:track:3tRPfCFAEv6wWyQO0YnGGV",
+      "duration_ms": 90960
+    },
+    {
+      "played_at": "2026-09-11T17:03:47.950Z",
+      "name": "The Rumbling (TV Size)",
+      "artists": [
+        "SiM"
+      ],
+      "album": "The Rumbling (TV Size)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735d2f378be5d973ad504456d7",
+      "uri": "spotify:track:0KCSJzsQVxkloxoT7dyrqV",
+      "duration_ms": 90265
+    },
+    {
+      "played_at": "2026-09-11T17:05:50.117Z",
+      "name": "Under the Tree",
+      "artists": [
+        "SiM"
+      ],
+      "album": "Under the Tree",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739f5ec7f7bba1f7a3179c4aa0",
+      "uri": "spotify:track:7qKXSF8MilgyiL52oq1AA0",
+      "duration_ms": 121692
+    },
+    {
+      "played_at": "2026-09-11T20:06:58.141Z",
+      "name": "Phantom Bride",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Gore",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1de34b79834eddf96f803ff",
+      "uri": "spotify:track:33qrQEXQJg4uk6k8fZgoOa",
+      "duration_ms": 293053
+    },
+    {
+      "played_at": "2026-09-11T20:10:21.874Z",
+      "name": "Bitches Brew",
+      "artists": [
+        "✝✝✝ (Crosses)"
+      ],
+      "album": "††† (Crosses)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733eeef35bcdc747ca4506a473",
+      "uri": "spotify:track:4E23uX1BDdUTk9x56nEbla",
+      "duration_ms": 208714
+    },
+    {
+      "played_at": "2026-09-11T20:13:19.698Z",
+      "name": "~metal dream",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "private music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+      "uri": "spotify:track:1HuuFLjgjIfzMFgGuZjv4Z",
+      "duration_ms": 182828
+    },
+    {
+      "played_at": "2026-09-11T20:20:49.074Z",
+      "name": "Saccharine",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350d4bb50c617f43a4e1cf640",
+      "uri": "spotify:track:3J65NAYTuI4Bijum16hRTz",
+      "duration_ms": 192341
+    },
+    {
+      "played_at": "2026-09-11T20:30:58.448Z",
+      "name": "Saigo no Kyojin",
+      "artists": [
+        "Linked Horizon"
+      ],
+      "album": "Saigo no Kyojin",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b9a6053fb1f302e11cb55cd9",
+      "uri": "spotify:track:1iwxWteWfmWb1LekPweXnY",
+      "duration_ms": 240740
+    },
+    {
+      "played_at": "2026-09-11T20:31:01.695Z",
+      "name": "parasite",
+      "artists": [
+        "cloudyfield"
+      ],
+      "album": "parasite",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d24faed4b4ba9a26d090c4fd",
+      "uri": "spotify:track:5x9On0XqGcqRL2yoglqoG2",
+      "duration_ms": 160750
     }
   ]
 }
