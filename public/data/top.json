@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T10:16:28.845Z",
+  "generated_at": "2026-09-12T15:11:04.204Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1459,6 +1459,18 @@
         },
         {
           "rank": 45,
+          "name": "Can't Leave Alone (feat. Avenoir & Maz B)",
+          "artists": [
+            "Pino"
+          ],
+          "album": "’02 (Deluxe Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739c59884d4cd8a2330a16dc86",
+          "uri": "spotify:track:72kFnU0XvlOPfqC2G4MowJ",
+          "url": "https://open.spotify.com/track/72kFnU0XvlOPfqC2G4MowJ",
+          "duration_ms": 213413
+        },
+        {
+          "rank": 46,
           "name": "Oh Qué Será?",
           "artists": [
             "Willie Colón"
@@ -1470,7 +1482,7 @@
           "duration_ms": 304200
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "A Match Into Water",
           "artists": [
             "Pierce The Veil"
@@ -1482,7 +1494,7 @@
           "duration_ms": 212546
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Favour",
           "artists": [
             "Avenoir"
@@ -1494,7 +1506,7 @@
           "duration_ms": 156000
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "M.",
           "artists": [
             "Anıl Emre Daldal"
@@ -1506,7 +1518,7 @@
           "duration_ms": 223750
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Virgen",
           "artists": [
             "Adolescent's Orquesta"
@@ -1516,18 +1528,6 @@
           "uri": "spotify:track:5HCGrYR7g9u2X9Ju83yQLm",
           "url": "https://open.spotify.com/track/5HCGrYR7g9u2X9Ju83yQLm",
           "duration_ms": 271751
-        },
-        {
-          "rank": 50,
-          "name": "Body to Body",
-          "artists": [
-            "BTS"
-          ],
-          "album": "ARIRANG",
-          "image": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
-          "uri": "spotify:track:2rKkfc4VZ74FQDc1FF1Zo6",
-          "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6",
-          "duration_ms": 189725
         }
       ],
       "artists": [
