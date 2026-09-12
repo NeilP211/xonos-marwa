@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-12T03:38:46.500Z",
+  "updated_at": "2026-09-12T10:16:29.090Z",
   "is_playing": false,
   "track": {
-    "name": "GLOW - Super Slowed",
+    "name": "D4U - Spotify Singles",
     "artists": [
-      "MXZI"
+      "Avenoir"
     ],
-    "album": "GLOW",
-    "image": "https://i.scdn.co/image/ab67616d0000b27364ccee99bb2fc79e195d2253",
-    "uri": "spotify:track:5zz02mgSYlv6jXCEFXi1FM"
+    "album": "D4U - Spotify Singles",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e85f63189acd20f40f39f8ce",
+    "uri": "spotify:track:4ATldz2t0zMGWtFK3uqDL4"
   },
-  "played_at": "2026-09-12T02:53:28.837Z"
+  "played_at": "2026-09-12T06:33:47.038Z"
 }

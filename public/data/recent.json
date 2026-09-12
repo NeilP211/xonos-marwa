@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T03:38:46.405Z",
+  "updated_at": "2026-09-12T10:16:28.989Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -20181,6 +20181,97 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27364ccee99bb2fc79e195d2253",
       "uri": "spotify:track:5zz02mgSYlv6jXCEFXi1FM",
       "duration_ms": 180642
+    },
+    {
+      "played_at": "2026-09-12T06:07:30.565Z",
+      "name": "You're Not The Only One I Know",
+      "artists": [
+        "The Sundays"
+      ],
+      "album": "Reading, Writing And Arithmetic",
+      "image": "https://i.scdn.co/image/ab67616d0000b273441242b353fc7449f60599c6",
+      "uri": "spotify:track:7BaxYnTazocAOK3istsW1z",
+      "duration_ms": 230167
+    },
+    {
+      "played_at": "2026-09-12T06:17:39.201Z",
+      "name": "Can't Leave Alone (feat. Avenoir & Maz B)",
+      "artists": [
+        "Pino",
+        "Avenoir",
+        "Maz B",
+        "86"
+      ],
+      "album": "'02",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cfe5c69e0a4ae129fb436739",
+      "uri": "spotify:track:3bGfuGWywg85koHG8nturm",
+      "duration_ms": 213413
+    },
+    {
+      "played_at": "2026-09-12T06:19:48.530Z",
+      "name": "TMW",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "TMW",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734fe0775d2c7431476e43edc7",
+      "uri": "spotify:track:19Dhj2zNpcTX2mBYrxlkax",
+      "duration_ms": 128919
+    },
+    {
+      "played_at": "2026-09-12T06:22:42.037Z",
+      "name": "AFTER HOURS",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "AFTER HOURS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732838bcdc14743f3e74b897a9",
+      "uri": "spotify:track:2ss03wfWSV9g3DdvDklHH2",
+      "duration_ms": 173026
+    },
+    {
+      "played_at": "2026-09-12T06:25:45.814Z",
+      "name": "Lady",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a82c46b1b778f670609b88e2",
+      "uri": "spotify:track:6DgXb6t0sRDjtyldebcnEA",
+      "duration_ms": 183293
+    },
+    {
+      "played_at": "2026-09-12T06:28:30.013Z",
+      "name": "Eve",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Eve",
+      "image": "https://i.scdn.co/image/ab67616d0000b273abec3626942054c6c6b53e5a",
+      "uri": "spotify:track:4nwSwALkSaxA26bEANsi20",
+      "duration_ms": 163728
+    },
+    {
+      "played_at": "2026-09-12T06:31:06.078Z",
+      "name": "DIFFERENT",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "NOIRE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0f31b07cf90960adb477d54",
+      "uri": "spotify:track:1rgwKSuwFnq9nw54ZfKKjp",
+      "duration_ms": 155586
+    },
+    {
+      "played_at": "2026-09-12T06:33:47.038Z",
+      "name": "D4U - Spotify Singles",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "D4U - Spotify Singles",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e85f63189acd20f40f39f8ce",
+      "uri": "spotify:track:4ATldz2t0zMGWtFK3uqDL4",
+      "duration_ms": 160487
     }
   ]
 }
