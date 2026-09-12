@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-11T23:02:42.587Z",
+  "updated_at": "2026-09-12T03:38:46.500Z",
   "is_playing": false,
   "track": {
-    "name": "Phantom Bride",
+    "name": "GLOW - Super Slowed",
     "artists": [
-      "Deftones"
+      "MXZI"
     ],
-    "album": "Gore",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a1de34b79834eddf96f803ff",
-    "uri": "spotify:track:33qrQEXQJg4uk6k8fZgoOa"
+    "album": "GLOW",
+    "image": "https://i.scdn.co/image/ab67616d0000b27364ccee99bb2fc79e195d2253",
+    "uri": "spotify:track:5zz02mgSYlv6jXCEFXi1FM"
   },
-  "played_at": "2026-09-11T21:04:11.269Z"
+  "played_at": "2026-09-12T02:53:28.837Z"
 }
