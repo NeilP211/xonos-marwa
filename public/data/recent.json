@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T22:52:31.213Z",
+  "updated_at": "2026-09-13T03:45:52.773Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -20272,6 +20272,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e85f63189acd20f40f39f8ce",
       "uri": "spotify:track:4ATldz2t0zMGWtFK3uqDL4",
       "duration_ms": 160487
+    },
+    {
+      "played_at": "2026-09-12T06:36:03.473Z",
+      "name": "Love",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Medea",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737e9f23dba62be42eabfb5cbe",
+      "uri": "spotify:track:2eCdZl32tNYS2rPFIwKR8R",
+      "duration_ms": 156000
+    },
+    {
+      "played_at": "2026-09-12T22:55:45.980Z",
+      "name": "Love",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Medea",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737e9f23dba62be42eabfb5cbe",
+      "uri": "spotify:track:2eCdZl32tNYS2rPFIwKR8R",
+      "duration_ms": 156000
     }
   ]
 }

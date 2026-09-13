@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-12T22:52:31.253Z",
+  "updated_at": "2026-09-13T03:45:52.879Z",
   "is_playing": false,
   "track": {
-    "name": "D4U - Spotify Singles",
+    "name": "Love",
     "artists": [
       "Avenoir"
     ],
-    "album": "D4U - Spotify Singles",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e85f63189acd20f40f39f8ce",
-    "uri": "spotify:track:4ATldz2t0zMGWtFK3uqDL4"
+    "album": "Medea",
+    "image": "https://i.scdn.co/image/ab67616d0000b2737e9f23dba62be42eabfb5cbe",
+    "uri": "spotify:track:2eCdZl32tNYS2rPFIwKR8R"
   },
-  "played_at": "2026-09-12T06:33:47.038Z"
+  "played_at": "2026-09-12T22:55:45.980Z"
 }
