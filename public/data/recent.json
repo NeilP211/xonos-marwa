@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T11:16:39.720Z",
+  "updated_at": "2026-09-13T15:46:54.141Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -20294,6 +20294,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2737e9f23dba62be42eabfb5cbe",
       "uri": "spotify:track:2eCdZl32tNYS2rPFIwKR8R",
       "duration_ms": 156000
+    },
+    {
+      "played_at": "2026-09-13T07:16:18.353Z",
+      "name": "Too Much",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Too Much",
+      "image": "https://i.scdn.co/image/ab67616d0000b27344cf76119c987ab66d7b5773",
+      "uri": "spotify:track:4rzfXpou7FRHP1kIAerMCH",
+      "duration_ms": 230560
     }
   ]
 }

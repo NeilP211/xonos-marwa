@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-13T11:16:39.809Z",
+  "updated_at": "2026-09-13T15:46:54.241Z",
   "is_playing": false,
   "track": {
-    "name": "Love",
+    "name": "Too Much",
     "artists": [
       "Avenoir"
     ],
-    "album": "Medea",
-    "image": "https://i.scdn.co/image/ab67616d0000b2737e9f23dba62be42eabfb5cbe",
-    "uri": "spotify:track:2eCdZl32tNYS2rPFIwKR8R"
+    "album": "Too Much",
+    "image": "https://i.scdn.co/image/ab67616d0000b27344cf76119c987ab66d7b5773",
+    "uri": "spotify:track:4rzfXpou7FRHP1kIAerMCH"
   },
-  "played_at": "2026-09-12T22:55:45.980Z"
+  "played_at": "2026-09-13T07:16:18.353Z"
 }
