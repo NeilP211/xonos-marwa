@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-14T19:44:51.966Z",
+  "updated_at": "2026-09-14T23:42:35.500Z",
   "is_playing": false,
   "track": {
-    "name": "Fast Times at Clairemont High",
+    "name": "Tonight (demo)",
     "artists": [
-      "Pierce The Veil"
+      "Amira Elfeky"
     ],
-    "album": "Selfish Machines",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
-    "uri": "spotify:track:2Z7Q9xBlQvzsJ0AAUyKr7J"
+    "album": "Tonight (demo)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f75c601cdd5658053a7b0ba5",
+    "uri": "spotify:track:6p5duPGjAdVYLq2kOGXYUD"
   },
-  "played_at": "2026-09-14T19:12:58.123Z"
+  "played_at": "2026-09-14T19:19:46.080Z"
 }
