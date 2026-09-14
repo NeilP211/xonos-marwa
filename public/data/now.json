@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-14T12:06:12.142Z",
+  "updated_at": "2026-09-14T19:44:51.966Z",
   "is_playing": false,
   "track": {
-    "name": "Too Much",
+    "name": "Fast Times at Clairemont High",
     "artists": [
-      "Avenoir"
+      "Pierce The Veil"
     ],
-    "album": "Too Much",
-    "image": "https://i.scdn.co/image/ab67616d0000b27344cf76119c987ab66d7b5773",
-    "uri": "spotify:track:4rzfXpou7FRHP1kIAerMCH"
+    "album": "Selfish Machines",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
+    "uri": "spotify:track:2Z7Q9xBlQvzsJ0AAUyKr7J"
   },
-  "played_at": "2026-09-13T07:16:18.353Z"
+  "played_at": "2026-09-14T19:12:58.123Z"
 }

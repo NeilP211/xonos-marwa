@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T12:06:12.038Z",
+  "updated_at": "2026-09-14T19:44:51.864Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -20305,6 +20305,338 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27344cf76119c987ab66d7b5773",
       "uri": "spotify:track:4rzfXpou7FRHP1kIAerMCH",
       "duration_ms": 230560
+    },
+    {
+      "played_at": "2026-09-14T14:11:46.728Z",
+      "name": "Emergency Contact",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:4amltxLIfFmtYEvZbdgDqO",
+      "duration_ms": 240000
+    },
+    {
+      "played_at": "2026-09-14T14:14:48.835Z",
+      "name": "12 Fractures",
+      "artists": [
+        "Pierce The Veil",
+        "chloe moriondo"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+      "duration_ms": 181600
+    },
+    {
+      "played_at": "2026-09-14T14:18:49.404Z",
+      "name": "Flawless Execution",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3XfmKIeWD1gGrKhwIEon6Q",
+      "duration_ms": 240053
+    },
+    {
+      "played_at": "2026-09-14T14:22:30.259Z",
+      "name": "Resilience",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+      "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-09-14T14:26:13.451Z",
+      "name": "The Jaws Of Life",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:4mfbHWZCIsDVMKk9HAqEgF",
+      "duration_ms": 222666
+    },
+    {
+      "played_at": "2026-09-14T14:29:08.112Z",
+      "name": "Even When I’m Not With You",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:6yJmxPGazR55GAQdyHPf6q",
+      "duration_ms": 174146
+    },
+    {
+      "played_at": "2026-09-14T14:29:30.184Z",
+      "name": "Irrational Fears - Interlude",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:1AtTmjAqrlmg9P2enDqVg9",
+      "duration_ms": 21560
+    },
+    {
+      "played_at": "2026-09-14T14:33:26.855Z",
+      "name": "So Far So Fake",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3fWibgdtgIie6LKTZ2rUoI",
+      "duration_ms": 236160
+    },
+    {
+      "played_at": "2026-09-14T14:37:55.169Z",
+      "name": "Death Of An Executioner",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
+      "duration_ms": 267800
+    },
+    {
+      "played_at": "2026-09-14T14:42:08.672Z",
+      "name": "Shared Trauma",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
+      "duration_ms": 253000
+    },
+    {
+      "played_at": "2026-09-14T14:45:26.547Z",
+      "name": "Pass The Nirvana",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:7I93h9I0RUqt1ci3Bfa290",
+      "duration_ms": 197373
+    },
+    {
+      "played_at": "2026-09-14T14:49:08.160Z",
+      "name": "S.E.X. Narcissist",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350d4bb50c617f43a4e1cf640",
+      "uri": "spotify:track:6wC9CR5Dwbn9G6yo6PK1RP",
+      "duration_ms": 221091
+    },
+    {
+      "played_at": "2026-09-14T14:51:27.041Z",
+      "name": "do it all for me",
+      "artists": [
+        "cloudyfield"
+      ],
+      "album": "do it all for me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273897cb58b4870ad67dc0cda15",
+      "uri": "spotify:track:5X7ZbxvHtxzYIcmC95c2Sg",
+      "duration_ms": 138358
+    },
+    {
+      "played_at": "2026-09-14T14:55:43.796Z",
+      "name": "Kiss Me Now",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
+      "uri": "spotify:track:6yT9iNKt8fQoYpQkbWc7YR",
+      "duration_ms": 256268
+    },
+    {
+      "played_at": "2026-09-14T14:58:26.527Z",
+      "name": "Coming Down",
+      "artists": [
+        "Amira Elfeky"
+      ],
+      "album": "Coming Down",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ac76a854440778214dd53303",
+      "uri": "spotify:track:0N6m7tYA6ebZBybueTQ71h",
+      "duration_ms": 162236
+    },
+    {
+      "played_at": "2026-09-14T15:06:15.911Z",
+      "name": "Gifted Every Strength",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "A Stranger To You",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+      "uri": "spotify:track:7eNATPyB6DN6ZULja226bm",
+      "duration_ms": 468906
+    },
+    {
+      "played_at": "2026-09-14T15:09:41.948Z",
+      "name": "If Looks Could Kill",
+      "artists": [
+        "A Heartwell Ending"
+      ],
+      "album": "Trust Us We Lie",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb6481c8ce0b64d0ea9b1b32",
+      "uri": "spotify:track:1u8wBj7F6zRgaMJRzz0DDw",
+      "duration_ms": 205560
+    },
+    {
+      "played_at": "2026-09-14T15:13:05.122Z",
+      "name": "Waiting outside a Hospital",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Till' Death Was Never Enough",
+      "image": "https://i.scdn.co/image/ab67616d0000b27371dcb0a7eb3e79a78c581565",
+      "uri": "spotify:track:7MrEWbWUGuxCO9lRzKUT2B",
+      "duration_ms": 202688
+    },
+    {
+      "played_at": "2026-09-14T15:17:00.301Z",
+      "name": "NOTHING HURTS HERE",
+      "artists": [
+        "Peyton Marie"
+      ],
+      "album": "NOTHING HURTS HERE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732e9970fa2c7608763bf8e66d",
+      "uri": "spotify:track:2NQDQw4jv0DKBruTKjBkUQ",
+      "duration_ms": 234687
+    },
+    {
+      "played_at": "2026-09-14T15:20:26.719Z",
+      "name": "The First Punch",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:5FyYyTIwKv4JWRPfLZ2TOS",
+      "duration_ms": 205933
+    },
+    {
+      "played_at": "2026-09-14T15:23:03.559Z",
+      "name": "Everything I Do Is For You",
+      "artists": [
+        "Amira Elfeky"
+      ],
+      "album": "Everything I Do Is For You",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fdace11ba09ecfd39d50941e",
+      "uri": "spotify:track:1BO9znQb8BbJ5W8KPAqgWE",
+      "duration_ms": 156349
+    },
+    {
+      "played_at": "2026-09-14T15:27:46.143Z",
+      "name": "Is It Really You?",
+      "artists": [
+        "Loathe",
+        "Teenage Wrist"
+      ],
+      "album": "Is It Really You?",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb6d92e00799808182567e2b",
+      "uri": "spotify:track:4ndmsvcCgLZH2hZwVw8cuJ",
+      "duration_ms": 282053
+    },
+    {
+      "played_at": "2026-09-14T15:32:04.043Z",
+      "name": "Who Are You Now",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "Let's Cheers To This",
+      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+      "uri": "spotify:track:4FlTTDBPpmQO08EeF8GI8V",
+      "duration_ms": 257413
+    },
+    {
+      "played_at": "2026-09-14T15:35:01.359Z",
+      "name": "Frailty",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Till' Death Was Never Enough",
+      "image": "https://i.scdn.co/image/ab67616d0000b27371dcb0a7eb3e79a78c581565",
+      "uri": "spotify:track:48jmC0d289zGCWPyFWFnaj",
+      "duration_ms": 176818
+    },
+    {
+      "played_at": "2026-09-14T15:37:45.328Z",
+      "name": "I Know You Too Well",
+      "artists": [
+        "Ally Nicholas"
+      ],
+      "album": "I Know You Too Well",
+      "image": "https://i.scdn.co/image/ab67616d0000b27391e5f3a26c8c8fe67f3006c3",
+      "uri": "spotify:track:5hnWlwsA16eFtGOXKNsX77",
+      "duration_ms": 163500
+    },
+    {
+      "played_at": "2026-09-14T16:46:42.509Z",
+      "name": "I Don't Care If You're Contagious",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Selfish Machines",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
+      "uri": "spotify:track:5z4GWgru4a3X0SFnQMD2oH",
+      "duration_ms": 204893
+    },
+    {
+      "played_at": "2026-09-14T18:23:40.270Z",
+      "name": "I Don't Care If You're Contagious",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Selfish Machines",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
+      "uri": "spotify:track:5z4GWgru4a3X0SFnQMD2oH",
+      "duration_ms": 204893
+    },
+    {
+      "played_at": "2026-09-14T18:30:28.296Z",
+      "name": "Eat",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350d4bb50c617f43a4e1cf640",
+      "uri": "spotify:track:0k5drOHc60GdBcUe2RMcWF",
+      "duration_ms": 254501
+    },
+    {
+      "played_at": "2026-09-14T18:34:37.769Z",
+      "name": "i think about you all the time",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "private music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+      "uri": "spotify:track:0M5NH22uVXHSXjSi5SXTXM",
+      "duration_ms": 248957
+    },
+    {
+      "played_at": "2026-09-14T19:12:58.123Z",
+      "name": "Fast Times at Clairemont High",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Selfish Machines",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
+      "uri": "spotify:track:2Z7Q9xBlQvzsJ0AAUyKr7J",
+      "duration_ms": 241666
     }
   ]
 }
