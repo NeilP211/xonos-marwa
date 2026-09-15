@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T20:57:47.177Z",
+  "updated_at": "2026-09-15T23:29:20.154Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -20704,6 +20704,62 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
       "uri": "spotify:track:63hHlajVLQnlFMAqSyePxO",
       "duration_ms": 314533
+    },
+    {
+      "played_at": "2026-09-15T20:58:45.877Z",
+      "name": "Pistachios",
+      "artists": [
+        "Brent Faiyaz"
+      ],
+      "album": "Larger Than Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ceb160561269ab00b1df9678",
+      "uri": "spotify:track:18y43ozfWR9sp5vaD9cEqe",
+      "duration_ms": 189597
+    },
+    {
+      "played_at": "2026-09-15T21:01:18.523Z",
+      "name": "I can't go home, anymore",
+      "artists": [
+        "PRYVT"
+      ],
+      "album": "I can't go home, anymore",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738c4d16730dfcd782a1dc42cc",
+      "uri": "spotify:track:1USRCr8va6RmsbekXRs19I",
+      "duration_ms": 152000
+    },
+    {
+      "played_at": "2026-09-15T21:04:24.394Z",
+      "name": "Hopelessly Devoted To You - From “Grease”",
+      "artists": [
+        "Olivia Newton-John"
+      ],
+      "album": "Grease (The Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b68df485f3304211904548a8",
+      "uri": "spotify:track:5BUq9bdtsm3LWw5laJeJ4R",
+      "duration_ms": 185360
+    },
+    {
+      "played_at": "2026-09-15T21:08:33.032Z",
+      "name": "Confident",
+      "artists": [
+        "Justin Bieber",
+        "Chance the Rapper"
+      ],
+      "album": "Journals",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aac2a4189ed89b369c539df6",
+      "uri": "spotify:track:5Isz0twJeFdduOQEFQLezv",
+      "duration_ms": 248133
+    },
+    {
+      "played_at": "2026-09-15T21:12:51.274Z",
+      "name": "It Will Rain",
+      "artists": [
+        "Bruno Mars"
+      ],
+      "album": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f01ba25235fb24f73605b9dd",
+      "uri": "spotify:track:0RUGuh2uSNFJpGMSsD1F5C",
+      "duration_ms": 257720
     }
   ]
 }

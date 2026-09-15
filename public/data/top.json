@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T20:57:47.040Z",
+  "generated_at": "2026-09-15T23:29:19.972Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -531,6 +531,18 @@
         },
         {
           "rank": 44,
+          "name": "Dirty Diana - 2012 Remaster",
+          "artists": [
+            "Michael Jackson"
+          ],
+          "album": "Bad (Remastered)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
+          "uri": "spotify:track:0AcgKF7kbSoCkh3n7vlHwK",
+          "url": "https://open.spotify.com/track/0AcgKF7kbSoCkh3n7vlHwK",
+          "duration_ms": 280753
+        },
+        {
+          "rank": 45,
           "name": "This Link Is Dead",
           "artists": [
             "Deftones"
@@ -542,7 +554,7 @@
           "duration_ms": 277251
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Mi Atención",
           "artists": [
             "Martox"
@@ -554,7 +566,7 @@
           "duration_ms": 212179
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Mis Días A Tu Suerte",
           "artists": [
             "Rels B"
@@ -566,7 +578,7 @@
           "duration_ms": 143750
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "EL CLúB",
           "artists": [
             "Bad Bunny"
@@ -578,7 +590,7 @@
           "duration_ms": 222568
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Kaleidoscope",
           "artists": [
             "maye"
@@ -590,7 +602,7 @@
           "duration_ms": 179191
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Toronto",
           "artists": [
             "Nandé",
@@ -602,18 +614,6 @@
           "uri": "spotify:track:0nvg8vlz0qO47rkgOdVMwc",
           "url": "https://open.spotify.com/track/0nvg8vlz0qO47rkgOdVMwc",
           "duration_ms": 198888
-        },
-        {
-          "rank": 50,
-          "name": "Pompeji",
-          "artists": [
-            "Deftones"
-          ],
-          "album": "Ohms",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e142a930bfba61f6a3592b29",
-          "uri": "spotify:track:0qVlikZi9VNhMnPf47zGMv",
-          "url": "https://open.spotify.com/track/0qVlikZi9VNhMnPf47zGMv",
-          "duration_ms": 325539
         }
       ],
       "artists": [
@@ -739,14 +739,6 @@
         },
         {
           "rank": 16,
-          "name": "BTS",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebf80ec63ea7a0ef0fba60957d",
-          "genres": [],
-          "uri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "rank": 17,
           "name": "Zhou Shen",
           "image": "https://i.scdn.co/image/ab6761610000e5eb555f21234ccc27d609c6f000",
           "genres": [],
@@ -754,7 +746,7 @@
           "url": "https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD"
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Rawayana",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5d52d93053343dc60653bbde",
           "genres": [],
@@ -762,7 +754,23 @@
           "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         },
         {
+          "rank": 18,
+          "name": "BTS",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebf80ec63ea7a0ef0fba60957d",
+          "genres": [],
+          "uri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
           "rank": 19,
+          "name": "Justin Bieber",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebaf20f7db5288bce9beede034",
+          "genres": [],
+          "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "rank": 20,
           "name": "Rels B",
           "image": "https://i.scdn.co/image/ab6761610000e5eb85c6617e12de3109c04aaf1b",
           "genres": [],
@@ -770,7 +778,7 @@
           "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Luis Miguel",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6481401e529e475116702a29",
           "genres": [],
@@ -778,7 +786,7 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Michael Jackson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb997cc9a4aec335d46c9481fd",
           "genres": [],
@@ -786,7 +794,7 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Morad",
           "image": "https://i.scdn.co/image/ab6761610000e5ebad6c5175ba73bba50f96c193",
           "genres": [],
@@ -794,7 +802,7 @@
           "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Bruno Romano",
           "image": "https://i.scdn.co/image/ab6761610000e5eb048c29f827a167107701699f",
           "genres": [],
@@ -802,7 +810,7 @@
           "url": "https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "VIOLENT VIRA",
           "image": "https://i.scdn.co/image/ab6761610000e5eb14c07bcb4da9499543d1031d",
           "genres": [],
@@ -810,7 +818,7 @@
           "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Mora",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe6252cc367480d8fe43e711f",
           "genres": [],
@@ -818,7 +826,7 @@
           "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "keshi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3a0f8f319aeef1aa4115f5e8",
           "genres": [],
@@ -826,7 +834,7 @@
           "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Willie Colón",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4934a2c42935c770bb3ee1af",
           "genres": [],
@@ -834,7 +842,7 @@
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Amira Elfeky",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4b3b97e88ac4dd7ea77e886",
           "genres": [],
@@ -842,7 +850,7 @@
           "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Sleeping With Sirens",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1e2ceb6044f42f7c6dde5433",
           "genres": [],
@@ -850,20 +858,12 @@
           "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Sade",
           "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
           "genres": [],
           "uri": "spotify:artist:47zz7sob9NUcODy0BTDvKx",
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        },
-        {
-          "rank": 31,
-          "name": "BIBI",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebba83b68a9ffebc68cf5003e1",
-          "genres": [],
-          "uri": "spotify:artist:6UbmqUEgjLA6jAcXwbM1Z9",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         },
         {
           "rank": 32,

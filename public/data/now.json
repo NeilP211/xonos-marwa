@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-15T20:57:47.446Z",
+  "updated_at": "2026-09-15T23:29:20.394Z",
   "is_playing": true,
   "track": {
-    "name": "Pistachios",
+    "name": "Sediento",
     "artists": [
-      "Brent Faiyaz"
+      "Joey V Mendez"
     ],
-    "album": "Larger Than Life",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ceb160561269ab00b1df9678",
-    "uri": "spotify:track:18y43ozfWR9sp5vaD9cEqe"
+    "album": "Sediento",
+    "image": "https://i.scdn.co/image/ab67616d0000b273dc95f8c7fc0b29e7635911e8",
+    "uri": "spotify:track:4z9WdW1u50o8mxcXsV0lKM"
   },
-  "played_at": "2026-09-15T20:57:47.446Z"
+  "played_at": "2026-09-15T23:29:20.394Z"
 }
