@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-15T03:53:37.904Z",
+  "updated_at": "2026-09-15T11:18:46.102Z",
   "is_playing": false,
   "track": {
-    "name": "Tonight (demo)",
+    "name": "Dirty Diana - 2012 Remaster",
     "artists": [
-      "Amira Elfeky"
+      "Michael Jackson"
     ],
-    "album": "Tonight (demo)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f75c601cdd5658053a7b0ba5",
-    "uri": "spotify:track:6p5duPGjAdVYLq2kOGXYUD"
+    "album": "Bad (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
+    "uri": "spotify:track:0AcgKF7kbSoCkh3n7vlHwK"
   },
-  "played_at": "2026-09-14T19:19:46.080Z"
+  "played_at": "2026-09-15T05:04:51.803Z"
 }
