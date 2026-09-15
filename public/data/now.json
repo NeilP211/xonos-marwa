@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-15T16:29:37.617Z",
-  "is_playing": false,
+  "updated_at": "2026-09-15T20:57:47.446Z",
+  "is_playing": true,
   "track": {
-    "name": "Dirty Diana - 2012 Remaster",
+    "name": "Pistachios",
     "artists": [
-      "Michael Jackson"
+      "Brent Faiyaz"
     ],
-    "album": "Bad (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
-    "uri": "spotify:track:0AcgKF7kbSoCkh3n7vlHwK"
+    "album": "Larger Than Life",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ceb160561269ab00b1df9678",
+    "uri": "spotify:track:18y43ozfWR9sp5vaD9cEqe"
   },
-  "played_at": "2026-09-15T05:04:51.803Z"
+  "played_at": "2026-09-15T20:57:47.446Z"
 }
