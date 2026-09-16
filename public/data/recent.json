@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T03:50:53.439Z",
+  "updated_at": "2026-09-16T11:01:14.835Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -21025,6 +21025,106 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738f8757ba8312efb078476f8b",
       "uri": "spotify:track:6oCNa6cDfknGLRotLSxlU5",
       "duration_ms": 187898
+    },
+    {
+      "played_at": "2026-09-16T03:58:54.166Z",
+      "name": "Shared Trauma",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
+      "duration_ms": 253000
+    },
+    {
+      "played_at": "2026-09-16T04:05:17.279Z",
+      "name": "Kiss Me Now",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Kiss Me Now",
+      "image": "https://i.scdn.co/image/ab67616d0000b27352a7a9543acdb0aadc61f08a",
+      "uri": "spotify:track:40KgVtH6ANki7AN2Sj1rZD",
+      "duration_ms": 256268
+    },
+    {
+      "played_at": "2026-09-16T04:08:19.607Z",
+      "name": "12 Fractures",
+      "artists": [
+        "Pierce The Veil",
+        "chloe moriondo"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+      "duration_ms": 181600
+    },
+    {
+      "played_at": "2026-09-16T04:12:08.974Z",
+      "name": "Amphetamines (use me)",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Till' Death Was Never Enough",
+      "image": "https://i.scdn.co/image/ab67616d0000b27371dcb0a7eb3e79a78c581565",
+      "uri": "spotify:track:6LoDTPpvuHDlFn5Fkt4A90",
+      "duration_ms": 189777
+    },
+    {
+      "played_at": "2026-09-16T04:16:55.123Z",
+      "name": "Bedless",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Misadventures",
+      "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+      "uri": "spotify:track:3bkkbLyK4GIeg4wxIz4ajY",
+      "duration_ms": 284666
+    },
+    {
+      "played_at": "2026-09-16T04:19:31.648Z",
+      "name": "A Dozen Roses",
+      "artists": [
+        "Amira Elfeky"
+      ],
+      "album": "A Dozen Roses",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a654d2cb9a3d93ee64904bf4",
+      "uri": "spotify:track:5zfSxKmqBSKTaZjVkvPkmA",
+      "duration_ms": 156194
+    },
+    {
+      "played_at": "2026-09-16T04:39:23.872Z",
+      "name": "Saferwaters",
+      "artists": [
+        "Chevelle"
+      ],
+      "album": "Vena Sera",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738e61b90ded878374c0752303",
+      "uri": "spotify:track:6e9s42iBN7bt5QvCvFlVUs",
+      "duration_ms": 251293
+    },
+    {
+      "played_at": "2026-09-16T05:42:49.444Z",
+      "name": "Comfortable Liar",
+      "artists": [
+        "Chevelle"
+      ],
+      "album": "Wonder What's Next (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
+      "uri": "spotify:track:412LyfktkgWKEn8kmKiyQe",
+      "duration_ms": 223266
+    },
+    {
+      "played_at": "2026-09-16T07:59:54.844Z",
+      "name": "Comfortable Liar",
+      "artists": [
+        "Chevelle"
+      ],
+      "album": "Wonder What's Next (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
+      "uri": "spotify:track:412LyfktkgWKEn8kmKiyQe",
+      "duration_ms": 223266
     }
   ]
 }

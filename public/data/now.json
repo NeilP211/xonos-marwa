@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-16T03:50:53.603Z",
-  "is_playing": true,
+  "updated_at": "2026-09-16T11:01:14.888Z",
+  "is_playing": false,
   "track": {
-    "name": "A Lonely Night",
+    "name": "Comfortable Liar",
     "artists": [
-      "The Weeknd"
+      "Chevelle"
     ],
-    "album": "Starboy",
-    "image": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
-    "uri": "spotify:track:0ifooM33X1iBxVYyOkSbXW"
+    "album": "Wonder What's Next (Expanded Edition)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
+    "uri": "spotify:track:412LyfktkgWKEn8kmKiyQe"
   },
-  "played_at": "2026-09-16T03:50:53.603Z"
+  "played_at": "2026-09-16T07:59:54.844Z"
 }
