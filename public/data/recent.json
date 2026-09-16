@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T20:59:38.624Z",
+  "updated_at": "2026-09-16T23:37:28.153Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -21268,6 +21268,84 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
       "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
       "duration_ms": 281333
+    },
+    {
+      "played_at": "2026-09-16T23:04:17.598Z",
+      "name": "Stained Glass Eyes And Colorful Tears",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:2ag0hixCwLjj9Gi5Z44hbO",
+      "duration_ms": 218560
+    },
+    {
+      "played_at": "2026-09-16T23:05:19.879Z",
+      "name": "Hole in the Earth",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:5Bpc360LNUScK53FrM8nvB",
+      "duration_ms": 249320
+    },
+    {
+      "played_at": "2026-09-16T23:17:30.183Z",
+      "name": "Hole in the Earth",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:5Bpc360LNUScK53FrM8nvB",
+      "duration_ms": 249320
+    },
+    {
+      "played_at": "2026-09-16T23:24:13.622Z",
+      "name": "Gold Medal Ribbon",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Misadventures",
+      "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+      "uri": "spotify:track:0yq3IiS6IbPFmqLN46WxiG",
+      "duration_ms": 238306
+    },
+    {
+      "played_at": "2026-09-16T23:28:25.019Z",
+      "name": "is that love?",
+      "artists": [
+        "cloudyfield"
+      ],
+      "album": "is that love?",
+      "image": "https://i.scdn.co/image/ab67616d0000b27326ba241fbc6f307164a33177",
+      "uri": "spotify:track:5TyUAurFIkPkgr7N6l5Hyu",
+      "duration_ms": 240214
+    },
+    {
+      "played_at": "2026-09-16T23:29:50.748Z",
+      "name": "Don't Fall Asleep At The Helm",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "With Ears To See And Eyes To Hear",
+      "image": "https://i.scdn.co/image/ab67616d0000b273032fd22bde573d0746c87352",
+      "uri": "spotify:track:1zQ00hCHOtGHVFRDrifmyM",
+      "duration_ms": 134106
+    },
+    {
+      "played_at": "2026-09-16T23:35:09.076Z",
+      "name": "Red Swan",
+      "artists": [
+        "YOSHIKI",
+        "HYDE"
+      ],
+      "album": "Red Swan",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
+      "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX",
+      "duration_ms": 263720
     }
   ]
 }

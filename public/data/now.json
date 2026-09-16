@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-16T20:59:38.735Z",
-  "is_playing": false,
+  "updated_at": "2026-09-16T23:37:28.367Z",
+  "is_playing": true,
   "track": {
-    "name": "Deseándote",
+    "name": "Searchin",
     "artists": [
-      "Frankie Ruiz"
+      "Sonder"
     ],
-    "album": "Frankie Ruiz La Leyenda",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
-    "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp"
+    "album": "Into",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d02b7127abecfb4ba3cc5b0d",
+    "uri": "spotify:track:2WcPWXOjoDKDVouyyWV8Eq"
   },
-  "played_at": "2026-09-16T20:41:14.824Z"
+  "played_at": "2026-09-16T23:37:28.367Z"
 }
