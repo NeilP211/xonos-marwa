@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T23:29:20.154Z",
+  "updated_at": "2026-09-16T03:50:53.439Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -20760,6 +20760,271 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f01ba25235fb24f73605b9dd",
       "uri": "spotify:track:0RUGuh2uSNFJpGMSsD1F5C",
       "duration_ms": 257720
+    },
+    {
+      "played_at": "2026-09-15T21:16:08.817Z",
+      "name": "Sparks",
+      "artists": [
+        "Coldplay"
+      ],
+      "album": "Parachutes",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a",
+      "uri": "spotify:track:7D0RhFcb3CrfPuTJ0obrod",
+      "duration_ms": 227093
+    },
+    {
+      "played_at": "2026-09-16T00:07:43.921Z",
+      "name": "Sediento",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "Sediento",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dc95f8c7fc0b29e7635911e8",
+      "uri": "spotify:track:4z9WdW1u50o8mxcXsV0lKM",
+      "duration_ms": 176969
+    },
+    {
+      "played_at": "2026-09-16T00:11:33.963Z",
+      "name": "Fallen Star",
+      "artists": [
+        "The Neighbourhood"
+      ],
+      "album": "Fallen Star",
+      "image": "https://i.scdn.co/image/ab67616d0000b27386a26fe844d212d650debca2",
+      "uri": "spotify:track:60F6pgM6H6miNr5AmjxwjL",
+      "duration_ms": 224938
+    },
+    {
+      "played_at": "2026-09-16T00:14:43.398Z",
+      "name": "Y QUE TAL",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "Y QUE TAL",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f8757ba8312efb078476f8b",
+      "uri": "spotify:track:6oCNa6cDfknGLRotLSxlU5",
+      "duration_ms": 187898
+    },
+    {
+      "played_at": "2026-09-16T00:17:21.445Z",
+      "name": "914",
+      "artists": [
+        "Mike Castillo"
+      ],
+      "album": "SPERA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ff497e833da115b44e9fa5a",
+      "uri": "spotify:track:6qUdqOjeH9RoRgVgO3wUct",
+      "duration_ms": 156428
+    },
+    {
+      "played_at": "2026-09-16T00:20:52.829Z",
+      "name": "POEMA A TUS PROBLEMAS",
+      "artists": [
+        "legallyrxx"
+      ],
+      "album": "EL NIÑO DE LOS CORAZONES",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738d488fd868c265bf0197175d",
+      "uri": "spotify:track:6LgZURTxqvwE5c6i5Wxe0g",
+      "duration_ms": 209857
+    },
+    {
+      "played_at": "2026-09-16T00:31:55.854Z",
+      "name": "Sediento",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "Sediento",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dc95f8c7fc0b29e7635911e8",
+      "uri": "spotify:track:4z9WdW1u50o8mxcXsV0lKM",
+      "duration_ms": 176969
+    },
+    {
+      "played_at": "2026-09-16T00:47:41.605Z",
+      "name": "MI MODELO",
+      "artists": [
+        "Kva"
+      ],
+      "album": "MI MODELO",
+      "image": "https://i.scdn.co/image/ab67616d0000b27357374d818babc3a09c0715bc",
+      "uri": "spotify:track:3a9QIk8E6yYa8DZeqHp1Jm",
+      "duration_ms": 165799
+    },
+    {
+      "played_at": "2026-09-16T00:49:47.269Z",
+      "name": "MI MODELO",
+      "artists": [
+        "Kva"
+      ],
+      "album": "MI MODELO",
+      "image": "https://i.scdn.co/image/ab67616d0000b27357374d818babc3a09c0715bc",
+      "uri": "spotify:track:3a9QIk8E6yYa8DZeqHp1Jm",
+      "duration_ms": 165799
+    },
+    {
+      "played_at": "2026-09-16T00:54:27.085Z",
+      "name": "BLUES",
+      "artists": [
+        "EddyJae"
+      ],
+      "album": "ANA-LEPSIS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dcb108ba766980147aa20130",
+      "uri": "spotify:track:0Shoc2xdH48SX2HPX6IAnO",
+      "duration_ms": 216500
+    },
+    {
+      "played_at": "2026-09-16T00:58:03.695Z",
+      "name": "ME ATREVO",
+      "artists": [
+        "Teo B",
+        "Fino III"
+      ],
+      "album": "ME ATREVO",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d5f16683e5103efeb5e9aed8",
+      "uri": "spotify:track:3V1objVLAKooqYz0b27Byw",
+      "duration_ms": 156006
+    },
+    {
+      "played_at": "2026-09-16T00:58:17.725Z",
+      "name": "RECUPERÓ",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "RECUPERÓ",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d1f44ea3e2242cb654ea49c8",
+      "uri": "spotify:track:44grEgm10JpsQMvokmqG1o",
+      "duration_ms": 157586
+    },
+    {
+      "played_at": "2026-09-16T00:59:21.268Z",
+      "name": "RECUPERÓ",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "RECUPERÓ",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d1f44ea3e2242cb654ea49c8",
+      "uri": "spotify:track:44grEgm10JpsQMvokmqG1o",
+      "duration_ms": 157586
+    },
+    {
+      "played_at": "2026-09-16T01:05:14.997Z",
+      "name": "Comfortable Liar",
+      "artists": [
+        "Chevelle"
+      ],
+      "album": "Wonder What's Next (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
+      "uri": "spotify:track:412LyfktkgWKEn8kmKiyQe",
+      "duration_ms": 223266
+    },
+    {
+      "played_at": "2026-09-16T01:16:21.739Z",
+      "name": "Send the Pain Below",
+      "artists": [
+        "Chevelle"
+      ],
+      "album": "Wonder What's Next (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
+      "uri": "spotify:track:6dRAAG4sB71NAtVCHJep7s",
+      "duration_ms": 252360
+    },
+    {
+      "played_at": "2026-09-16T01:28:02.058Z",
+      "name": "Is It Really You?",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "I Let It in and It Took Everything",
+      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+      "uri": "spotify:track:4OmlsAT8r4q9vPFBvfYgyZ",
+      "duration_ms": 287627
+    },
+    {
+      "played_at": "2026-09-16T01:30:58.425Z",
+      "name": "I'm So Sick",
+      "artists": [
+        "Flyleaf"
+      ],
+      "album": "Flyleaf",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739fba3529eaf6979c736806e6",
+      "uri": "spotify:track:3FP8A246XpuafFofRhDlWG",
+      "duration_ms": 175880
+    },
+    {
+      "played_at": "2026-09-16T01:34:23.024Z",
+      "name": "I'm Not Dying To Be Here",
+      "artists": [
+        "Split Chain"
+      ],
+      "album": "motionblur",
+      "image": "https://i.scdn.co/image/ab67616d0000b27353a4712a34deaddd31e39294",
+      "uri": "spotify:track:4m8sJ9vFWMZnJwbLTXlgz0",
+      "duration_ms": 204118
+    },
+    {
+      "played_at": "2026-09-16T01:38:34.835Z",
+      "name": "Saferwaters",
+      "artists": [
+        "Chevelle"
+      ],
+      "album": "Vena Sera",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738e61b90ded878374c0752303",
+      "uri": "spotify:track:6e9s42iBN7bt5QvCvFlVUs",
+      "duration_ms": 251293
+    },
+    {
+      "played_at": "2026-09-16T01:51:47.451Z",
+      "name": "The Red",
+      "artists": [
+        "Chevelle"
+      ],
+      "album": "Wonder What's Next (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
+      "uri": "spotify:track:1gyee1JuFFiP476LQpRMYU",
+      "duration_ms": 238400
+    },
+    {
+      "played_at": "2026-09-16T02:07:59.476Z",
+      "name": "Send the Pain Below",
+      "artists": [
+        "Chevelle"
+      ],
+      "album": "Wonder What's Next (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
+      "uri": "spotify:track:6dRAAG4sB71NAtVCHJep7s",
+      "duration_ms": 252360
+    },
+    {
+      "played_at": "2026-09-16T03:36:12.858Z",
+      "name": "Saferwaters",
+      "artists": [
+        "Chevelle"
+      ],
+      "album": "Vena Sera",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738e61b90ded878374c0752303",
+      "uri": "spotify:track:6e9s42iBN7bt5QvCvFlVUs",
+      "duration_ms": 251293
+    },
+    {
+      "played_at": "2026-09-16T03:42:53.906Z",
+      "name": "Death Of An Executioner",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
+      "duration_ms": 267800
+    },
+    {
+      "played_at": "2026-09-16T03:48:32.538Z",
+      "name": "Y QUE TAL",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "Y QUE TAL",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f8757ba8312efb078476f8b",
+      "uri": "spotify:track:6oCNa6cDfknGLRotLSxlU5",
+      "duration_ms": 187898
     }
   ]
 }

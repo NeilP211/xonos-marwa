@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-15T23:29:20.394Z",
+  "updated_at": "2026-09-16T03:50:53.603Z",
   "is_playing": true,
   "track": {
-    "name": "Sediento",
+    "name": "A Lonely Night",
     "artists": [
-      "Joey V Mendez"
+      "The Weeknd"
     ],
-    "album": "Sediento",
-    "image": "https://i.scdn.co/image/ab67616d0000b273dc95f8c7fc0b29e7635911e8",
-    "uri": "spotify:track:4z9WdW1u50o8mxcXsV0lKM"
+    "album": "Starboy",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+    "uri": "spotify:track:0ifooM33X1iBxVYyOkSbXW"
   },
-  "played_at": "2026-09-15T23:29:20.394Z"
+  "played_at": "2026-09-16T03:50:53.603Z"
 }
