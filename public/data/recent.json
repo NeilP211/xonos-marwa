@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T16:21:00.982Z",
+  "updated_at": "2026-09-16T20:59:38.624Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -21125,6 +21125,149 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
       "uri": "spotify:track:412LyfktkgWKEn8kmKiyQe",
       "duration_ms": 223266
+    },
+    {
+      "played_at": "2026-09-16T17:30:52.618Z",
+      "name": "Comfortable Liar",
+      "artists": [
+        "Chevelle"
+      ],
+      "album": "Wonder What's Next (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
+      "uri": "spotify:track:412LyfktkgWKEn8kmKiyQe",
+      "duration_ms": 223266
+    },
+    {
+      "played_at": "2026-09-16T18:16:14.166Z",
+      "name": "Y QUE TAL",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "Y QUE TAL",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f8757ba8312efb078476f8b",
+      "uri": "spotify:track:6oCNa6cDfknGLRotLSxlU5",
+      "duration_ms": 187898
+    },
+    {
+      "played_at": "2026-09-16T18:17:07.979Z",
+      "name": "Y QUE TAL",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "Y QUE TAL",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f8757ba8312efb078476f8b",
+      "uri": "spotify:track:6oCNa6cDfknGLRotLSxlU5",
+      "duration_ms": 187898
+    },
+    {
+      "played_at": "2026-09-16T18:20:34.537Z",
+      "name": "Sediento",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "Sediento",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dc95f8c7fc0b29e7635911e8",
+      "uri": "spotify:track:4z9WdW1u50o8mxcXsV0lKM",
+      "duration_ms": 176969
+    },
+    {
+      "played_at": "2026-09-16T18:37:52.294Z",
+      "name": "Shared Trauma",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
+      "duration_ms": 253000
+    },
+    {
+      "played_at": "2026-09-16T18:38:36.463Z",
+      "name": "Eat",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350d4bb50c617f43a4e1cf640",
+      "uri": "spotify:track:0k5drOHc60GdBcUe2RMcWF",
+      "duration_ms": 254501
+    },
+    {
+      "played_at": "2026-09-16T18:39:03.631Z",
+      "name": "Shared Trauma",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
+      "duration_ms": 253000
+    },
+    {
+      "played_at": "2026-09-16T18:45:23.290Z",
+      "name": "Bedless",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Misadventures",
+      "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+      "uri": "spotify:track:3bkkbLyK4GIeg4wxIz4ajY",
+      "duration_ms": 284666
+    },
+    {
+      "played_at": "2026-09-16T19:25:28.160Z",
+      "name": "Amphetamines (use me)",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Till' Death Was Never Enough",
+      "image": "https://i.scdn.co/image/ab67616d0000b27371dcb0a7eb3e79a78c581565",
+      "uri": "spotify:track:6LoDTPpvuHDlFn5Fkt4A90",
+      "duration_ms": 189777
+    },
+    {
+      "played_at": "2026-09-16T19:26:43.686Z",
+      "name": "No Stranger To You...",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "A Stranger To You",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+      "uri": "spotify:track:7rZetbeg5iTN98VcGRljsO",
+      "duration_ms": 288000
+    },
+    {
+      "played_at": "2026-09-16T19:32:53.008Z",
+      "name": "Burn Me With A Bible",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350d4bb50c617f43a4e1cf640",
+      "uri": "spotify:track:3Pur5ZFRlDmKhg67Y7i6Op",
+      "duration_ms": 245393
+    },
+    {
+      "played_at": "2026-09-16T20:30:24.134Z",
+      "name": "No Stranger To You...",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "A Stranger To You",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+      "uri": "spotify:track:7rZetbeg5iTN98VcGRljsO",
+      "duration_ms": 288000
+    },
+    {
+      "played_at": "2026-09-16T20:41:14.824Z",
+      "name": "Deseándote",
+      "artists": [
+        "Frankie Ruiz"
+      ],
+      "album": "Frankie Ruiz La Leyenda",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
+      "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
+      "duration_ms": 281333
     }
   ]
 }
