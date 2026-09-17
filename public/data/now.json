@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-17T16:28:02.770Z",
+  "updated_at": "2026-09-17T21:02:53.537Z",
   "is_playing": false,
   "track": {
-    "name": "Entombed",
+    "name": "Ides Of March",
     "artists": [
-      "Deftones"
+      "Silverstein"
     ],
-    "album": "Koi No Yokan",
-    "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
-    "uri": "spotify:track:4bLCPfBLKlqiONo6TALTh5"
+    "album": "Discovering The Waterfront",
+    "image": "https://i.scdn.co/image/ab67616d0000b273aade7ea1ce5e7f75f6d40a3c",
+    "uri": "spotify:track:3op7dCZE5j3VEmKXZcT5mR"
   },
-  "played_at": "2026-09-17T00:48:38.972Z"
+  "played_at": "2026-09-17T20:47:37.072Z"
 }

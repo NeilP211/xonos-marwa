@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:28:02.453Z",
+  "generated_at": "2026-09-17T21:02:53.292Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1943,18 +1943,6 @@
       "tracks": [
         {
           "rank": 1,
-          "name": "Soft Spot",
-          "artists": [
-            "keshi"
-          ],
-          "album": "Requiem",
-          "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
-          "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
-          "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7",
-          "duration_ms": 204223
-        },
-        {
-          "rank": 2,
           "name": "Resilience",
           "artists": [
             "Pierce The Veil"
@@ -1964,6 +1952,18 @@
           "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
           "url": "https://open.spotify.com/track/08vqJRf0PuLF1YACmIG3o8",
           "duration_ms": 220360
+        },
+        {
+          "rank": 2,
+          "name": "Soft Spot",
+          "artists": [
+            "keshi"
+          ],
+          "album": "Requiem",
+          "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
+          "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
+          "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7",
+          "duration_ms": 204223
         },
         {
           "rank": 3,
@@ -2125,6 +2125,19 @@
         },
         {
           "rank": 16,
+          "name": "Red Swan",
+          "artists": [
+            "YOSHIKI",
+            "HYDE"
+          ],
+          "album": "Red Swan",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
+          "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX",
+          "url": "https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX",
+          "duration_ms": 263720
+        },
+        {
+          "rank": 17,
           "name": "The Way It Breaks",
           "artists": [
             "Loathe",
@@ -2137,7 +2150,7 @@
           "duration_ms": 306786
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Ego",
           "artists": [
             "Peach Luffe"
@@ -2147,19 +2160,6 @@
           "uri": "spotify:track:6qWLeDClhAZYyshdF3y45Y",
           "url": "https://open.spotify.com/track/6qWLeDClhAZYyshdF3y45Y",
           "duration_ms": 180814
-        },
-        {
-          "rank": 18,
-          "name": "Red Swan",
-          "artists": [
-            "YOSHIKI",
-            "HYDE"
-          ],
-          "album": "Red Swan",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
-          "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX",
-          "url": "https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX",
-          "duration_ms": 263720
         },
         {
           "rank": 19,
@@ -2213,30 +2213,6 @@
         },
         {
           "rank": 23,
-          "name": "M.",
-          "artists": [
-            "Anıl Emre Daldal"
-          ],
-          "album": "M.",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d7ddae05b16e763bc82b69a5",
-          "uri": "spotify:track:6wfb4nI2Vih263JqC8WSoW",
-          "url": "https://open.spotify.com/track/6wfb4nI2Vih263JqC8WSoW",
-          "duration_ms": 223750
-        },
-        {
-          "rank": 24,
-          "name": "It Will Rain",
-          "artists": [
-            "Bruno Mars"
-          ],
-          "album": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f01ba25235fb24f73605b9dd",
-          "uri": "spotify:track:0RUGuh2uSNFJpGMSsD1F5C",
-          "url": "https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C",
-          "duration_ms": 257720
-        },
-        {
-          "rank": 25,
           "name": "اخدني معك",
           "artists": [
             "Fadel Chaker"
@@ -2248,19 +2224,7 @@
           "duration_ms": 313939
         },
         {
-          "rank": 26,
-          "name": "Like That",
-          "artists": [
-            "keshi"
-          ],
-          "album": "Requiem",
-          "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
-          "uri": "spotify:track:3pf5M9sxSecmhjT9gMPwe9",
-          "url": "https://open.spotify.com/track/3pf5M9sxSecmhjT9gMPwe9",
-          "duration_ms": 180106
-        },
-        {
-          "rank": 27,
+          "rank": 24,
           "name": "Sweet Dreams (feat. Miguel)",
           "artists": [
             "j-hope",
@@ -2273,7 +2237,7 @@
           "duration_ms": 172952
         },
         {
-          "rank": 28,
+          "rank": 25,
           "name": "Staying",
           "artists": [
             "Lizzy McAlpine"
@@ -2285,7 +2249,7 @@
           "duration_ms": 151647
         },
         {
-          "rank": 29,
+          "rank": 26,
           "name": "Ojos Tristes (with The Marías)",
           "artists": [
             "Selena Gomez",
@@ -2299,7 +2263,19 @@
           "duration_ms": 201920
         },
         {
-          "rank": 30,
+          "rank": 27,
+          "name": "M.",
+          "artists": [
+            "Anıl Emre Daldal"
+          ],
+          "album": "M.",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d7ddae05b16e763bc82b69a5",
+          "uri": "spotify:track:6wfb4nI2Vih263JqC8WSoW",
+          "url": "https://open.spotify.com/track/6wfb4nI2Vih263JqC8WSoW",
+          "duration_ms": 223750
+        },
+        {
+          "rank": 28,
           "name": "Still Monster",
           "artists": [
             "ENHYPEN"
@@ -2311,7 +2287,19 @@
           "duration_ms": 186119
         },
         {
-          "rank": 31,
+          "rank": 29,
+          "name": "It Will Rain",
+          "artists": [
+            "Bruno Mars"
+          ],
+          "album": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f01ba25235fb24f73605b9dd",
+          "uri": "spotify:track:0RUGuh2uSNFJpGMSsD1F5C",
+          "url": "https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C",
+          "duration_ms": 257720
+        },
+        {
+          "rank": 30,
           "name": "Siesta Freestyle",
           "artists": [
             "Lewis OfMan",
@@ -2324,7 +2312,7 @@
           "duration_ms": 194160
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Ana Mosh Anani",
           "artists": [
             "Amr Diab"
@@ -2336,7 +2324,7 @@
           "duration_ms": 289959
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Reggaeton",
           "artists": [
             "J Balvin"
@@ -2348,7 +2336,7 @@
           "duration_ms": 158800
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "12 Fractures",
           "artists": [
             "Pierce The Veil",
@@ -2361,7 +2349,7 @@
           "duration_ms": 181600
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "Ice On My Teeth",
           "artists": [
             "ATEEZ"
@@ -2373,7 +2361,7 @@
           "duration_ms": 183494
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "Sustum",
           "artists": [
             "Evdeki Saat"
@@ -2385,7 +2373,7 @@
           "duration_ms": 212250
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Mucho Corazón",
           "artists": [
             "Luis Miguel"
@@ -2397,32 +2385,19 @@
           "duration_ms": 203733
         },
         {
-          "rank": 38,
-          "name": "New Woman (feat. ROSALÍA)",
-          "artists": [
-            "LISA",
-            "ROSALÍA"
-          ],
-          "album": "New Woman (feat. ROSALÍA)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2737f560aa479da9db40deb9f4d",
-          "uri": "spotify:track:7ov3TDp5D00Rnu5R1viX4w",
-          "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w",
-          "duration_ms": 179789
-        },
-        {
-          "rank": 39,
-          "name": "Bodies",
+          "rank": 37,
+          "name": "Like That",
           "artists": [
             "keshi"
           ],
           "album": "Requiem",
           "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
-          "uri": "spotify:track:7AaCqnFCdfEKesBwSzS8NQ",
-          "url": "https://open.spotify.com/track/7AaCqnFCdfEKesBwSzS8NQ",
-          "duration_ms": 206237
+          "uri": "spotify:track:3pf5M9sxSecmhjT9gMPwe9",
+          "url": "https://open.spotify.com/track/3pf5M9sxSecmhjT9gMPwe9",
+          "duration_ms": 180106
         },
         {
-          "rank": 40,
+          "rank": 38,
           "name": "Tamally Maak",
           "artists": [
             "Amr Diab"
@@ -2434,7 +2409,7 @@
           "duration_ms": 269232
         },
         {
-          "rank": 41,
+          "rank": 39,
           "name": "Anlatamam",
           "artists": [
             "Toygar Işıklı"
@@ -2446,7 +2421,7 @@
           "duration_ms": 132550
         },
         {
-          "rank": 42,
+          "rank": 40,
           "name": "BAILE INoLVIDABLE",
           "artists": [
             "Bad Bunny"
@@ -2458,7 +2433,7 @@
           "duration_ms": 367725
         },
         {
-          "rank": 43,
+          "rank": 41,
           "name": "要不然我們就這樣一萬年",
           "artists": [
             "黃霄雲"
@@ -2470,19 +2445,7 @@
           "duration_ms": 284710
         },
         {
-          "rank": 44,
-          "name": "Favour",
-          "artists": [
-            "Avenoir"
-          ],
-          "album": "Favour",
-          "image": "https://i.scdn.co/image/ab67616d0000b273713f9d753c8b418102db1a10",
-          "uri": "spotify:track:7lTUaX0Bs1uE9ALFsmLF8G",
-          "url": "https://open.spotify.com/track/7lTUaX0Bs1uE9ALFsmLF8G",
-          "duration_ms": 156000
-        },
-        {
-          "rank": 45,
+          "rank": 42,
           "name": "Azul",
           "artists": [
             "J Balvin"
@@ -2494,7 +2457,7 @@
           "duration_ms": 205933
         },
         {
-          "rank": 46,
+          "rank": 43,
           "name": "WELTiTA",
           "artists": [
             "Bad Bunny",
@@ -2507,7 +2470,7 @@
           "duration_ms": 187507
         },
         {
-          "rank": 47,
+          "rank": 44,
           "name": "Shared Trauma",
           "artists": [
             "Pierce The Veil"
@@ -2519,7 +2482,7 @@
           "duration_ms": 253000
         },
         {
-          "rank": 48,
+          "rank": 45,
           "name": "love.",
           "artists": [
             "wave to earth"
@@ -2531,19 +2494,7 @@
           "duration_ms": 307750
         },
         {
-          "rank": 49,
-          "name": "LIMBO",
-          "artists": [
-            "keshi"
-          ],
-          "album": "GABRIEL",
-          "image": "https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb",
-          "uri": "spotify:track:2bdVgAQgosGUJoViVDNeOV",
-          "url": "https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV",
-          "duration_ms": 212784
-        },
-        {
-          "rank": 50,
+          "rank": 46,
           "name": "EoO",
           "artists": [
             "Bad Bunny"
@@ -2553,6 +2504,54 @@
           "uri": "spotify:track:6J5kc12BW5HuP3d7C3vvx8",
           "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8",
           "duration_ms": 204768
+        },
+        {
+          "rank": 47,
+          "name": "A Lonely Night",
+          "artists": [
+            "The Weeknd"
+          ],
+          "album": "Starboy",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+          "uri": "spotify:track:0ifooM33X1iBxVYyOkSbXW",
+          "url": "https://open.spotify.com/track/0ifooM33X1iBxVYyOkSbXW",
+          "duration_ms": 220173
+        },
+        {
+          "rank": 48,
+          "name": "《夢的燭衣》（《大夢歸離》影視劇情殤曲）",
+          "artists": [
+            "Zhang Bichen"
+          ],
+          "album": "《大夢歸離》影視原聲帶",
+          "image": "https://i.scdn.co/image/ab67616d0000b273282babb68ec6cc6ded27cbde",
+          "uri": "spotify:track:43wT8wgMOXTBFfZwIj6UKW",
+          "url": "https://open.spotify.com/track/43wT8wgMOXTBFfZwIj6UKW",
+          "duration_ms": 231949
+        },
+        {
+          "rank": 49,
+          "name": "HAVHAVHAV",
+          "artists": [
+            "Lvbel C5"
+          ],
+          "album": "HAVHAVHAV",
+          "image": "https://i.scdn.co/image/ab67616d0000b27303a4aef4fa3f80032dc3f82d",
+          "uri": "spotify:track:0126WdGxnrNEqzgUb1wgQH",
+          "url": "https://open.spotify.com/track/0126WdGxnrNEqzgUb1wgQH",
+          "duration_ms": 126255
+        },
+        {
+          "rank": 50,
+          "name": "Art of War",
+          "artists": [
+            "Avenoir"
+          ],
+          "album": "Art of War",
+          "image": "https://i.scdn.co/image/ab67616d0000b273257de814fe4a9c88e7523e62",
+          "uri": "spotify:track:7FdS8jLabsc3ym9VY8kGjK",
+          "url": "https://open.spotify.com/track/7FdS8jLabsc3ym9VY8kGjK",
+          "duration_ms": 126973
         }
       ],
       "artists": [
@@ -2734,19 +2733,19 @@
         },
         {
           "rank": 23,
-          "name": "ATEEZ",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb630859e6682cfa878243bacc",
-          "genres": [],
-          "uri": "spotify:artist:68KmkJeZGfwe1OUaivBa2L",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        },
-        {
-          "rank": 24,
           "name": "Ariana Grande",
           "image": "https://i.scdn.co/image/ab6761610000e5eb68412f2d0177a9ebc265ff58",
           "genres": [],
           "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR",
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "rank": 24,
+          "name": "ATEEZ",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb630859e6682cfa878243bacc",
+          "genres": [],
+          "uri": "spotify:artist:68KmkJeZGfwe1OUaivBa2L",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         },
         {
           "rank": 25,
