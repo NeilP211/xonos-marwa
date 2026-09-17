@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T23:37:28.153Z",
+  "updated_at": "2026-09-17T03:56:13.730Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -21346,6 +21346,150 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
       "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX",
       "duration_ms": 263720
+    },
+    {
+      "played_at": "2026-09-16T23:45:34.708Z",
+      "name": "MOOO!",
+      "artists": [
+        "Doja Cat"
+      ],
+      "album": "Amala (Deluxe Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731742758fca8805f9110f8248",
+      "uri": "spotify:track:043dDJ9u0PQ3ooAXMgcwOe",
+      "duration_ms": 285138
+    },
+    {
+      "played_at": "2026-09-16T23:49:31.304Z",
+      "name": "Soft Spot",
+      "artists": [
+        "keshi"
+      ],
+      "album": "Requiem",
+      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
+      "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
+      "duration_ms": 204223
+    },
+    {
+      "played_at": "2026-09-17T00:00:11.738Z",
+      "name": "Hold On Till May",
+      "artists": [
+        "Pierce The Veil",
+        "Lindsey Stamey"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
+      "duration_ms": 278586
+    },
+    {
+      "played_at": "2026-09-17T00:03:41.507Z",
+      "name": "Luka",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Luka",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da824d21dc5fa336020fff3e",
+      "uri": "spotify:track:6ILmZpvejf4z5kYW1c4x9n",
+      "duration_ms": 209220
+    },
+    {
+      "played_at": "2026-09-17T00:07:10.448Z",
+      "name": "stingray",
+      "artists": [
+        "Rehash"
+      ],
+      "album": "mock",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f50a9ad97d36ef45ac44937",
+      "uri": "spotify:track:1iegi4anCrPW5YReZbviwa",
+      "duration_ms": 184041
+    },
+    {
+      "played_at": "2026-09-17T00:10:53.964Z",
+      "name": "Props & Mayhem",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO",
+      "duration_ms": 217853
+    },
+    {
+      "played_at": "2026-09-17T00:15:17.659Z",
+      "name": "I'm Low On Gas And You Need A Jacket",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:40WWeoX26jtsfdmFx5iRty",
+      "duration_ms": 252386
+    },
+    {
+      "played_at": "2026-09-17T00:19:08.654Z",
+      "name": "Helena",
+      "artists": [
+        "My Chemical Romance"
+      ],
+      "album": "Three Cheers for Sweet Revenge",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
+      "uri": "spotify:track:5dTHtzHFPyi8TlTtzoz1J9",
+      "duration_ms": 204733
+    },
+    {
+      "played_at": "2026-09-17T00:22:48.764Z",
+      "name": "The Ghost of You",
+      "artists": [
+        "My Chemical Romance"
+      ],
+      "album": "Three Cheers for Sweet Revenge",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
+      "uri": "spotify:track:1yKAqZoi8xWGLCf5vajroL",
+      "duration_ms": 194253
+    },
+    {
+      "played_at": "2026-09-17T00:26:33.034Z",
+      "name": "Resilience",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+      "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-09-17T00:36:08.318Z",
+      "name": "Stanley Earl",
+      "artists": [
+        "ASN JAYBOOG"
+      ],
+      "album": "WET",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738edea1ab1925d4f773e223d3",
+      "uri": "spotify:track:5Skk4gSsDzrWqclz3wzh3Q",
+      "duration_ms": 160938
+    },
+    {
+      "played_at": "2026-09-17T00:43:03.540Z",
+      "name": "Hole in the Earth",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:5Bpc360LNUScK53FrM8nvB",
+      "duration_ms": 249320
+    },
+    {
+      "played_at": "2026-09-17T00:48:38.972Z",
+      "name": "Entombed",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Koi No Yokan",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
+      "uri": "spotify:track:4bLCPfBLKlqiONo6TALTh5",
+      "duration_ms": 299240
     }
   ]
 }

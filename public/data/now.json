@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-16T23:37:28.367Z",
-  "is_playing": true,
+  "updated_at": "2026-09-17T03:56:13.908Z",
+  "is_playing": false,
   "track": {
-    "name": "Searchin",
+    "name": "Entombed",
     "artists": [
-      "Sonder"
+      "Deftones"
     ],
-    "album": "Into",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d02b7127abecfb4ba3cc5b0d",
-    "uri": "spotify:track:2WcPWXOjoDKDVouyyWV8Eq"
+    "album": "Koi No Yokan",
+    "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
+    "uri": "spotify:track:4bLCPfBLKlqiONo6TALTh5"
   },
-  "played_at": "2026-09-16T23:37:28.367Z"
+  "played_at": "2026-09-17T00:48:38.972Z"
 }
