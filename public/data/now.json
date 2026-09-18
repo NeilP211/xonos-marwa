@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-17T21:02:53.537Z",
+  "updated_at": "2026-09-18T03:43:17.772Z",
   "is_playing": false,
   "track": {
-    "name": "Ides Of March",
+    "name": "احلى حاجة فيكى",
     "artists": [
-      "Silverstein"
+      "Mohamed Hamaki"
     ],
-    "album": "Discovering The Waterfront",
-    "image": "https://i.scdn.co/image/ab67616d0000b273aade7ea1ce5e7f75f6d40a3c",
-    "uri": "spotify:track:3op7dCZE5j3VEmKXZcT5mR"
+    "album": "خلص الكلام",
+    "image": "https://i.scdn.co/image/ab67616d0000b273efed63c14ec5825ceb603f35",
+    "uri": "spotify:track:06uo1USMfngzC6C7RB9SXb"
   },
-  "played_at": "2026-09-17T20:47:37.072Z"
+  "played_at": "2026-09-18T03:30:36.591Z"
 }

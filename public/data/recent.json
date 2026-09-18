@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T21:02:53.496Z",
+  "updated_at": "2026-09-18T03:43:17.683Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -21512,6 +21512,161 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273aade7ea1ce5e7f75f6d40a3c",
       "uri": "spotify:track:3op7dCZE5j3VEmKXZcT5mR",
       "duration_ms": 206986
+    },
+    {
+      "played_at": "2026-09-17T22:00:26.533Z",
+      "name": "Circles",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Misadventures",
+      "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+      "uri": "spotify:track:6zUy2nnchfZpzaDalE6sO2",
+      "duration_ms": 224306
+    },
+    {
+      "played_at": "2026-09-17T22:15:28.441Z",
+      "name": "Circles",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Misadventures",
+      "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+      "uri": "spotify:track:6zUy2nnchfZpzaDalE6sO2",
+      "duration_ms": 224306
+    },
+    {
+      "played_at": "2026-09-17T22:19:05.886Z",
+      "name": "Tally It Up, Settle The Score",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "Let's Cheers To This",
+      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+      "uri": "spotify:track:4COV6EQIGE5Kb1Iw26qLdV",
+      "duration_ms": 215946
+    },
+    {
+      "played_at": "2026-09-17T22:44:01.430Z",
+      "name": "خليك معايا",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "الليلادي",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373b72d2ce3d19fa428595c2c",
+      "uri": "spotify:track:4xjuBQBnXifS3554AAVtop",
+      "duration_ms": 232411
+    },
+    {
+      "played_at": "2026-09-17T23:26:07.881Z",
+      "name": "Heseeny",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "Narein",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732e50096092c24bd9acb0749d",
+      "uri": "spotify:track:6AOmVuYPC8WJN0hzZ1ODIj",
+      "duration_ms": 213838
+    },
+    {
+      "played_at": "2026-09-17T23:30:17.824Z",
+      "name": "EXILE / معاكي",
+      "artists": [
+        "Saint Levant"
+      ],
+      "album": "Love Letters / رسائل حب",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a0fce4a818e7d680d6ab5c40",
+      "uri": "spotify:track:5upFhyMqL0oa4EwisXfL67",
+      "duration_ms": 248420
+    },
+    {
+      "played_at": "2026-09-17T23:34:33.211Z",
+      "name": "و افتكرت",
+      "artists": [
+        "Mohamed Hamaki"
+      ],
+      "album": "ناويها",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735527bb726ed8036c3b232a8d",
+      "uri": "spotify:track:2ZYxLGcohgsKpor8pGMc0o",
+      "duration_ms": 253894
+    },
+    {
+      "played_at": "2026-09-17T23:40:54.540Z",
+      "name": "كتر خيرى",
+      "artists": [
+        "Sherine"
+      ],
+      "album": "حبيت",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eeda6561470e805c98befd32",
+      "uri": "spotify:track:20grzfgflVP7Qmy8O72MWE",
+      "duration_ms": 251010
+    },
+    {
+      "played_at": "2026-09-18T00:26:20.626Z",
+      "name": "Aayshalak",
+      "artists": [
+        "Elissa"
+      ],
+      "album": "Aayshalak",
+      "image": "https://i.scdn.co/image/ab67616d0000b27374e6d6a5e5463fa5b20d64e6",
+      "uri": "spotify:track:6wE5bUgyErJTzGBqqbjdGo",
+      "duration_ms": 280080
+    },
+    {
+      "played_at": "2026-09-18T00:33:34.481Z",
+      "name": "Ragea",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "Ahla W Ahla",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343b631a1e61aa93b9db9f7a8",
+      "uri": "spotify:track:73ppBd1Mc3J6JeczDvLF8E",
+      "duration_ms": 209186
+    },
+    {
+      "played_at": "2026-09-18T00:35:34.819Z",
+      "name": "حبيبي ليه",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي",
+      "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+      "uri": "spotify:track:2OSxxCfS81wcds5RbQ0Ztq",
+      "duration_ms": 120145
+    },
+    {
+      "played_at": "2026-09-18T00:39:01.887Z",
+      "name": "KALAMANTINA / كلمنتينا",
+      "artists": [
+        "Saint Levant",
+        "Marwan Moussa"
+      ],
+      "album": "Love Letters / رسائل حب",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a0fce4a818e7d680d6ab5c40",
+      "uri": "spotify:track:3vZ3ngEbunTiK4fOVKyzYD",
+      "duration_ms": 206872
+    },
+    {
+      "played_at": "2026-09-18T00:53:05.634Z",
+      "name": "Aayshalak",
+      "artists": [
+        "Elissa"
+      ],
+      "album": "Aayshalak",
+      "image": "https://i.scdn.co/image/ab67616d0000b27374e6d6a5e5463fa5b20d64e6",
+      "uri": "spotify:track:6wE5bUgyErJTzGBqqbjdGo",
+      "duration_ms": 280080
+    },
+    {
+      "played_at": "2026-09-18T03:30:36.591Z",
+      "name": "احلى حاجة فيكى",
+      "artists": [
+        "Mohamed Hamaki"
+      ],
+      "album": "خلص الكلام",
+      "image": "https://i.scdn.co/image/ab67616d0000b273efed63c14ec5825ceb603f35",
+      "uri": "spotify:track:06uo1USMfngzC6C7RB9SXb",
+      "duration_ms": 222627
     }
   ]
 }
