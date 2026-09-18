@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:00:09.994Z",
+  "generated_at": "2026-09-18T20:33:57.184Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1378,6 +1378,18 @@
         },
         {
           "rank": 40,
+          "name": "Favour",
+          "artists": [
+            "Avenoir"
+          ],
+          "album": "Favour",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739d56b1e5772b1a52cf369d1b",
+          "uri": "spotify:track:7sYQ4bgCZAbnV3TdUbscFz",
+          "url": "https://open.spotify.com/track/7sYQ4bgCZAbnV3TdUbscFz",
+          "duration_ms": 156000
+        },
+        {
+          "rank": 41,
           "name": "Toronto",
           "artists": [
             "Nandé",
@@ -1391,7 +1403,7 @@
           "duration_ms": 198888
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Flaca",
           "artists": [
             "Cultura Profética",
@@ -1404,7 +1416,7 @@
           "duration_ms": 255875
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Risk It All",
           "artists": [
             "Bruno Mars"
@@ -1416,7 +1428,7 @@
           "duration_ms": 204068
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Bauklotze",
           "artists": [
             "Sawano Hiroyuki"
@@ -1428,7 +1440,7 @@
           "duration_ms": 236253
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "New Perspective",
           "artists": [
             "Panic! At The Disco"
@@ -1440,7 +1452,7 @@
           "duration_ms": 226786
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Mi Atención",
           "artists": [
             "Martox"
@@ -1452,7 +1464,7 @@
           "duration_ms": 212179
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Can't Leave Alone (feat. Avenoir & Maz B)",
           "artists": [
             "Pino"
@@ -1464,7 +1476,7 @@
           "duration_ms": 213413
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Oh Qué Será?",
           "artists": [
             "Willie Colón"
@@ -1476,7 +1488,7 @@
           "duration_ms": 304200
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "A Match Into Water",
           "artists": [
             "Pierce The Veil"
@@ -1486,18 +1498,6 @@
           "uri": "spotify:track:54MXF9I8s3DuiQo3g0gZ5k",
           "url": "https://open.spotify.com/track/54MXF9I8s3DuiQo3g0gZ5k",
           "duration_ms": 212546
-        },
-        {
-          "rank": 49,
-          "name": "Favour",
-          "artists": [
-            "Avenoir"
-          ],
-          "album": "Favour",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739d56b1e5772b1a52cf369d1b",
-          "uri": "spotify:track:7sYQ4bgCZAbnV3TdUbscFz",
-          "url": "https://open.spotify.com/track/7sYQ4bgCZAbnV3TdUbscFz",
-          "duration_ms": 156000
         },
         {
           "rank": 50,
@@ -2821,14 +2821,6 @@
         },
         {
           "rank": 37,
-          "name": "Daniel, Me Estás Matando",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb2c55dc0c5e84b17b01869558",
-          "genres": [],
-          "uri": "spotify:artist:51yyeVxyvecgePAWXmeLUE",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "rank": 38,
           "name": "Loathe",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
           "genres": [],
@@ -2836,7 +2828,7 @@
           "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "NewJeans",
           "image": "https://i.scdn.co/image/ab6761610000e5eb841bdcf28a956f3a384ffcf4",
           "genres": [],
@@ -2844,12 +2836,20 @@
           "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "Enrique Iglesias",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4fa1405802a42c665b0f2dd1",
           "genres": [],
           "uri": "spotify:artist:7qG3b048QCHVRO5Pv1T5lw",
           "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "rank": 40,
+          "name": "Daniel, Me Estás Matando",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb2c55dc0c5e84b17b01869558",
+          "genres": [],
+          "uri": "spotify:artist:51yyeVxyvecgePAWXmeLUE",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         },
         {
           "rank": 41,
