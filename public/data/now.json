@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-20T03:55:53.439Z",
+  "updated_at": "2026-09-20T10:50:46.720Z",
   "is_playing": false,
   "track": {
-    "name": "Pretty Eyes",
+    "name": "All I Wanted",
     "artists": [
-      "zehdi"
+      "Paramore"
     ],
-    "album": "Pretty Eyes",
-    "image": "https://i.scdn.co/image/ab67616d0000b2736cb3e8b977da71d345ce21e9",
-    "uri": "spotify:track:5V2buzGktAWyMe1ldrIvmd"
+    "album": "Brand New Eyes",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6",
+    "uri": "spotify:track:1Bv3h7Vc4AaYA2BcSM3rVd"
   },
-  "played_at": "2026-09-18T09:13:32.778Z"
+  "played_at": "2026-09-20T01:21:07.635Z"
 }

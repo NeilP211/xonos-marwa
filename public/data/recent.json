@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T03:55:53.331Z",
+  "updated_at": "2026-09-20T10:50:46.626Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -21700,6 +21700,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2736cb3e8b977da71d345ce21e9",
       "uri": "spotify:track:5V2buzGktAWyMe1ldrIvmd",
       "duration_ms": 209000
+    },
+    {
+      "played_at": "2026-09-20T01:21:07.635Z",
+      "name": "All I Wanted",
+      "artists": [
+        "Paramore"
+      ],
+      "album": "Brand New Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6",
+      "uri": "spotify:track:1Bv3h7Vc4AaYA2BcSM3rVd",
+      "duration_ms": 225786
     }
   ]
 }
