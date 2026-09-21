@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-21T12:15:48.612Z",
+  "updated_at": "2026-09-21T19:53:24.812Z",
   "is_playing": false,
   "track": {
-    "name": "Circles",
+    "name": "Searchin",
     "artists": [
-      "Pierce The Veil"
+      "Sonder"
     ],
-    "album": "Misadventures",
-    "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
-    "uri": "spotify:track:6zUy2nnchfZpzaDalE6sO2"
+    "album": "Into",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d02b7127abecfb4ba3cc5b0d",
+    "uri": "spotify:track:2WcPWXOjoDKDVouyyWV8Eq"
   },
-  "played_at": "2026-09-21T00:23:32.656Z"
+  "played_at": "2026-09-21T19:32:29.589Z"
 }

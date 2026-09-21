@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T12:15:48.487Z",
+  "updated_at": "2026-09-21T19:53:24.720Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -21733,6 +21733,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
       "uri": "spotify:track:6zUy2nnchfZpzaDalE6sO2",
       "duration_ms": 224306
+    },
+    {
+      "played_at": "2026-09-21T18:26:11.579Z",
+      "name": "Circles",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Misadventures",
+      "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+      "uri": "spotify:track:6zUy2nnchfZpzaDalE6sO2",
+      "duration_ms": 224306
+    },
+    {
+      "played_at": "2026-09-21T18:29:39.065Z",
+      "name": "Ides Of March",
+      "artists": [
+        "Silverstein"
+      ],
+      "album": "Discovering The Waterfront",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aade7ea1ce5e7f75f6d40a3c",
+      "uri": "spotify:track:3op7dCZE5j3VEmKXZcT5mR",
+      "duration_ms": 206986
+    },
+    {
+      "played_at": "2026-09-21T19:32:29.589Z",
+      "name": "Searchin",
+      "artists": [
+        "Sonder"
+      ],
+      "album": "Into",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d02b7127abecfb4ba3cc5b0d",
+      "uri": "spotify:track:2WcPWXOjoDKDVouyyWV8Eq",
+      "duration_ms": 264242
     }
   ]
 }
