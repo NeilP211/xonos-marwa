@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-20T23:03:07.498Z",
+  "updated_at": "2026-09-21T03:53:29.385Z",
   "is_playing": false,
   "track": {
-    "name": "All I Wanted",
+    "name": "Circles",
     "artists": [
-      "Paramore"
+      "Pierce The Veil"
     ],
-    "album": "Brand New Eyes",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6",
-    "uri": "spotify:track:1Bv3h7Vc4AaYA2BcSM3rVd"
+    "album": "Misadventures",
+    "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+    "uri": "spotify:track:6zUy2nnchfZpzaDalE6sO2"
   },
-  "played_at": "2026-09-20T01:21:07.635Z"
+  "played_at": "2026-09-21T00:23:32.656Z"
 }

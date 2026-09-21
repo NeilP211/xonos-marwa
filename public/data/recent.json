@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T23:03:07.393Z",
+  "updated_at": "2026-09-21T03:53:29.297Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -21711,6 +21711,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6",
       "uri": "spotify:track:1Bv3h7Vc4AaYA2BcSM3rVd",
       "duration_ms": 225786
+    },
+    {
+      "played_at": "2026-09-21T00:02:01.108Z",
+      "name": "All I Wanted",
+      "artists": [
+        "Paramore"
+      ],
+      "album": "Brand New Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6",
+      "uri": "spotify:track:1Bv3h7Vc4AaYA2BcSM3rVd",
+      "duration_ms": 225786
+    },
+    {
+      "played_at": "2026-09-21T00:23:32.656Z",
+      "name": "Circles",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Misadventures",
+      "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+      "uri": "spotify:track:6zUy2nnchfZpzaDalE6sO2",
+      "duration_ms": 224306
     }
   ]
 }
