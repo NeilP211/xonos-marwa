@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T20:59:49.446Z",
+  "generated_at": "2026-09-22T23:34:11.646Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -223,18 +223,6 @@
         },
         {
           "rank": 19,
-          "name": "Morado",
-          "artists": [
-            "J Balvin"
-          ],
-          "album": "Colores",
-          "image": "https://i.scdn.co/image/ab67616d0000b27335692baca45542527d742d0d",
-          "uri": "spotify:track:35KmOEIUqAGn02t7n4qaIr",
-          "url": "https://open.spotify.com/track/35KmOEIUqAGn02t7n4qaIr",
-          "duration_ms": 200266
-        },
-        {
-          "rank": 20,
           "name": "Sediento",
           "artists": [
             "Joey V Mendez"
@@ -246,7 +234,7 @@
           "duration_ms": 176969
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "The Way It Breaks",
           "artists": [
             "Loathe",
@@ -259,7 +247,7 @@
           "duration_ms": 306786
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Comfortable Liar",
           "artists": [
             "Chevelle"
@@ -271,7 +259,7 @@
           "duration_ms": 223266
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "King For A Day",
           "artists": [
             "Pierce The Veil",
@@ -284,7 +272,7 @@
           "duration_ms": 236293
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "PANTI Y COLALE 2.0",
           "artists": [
             "El Alfa",
@@ -303,7 +291,7 @@
           "duration_ms": 279685
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Phantom Bride",
           "artists": [
             "Deftones"
@@ -315,7 +303,7 @@
           "duration_ms": 293053
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Fallen Star",
           "artists": [
             "The Neighbourhood"
@@ -327,7 +315,7 @@
           "duration_ms": 224938
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Flawless Execution",
           "artists": [
             "Pierce The Veil"
@@ -339,7 +327,7 @@
           "duration_ms": 240053
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "Can't Leave Alone (feat. Avenoir & Maz B)",
           "artists": [
             "Pino"
@@ -351,7 +339,7 @@
           "duration_ms": 213413
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "Creo En Ti",
           "artists": [
             "maye"
@@ -363,7 +351,7 @@
           "duration_ms": 202425
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "stingray",
           "artists": [
             "Rehash"
@@ -375,7 +363,7 @@
           "duration_ms": 184041
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Kissing in Cars (Bonus Track)",
           "artists": [
             "Pierce The Veil"
@@ -387,7 +375,7 @@
           "duration_ms": 257211
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Harleys In Hawaii",
           "artists": [
             "Katy Perry"
@@ -399,7 +387,7 @@
           "duration_ms": 185480
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "仰望星空",
           "artists": [
             "張杰"
@@ -411,7 +399,7 @@
           "duration_ms": 264840
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "So Far So Fake",
           "artists": [
             "Pierce The Veil"
@@ -423,7 +411,7 @@
           "duration_ms": 236160
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "Secreto De Amor",
           "artists": [
             "Joan Sebastian"
@@ -435,7 +423,7 @@
           "duration_ms": 273008
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "The Jaws Of Life",
           "artists": [
             "Pierce The Veil"
@@ -447,7 +435,7 @@
           "duration_ms": 222666
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Pass The Nirvana",
           "artists": [
             "Pierce The Veil"
@@ -459,7 +447,7 @@
           "duration_ms": 197373
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Feelings Between The Lines",
           "artists": [
             "A Heartwell Ending"
@@ -471,7 +459,7 @@
           "duration_ms": 227826
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "Lightspeed",
           "artists": [
             "Avenoir"
@@ -483,7 +471,7 @@
           "duration_ms": 185720
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "Eat",
           "artists": [
             "VIOLENT VIRA"
@@ -495,7 +483,7 @@
           "duration_ms": 254501
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "If Looks Could Kill",
           "artists": [
             "A Heartwell Ending"
@@ -507,7 +495,7 @@
           "duration_ms": 205560
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Change (In the House of Flies)",
           "artists": [
             "Deftones"
@@ -519,7 +507,7 @@
           "duration_ms": 299533
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "Radiant City",
           "artists": [
             "Deftones"
@@ -531,7 +519,7 @@
           "duration_ms": 215450
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "Whenever",
           "artists": [
             "Lexie Liu"
@@ -543,7 +531,7 @@
           "duration_ms": 194717
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "Hole in the Earth",
           "artists": [
             "Deftones"
@@ -555,7 +543,7 @@
           "duration_ms": 249320
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "Stanley Earl",
           "artists": [
             "ASN JAYBOOG"
@@ -567,7 +555,7 @@
           "duration_ms": 160938
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "An Ending In Itself",
           "artists": [
             "Sleeping With Sirens"
@@ -579,7 +567,7 @@
           "duration_ms": 216884
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Saferwaters",
           "artists": [
             "Chevelle"
@@ -591,7 +579,7 @@
           "duration_ms": 251293
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "TMW",
           "artists": [
             "Avenoir"
@@ -603,7 +591,7 @@
           "duration_ms": 128919
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "AFTER HOURS",
           "artists": [
             "Avenoir"
@@ -613,6 +601,18 @@
           "uri": "spotify:track:2ss03wfWSV9g3DdvDklHH2",
           "url": "https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2",
           "duration_ms": 173026
+        },
+        {
+          "rank": 50,
+          "name": "Alone",
+          "artists": [
+            "Avenoir"
+          ],
+          "album": "Mirage",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a82c46b1b778f670609b88e2",
+          "uri": "spotify:track:3kjLA2VXiLYzenxpjkzhEP",
+          "url": "https://open.spotify.com/track/3kjLA2VXiLYzenxpjkzhEP",
+          "duration_ms": 145120
         }
       ],
       "artists": [
@@ -770,14 +770,6 @@
         },
         {
           "rank": 20,
-          "name": "keshi",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb3a0f8f319aeef1aa4115f5e8",
-          "genres": [],
-          "uri": "spotify:artist:3pc0bOVB5whxmD50W79wwO",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        },
-        {
-          "rank": 21,
           "name": "Feid",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e529f4ad13f86c69962cb12",
           "genres": [],
@@ -785,7 +777,7 @@
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Sleeping With Sirens",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1e2ceb6044f42f7c6dde5433",
           "genres": [],
@@ -793,7 +785,7 @@
           "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Amira Elfeky",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4b3b97e88ac4dd7ea77e886",
           "genres": [],
@@ -801,7 +793,7 @@
           "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "cloudyfield",
           "image": "https://i.scdn.co/image/ab6761610000e5eb498b21609ed42a120881a02e",
           "genres": [],
@@ -809,12 +801,20 @@
           "url": "https://open.spotify.com/artist/1QXwIgp7aA3JT7WIyaAcur"
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Joey V Mendez",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd6dc4f7cffa58ee9d73be6cf",
           "genres": [],
           "uri": "spotify:artist:24yO6ycVuKPoSHHB4Q0m7P",
           "url": "https://open.spotify.com/artist/24yO6ycVuKPoSHHB4Q0m7P"
+        },
+        {
+          "rank": 25,
+          "name": "keshi",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb3a0f8f319aeef1aa4115f5e8",
+          "genres": [],
+          "uri": "spotify:artist:3pc0bOVB5whxmD50W79wwO",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         },
         {
           "rank": 26,
