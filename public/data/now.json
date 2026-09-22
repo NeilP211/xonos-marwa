@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-22T11:08:32.876Z",
+  "updated_at": "2026-09-22T16:29:58.713Z",
   "is_playing": false,
   "track": {
-    "name": "malaise",
+    "name": "Texas Is Forever",
     "artists": [
-      "Rehash"
+      "Pierce The Veil"
     ],
-    "album": "mock",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732f50a9ad97d36ef45ac44937",
-    "uri": "spotify:track:5OsEGvmG0AfrUJqx4vZVKK"
+    "album": "Misadventures",
+    "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+    "uri": "spotify:track:1IwzGX2T7wtTjTerPiO2qQ"
   },
-  "played_at": "2026-09-22T06:40:26.616Z"
+  "played_at": "2026-09-22T14:20:05.003Z"
 }
