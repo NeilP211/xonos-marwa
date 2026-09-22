@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-22T03:50:20.623Z",
+  "updated_at": "2026-09-22T11:08:32.876Z",
   "is_playing": false,
   "track": {
-    "name": "Searchin",
+    "name": "malaise",
     "artists": [
-      "Sonder"
+      "Rehash"
     ],
-    "album": "Into",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d02b7127abecfb4ba3cc5b0d",
-    "uri": "spotify:track:2WcPWXOjoDKDVouyyWV8Eq"
+    "album": "mock",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732f50a9ad97d36ef45ac44937",
+    "uri": "spotify:track:5OsEGvmG0AfrUJqx4vZVKK"
   },
-  "played_at": "2026-09-21T19:32:29.589Z"
+  "played_at": "2026-09-22T06:40:26.616Z"
 }
