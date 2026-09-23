@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T03:48:32.143Z",
+  "updated_at": "2026-09-23T10:58:49.682Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -22021,6 +22021,86 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
       "uri": "spotify:track:1IwzGX2T7wtTjTerPiO2qQ",
       "duration_ms": 219040
+    },
+    {
+      "played_at": "2026-09-23T05:26:05.867Z",
+      "name": "I Let It in and It Took Everything...",
+      "artists": [
+        "Loathe",
+        "Vincente Void"
+      ],
+      "album": "I Let It in and It Took Everything",
+      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+      "uri": "spotify:track:09fDemXgXzRReTfb7UWxjD",
+      "duration_ms": 320413
+    },
+    {
+      "played_at": "2026-09-23T06:05:29.291Z",
+      "name": "I Let It in and It Took Everything...",
+      "artists": [
+        "Loathe",
+        "Vincente Void"
+      ],
+      "album": "I Let It in and It Took Everything",
+      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+      "uri": "spotify:track:09fDemXgXzRReTfb7UWxjD",
+      "duration_ms": 320413
+    },
+    {
+      "played_at": "2026-09-23T06:10:55.546Z",
+      "name": "So Far So Fake",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3fWibgdtgIie6LKTZ2rUoI",
+      "duration_ms": 236160
+    },
+    {
+      "played_at": "2026-09-23T06:14:28.938Z",
+      "name": "A Match Into Water",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:54MXF9I8s3DuiQo3g0gZ5k",
+      "duration_ms": 212546
+    },
+    {
+      "played_at": "2026-09-23T06:20:36.118Z",
+      "name": "Hold On Till May",
+      "artists": [
+        "Pierce The Veil",
+        "Lindsey Stamey"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
+      "duration_ms": 278586
+    },
+    {
+      "played_at": "2026-09-23T06:24:20.612Z",
+      "name": "Hell Above",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:3EKh7JNsBrGoh2xqPotBKT",
+      "duration_ms": 223546
+    },
+    {
+      "played_at": "2026-09-23T08:20:53.404Z",
+      "name": "Bulls In The Bronx",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:23UoI3jlFiWdo5jadUYo69",
+      "duration_ms": 267866
     }
   ]
 }
