@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T16:20:27.779Z",
+  "updated_at": "2026-09-23T21:13:56.699Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -22145,6 +22145,105 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
       "uri": "spotify:track:70L6nHORQsblY813yNqUR3",
       "duration_ms": 317706
+    },
+    {
+      "played_at": "2026-09-23T17:32:45.988Z",
+      "name": "If I'm James Dean, You're Audrey Hepburn",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "With Ears To See And Eyes To Hear",
+      "image": "https://i.scdn.co/image/ab67616d0000b273032fd22bde573d0746c87352",
+      "uri": "spotify:track:2D4LEUzvLRCQOLMxnajH72",
+      "duration_ms": 219106
+    },
+    {
+      "played_at": "2026-09-23T18:55:05.146Z",
+      "name": "If I'm James Dean, You're Audrey Hepburn",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "With Ears To See And Eyes To Hear",
+      "image": "https://i.scdn.co/image/ab67616d0000b273032fd22bde573d0746c87352",
+      "uri": "spotify:track:2D4LEUzvLRCQOLMxnajH72",
+      "duration_ms": 219106
+    },
+    {
+      "played_at": "2026-09-23T19:00:17.183Z",
+      "name": "Change (In the House of Flies)",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "White Pony",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
+      "uri": "spotify:track:51c94ac31swyDQj9B3Lzs3",
+      "duration_ms": 299533
+    },
+    {
+      "played_at": "2026-09-23T19:02:02.751Z",
+      "name": "Change (In the House of Flies)",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "White Pony",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
+      "uri": "spotify:track:51c94ac31swyDQj9B3Lzs3",
+      "duration_ms": 299533
+    },
+    {
+      "played_at": "2026-09-23T19:05:41.214Z",
+      "name": "Prayers / Triangles",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Gore",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1de34b79834eddf96f803ff",
+      "uri": "spotify:track:0B1Iqqq8wVoXM5R5glHQES",
+      "duration_ms": 217920
+    },
+    {
+      "played_at": "2026-09-23T19:08:55.573Z",
+      "name": "Gift",
+      "artists": [
+        "Metal in My Veins"
+      ],
+      "album": "Gift",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a9e37afb984219719f651fd4",
+      "uri": "spotify:track:6Q76HwqtMytVbreVFe9OTK",
+      "duration_ms": 194013
+    },
+    {
+      "played_at": "2026-09-23T19:14:44.418Z",
+      "name": "No Longer Making Time",
+      "artists": [
+        "Slowdive"
+      ],
+      "album": "Slowdive",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dacae168c80f791843f52439",
+      "uri": "spotify:track:3q4YT4K5Xj6v9bWFb7OudB",
+      "duration_ms": 348107
+    },
+    {
+      "played_at": "2026-09-23T19:17:26.233Z",
+      "name": "parasite",
+      "artists": [
+        "cloudyfield"
+      ],
+      "album": "parasite",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d24faed4b4ba9a26d090c4fd",
+      "uri": "spotify:track:5x9On0XqGcqRL2yoglqoG2",
+      "duration_ms": 160750
+    },
+    {
+      "played_at": "2026-09-23T19:20:19.705Z",
+      "name": "Missing Posters",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350d4bb50c617f43a4e1cf640",
+      "uri": "spotify:track:2vi4H9Vxel6bj6MrE8CqJf",
+      "duration_ms": 172970
     }
   ]
 }
