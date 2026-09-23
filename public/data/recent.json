@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T10:58:49.682Z",
+  "updated_at": "2026-09-23T16:20:27.779Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -22101,6 +22101,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
       "uri": "spotify:track:23UoI3jlFiWdo5jadUYo69",
       "duration_ms": 267866
+    },
+    {
+      "played_at": "2026-09-23T15:39:04.035Z",
+      "name": "Diamond Eyes",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:6nmDEbjMZru5j55HIkX2yZ",
+      "duration_ms": 188266
+    },
+    {
+      "played_at": "2026-09-23T15:43:25.898Z",
+      "name": "Fire",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "Let's Cheers To This",
+      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+      "uri": "spotify:track:1VLpNI5LeiLVAn0O6owtOU",
+      "duration_ms": 227600
+    },
+    {
+      "played_at": "2026-09-23T15:53:32.486Z",
+      "name": "I Don't Care",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "I Don't Care",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ee4633de5a5cc7742134139d",
+      "uri": "spotify:track:1OY9W4ZohLPBVqkNmEUNGH",
+      "duration_ms": 181028
+    },
+    {
+      "played_at": "2026-09-23T16:01:22.509Z",
+      "name": "Cherry Waves",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:70L6nHORQsblY813yNqUR3",
+      "duration_ms": 317706
     }
   ]
 }

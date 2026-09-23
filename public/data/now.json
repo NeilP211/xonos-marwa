@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-23T10:58:49.725Z",
+  "updated_at": "2026-09-23T16:20:27.888Z",
   "is_playing": false,
   "track": {
-    "name": "Bulls In The Bronx",
+    "name": "Cherry Waves",
     "artists": [
-      "Pierce The Veil"
+      "Deftones"
     ],
-    "album": "Collide With The Sky",
-    "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-    "uri": "spotify:track:23UoI3jlFiWdo5jadUYo69"
+    "album": "Saturday Night Wrist",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+    "uri": "spotify:track:70L6nHORQsblY813yNqUR3"
   },
-  "played_at": "2026-09-23T08:20:53.404Z"
+  "played_at": "2026-09-23T16:01:22.509Z"
 }
