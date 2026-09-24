@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-23T21:13:56.810Z",
+  "updated_at": "2026-09-24T03:40:26.298Z",
   "is_playing": false,
   "track": {
-    "name": "Missing Posters",
+    "name": "Callaita",
     "artists": [
-      "VIOLENT VIRA"
+      "Bad Bunny",
+      "Tainy"
     ],
-    "album": "Lover Of A Ghost",
-    "image": "https://i.scdn.co/image/ab67616d0000b27350d4bb50c617f43a4e1cf640",
-    "uri": "spotify:track:2vi4H9Vxel6bj6MrE8CqJf"
+    "album": "Callaita",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734aef420e62863ebf622c27f5",
+    "uri": "spotify:track:2TH65lNHgvLxCKXM3apjxI"
   },
-  "played_at": "2026-09-23T19:20:19.705Z"
+  "played_at": "2026-09-24T01:25:44.558Z"
 }
