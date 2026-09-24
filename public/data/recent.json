@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T11:17:47.854Z",
+  "updated_at": "2026-09-24T16:41:55.265Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -22471,6 +22471,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
       "uri": "spotify:track:7d6yK8v8J484SWH5prIQiE",
       "duration_ms": 235336
+    },
+    {
+      "played_at": "2026-09-24T12:10:31.968Z",
+      "name": "Props & Mayhem",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO",
+      "duration_ms": 217853
     }
   ]
 }
