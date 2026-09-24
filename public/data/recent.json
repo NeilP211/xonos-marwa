@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T03:40:26.204Z",
+  "updated_at": "2026-09-24T11:17:47.854Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -22413,6 +22413,64 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734aef420e62863ebf622c27f5",
       "uri": "spotify:track:2TH65lNHgvLxCKXM3apjxI",
       "duration_ms": 250533
+    },
+    {
+      "played_at": "2026-09-24T05:26:39.509Z",
+      "name": "Phantom Bride",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Gore",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1de34b79834eddf96f803ff",
+      "uri": "spotify:track:33qrQEXQJg4uk6k8fZgoOa",
+      "duration_ms": 293053
+    },
+    {
+      "played_at": "2026-09-24T05:33:06.999Z",
+      "name": "Hold On Till May",
+      "artists": [
+        "Pierce The Veil",
+        "Lindsey Stamey"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
+      "duration_ms": 278586
+    },
+    {
+      "played_at": "2026-09-24T05:36:36.761Z",
+      "name": "Luka",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Luka",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da824d21dc5fa336020fff3e",
+      "uri": "spotify:track:6ILmZpvejf4z5kYW1c4x9n",
+      "duration_ms": 209220
+    },
+    {
+      "played_at": "2026-09-24T05:39:41.360Z",
+      "name": "stingray",
+      "artists": [
+        "Rehash"
+      ],
+      "album": "mock",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f50a9ad97d36ef45ac44937",
+      "uri": "spotify:track:1iegi4anCrPW5YReZbviwa",
+      "duration_ms": 184041
+    },
+    {
+      "played_at": "2026-09-24T08:08:06.768Z",
+      "name": "VeLDÁ",
+      "artists": [
+        "Bad Bunny",
+        "Omar Courtz",
+        "Dei V"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:7d6yK8v8J484SWH5prIQiE",
+      "duration_ms": 235336
     }
   ]
 }

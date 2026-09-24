@@ -1,15 +1,16 @@
 {
-  "updated_at": "2026-09-24T03:40:26.298Z",
+  "updated_at": "2026-09-24T11:17:47.945Z",
   "is_playing": false,
   "track": {
-    "name": "Callaita",
+    "name": "VeLDÁ",
     "artists": [
       "Bad Bunny",
-      "Tainy"
+      "Omar Courtz",
+      "Dei V"
     ],
-    "album": "Callaita",
-    "image": "https://i.scdn.co/image/ab67616d0000b2734aef420e62863ebf622c27f5",
-    "uri": "spotify:track:2TH65lNHgvLxCKXM3apjxI"
+    "album": "DeBÍ TiRAR MáS FOToS",
+    "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "uri": "spotify:track:7d6yK8v8J484SWH5prIQiE"
   },
-  "played_at": "2026-09-24T01:25:44.558Z"
+  "played_at": "2026-09-24T08:08:06.768Z"
 }
