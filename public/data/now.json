@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-25T16:46:53.669Z",
+  "updated_at": "2026-09-25T21:13:06.107Z",
   "is_playing": false,
   "track": {
-    "name": "At the Movies",
+    "name": "Prayers / Triangles",
     "artists": [
-      "Bad Brains"
+      "Deftones"
     ],
-    "album": "Rock for Light",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b4bbc117f93eb572bebf9585",
-    "uri": "spotify:track:3jHg8MF1vqjUyDphuLOHTp"
+    "album": "Gore",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a1de34b79834eddf96f803ff",
+    "uri": "spotify:track:0B1Iqqq8wVoXM5R5glHQES"
   },
-  "played_at": "2026-09-25T03:42:46.606Z"
+  "played_at": "2026-09-25T19:03:43.688Z"
 }
