@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T21:15:50.674Z",
+  "generated_at": "2026-09-25T03:56:52.687Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1426,6 +1426,18 @@
         },
         {
           "rank": 47,
+          "name": "Props & Mayhem",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "Collide With The Sky",
+          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+          "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO",
+          "url": "https://open.spotify.com/track/2SYMnBpx7zyhSDPQwoOlFO",
+          "duration_ms": 217853
+        },
+        {
+          "rank": 48,
           "name": "Risk It All",
           "artists": [
             "Bruno Mars"
@@ -1437,7 +1449,7 @@
           "duration_ms": 204068
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Bauklotze",
           "artists": [
             "Sawano Hiroyuki"
@@ -1449,7 +1461,7 @@
           "duration_ms": 236253
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Bulls In The Bronx",
           "artists": [
             "Pierce The Veil"
@@ -1459,18 +1471,6 @@
           "uri": "spotify:track:23UoI3jlFiWdo5jadUYo69",
           "url": "https://open.spotify.com/track/23UoI3jlFiWdo5jadUYo69",
           "duration_ms": 267866
-        },
-        {
-          "rank": 50,
-          "name": "Morado",
-          "artists": [
-            "J Balvin"
-          ],
-          "album": "Colores",
-          "image": "https://i.scdn.co/image/ab67616d0000b27335692baca45542527d742d0d",
-          "uri": "spotify:track:35KmOEIUqAGn02t7n4qaIr",
-          "url": "https://open.spotify.com/track/35KmOEIUqAGn02t7n4qaIr",
-          "duration_ms": 200266
         }
       ],
       "artists": [
@@ -2063,6 +2063,20 @@
         },
         {
           "rank": 16,
+          "name": "VeLDÁ",
+          "artists": [
+            "Bad Bunny",
+            "Omar Courtz",
+            "Dei V"
+          ],
+          "album": "DeBÍ TiRAR MáS FOToS",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "uri": "spotify:track:7d6yK8v8J484SWH5prIQiE",
+          "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE",
+          "duration_ms": 235336
+        },
+        {
+          "rank": 17,
           "name": "The Way It Breaks",
           "artists": [
             "Loathe",
@@ -2075,7 +2089,7 @@
           "duration_ms": 306786
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Ego",
           "artists": [
             "Peach Luffe"
@@ -2085,20 +2099,6 @@
           "uri": "spotify:track:6qWLeDClhAZYyshdF3y45Y",
           "url": "https://open.spotify.com/track/6qWLeDClhAZYyshdF3y45Y",
           "duration_ms": 180814
-        },
-        {
-          "rank": 18,
-          "name": "VeLDÁ",
-          "artists": [
-            "Bad Bunny",
-            "Omar Courtz",
-            "Dei V"
-          ],
-          "album": "DeBÍ TiRAR MáS FOToS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-          "uri": "spotify:track:7d6yK8v8J484SWH5prIQiE",
-          "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE",
-          "duration_ms": 235336
         },
         {
           "rank": 19,
@@ -2263,6 +2263,18 @@
         },
         {
           "rank": 32,
+          "name": "Azul",
+          "artists": [
+            "J Balvin"
+          ],
+          "album": "Colores",
+          "image": "https://i.scdn.co/image/ab67616d0000b27335692baca45542527d742d0d",
+          "uri": "spotify:track:2lCkncy6bIB0LTMT7kvrD1",
+          "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1",
+          "duration_ms": 205933
+        },
+        {
+          "rank": 33,
           "name": "Ice On My Teeth",
           "artists": [
             "ATEEZ"
@@ -2274,7 +2286,7 @@
           "duration_ms": 183494
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Sustum",
           "artists": [
             "Evdeki Saat"
@@ -2286,7 +2298,7 @@
           "duration_ms": 212250
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Mucho Corazón",
           "artists": [
             "Luis Miguel"
@@ -2298,7 +2310,7 @@
           "duration_ms": 203733
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Tamally Maak",
           "artists": [
             "Amr Diab"
@@ -2310,7 +2322,7 @@
           "duration_ms": 269232
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Anlatamam",
           "artists": [
             "Toygar Işıklı"
@@ -2322,7 +2334,7 @@
           "duration_ms": 132550
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "BAILE INoLVIDABLE",
           "artists": [
             "Bad Bunny"
@@ -2334,7 +2346,7 @@
           "duration_ms": 367725
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "要不然我們就這樣一萬年",
           "artists": [
             "黃霄雲"
@@ -2344,18 +2356,6 @@
           "uri": "spotify:track:53jpb3h7L7tbXJR5WveuHw",
           "url": "https://open.spotify.com/track/53jpb3h7L7tbXJR5WveuHw",
           "duration_ms": 284710
-        },
-        {
-          "rank": 39,
-          "name": "Azul",
-          "artists": [
-            "J Balvin"
-          ],
-          "album": "Colores",
-          "image": "https://i.scdn.co/image/ab67616d0000b27335692baca45542527d742d0d",
-          "uri": "spotify:track:2lCkncy6bIB0LTMT7kvrD1",
-          "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1",
-          "duration_ms": 205933
         },
         {
           "rank": 40,
@@ -2432,6 +2432,19 @@
         },
         {
           "rank": 46,
+          "name": "Hold On Till May",
+          "artists": [
+            "Pierce The Veil",
+            "Lindsey Stamey"
+          ],
+          "album": "Collide With The Sky",
+          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+          "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
+          "url": "https://open.spotify.com/track/5u2FOoFhp495GIj5BJC77J",
+          "duration_ms": 278586
+        },
+        {
+          "rank": 47,
           "name": "《夢的燭衣》（《大夢歸離》影視劇情殤曲）",
           "artists": [
             "Zhang Bichen"
@@ -2443,7 +2456,7 @@
           "duration_ms": 231949
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "HAVHAVHAV",
           "artists": [
             "Lvbel C5"
@@ -2455,7 +2468,7 @@
           "duration_ms": 126255
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Art of War",
           "artists": [
             "Avenoir"
@@ -2467,7 +2480,7 @@
           "duration_ms": 126973
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "澎湃",
           "artists": [
             "虞书欣"
@@ -2477,18 +2490,6 @@
           "uri": "spotify:track:4KzAre4wP51Xr1CWwfV45k",
           "url": "https://open.spotify.com/track/4KzAre4wP51Xr1CWwfV45k",
           "duration_ms": 214500
-        },
-        {
-          "rank": 50,
-          "name": "All My Heart",
-          "artists": [
-            "Sleeping With Sirens"
-          ],
-          "album": "Let's Cheers To This",
-          "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
-          "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
-          "url": "https://open.spotify.com/track/5ANZkftsPAO0yhynm9jwlU",
-          "duration_ms": 279293
         }
       ],
       "artists": [
@@ -2574,19 +2575,19 @@
         },
         {
           "rank": 11,
-          "name": "The Marías",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
-          "genres": [],
-          "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        },
-        {
-          "rank": 12,
           "name": "Rauw Alejandro",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6d72db3fd29576caa9cb821f",
           "genres": [],
           "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "rank": 12,
+          "name": "The Marías",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
+          "genres": [],
+          "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         },
         {
           "rank": 13,

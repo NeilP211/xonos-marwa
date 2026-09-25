@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-24T21:15:50.901Z",
+  "updated_at": "2026-09-25T03:56:52.800Z",
   "is_playing": false,
   "track": {
-    "name": "Props & Mayhem",
+    "name": "At the Movies",
     "artists": [
-      "Pierce The Veil"
+      "Bad Brains"
     ],
-    "album": "Collide With The Sky",
-    "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-    "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO"
+    "album": "Rock for Light",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b4bbc117f93eb572bebf9585",
+    "uri": "spotify:track:3jHg8MF1vqjUyDphuLOHTp"
   },
-  "played_at": "2026-09-24T12:10:31.968Z"
+  "played_at": "2026-09-25T03:42:46.606Z"
 }

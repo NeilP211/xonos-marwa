@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T21:15:50.770Z",
+  "updated_at": "2026-09-25T03:56:52.760Z",
   "plays": [
     {
       "played_at": "2026-06-11T13:08:31.134Z",
@@ -22482,6 +22482,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
       "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO",
       "duration_ms": 217853
+    },
+    {
+      "played_at": "2026-09-25T03:42:46.606Z",
+      "name": "At the Movies",
+      "artists": [
+        "Bad Brains"
+      ],
+      "album": "Rock for Light",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b4bbc117f93eb572bebf9585",
+      "uri": "spotify:track:3jHg8MF1vqjUyDphuLOHTp",
+      "duration_ms": 136333
     }
   ]
 }
