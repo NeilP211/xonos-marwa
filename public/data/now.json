@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-26T04:01:49.554Z",
+  "updated_at": "2026-09-26T10:58:50.121Z",
   "is_playing": false,
   "track": {
-    "name": "Bitches Brew",
+    "name": "~metal dream",
     "artists": [
-      "✝✝✝ (Crosses)"
+      "Deftones"
     ],
-    "album": "††† (Crosses)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2733eeef35bcdc747ca4506a473",
-    "uri": "spotify:track:4E23uX1BDdUTk9x56nEbla"
+    "album": "private music",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+    "uri": "spotify:track:1HuuFLjgjIfzMFgGuZjv4Z"
   },
-  "played_at": "2026-09-25T22:50:25.849Z"
+  "played_at": "2026-09-25T22:58:06.659Z"
 }
