@@ -1,83 +1,6 @@
 {
-  "updated_at": "2026-09-25T21:13:05.965Z",
+  "updated_at": "2026-09-26T04:01:49.460Z",
   "plays": [
-    {
-      "played_at": "2026-06-11T14:19:41.519Z",
-      "name": "Every Breath You Take",
-      "artists": [
-        "The Police"
-      ],
-      "album": "Synchronicity (Remastered 2003)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
-      "uri": "spotify:track:1JSTJqkT5qHq8MDJnJbRE1",
-      "duration_ms": 253920
-    },
-    {
-      "played_at": "2026-06-11T14:23:43.886Z",
-      "name": "Sextape",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Diamond Eyes",
-      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
-      "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
-      "duration_ms": 241533
-    },
-    {
-      "played_at": "2026-06-11T14:58:14.172Z",
-      "name": "The Bomb Dot Com V2.0",
-      "artists": [
-        "Sleeping With Sirens"
-      ],
-      "album": "With Ears To See And Eyes To Hear",
-      "image": "https://i.scdn.co/image/ab67616d0000b273032fd22bde573d0746c87352",
-      "uri": "spotify:track:6WBkSZbGBaIWnEgnMoXEJU",
-      "duration_ms": 211720
-    },
-    {
-      "played_at": "2026-06-11T15:03:16.046Z",
-      "name": "An Ending In Itself",
-      "artists": [
-        "Sleeping With Sirens"
-      ],
-      "album": "An Ending In Itself",
-      "image": "https://i.scdn.co/image/ab67616d0000b27388a099f0f4b893976b921e77",
-      "uri": "spotify:track:10NpRPR6vhJLF2LutMM2Qk",
-      "duration_ms": 216884
-    },
-    {
-      "played_at": "2026-06-11T15:07:33.388Z",
-      "name": "Kiss Me Now",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
-      "uri": "spotify:track:6yT9iNKt8fQoYpQkbWc7YR",
-      "duration_ms": 256268
-    },
-    {
-      "played_at": "2026-06-11T15:12:01.761Z",
-      "name": "heaven and hell",
-      "artists": [
-        "wave to earth"
-      ],
-      "album": "heaven and hell",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e86a62c80afd3d639ab2893c",
-      "uri": "spotify:track:5FZoGATKGIzrC7seHkZmfP",
-      "duration_ms": 268388
-    },
-    {
-      "played_at": "2026-06-11T15:15:00.875Z",
-      "name": "Descifrar",
-      "artists": [
-        "maye"
-      ],
-      "album": "Descifrar",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
-      "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
-      "duration_ms": 178700
-    },
     {
       "played_at": "2026-06-11T16:21:47.483Z",
       "name": "Yo Me Consiento",
@@ -22514,6 +22437,83 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a1de34b79834eddf96f803ff",
       "uri": "spotify:track:0B1Iqqq8wVoXM5R5glHQES",
       "duration_ms": 217920
+    },
+    {
+      "played_at": "2026-09-25T22:23:17.957Z",
+      "name": "Gift",
+      "artists": [
+        "Metal in My Veins"
+      ],
+      "album": "Gift",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a9e37afb984219719f651fd4",
+      "uri": "spotify:track:6Q76HwqtMytVbreVFe9OTK",
+      "duration_ms": 194013
+    },
+    {
+      "played_at": "2026-09-25T22:24:21.880Z",
+      "name": "Gift",
+      "artists": [
+        "Metal in My Veins"
+      ],
+      "album": "Gift",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a9e37afb984219719f651fd4",
+      "uri": "spotify:track:6Q76HwqtMytVbreVFe9OTK",
+      "duration_ms": 194013
+    },
+    {
+      "played_at": "2026-09-25T22:30:10.461Z",
+      "name": "No Longer Making Time",
+      "artists": [
+        "Slowdive"
+      ],
+      "album": "Slowdive",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dacae168c80f791843f52439",
+      "uri": "spotify:track:3q4YT4K5Xj6v9bWFb7OudB",
+      "duration_ms": 348107
+    },
+    {
+      "played_at": "2026-09-25T22:32:51.704Z",
+      "name": "parasite",
+      "artists": [
+        "cloudyfield"
+      ],
+      "album": "parasite",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d24faed4b4ba9a26d090c4fd",
+      "uri": "spotify:track:5x9On0XqGcqRL2yoglqoG2",
+      "duration_ms": 160750
+    },
+    {
+      "played_at": "2026-09-25T22:35:45.290Z",
+      "name": "Missing Posters",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350d4bb50c617f43a4e1cf640",
+      "uri": "spotify:track:2vi4H9Vxel6bj6MrE8CqJf",
+      "duration_ms": 172970
+    },
+    {
+      "played_at": "2026-09-25T22:46:56.646Z",
+      "name": "Phantom Bride",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Gore",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1de34b79834eddf96f803ff",
+      "uri": "spotify:track:33qrQEXQJg4uk6k8fZgoOa",
+      "duration_ms": 293053
+    },
+    {
+      "played_at": "2026-09-25T22:50:25.849Z",
+      "name": "Bitches Brew",
+      "artists": [
+        "✝✝✝ (Crosses)"
+      ],
+      "album": "††† (Crosses)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733eeef35bcdc747ca4506a473",
+      "uri": "spotify:track:4E23uX1BDdUTk9x56nEbla",
+      "duration_ms": 208714
     }
   ]
 }
