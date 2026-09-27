@@ -1,30 +1,6 @@
 {
-  "updated_at": "2026-09-27T16:35:21.107Z",
+  "updated_at": "2026-09-27T21:02:12.572Z",
   "plays": [
-    {
-      "played_at": "2026-06-11T16:41:16.615Z",
-      "name": "Confident",
-      "artists": [
-        "Justin Bieber",
-        "Chance the Rapper"
-      ],
-      "album": "Journals",
-      "image": "https://i.scdn.co/image/ab67616d0000b273aac2a4189ed89b369c539df6",
-      "uri": "spotify:track:5Isz0twJeFdduOQEFQLezv",
-      "duration_ms": 248133
-    },
-    {
-      "played_at": "2026-06-11T16:47:09.453Z",
-      "name": "Love Me Not (feat. Rex Orange County)",
-      "artists": [
-        "Ravyn Lenae",
-        "Rex Orange County"
-      ],
-      "album": "Love Me Not (feat. Rex Orange County)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273084cd39fc4059e42cd19d61b",
-      "uri": "spotify:track:3ld1FzyNgpZwGn4h9cOXrq",
-      "duration_ms": 188198
-    },
     {
       "played_at": "2026-06-11T16:54:16.143Z",
       "name": "I'm Low On Gas And You Need A Jacket",
@@ -22514,6 +22490,29 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
       "uri": "spotify:track:1HuuFLjgjIfzMFgGuZjv4Z",
       "duration_ms": 182828
+    },
+    {
+      "played_at": "2026-09-27T19:03:28.159Z",
+      "name": "Dardos",
+      "artists": [
+        "Romeo Santos",
+        "Prince Royce"
+      ],
+      "album": "Better Late Than Never",
+      "image": "https://i.scdn.co/image/ab67616d0000b27391750ed467a5ecc14beaa03f",
+      "uri": "spotify:track:5SudOD9R1Of6CsJVWZy6CQ",
+      "duration_ms": 243070
+    },
+    {
+      "played_at": "2026-09-27T19:11:11.615Z",
+      "name": "ALAKRAN",
+      "artists": [
+        "Feid"
+      ],
+      "album": "FERXXOCALIPSIS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242",
+      "uri": "spotify:track:2Yc3MHpZ9R5UCIz78E20AQ",
+      "duration_ms": 90613
     }
   ]
 }

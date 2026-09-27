@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-27T16:35:21.207Z",
+  "updated_at": "2026-09-27T21:02:12.686Z",
   "is_playing": false,
   "track": {
-    "name": "~metal dream",
+    "name": "ALAKRAN",
     "artists": [
-      "Deftones"
+      "Feid"
     ],
-    "album": "private music",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
-    "uri": "spotify:track:1HuuFLjgjIfzMFgGuZjv4Z"
+    "album": "FERXXOCALIPSIS",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242",
+    "uri": "spotify:track:2Yc3MHpZ9R5UCIz78E20AQ"
   },
-  "played_at": "2026-09-25T22:58:06.659Z"
+  "played_at": "2026-09-27T19:11:11.615Z"
 }
