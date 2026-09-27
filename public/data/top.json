@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T04:14:29.357Z",
+  "generated_at": "2026-09-27T11:37:01.175Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2014,20 +2014,6 @@
         },
         {
           "rank": 16,
-          "name": "VeLDÁ",
-          "artists": [
-            "Bad Bunny",
-            "Omar Courtz",
-            "Dei V"
-          ],
-          "album": "DeBÍ TiRAR MáS FOToS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-          "uri": "spotify:track:7d6yK8v8J484SWH5prIQiE",
-          "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE",
-          "duration_ms": 235336
-        },
-        {
-          "rank": 17,
           "name": "The Way It Breaks",
           "artists": [
             "Loathe",
@@ -2040,7 +2026,7 @@
           "duration_ms": 306786
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Ego",
           "artists": [
             "Peach Luffe"
@@ -2050,6 +2036,20 @@
           "uri": "spotify:track:6qWLeDClhAZYyshdF3y45Y",
           "url": "https://open.spotify.com/track/6qWLeDClhAZYyshdF3y45Y",
           "duration_ms": 180814
+        },
+        {
+          "rank": 18,
+          "name": "VeLDÁ",
+          "artists": [
+            "Bad Bunny",
+            "Omar Courtz",
+            "Dei V"
+          ],
+          "album": "DeBÍ TiRAR MáS FOToS",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+          "uri": "spotify:track:7d6yK8v8J484SWH5prIQiE",
+          "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE",
+          "duration_ms": 235336
         },
         {
           "rank": 19,
@@ -2662,14 +2662,6 @@
         },
         {
           "rank": 28,
-          "name": "Nancy Ajram",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb5c9cf78344e4a0dd486a0e34",
-          "genres": [],
-          "uri": "spotify:artist:0LnHdW6HMPoOlNdhG3DHjE",
-          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
-        },
-        {
-          "rank": 29,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -2677,7 +2669,7 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Avenoir",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb4931e767936dbd7d806089c",
           "genres": [],
@@ -2685,7 +2677,7 @@
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Feid",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e529f4ad13f86c69962cb12",
           "genres": [],
@@ -2693,12 +2685,20 @@
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Colde",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb03b1ba24c2bf2c0b7ea0435",
           "genres": [],
           "uri": "spotify:artist:3VQDqjQ4wJyw8PzpGdlZpB",
           "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        },
+        {
+          "rank": 32,
+          "name": "Nancy Ajram",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb5c9cf78344e4a0dd486a0e34",
+          "genres": [],
+          "uri": "spotify:artist:0LnHdW6HMPoOlNdhG3DHjE",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
         },
         {
           "rank": 33,
@@ -2814,14 +2814,6 @@
         },
         {
           "rank": 47,
-          "name": "Daniel, Me Estás Matando",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb2c55dc0c5e84b17b01869558",
-          "genres": [],
-          "uri": "spotify:artist:51yyeVxyvecgePAWXmeLUE",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "rank": 48,
           "name": "TOMORROW X TOGETHER",
           "image": "https://i.scdn.co/image/ab6761610000e5eb54fc4bff90d96d3ef0179e62",
           "genres": [],
@@ -2829,12 +2821,20 @@
           "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Aventura",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4cd0464ef7d8eb8521f72dd8",
           "genres": [],
           "uri": "spotify:artist:1qto4hHid1P71emI6Fd8xi",
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "rank": 49,
+          "name": "Daniel, Me Estás Matando",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb2c55dc0c5e84b17b01869558",
+          "genres": [],
+          "uri": "spotify:artist:51yyeVxyvecgePAWXmeLUE",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         },
         {
           "rank": 50,
