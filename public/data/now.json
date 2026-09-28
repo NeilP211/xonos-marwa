@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-09-28T13:11:38.945Z",
+  "updated_at": "2026-09-28T21:06:25.245Z",
   "is_playing": false,
   "track": {
-    "name": "Un Amor de los 90's",
+    "name": "Two-Way Mirror",
     "artists": [
-      "Jasiel Nuñez",
-      "Rawayana"
+      "Loathe"
     ],
-    "album": "Un Amor de los 90's",
-    "image": "https://i.scdn.co/image/ab67616d0000b27388be64b27fcfde64b5c780a0",
-    "uri": "spotify:track:0SWaRG0fH95VNsMLzLm6sy"
+    "album": "I Let It in and It Took Everything",
+    "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+    "uri": "spotify:track:0b4TKuvZ4eJ8eHgJgXaCnN"
   },
-  "played_at": "2026-09-28T00:44:45.185Z"
+  "played_at": "2026-09-28T18:51:43.585Z"
 }

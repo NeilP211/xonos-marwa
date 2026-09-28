@@ -1,296 +1,6 @@
 {
-  "updated_at": "2026-09-28T13:11:38.854Z",
+  "updated_at": "2026-09-28T21:06:25.125Z",
   "plays": [
-    {
-      "played_at": "2026-06-12T17:43:21.954Z",
-      "name": "So Tender",
-      "artists": [
-        "Say Sue Me"
-      ],
-      "album": "Nevertheless, (Original Television Soundtrack, Pt. 8)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d859b4bb308e33eaebf172ee",
-      "uri": "spotify:track:1Qhcx4uDQ4RFy9m4mKdzUN",
-      "duration_ms": 268453
-    },
-    {
-      "played_at": "2026-06-12T23:42:56.350Z",
-      "name": "キエンセラ",
-      "artists": [
-        "Lisa Ono"
-      ],
-      "album": "Romance Latino vol.3 -Cuba Caliente Y Su Ritmo Sabroso-",
-      "image": "https://i.scdn.co/image/ab67616d0000b27364d94d72548b885f14ea96c9",
-      "uri": "spotify:track:6pTh0DeJkVDvv1ytHlwDiA",
-      "duration_ms": 200866
-    },
-    {
-      "played_at": "2026-06-14T00:34:21.520Z",
-      "name": "Could've Been (feat. Bryson Tiller)",
-      "artists": [
-        "H.E.R.",
-        "Bryson Tiller"
-      ],
-      "album": "I Used To Know Her",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a37d773f1a975bffb51f42fe",
-      "uri": "spotify:track:6oEVnWKgPqIEPc53OYDNqG",
-      "duration_ms": 252750
-    },
-    {
-      "played_at": "2026-06-14T00:38:54.599Z",
-      "name": "How Many Drinks?",
-      "artists": [
-        "Miguel"
-      ],
-      "album": "Kaleidoscope Dream",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fc67af03f71d54b3519a6dd5",
-      "uri": "spotify:track:6Q8nmDj0JIu0uxhugcIpBw",
-      "duration_ms": 273066
-    },
-    {
-      "played_at": "2026-06-14T00:43:11.184Z",
-      "name": "Kiss Me Now",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
-      "uri": "spotify:track:6yT9iNKt8fQoYpQkbWc7YR",
-      "duration_ms": 256268
-    },
-    {
-      "played_at": "2026-06-14T00:49:02.957Z",
-      "name": "Decode",
-      "artists": [
-        "Paramore"
-      ],
-      "album": "Decode",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b236d0eae2659e7e7adb8b56",
-      "uri": "spotify:track:1ZLtE9tSJdaUiIJ9YoKHQe",
-      "duration_ms": 261959
-    },
-    {
-      "played_at": "2026-06-14T00:58:21.776Z",
-      "name": "Si por Mi Fuera",
-      "artists": [
-        "Los Rumberos",
-        "Juan Pablo Vega"
-      ],
-      "album": "Si por Mi Fuera",
-      "image": "https://i.scdn.co/image/ab67616d0000b27311b11823ccc2d14df2508d83",
-      "uri": "spotify:track:5z9a61fPYYlb2hV0GLVYaB",
-      "duration_ms": 212680
-    },
-    {
-      "played_at": "2026-06-16T02:45:23.867Z",
-      "name": "흩어진나날들",
-      "artists": [
-        "강수지"
-      ],
-      "album": "강수지2집",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336baac318c4aac27ed3a54ea",
-      "uri": "spotify:track:3IuA2jGGOgZCGwQBiLhRuP",
-      "duration_ms": 262126
-    },
-    {
-      "played_at": "2026-06-16T03:10:03.579Z",
-      "name": "흩어진나날들",
-      "artists": [
-        "강수지"
-      ],
-      "album": "강수지2집",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336baac318c4aac27ed3a54ea",
-      "uri": "spotify:track:3IuA2jGGOgZCGwQBiLhRuP",
-      "duration_ms": 262126
-    },
-    {
-      "played_at": "2026-06-16T03:14:27.001Z",
-      "name": "Ides Of March",
-      "artists": [
-        "Silverstein"
-      ],
-      "album": "Discovering The Waterfront",
-      "image": "https://i.scdn.co/image/ab67616d0000b273aade7ea1ce5e7f75f6d40a3c",
-      "uri": "spotify:track:3op7dCZE5j3VEmKXZcT5mR",
-      "duration_ms": 206986
-    },
-    {
-      "played_at": "2026-06-16T04:36:43.385Z",
-      "name": "Spring Day",
-      "artists": [
-        "BTS"
-      ],
-      "album": "You Never Walk Alone",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6",
-      "uri": "spotify:track:2j1fFjWHCI9KJSwcuYAOyF",
-      "duration_ms": 274097
-    },
-    {
-      "played_at": "2026-06-16T13:49:49.780Z",
-      "name": "Descifrar",
-      "artists": [
-        "maye"
-      ],
-      "album": "Descifrar",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
-      "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
-      "duration_ms": 178700
-    },
-    {
-      "played_at": "2026-06-16T13:49:53.932Z",
-      "name": "All My Heart",
-      "artists": [
-        "Sleeping With Sirens"
-      ],
-      "album": "Let's Cheers To This",
-      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
-      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
-      "duration_ms": 279293
-    },
-    {
-      "played_at": "2026-06-16T13:50:17.672Z",
-      "name": "Descifrar",
-      "artists": [
-        "maye"
-      ],
-      "album": "Descifrar",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
-      "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
-      "duration_ms": 178700
-    },
-    {
-      "played_at": "2026-06-16T13:50:26.942Z",
-      "name": "Descifrar",
-      "artists": [
-        "maye"
-      ],
-      "album": "Descifrar",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
-      "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
-      "duration_ms": 178700
-    },
-    {
-      "played_at": "2026-06-16T13:50:27.223Z",
-      "name": "All My Heart",
-      "artists": [
-        "Sleeping With Sirens"
-      ],
-      "album": "Let's Cheers To This",
-      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
-      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
-      "duration_ms": 279293
-    },
-    {
-      "played_at": "2026-06-16T13:51:17.152Z",
-      "name": "Descifrar",
-      "artists": [
-        "maye"
-      ],
-      "album": "Descifrar",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
-      "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
-      "duration_ms": 178700
-    },
-    {
-      "played_at": "2026-06-16T13:51:27.330Z",
-      "name": "All My Heart",
-      "artists": [
-        "Sleeping With Sirens"
-      ],
-      "album": "Let's Cheers To This",
-      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
-      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
-      "duration_ms": 279293
-    },
-    {
-      "played_at": "2026-06-16T13:52:02.317Z",
-      "name": "All My Heart",
-      "artists": [
-        "Sleeping With Sirens"
-      ],
-      "album": "Let's Cheers To This",
-      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
-      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
-      "duration_ms": 279293
-    },
-    {
-      "played_at": "2026-06-16T13:52:06.507Z",
-      "name": "Descifrar",
-      "artists": [
-        "maye"
-      ],
-      "album": "Descifrar",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
-      "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
-      "duration_ms": 178700
-    },
-    {
-      "played_at": "2026-06-16T13:52:06.913Z",
-      "name": "All My Heart",
-      "artists": [
-        "Sleeping With Sirens"
-      ],
-      "album": "Let's Cheers To This",
-      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
-      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
-      "duration_ms": 279293
-    },
-    {
-      "played_at": "2026-06-16T13:54:42.697Z",
-      "name": "All My Heart",
-      "artists": [
-        "Sleeping With Sirens"
-      ],
-      "album": "Let's Cheers To This",
-      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
-      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
-      "duration_ms": 279293
-    },
-    {
-      "played_at": "2026-06-16T13:54:45.098Z",
-      "name": "흩어진나날들",
-      "artists": [
-        "강수지"
-      ],
-      "album": "강수지2집",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336baac318c4aac27ed3a54ea",
-      "uri": "spotify:track:3IuA2jGGOgZCGwQBiLhRuP",
-      "duration_ms": 262126
-    },
-    {
-      "played_at": "2026-06-16T16:38:59.538Z",
-      "name": "COSITA LINDA",
-      "artists": [
-        "ELENA ROSE",
-        "Justin Quiles"
-      ],
-      "album": "COSITA LINDA",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732094610db2011e6b44f997f9",
-      "uri": "spotify:track:1fDjHyaZnNCPo9QsuFdQVO",
-      "duration_ms": 139483
-    },
-    {
-      "played_at": "2026-06-16T16:46:47.192Z",
-      "name": "Anoche",
-      "artists": [
-        "Danny Ocean",
-        "Aitana"
-      ],
-      "album": "Babylon Club",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734330d7d9762313dff66f1ca7",
-      "uri": "spotify:track:0ETWLLoRd6Z4r97h3740C1",
-      "duration_ms": 144950
-    },
-    {
-      "played_at": "2026-06-16T16:51:52.011Z",
-      "name": "LIMBO",
-      "artists": [
-        "keshi"
-      ],
-      "album": "GABRIEL",
-      "image": "https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb",
-      "uri": "spotify:track:2bdVgAQgosGUJoViVDNeOV",
-      "duration_ms": 212784
-    },
     {
       "played_at": "2026-06-16T17:01:03.548Z",
       "name": "All About Our Love",
@@ -22519,6 +22229,299 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27388be64b27fcfde64b5c780a0",
       "uri": "spotify:track:0SWaRG0fH95VNsMLzLm6sy",
       "duration_ms": 179886
+    },
+    {
+      "played_at": "2026-09-28T15:01:29.091Z",
+      "name": "Toronto",
+      "artists": [
+        "Nandé",
+        "Rawayana",
+        "Guaco"
+      ],
+      "album": "Toronto",
+      "image": "https://i.scdn.co/image/ab67616d0000b273271ed2eb8eaf2951660d5bbb",
+      "uri": "spotify:track:0nvg8vlz0qO47rkgOdVMwc",
+      "duration_ms": 198888
+    },
+    {
+      "played_at": "2026-09-28T15:01:56.229Z",
+      "name": "Toronto",
+      "artists": [
+        "Nandé",
+        "Rawayana",
+        "Guaco"
+      ],
+      "album": "Toronto",
+      "image": "https://i.scdn.co/image/ab67616d0000b273271ed2eb8eaf2951660d5bbb",
+      "uri": "spotify:track:0nvg8vlz0qO47rkgOdVMwc",
+      "duration_ms": 198888
+    },
+    {
+      "played_at": "2026-09-28T15:06:12.584Z",
+      "name": "Flaca",
+      "artists": [
+        "Cultura Profética",
+        "Kapo"
+      ],
+      "album": "En bucle",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bdb7b2e807fd7b98ecc03b07",
+      "uri": "spotify:track:1rANpxB9ZtlcGTvandJAzI",
+      "duration_ms": 255875
+    },
+    {
+      "played_at": "2026-09-28T15:09:03.348Z",
+      "name": "Paraíso",
+      "artists": [
+        "La Cassandra",
+        "Martox"
+      ],
+      "album": "Paraíso",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d02059a93205bfe23e659358",
+      "uri": "spotify:track:0MISnYHBOzwTF3w8jJ3ar2",
+      "duration_ms": 170226
+    },
+    {
+      "played_at": "2026-09-28T15:15:38.881Z",
+      "name": "Kaleidoscope",
+      "artists": [
+        "maye"
+      ],
+      "album": "Kaleidoscope",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c556c93a612fedd5cd7ac849",
+      "uri": "spotify:track:0kJqmEL3UbprAkBSFBdZY4",
+      "duration_ms": 179191
+    },
+    {
+      "played_at": "2026-09-28T16:24:31.416Z",
+      "name": "Kaleidoscope",
+      "artists": [
+        "maye"
+      ],
+      "album": "Kaleidoscope",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c556c93a612fedd5cd7ac849",
+      "uri": "spotify:track:0kJqmEL3UbprAkBSFBdZY4",
+      "duration_ms": 179191
+    },
+    {
+      "played_at": "2026-09-28T16:29:51.520Z",
+      "name": "Emergency Contact",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:4amltxLIfFmtYEvZbdgDqO",
+      "duration_ms": 240000
+    },
+    {
+      "played_at": "2026-09-28T16:33:48.957Z",
+      "name": "Damn The Man, Save The Empire",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:57ISsI9qQcAUkhiqwEMhxG",
+      "duration_ms": 237000
+    },
+    {
+      "played_at": "2026-09-28T16:37:32.108Z",
+      "name": "The Jaws Of Life",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:4mfbHWZCIsDVMKk9HAqEgF",
+      "duration_ms": 222666
+    },
+    {
+      "played_at": "2026-09-28T16:42:00.541Z",
+      "name": "Death Of An Executioner",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
+      "duration_ms": 267800
+    },
+    {
+      "played_at": "2026-09-28T16:45:17.859Z",
+      "name": "Pass The Nirvana",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:7I93h9I0RUqt1ci3Bfa290",
+      "duration_ms": 197373
+    },
+    {
+      "played_at": "2026-09-28T16:49:31.344Z",
+      "name": "Shared Trauma",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
+      "duration_ms": 253000
+    },
+    {
+      "played_at": "2026-09-28T16:53:27.516Z",
+      "name": "So Far So Fake",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3fWibgdtgIie6LKTZ2rUoI",
+      "duration_ms": 236160
+    },
+    {
+      "played_at": "2026-09-28T16:56:22.145Z",
+      "name": "Even When I’m Not With You",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:6yJmxPGazR55GAQdyHPf6q",
+      "duration_ms": 174146
+    },
+    {
+      "played_at": "2026-09-28T17:00:03.036Z",
+      "name": "Resilience",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+      "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-09-28T17:00:24.550Z",
+      "name": "Irrational Fears - Interlude",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:1AtTmjAqrlmg9P2enDqVg9",
+      "duration_ms": 21560
+    },
+    {
+      "played_at": "2026-09-28T17:04:25.090Z",
+      "name": "Flawless Execution",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3XfmKIeWD1gGrKhwIEon6Q",
+      "duration_ms": 240053
+    },
+    {
+      "played_at": "2026-09-28T17:07:27.176Z",
+      "name": "12 Fractures",
+      "artists": [
+        "Pierce The Veil",
+        "chloe moriondo"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+      "duration_ms": 181600
+    },
+    {
+      "played_at": "2026-09-28T17:11:55.715Z",
+      "name": "Karma Police",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
+      "uri": "spotify:track:35FZulR4L8REIjU0u1pw1k",
+      "duration_ms": 268051
+    },
+    {
+      "played_at": "2026-09-28T17:15:45.644Z",
+      "name": "Blood on the Sheets",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Blood on the Sheets",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738d4a55fb6473e1337d06e601",
+      "uri": "spotify:track:0CRavjrcZpkhHA51p9bHuu",
+      "duration_ms": 229500
+    },
+    {
+      "played_at": "2026-09-28T17:18:47.138Z",
+      "name": "House Of Matches",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "An Ending In Itself",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ffc097eec437725b51f276f3",
+      "uri": "spotify:track:2k6HnONLAdpRT0TGM0Ykov",
+      "duration_ms": 181018
+    },
+    {
+      "played_at": "2026-09-28T17:24:17.516Z",
+      "name": "i think about you all the time",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "private music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+      "uri": "spotify:track:0M5NH22uVXHSXjSi5SXTXM",
+      "duration_ms": 248957
+    },
+    {
+      "played_at": "2026-09-28T18:37:59.357Z",
+      "name": "One Hundred Sleepless Nights",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:5TNX6rJ91T8PdEt94X50Y9",
+      "duration_ms": 221840
+    },
+    {
+      "played_at": "2026-09-28T18:43:35.402Z",
+      "name": "Common Decency",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Lover Of A Ghost",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350d4bb50c617f43a4e1cf640",
+      "uri": "spotify:track:18G247pWqTuxmHbeSImB6T",
+      "duration_ms": 243960
+    },
+    {
+      "played_at": "2026-09-28T18:46:42.753Z",
+      "name": "Fall Into",
+      "artists": [
+        "Ally Nicholas"
+      ],
+      "album": "Fall Into",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738ef3e785c8a8f9e9d23d9db1",
+      "uri": "spotify:track:555rXDsUt8rmNwkWpAPYcW",
+      "duration_ms": 186857
+    },
+    {
+      "played_at": "2026-09-28T18:51:43.585Z",
+      "name": "Two-Way Mirror",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "I Let It in and It Took Everything",
+      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+      "uri": "spotify:track:0b4TKuvZ4eJ8eHgJgXaCnN",
+      "duration_ms": 300186
     }
   ]
 }
