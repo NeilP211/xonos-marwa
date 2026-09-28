@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T04:15:48.993Z",
+  "generated_at": "2026-09-28T13:11:38.782Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1018,6 +1018,18 @@
         },
         {
           "rank": 18,
+          "name": "Nunca Más",
+          "artists": [
+            "La Isla Centeno"
+          ],
+          "album": "Canciones Para El Volcán",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739540a18191d908bf060065d0",
+          "uri": "spotify:track:5eiZ4TFyBsLOpPzBgR4oG5",
+          "url": "https://open.spotify.com/track/5eiZ4TFyBsLOpPzBgR4oG5",
+          "duration_ms": 229214
+        },
+        {
+          "rank": 19,
           "name": "Art of War",
           "artists": [
             "Avenoir"
@@ -1029,7 +1041,7 @@
           "duration_ms": 126973
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "So Far So Fake",
           "artists": [
             "Pierce The Veil"
@@ -1041,7 +1053,7 @@
           "duration_ms": 236160
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Mónaco",
           "artists": [
             "LAGOS",
@@ -1054,7 +1066,7 @@
           "duration_ms": 192313
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Akuma no Ko",
           "artists": [
             "Ai Higuchi"
@@ -1066,7 +1078,7 @@
           "duration_ms": 229960
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "日落计数器",
           "artists": [
             "莫非定律乐团"
@@ -1078,7 +1090,7 @@
           "duration_ms": 291564
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Shingeki Gt 20130218 Kyojin",
           "artists": [
             "Sawano Hiroyuki"
@@ -1090,7 +1102,19 @@
           "duration_ms": 151400
         },
         {
-          "rank": 24,
+          "rank": 25,
+          "name": "Flor De Michoacán",
+          "artists": [
+            "Menny Flores"
+          ],
+          "album": "Flor De Michoacán",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
+          "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3",
+          "url": "https://open.spotify.com/track/33vQCR90JDkXzcRvRVi0H3",
+          "duration_ms": 193853
+        },
+        {
+          "rank": 26,
           "name": "Forever",
           "artists": [
             "keshi"
@@ -1102,19 +1126,7 @@
           "duration_ms": 171415
         },
         {
-          "rank": 25,
-          "name": "Nunca Más",
-          "artists": [
-            "La Isla Centeno"
-          ],
-          "album": "Canciones Para El Volcán",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739540a18191d908bf060065d0",
-          "uri": "spotify:track:5eiZ4TFyBsLOpPzBgR4oG5",
-          "url": "https://open.spotify.com/track/5eiZ4TFyBsLOpPzBgR4oG5",
-          "duration_ms": 229214
-        },
-        {
-          "rank": 26,
+          "rank": 27,
           "name": "Jiyuu no Tsubasa",
           "artists": [
             "Linked Horizon"
@@ -1126,7 +1138,7 @@
           "duration_ms": 331946
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Circles",
           "artists": [
             "Pierce The Veil"
@@ -1136,18 +1148,6 @@
           "uri": "spotify:track:6zUy2nnchfZpzaDalE6sO2",
           "url": "https://open.spotify.com/track/6zUy2nnchfZpzaDalE6sO2",
           "duration_ms": 224306
-        },
-        {
-          "rank": 28,
-          "name": "Flor De Michoacán",
-          "artists": [
-            "Menny Flores"
-          ],
-          "album": "Flor De Michoacán",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
-          "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3",
-          "url": "https://open.spotify.com/track/33vQCR90JDkXzcRvRVi0H3",
-          "duration_ms": 193853
         },
         {
           "rank": 29,
@@ -1248,114 +1248,6 @@
         },
         {
           "rank": 37,
-          "name": "Props & Mayhem",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "Collide With The Sky",
-          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-          "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO",
-          "url": "https://open.spotify.com/track/2SYMnBpx7zyhSDPQwoOlFO",
-          "duration_ms": 217853
-        },
-        {
-          "rank": 38,
-          "name": "Caraphernelia",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "Selfish Machines",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
-          "uri": "spotify:track:2G8PweZBBwTpyP8vpNQJK2",
-          "url": "https://open.spotify.com/track/2G8PweZBBwTpyP8vpNQJK2",
-          "duration_ms": 268480
-        },
-        {
-          "rank": 39,
-          "name": "In Another Time",
-          "artists": [
-            "Sade"
-          ],
-          "album": "Soldier of Love",
-          "image": "https://i.scdn.co/image/ab67616d0000b27398da02db8bb9253c3367e41a",
-          "uri": "spotify:track:1DKYtHoBNbqjMLqvpw7o73",
-          "url": "https://open.spotify.com/track/1DKYtHoBNbqjMLqvpw7o73",
-          "duration_ms": 304413
-        },
-        {
-          "rank": 40,
-          "name": "Boku no Sensou",
-          "artists": [
-            "Shinsei Kamattechan"
-          ],
-          "album": "Danchi Thesis",
-          "image": "https://i.scdn.co/image/ab67616d0000b27390e0bebf528ba26bba48c326",
-          "uri": "spotify:track:2RRlSGydVNuEVn3xazufyd",
-          "url": "https://open.spotify.com/track/2RRlSGydVNuEVn3xazufyd",
-          "duration_ms": 280466
-        },
-        {
-          "rank": 41,
-          "name": "WHO DO U LUV",
-          "artists": [
-            "Avenoir"
-          ],
-          "album": "WHO DO U LUV",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735cbb2c68713786d1978c6bfc",
-          "uri": "spotify:track:4AKEuz0ZvIkMOndD6RQ9cK",
-          "url": "https://open.spotify.com/track/4AKEuz0ZvIkMOndD6RQ9cK",
-          "duration_ms": 248760
-        },
-        {
-          "rank": 42,
-          "name": "A Match Into Water",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "Collide With The Sky",
-          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-          "uri": "spotify:track:54MXF9I8s3DuiQo3g0gZ5k",
-          "url": "https://open.spotify.com/track/54MXF9I8s3DuiQo3g0gZ5k",
-          "duration_ms": 212546
-        },
-        {
-          "rank": 43,
-          "name": "Favour",
-          "artists": [
-            "Avenoir"
-          ],
-          "album": "Favour",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739d56b1e5772b1a52cf369d1b",
-          "uri": "spotify:track:7sYQ4bgCZAbnV3TdUbscFz",
-          "url": "https://open.spotify.com/track/7sYQ4bgCZAbnV3TdUbscFz",
-          "duration_ms": 156000
-        },
-        {
-          "rank": 44,
-          "name": "If Looks Could Kill",
-          "artists": [
-            "A Heartwell Ending"
-          ],
-          "album": "Trust Us We Lie",
-          "image": "https://i.scdn.co/image/ab67616d0000b273405fd217d4ca2078a3458f51",
-          "uri": "spotify:track:39hptpYkIM29T7Ys4icPTj",
-          "url": "https://open.spotify.com/track/39hptpYkIM29T7Ys4icPTj",
-          "duration_ms": 205560
-        },
-        {
-          "rank": 45,
-          "name": "Flawless Execution",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:3XfmKIeWD1gGrKhwIEon6Q",
-          "url": "https://open.spotify.com/track/3XfmKIeWD1gGrKhwIEon6Q",
-          "duration_ms": 240053
-        },
-        {
-          "rank": 46,
           "name": "Toronto",
           "artists": [
             "Nandé",
@@ -1369,7 +1261,140 @@
           "duration_ms": 198888
         },
         {
+          "rank": 38,
+          "name": "Props & Mayhem",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "Collide With The Sky",
+          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+          "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO",
+          "url": "https://open.spotify.com/track/2SYMnBpx7zyhSDPQwoOlFO",
+          "duration_ms": 217853
+        },
+        {
+          "rank": 39,
+          "name": "Caraphernelia",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "Selfish Machines",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
+          "uri": "spotify:track:2G8PweZBBwTpyP8vpNQJK2",
+          "url": "https://open.spotify.com/track/2G8PweZBBwTpyP8vpNQJK2",
+          "duration_ms": 268480
+        },
+        {
+          "rank": 40,
+          "name": "In Another Time",
+          "artists": [
+            "Sade"
+          ],
+          "album": "Soldier of Love",
+          "image": "https://i.scdn.co/image/ab67616d0000b27398da02db8bb9253c3367e41a",
+          "uri": "spotify:track:1DKYtHoBNbqjMLqvpw7o73",
+          "url": "https://open.spotify.com/track/1DKYtHoBNbqjMLqvpw7o73",
+          "duration_ms": 304413
+        },
+        {
+          "rank": 41,
+          "name": "Mi Atención",
+          "artists": [
+            "Martox"
+          ],
+          "album": "Caracol",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f4d8a9f412f95ce5757f7cf5",
+          "uri": "spotify:track:0KXKWw0nTmIvCKkFcYVhes",
+          "url": "https://open.spotify.com/track/0KXKWw0nTmIvCKkFcYVhes",
+          "duration_ms": 212179
+        },
+        {
+          "rank": 42,
+          "name": "Boku no Sensou",
+          "artists": [
+            "Shinsei Kamattechan"
+          ],
+          "album": "Danchi Thesis",
+          "image": "https://i.scdn.co/image/ab67616d0000b27390e0bebf528ba26bba48c326",
+          "uri": "spotify:track:2RRlSGydVNuEVn3xazufyd",
+          "url": "https://open.spotify.com/track/2RRlSGydVNuEVn3xazufyd",
+          "duration_ms": 280466
+        },
+        {
+          "rank": 43,
+          "name": "WHO DO U LUV",
+          "artists": [
+            "Avenoir"
+          ],
+          "album": "WHO DO U LUV",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735cbb2c68713786d1978c6bfc",
+          "uri": "spotify:track:4AKEuz0ZvIkMOndD6RQ9cK",
+          "url": "https://open.spotify.com/track/4AKEuz0ZvIkMOndD6RQ9cK",
+          "duration_ms": 248760
+        },
+        {
+          "rank": 44,
+          "name": "A Match Into Water",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "Collide With The Sky",
+          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+          "uri": "spotify:track:54MXF9I8s3DuiQo3g0gZ5k",
+          "url": "https://open.spotify.com/track/54MXF9I8s3DuiQo3g0gZ5k",
+          "duration_ms": 212546
+        },
+        {
+          "rank": 45,
+          "name": "Favour",
+          "artists": [
+            "Avenoir"
+          ],
+          "album": "Favour",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739d56b1e5772b1a52cf369d1b",
+          "uri": "spotify:track:7sYQ4bgCZAbnV3TdUbscFz",
+          "url": "https://open.spotify.com/track/7sYQ4bgCZAbnV3TdUbscFz",
+          "duration_ms": 156000
+        },
+        {
+          "rank": 46,
+          "name": "Después de ti",
+          "artists": [
+            "KAROL G",
+            "Greg Gonzalez"
+          ],
+          "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+          "image": "https://i.scdn.co/image/ab67616d0000b27321deb742375f88edfb2e7368",
+          "uri": "spotify:track:1XUEx6XLSmuPx9hqYARlrd",
+          "url": "https://open.spotify.com/track/1XUEx6XLSmuPx9hqYARlrd",
+          "duration_ms": 268996
+        },
+        {
           "rank": 47,
+          "name": "If Looks Could Kill",
+          "artists": [
+            "A Heartwell Ending"
+          ],
+          "album": "Trust Us We Lie",
+          "image": "https://i.scdn.co/image/ab67616d0000b273405fd217d4ca2078a3458f51",
+          "uri": "spotify:track:39hptpYkIM29T7Ys4icPTj",
+          "url": "https://open.spotify.com/track/39hptpYkIM29T7Ys4icPTj",
+          "duration_ms": 205560
+        },
+        {
+          "rank": 48,
+          "name": "Flawless Execution",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:3XfmKIeWD1gGrKhwIEon6Q",
+          "url": "https://open.spotify.com/track/3XfmKIeWD1gGrKhwIEon6Q",
+          "duration_ms": 240053
+        },
+        {
+          "rank": 49,
           "name": "Flaca",
           "artists": [
             "Cultura Profética",
@@ -1382,7 +1407,7 @@
           "duration_ms": 255875
         },
         {
-          "rank": 48,
+          "rank": 50,
           "name": "Risk It All",
           "artists": [
             "Bruno Mars"
@@ -1392,30 +1417,6 @@
           "uri": "spotify:track:5y2ijHECwFYWqcAHKTZgzD",
           "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD",
           "duration_ms": 204068
-        },
-        {
-          "rank": 49,
-          "name": "Bauklotze",
-          "artists": [
-            "Sawano Hiroyuki"
-          ],
-          "album": "TV Anime \"Attack on Titan\" Original Soundtrack",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732e09d63a7ba7fa7071e26524",
-          "uri": "spotify:track:6oh6pyBUaJWZbhQKsq0iAm",
-          "url": "https://open.spotify.com/track/6oh6pyBUaJWZbhQKsq0iAm",
-          "duration_ms": 236253
-        },
-        {
-          "rank": 50,
-          "name": "Morado",
-          "artists": [
-            "J Balvin"
-          ],
-          "album": "Colores",
-          "image": "https://i.scdn.co/image/ab67616d0000b27335692baca45542527d742d0d",
-          "uri": "spotify:track:35KmOEIUqAGn02t7n4qaIr",
-          "url": "https://open.spotify.com/track/35KmOEIUqAGn02t7n4qaIr",
-          "duration_ms": 200266
         }
       ],
       "artists": [
@@ -1469,19 +1470,19 @@
         },
         {
           "rank": 7,
-          "name": "BTS",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebf80ec63ea7a0ef0fba60957d",
-          "genres": [],
-          "uri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "rank": 8,
           "name": "Danny Ocean",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6d11079e9ea4fd57b5df6c97",
           "genres": [],
           "uri": "spotify:artist:5H1nN1SzW0qNeUEZvuXjAj",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "rank": 8,
+          "name": "BTS",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebf80ec63ea7a0ef0fba60957d",
+          "genres": [],
+          "uri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         },
         {
           "rank": 9,
