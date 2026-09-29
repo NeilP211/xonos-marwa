@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-09-29T12:20:19.433Z",
-  "is_playing": false,
+  "updated_at": "2026-09-29T19:50:48.876Z",
+  "is_playing": true,
   "track": {
-    "name": "Chica de Verde",
+    "name": "El Hombre Que Yo Amo",
     "artists": [
-      "Bruno Romano",
-      "Elisa González"
+      "Myriam Hernandez"
     ],
-    "album": "Chica de Verde",
-    "image": "https://i.scdn.co/image/ab67616d0000b273da9eccf72a3e9d55e41db1f4",
-    "uri": "spotify:track:6ZxsJwY5QgN6R0mRBYWrHf"
+    "album": "Todo Lo Mio",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b2ea8d5a2060c46c2b2c85f8",
+    "uri": "spotify:track:5OtonpNWhoAw9z3wRwM2TC"
   },
-  "played_at": "2026-09-29T03:13:39.153Z"
+  "played_at": "2026-09-29T19:50:48.876Z"
 }
