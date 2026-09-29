@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-28T21:06:25.245Z",
+  "updated_at": "2026-09-29T04:47:09.314Z",
   "is_playing": false,
   "track": {
-    "name": "Two-Way Mirror",
+    "name": "Chica de Verde",
     "artists": [
-      "Loathe"
+      "Bruno Romano",
+      "Elisa González"
     ],
-    "album": "I Let It in and It Took Everything",
-    "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
-    "uri": "spotify:track:0b4TKuvZ4eJ8eHgJgXaCnN"
+    "album": "Chica de Verde",
+    "image": "https://i.scdn.co/image/ab67616d0000b273da9eccf72a3e9d55e41db1f4",
+    "uri": "spotify:track:6ZxsJwY5QgN6R0mRBYWrHf"
   },
-  "played_at": "2026-09-28T18:51:43.585Z"
+  "played_at": "2026-09-29T03:13:39.153Z"
 }

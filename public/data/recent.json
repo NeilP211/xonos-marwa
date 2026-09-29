@@ -1,298 +1,6 @@
 {
-  "updated_at": "2026-09-28T21:06:25.125Z",
+  "updated_at": "2026-09-29T04:47:09.196Z",
   "plays": [
-    {
-      "played_at": "2026-06-16T17:01:03.548Z",
-      "name": "All About Our Love",
-      "artists": [
-        "Sade"
-      ],
-      "album": "Lovers Rock",
-      "image": "https://i.scdn.co/image/ab67616d0000b27320fc6951e4d293707de2434c",
-      "uri": "spotify:track:0TZOdKFWNYfnwewAP8R4D8",
-      "duration_ms": 160626
-    },
-    {
-      "played_at": "2026-06-16T17:09:40.774Z",
-      "name": "Better Late Than Never",
-      "artists": [
-        "Romeo Santos",
-        "Prince Royce"
-      ],
-      "album": "Better Late Than Never",
-      "image": "https://i.scdn.co/image/ab67616d0000b27391750ed467a5ecc14beaa03f",
-      "uri": "spotify:track:6E16aoeOwaph7iNqiw38Mo",
-      "duration_ms": 248217
-    },
-    {
-      "played_at": "2026-06-16T17:16:25.488Z",
-      "name": "Diles",
-      "artists": [
-        "Bad Bunny",
-        "Ozuna",
-        "Farruko",
-        "Arcángel",
-        "Ñengo Flow",
-        "DJ Luian",
-        "Mambo Kingz"
-      ],
-      "album": "Diles",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f62aa1dd0b43f583418cd018",
-      "uri": "spotify:track:6C1RD7YQVvt3YQj0CmuTeu",
-      "duration_ms": 286040
-    },
-    {
-      "played_at": "2026-06-16T17:20:00.185Z",
-      "name": "Llévame",
-      "artists": [
-        "Bruno Romano",
-        "Thiago Muller"
-      ],
-      "album": "Llévame",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b827a895171e8d07687961f0",
-      "uri": "spotify:track:4mJYjmCeiuYarCtAc26VyS",
-      "duration_ms": 214219
-    },
-    {
-      "played_at": "2026-06-16T17:24:50.746Z",
-      "name": "tu nama",
-      "artists": [
-        "Mora",
-        "Midnvght"
-      ],
-      "album": "tu nama",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731cf605073c8b1b196bf1ce32",
-      "uri": "spotify:track:0qxoRhNPVJAZhqH9olE86G",
-      "duration_ms": 200943
-    },
-    {
-      "played_at": "2026-06-16T17:30:43.636Z",
-      "name": "Dardos",
-      "artists": [
-        "Romeo Santos",
-        "Prince Royce"
-      ],
-      "album": "Better Late Than Never",
-      "image": "https://i.scdn.co/image/ab67616d0000b27391750ed467a5ecc14beaa03f",
-      "uri": "spotify:track:5SudOD9R1Of6CsJVWZy6CQ",
-      "duration_ms": 243070
-    },
-    {
-      "played_at": "2026-06-16T17:35:49.129Z",
-      "name": "Coleccionando Heridas",
-      "artists": [
-        "KAROL G",
-        "Marco Antonio Solís"
-      ],
-      "album": "Tropicoqueta",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
-      "uri": "spotify:track:3ddJ8Vbc5tYPxq5zKRVke6",
-      "duration_ms": 204794
-    },
-    {
-      "played_at": "2026-06-16T17:40:21.334Z",
-      "name": "Virgen",
-      "artists": [
-        "Adolescent's Orquesta"
-      ],
-      "album": "Ahora Más Que Nunca",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c30c9fc1d43d8e1ca14ecbe6",
-      "uri": "spotify:track:5HCGrYR7g9u2X9Ju83yQLm",
-      "duration_ms": 271751
-    },
-    {
-      "played_at": "2026-06-16T17:53:18.533Z",
-      "name": "Si Me Voy (with The Marías)",
-      "artists": [
-        "Cuco",
-        "The Marías"
-      ],
-      "album": "Si Me Voy (with The Marías)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27314a012da5638f895eaefffa5",
-      "uri": "spotify:track:6GiCszfL4D2GlCU8tFU3sR",
-      "duration_ms": 203219
-    },
-    {
-      "played_at": "2026-06-16T17:57:27.389Z",
-      "name": "Carita Linda",
-      "artists": [
-        "Rauw Alejandro"
-      ],
-      "album": "Cosa Nuestra: Capítulo 0",
-      "image": "https://i.scdn.co/image/ab67616d0000b273586cde445b4e951ae727c536",
-      "uri": "spotify:track:4Xpt2bVLKFvlL5agz7cBTj",
-      "duration_ms": 203463
-    },
-    {
-      "played_at": "2026-06-16T21:06:29.101Z",
-      "name": "Después de ti",
-      "artists": [
-        "KAROL G",
-        "Greg Gonzalez"
-      ],
-      "album": "Después de ti",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bd735e1302f8073b253cc71a",
-      "uri": "spotify:track:6PbhFQkpQjoojWo2b6Ghoi",
-      "duration_ms": 275898
-    },
-    {
-      "played_at": "2026-06-16T21:12:37.400Z",
-      "name": "BAILE INoLVIDABLE",
-      "artists": [
-        "Bad Bunny"
-      ],
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "uri": "spotify:track:2lTm559tuIvatlT1u0JYG2",
-      "duration_ms": 367725
-    },
-    {
-      "played_at": "2026-06-16T21:25:29.915Z",
-      "name": "Estar Contigo",
-      "artists": [
-        "Bruno Romano"
-      ],
-      "album": "Estar Contigo",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5876eb6777391b38362e2a",
-      "uri": "spotify:track:6Pj7HgPDtqCbrTlgGrlqJ4",
-      "duration_ms": 214615
-    },
-    {
-      "played_at": "2026-06-16T21:30:25.923Z",
-      "name": "Cuando Me Enamoro",
-      "artists": [
-        "Enrique Iglesias",
-        "Juan Luis Guerra 4.40"
-      ],
-      "album": "Euphoria",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f6fa4a75fccc308f26c726c6",
-      "uri": "spotify:track:4PHX6bpHDxiR9RGzAKWcyk",
-      "duration_ms": 200586
-    },
-    {
-      "played_at": "2026-06-16T21:34:45.409Z",
-      "name": "Dardos",
-      "artists": [
-        "Romeo Santos",
-        "Prince Royce"
-      ],
-      "album": "Better Late Than Never",
-      "image": "https://i.scdn.co/image/ab67616d0000b27391750ed467a5ecc14beaa03f",
-      "uri": "spotify:track:5SudOD9R1Of6CsJVWZy6CQ",
-      "duration_ms": 243070
-    },
-    {
-      "played_at": "2026-06-16T21:38:22.645Z",
-      "name": "Borro Cassette",
-      "artists": [
-        "Maluma"
-      ],
-      "album": "Pretty Boy, Dirty Boy",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c7b78f86d070f52f45ad125f",
-      "uri": "spotify:track:6DUdDIRgLqCGq1DwkNWQTN",
-      "duration_ms": 207296
-    },
-    {
-      "played_at": "2026-06-16T21:48:12.610Z",
-      "name": "Otro Atardecer",
-      "artists": [
-        "Bad Bunny",
-        "The Marías"
-      ],
-      "album": "Un Verano Sin Ti",
-      "image": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
-      "uri": "spotify:track:0E0DRHf5PfMeor0ZCwB3oT",
-      "duration_ms": 244444
-    },
-    {
-      "played_at": "2026-06-16T23:12:05.754Z",
-      "name": "Coleccionando Heridas",
-      "artists": [
-        "KAROL G",
-        "Marco Antonio Solís"
-      ],
-      "album": "Tropicoqueta",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
-      "uri": "spotify:track:3ddJ8Vbc5tYPxq5zKRVke6",
-      "duration_ms": 204794
-    },
-    {
-      "played_at": "2026-06-16T23:16:48.265Z",
-      "name": "Virgen",
-      "artists": [
-        "Adolescent's Orquesta"
-      ],
-      "album": "Ahora Más Que Nunca",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c30c9fc1d43d8e1ca14ecbe6",
-      "uri": "spotify:track:5HCGrYR7g9u2X9Ju83yQLm",
-      "duration_ms": 271751
-    },
-    {
-      "played_at": "2026-06-16T23:24:33.709Z",
-      "name": "BAILE INoLVIDABLE",
-      "artists": [
-        "Bad Bunny"
-      ],
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "uri": "spotify:track:2lTm559tuIvatlT1u0JYG2",
-      "duration_ms": 367725
-    },
-    {
-      "played_at": "2026-06-16T23:26:05.366Z",
-      "name": "キエンセラ",
-      "artists": [
-        "Lisa Ono"
-      ],
-      "album": "Romance Latino vol.3 -Cuba Caliente Y Su Ritmo Sabroso-",
-      "image": "https://i.scdn.co/image/ab67616d0000b27364d94d72548b885f14ea96c9",
-      "uri": "spotify:track:6pTh0DeJkVDvv1ytHlwDiA",
-      "duration_ms": 200866
-    },
-    {
-      "played_at": "2026-06-16T23:29:52.304Z",
-      "name": "Company",
-      "artists": [
-        "Justin Bieber"
-      ],
-      "album": "Purpose (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de",
-      "uri": "spotify:track:61uyGDPJ06MkxJtHgPmuyO",
-      "duration_ms": 208120
-    },
-    {
-      "played_at": "2026-06-16T23:33:58.337Z",
-      "name": "Chicago",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "XSCAPE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0",
-      "uri": "spotify:track:5BKKy9fIJL5uM9fz1SnqyP",
-      "duration_ms": 245565
-    },
-    {
-      "played_at": "2026-06-16T23:43:28.531Z",
-      "name": "WHO DO U LUV",
-      "artists": [
-        "Avenoir"
-      ],
-      "album": "WHO DO U LUV",
-      "image": "https://i.scdn.co/image/ab67616d0000b27373dc757337bcdd30b76723c5",
-      "uri": "spotify:track:74KASQI7XvyWdsNyQcJuv9",
-      "duration_ms": 248760
-    },
-    {
-      "played_at": "2026-06-17T16:04:09.391Z",
-      "name": "WHO DO U LUV",
-      "artists": [
-        "Avenoir"
-      ],
-      "album": "WHO DO U LUV",
-      "image": "https://i.scdn.co/image/ab67616d0000b27373dc757337bcdd30b76723c5",
-      "uri": "spotify:track:74KASQI7XvyWdsNyQcJuv9",
-      "duration_ms": 248760
-    },
     {
       "played_at": "2026-06-17T16:07:42.811Z",
       "name": "Art of War",
@@ -22522,6 +22230,284 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
       "uri": "spotify:track:0b4TKuvZ4eJ8eHgJgXaCnN",
       "duration_ms": 300186
+    },
+    {
+      "played_at": "2026-09-28T22:28:02.314Z",
+      "name": "souvenir",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "private music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+      "uri": "spotify:track:3NiHREOAU07SizAdSTMOFX",
+      "duration_ms": 370020
+    },
+    {
+      "played_at": "2026-09-28T23:07:42.961Z",
+      "name": "souvenir",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "private music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+      "uri": "spotify:track:3NiHREOAU07SizAdSTMOFX",
+      "duration_ms": 370020
+    },
+    {
+      "played_at": "2026-09-28T23:08:44.694Z",
+      "name": "souvenir",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "private music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+      "uri": "spotify:track:3NiHREOAU07SizAdSTMOFX",
+      "duration_ms": 370020
+    },
+    {
+      "played_at": "2026-09-28T23:09:56.752Z",
+      "name": "Besitos",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Selfish Machines (Reissue)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733c8674afa47336f571b13ebd",
+      "uri": "spotify:track:163ZkKtGjrCU3GquoCqiZZ",
+      "duration_ms": 264657
+    },
+    {
+      "played_at": "2026-09-28T23:13:04.022Z",
+      "name": "Kiss Me Now",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
+      "uri": "spotify:track:6yT9iNKt8fQoYpQkbWc7YR",
+      "duration_ms": 256268
+    },
+    {
+      "played_at": "2026-09-28T23:16:11.935Z",
+      "name": "Collar of Truth",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Till' Death Was Never Enough",
+      "image": "https://i.scdn.co/image/ab67616d0000b27371dcb0a7eb3e79a78c581565",
+      "uri": "spotify:track:3jevUj1aIMpUN8yUULSja9",
+      "duration_ms": 187411
+    },
+    {
+      "played_at": "2026-09-28T23:18:37.481Z",
+      "name": "Do It Now Remember It Later",
+      "artists": [
+        "Sleeping With Sirens"
+      ],
+      "album": "Let's Cheers To This",
+      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+      "uri": "spotify:track:3I9c2OFpB0al6qmYNcyMht",
+      "duration_ms": 203093
+    },
+    {
+      "played_at": "2026-09-28T23:26:12.383Z",
+      "name": "Chicago",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "XSCAPE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0",
+      "uri": "spotify:track:5BKKy9fIJL5uM9fz1SnqyP",
+      "duration_ms": 245565
+    },
+    {
+      "played_at": "2026-09-28T23:29:49.860Z",
+      "name": "Release",
+      "artists": [
+        "Maz B"
+      ],
+      "album": "Release",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739701c7fc6a44ed5d85d61e83",
+      "uri": "spotify:track:44Rmvn1BwzzY5DP6l6PO3D",
+      "duration_ms": 192227
+    },
+    {
+      "played_at": "2026-09-28T23:33:37.079Z",
+      "name": "I Think I Left the Stove On",
+      "artists": [
+        "Hotel Ugly"
+      ],
+      "album": "I Think I Left the Stove On",
+      "image": "https://i.scdn.co/image/ab67616d0000b273934e5b0ab5e1f73519e6b1d2",
+      "uri": "spotify:track:34HgIvucTKJvDgzHVMaGLG",
+      "duration_ms": 202490
+    },
+    {
+      "played_at": "2026-09-29T00:12:24.745Z",
+      "name": "Lovesong",
+      "artists": [
+        "Adele"
+      ],
+      "album": "21",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737e7e5dd9d1ab19fcded8a17f",
+      "uri": "spotify:track:7nm6DlSzzJTH1rk2e6EgJz",
+      "duration_ms": 316240
+    },
+    {
+      "played_at": "2026-09-29T00:24:07.128Z",
+      "name": "Pink Matter",
+      "artists": [
+        "Frank Ocean",
+        "André 3000"
+      ],
+      "album": "channel ORANGE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "uri": "spotify:track:1fOkmYW3ZFkkjIdOZSf596",
+      "duration_ms": 268813
+    },
+    {
+      "played_at": "2026-09-29T00:51:25.698Z",
+      "name": "Art of War",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Art of War",
+      "image": "https://i.scdn.co/image/ab67616d0000b273257de814fe4a9c88e7523e62",
+      "uri": "spotify:track:7FdS8jLabsc3ym9VY8kGjK",
+      "duration_ms": 126973
+    },
+    {
+      "played_at": "2026-09-29T02:21:26.545Z",
+      "name": "Hold On Till May",
+      "artists": [
+        "Pierce The Veil",
+        "Lindsey Stamey"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
+      "duration_ms": 278586
+    },
+    {
+      "played_at": "2026-09-29T02:24:56.349Z",
+      "name": "Luka",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Luka",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da824d21dc5fa336020fff3e",
+      "uri": "spotify:track:6ILmZpvejf4z5kYW1c4x9n",
+      "duration_ms": 209220
+    },
+    {
+      "played_at": "2026-09-29T02:28:00.874Z",
+      "name": "stingray",
+      "artists": [
+        "Rehash"
+      ],
+      "album": "mock",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f50a9ad97d36ef45ac44937",
+      "uri": "spotify:track:1iegi4anCrPW5YReZbviwa",
+      "duration_ms": 184041
+    },
+    {
+      "played_at": "2026-09-29T02:31:39.103Z",
+      "name": "Props & Mayhem",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO",
+      "duration_ms": 217853
+    },
+    {
+      "played_at": "2026-09-29T02:35:52.136Z",
+      "name": "I'm Low On Gas And You Need A Jacket",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:40WWeoX26jtsfdmFx5iRty",
+      "duration_ms": 252386
+    },
+    {
+      "played_at": "2026-09-29T02:44:08.953Z",
+      "name": "Resilience",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+      "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-09-29T02:48:10.584Z",
+      "name": "Change (In the House of Flies)",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "White Pony",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
+      "uri": "spotify:track:51c94ac31swyDQj9B3Lzs3",
+      "duration_ms": 299533
+    },
+    {
+      "played_at": "2026-09-29T02:53:00.415Z",
+      "name": "Deseándote",
+      "artists": [
+        "Frankie Ruiz"
+      ],
+      "album": "Frankie Ruiz La Leyenda",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
+      "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
+      "duration_ms": 281333
+    },
+    {
+      "played_at": "2026-09-29T02:56:51.870Z",
+      "name": "Ivonny Bonita",
+      "artists": [
+        "KAROL G"
+      ],
+      "album": "Tropicoqueta",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
+      "uri": "spotify:track:6Sv0CzVqzydd7NYQgAG70c",
+      "duration_ms": 222458
+    },
+    {
+      "played_at": "2026-09-29T02:59:43.344Z",
+      "name": "Amor Mio",
+      "artists": [
+        "Frank Sark"
+      ],
+      "album": "Latin Crooners",
+      "image": "https://i.scdn.co/image/ab67616d0000b27349bce3cd18deb6f0ef08e3ef",
+      "uri": "spotify:track:7DOqLMSxTh1s3WPTyqJ2pw",
+      "duration_ms": 102253
+    },
+    {
+      "played_at": "2026-09-29T03:07:26.675Z",
+      "name": "Aquel Nap ZzZz",
+      "artists": [
+        "Rauw Alejandro"
+      ],
+      "album": "VICE VERSA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f793c0c53727d8c5c950f809",
+      "uri": "spotify:track:5bQLsyTrUaMQRfr6whwGe5",
+      "duration_ms": 295038
+    },
+    {
+      "played_at": "2026-09-29T03:13:39.153Z",
+      "name": "Chica de Verde",
+      "artists": [
+        "Bruno Romano",
+        "Elisa González"
+      ],
+      "album": "Chica de Verde",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da9eccf72a3e9d55e41db1f4",
+      "uri": "spotify:track:6ZxsJwY5QgN6R0mRBYWrHf",
+      "duration_ms": 225694
     }
   ]
 }
