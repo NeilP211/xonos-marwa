@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T04:47:08.933Z",
+  "generated_at": "2026-09-29T12:20:19.198Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -916,18 +916,6 @@
         },
         {
           "rank": 9,
-          "name": "All My Heart",
-          "artists": [
-            "Sleeping With Sirens"
-          ],
-          "album": "Let's Cheers To This",
-          "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
-          "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
-          "url": "https://open.spotify.com/track/5ANZkftsPAO0yhynm9jwlU",
-          "duration_ms": 279293
-        },
-        {
-          "rank": 10,
           "name": "Hold On Till May",
           "artists": [
             "Pierce The Veil",
@@ -940,19 +928,19 @@
           "duration_ms": 278586
         },
         {
-          "rank": 11,
-          "name": "Let Love Bleed Red",
+          "rank": 10,
+          "name": "All My Heart",
           "artists": [
             "Sleeping With Sirens"
           ],
-          "album": "With Ears To See And Eyes To Hear",
-          "image": "https://i.scdn.co/image/ab67616d0000b273032fd22bde573d0746c87352",
-          "uri": "spotify:track:1v8RDUkhH5wR9IBrC6Hroy",
-          "url": "https://open.spotify.com/track/1v8RDUkhH5wR9IBrC6Hroy",
-          "duration_ms": 222493
+          "album": "Let's Cheers To This",
+          "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
+          "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
+          "url": "https://open.spotify.com/track/5ANZkftsPAO0yhynm9jwlU",
+          "duration_ms": 279293
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Chica de Verde",
           "artists": [
             "Bruno Romano",
@@ -963,6 +951,18 @@
           "uri": "spotify:track:6ZxsJwY5QgN6R0mRBYWrHf",
           "url": "https://open.spotify.com/track/6ZxsJwY5QgN6R0mRBYWrHf",
           "duration_ms": 225694
+        },
+        {
+          "rank": 12,
+          "name": "Let Love Bleed Red",
+          "artists": [
+            "Sleeping With Sirens"
+          ],
+          "album": "With Ears To See And Eyes To Hear",
+          "image": "https://i.scdn.co/image/ab67616d0000b273032fd22bde573d0746c87352",
+          "uri": "spotify:track:1v8RDUkhH5wR9IBrC6Hroy",
+          "url": "https://open.spotify.com/track/1v8RDUkhH5wR9IBrC6Hroy",
+          "duration_ms": 222493
         },
         {
           "rank": 13,
@@ -1026,18 +1026,6 @@
         },
         {
           "rank": 18,
-          "name": "Nunca Más",
-          "artists": [
-            "La Isla Centeno"
-          ],
-          "album": "Canciones Para El Volcán",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739540a18191d908bf060065d0",
-          "uri": "spotify:track:5eiZ4TFyBsLOpPzBgR4oG5",
-          "url": "https://open.spotify.com/track/5eiZ4TFyBsLOpPzBgR4oG5",
-          "duration_ms": 229214
-        },
-        {
-          "rank": 19,
           "name": "Art of War",
           "artists": [
             "Avenoir"
@@ -1047,6 +1035,18 @@
           "uri": "spotify:track:1W5Du9CclU9myih1pu1eA5",
           "url": "https://open.spotify.com/track/1W5Du9CclU9myih1pu1eA5",
           "duration_ms": 126973
+        },
+        {
+          "rank": 19,
+          "name": "Nunca Más",
+          "artists": [
+            "La Isla Centeno"
+          ],
+          "album": "Canciones Para El Volcán",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739540a18191d908bf060065d0",
+          "uri": "spotify:track:5eiZ4TFyBsLOpPzBgR4oG5",
+          "url": "https://open.spotify.com/track/5eiZ4TFyBsLOpPzBgR4oG5",
+          "duration_ms": 229214
         },
         {
           "rank": 20,
@@ -1123,6 +1123,18 @@
         },
         {
           "rank": 26,
+          "name": "Deseándote",
+          "artists": [
+            "Frankie Ruiz"
+          ],
+          "album": "Frankie Ruiz La Leyenda",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
+          "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
+          "url": "https://open.spotify.com/track/0FsXZAMf6NACvNJ2LI6ySp",
+          "duration_ms": 281333
+        },
+        {
+          "rank": 27,
           "name": "Forever",
           "artists": [
             "keshi"
@@ -1134,7 +1146,7 @@
           "duration_ms": 171415
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Death Of An Executioner",
           "artists": [
             "Pierce The Veil"
@@ -1146,7 +1158,7 @@
           "duration_ms": 267800
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Jiyuu no Tsubasa",
           "artists": [
             "Linked Horizon"
@@ -1158,7 +1170,19 @@
           "duration_ms": 331946
         },
         {
-          "rank": 29,
+          "rank": 30,
+          "name": "Change (In the House of Flies)",
+          "artists": [
+            "Deftones"
+          ],
+          "album": "White Pony",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
+          "uri": "spotify:track:51c94ac31swyDQj9B3Lzs3",
+          "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3",
+          "duration_ms": 299533
+        },
+        {
+          "rank": 31,
           "name": "Circles",
           "artists": [
             "Pierce The Veil"
@@ -1170,7 +1194,19 @@
           "duration_ms": 224306
         },
         {
-          "rank": 30,
+          "rank": 32,
+          "name": "Props & Mayhem",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "Collide With The Sky",
+          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+          "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO",
+          "url": "https://open.spotify.com/track/2SYMnBpx7zyhSDPQwoOlFO",
+          "duration_ms": 217853
+        },
+        {
+          "rank": 33,
           "name": "NUEVAYoL",
           "artists": [
             "Bad Bunny"
@@ -1182,7 +1218,7 @@
           "duration_ms": 183685
         },
         {
-          "rank": 31,
+          "rank": 34,
           "name": "Como Es Que Se Hace",
           "artists": [
             "Yandel",
@@ -1195,7 +1231,7 @@
           "duration_ms": 205320
         },
         {
-          "rank": 32,
+          "rank": 35,
           "name": "흩어진나날들",
           "artists": [
             "강수지"
@@ -1207,7 +1243,7 @@
           "duration_ms": 262126
         },
         {
-          "rank": 33,
+          "rank": 36,
           "name": "Is It Really You?",
           "artists": [
             "Loathe"
@@ -1219,19 +1255,7 @@
           "duration_ms": 287627
         },
         {
-          "rank": 34,
-          "name": "Change (In the House of Flies)",
-          "artists": [
-            "Deftones"
-          ],
-          "album": "White Pony",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
-          "uri": "spotify:track:51c94ac31swyDQj9B3Lzs3",
-          "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3",
-          "duration_ms": 299533
-        },
-        {
-          "rank": 35,
+          "rank": 37,
           "name": "Fangs",
           "artists": [
             "Loathe"
@@ -1243,7 +1267,7 @@
           "duration_ms": 249293
         },
         {
-          "rank": 36,
+          "rank": 38,
           "name": "Flawless Execution",
           "artists": [
             "Pierce The Veil"
@@ -1255,19 +1279,7 @@
           "duration_ms": 240053
         },
         {
-          "rank": 37,
-          "name": "Deseándote",
-          "artists": [
-            "Frankie Ruiz"
-          ],
-          "album": "Frankie Ruiz La Leyenda",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
-          "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
-          "url": "https://open.spotify.com/track/0FsXZAMf6NACvNJ2LI6ySp",
-          "duration_ms": 281333
-        },
-        {
-          "rank": 38,
+          "rank": 39,
           "name": "Toronto",
           "artists": [
             "Nandé",
@@ -1281,7 +1293,7 @@
           "duration_ms": 198888
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Flaca",
           "artists": [
             "Cultura Profética",
@@ -1292,18 +1304,6 @@
           "uri": "spotify:track:1rANpxB9ZtlcGTvandJAzI",
           "url": "https://open.spotify.com/track/1rANpxB9ZtlcGTvandJAzI",
           "duration_ms": 255875
-        },
-        {
-          "rank": 40,
-          "name": "Props & Mayhem",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "Collide With The Sky",
-          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-          "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO",
-          "url": "https://open.spotify.com/track/2SYMnBpx7zyhSDPQwoOlFO",
-          "duration_ms": 217853
         },
         {
           "rank": 41,
@@ -1518,19 +1518,19 @@
         },
         {
           "rank": 12,
-          "name": "Rawayana",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb5d52d93053343dc60653bbde",
-          "genres": [],
-          "uri": "spotify:artist:2AbQwU2cuEGfD465wCXlg2",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "rank": 13,
           "name": "Rauw Alejandro",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6d72db3fd29576caa9cb821f",
           "genres": [],
           "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "rank": 13,
+          "name": "Rawayana",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb5d52d93053343dc60653bbde",
+          "genres": [],
+          "uri": "spotify:artist:2AbQwU2cuEGfD465wCXlg2",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         },
         {
           "rank": 14,
@@ -1590,6 +1590,14 @@
         },
         {
           "rank": 21,
+          "name": "Kali Uchis",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebdeac5367816c7ab1f607e89a",
+          "genres": [],
+          "uri": "spotify:artist:1U1el3k54VvEUzo3ybLPlM",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "rank": 22,
           "name": "maye",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc44bdd7c78e751026c67857c",
           "genres": [],
@@ -1597,7 +1605,7 @@
           "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Cigarettes After Sex",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
           "genres": [],
@@ -1605,7 +1613,7 @@
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "wave to earth",
           "image": "https://i.scdn.co/image/ab6761610000e5eb11fa75d331351ecfc2e93faf",
           "genres": [],
@@ -1613,20 +1621,12 @@
           "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Sade",
           "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
           "genres": [],
           "uri": "spotify:artist:47zz7sob9NUcODy0BTDvKx",
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        },
-        {
-          "rank": 25,
-          "name": "Kali Uchis",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebdeac5367816c7ab1f607e89a",
-          "genres": [],
-          "uri": "spotify:artist:1U1el3k54VvEUzo3ybLPlM",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         },
         {
           "rank": 26,
