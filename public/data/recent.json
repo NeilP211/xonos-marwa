@@ -1,120 +1,6 @@
 {
-  "updated_at": "2026-09-29T19:50:48.715Z",
+  "updated_at": "2026-09-30T00:05:57.977Z",
   "plays": [
-    {
-      "played_at": "2026-06-18T13:09:39.612Z",
-      "name": "Bellaquita",
-      "artists": [
-        "Dalex",
-        "Lenny Tavárez"
-      ],
-      "album": "Bellaquita",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a388491c6a870a4728e223bc",
-      "uri": "spotify:track:1tpbAGsGpZee5jDHMcLrUJ",
-      "duration_ms": 204786
-    },
-    {
-      "played_at": "2026-06-18T13:11:40.576Z",
-      "name": "Bellaquita",
-      "artists": [
-        "Dalex",
-        "Lenny Tavárez"
-      ],
-      "album": "Bellaquita",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a388491c6a870a4728e223bc",
-      "uri": "spotify:track:1tpbAGsGpZee5jDHMcLrUJ",
-      "duration_ms": 204786
-    },
-    {
-      "played_at": "2026-06-18T13:14:44.563Z",
-      "name": "NUEVAYoL",
-      "artists": [
-        "Bad Bunny"
-      ],
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5",
-      "duration_ms": 183685
-    },
-    {
-      "played_at": "2026-06-18T13:19:51.669Z",
-      "name": "A Mí",
-      "artists": [
-        "Rels B"
-      ],
-      "album": "A Mí",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e75742385df2e0a026001e0d",
-      "uri": "spotify:track:7MmrcXVA7A5zZ2CbDuGHNa",
-      "duration_ms": 209680
-    },
-    {
-      "played_at": "2026-06-18T13:22:44.822Z",
-      "name": "Mis Días A Tu Suerte",
-      "artists": [
-        "Rels B"
-      ],
-      "album": "afroLOVA 25'",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730e409fad9527196e73e423ba",
-      "uri": "spotify:track:0XRJc66Gcvq8F98KE1TXD8",
-      "duration_ms": 143750
-    },
-    {
-      "played_at": "2026-06-18T13:28:29.663Z",
-      "name": "Revolú",
-      "artists": [
-        "Rauw Alejandro",
-        "Feid"
-      ],
-      "album": "Cosa Nuestra",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b",
-      "uri": "spotify:track:4lqJsJd7kqWVvamQ4aFHA8",
-      "duration_ms": 215511
-    },
-    {
-      "played_at": "2026-06-18T13:30:19.369Z",
-      "name": "Florida - (Intro)",
-      "artists": [
-        "Valentina Rico"
-      ],
-      "album": "Florida Sunset",
-      "image": "https://i.scdn.co/image/ab67616d0000b27335dc78e0a5e75fb40144a876",
-      "uri": "spotify:track:0HwcjUFHUepCdJW1Jnr6m9",
-      "duration_ms": 109397
-    },
-    {
-      "played_at": "2026-06-18T13:32:57.636Z",
-      "name": "LA PROPUESTA",
-      "artists": [
-        "Rels B",
-        "Los Sufridos"
-      ],
-      "album": "afroLOVA 25'",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730e409fad9527196e73e423ba",
-      "uri": "spotify:track:6EUfOXUQtIAHKkBBOqMS2w",
-      "duration_ms": 157714
-    },
-    {
-      "played_at": "2026-06-18T13:37:34.305Z",
-      "name": "La Última Canción",
-      "artists": [
-        "Rels B"
-      ],
-      "album": "LA ISLA LP",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d0192ddc3a984fd46b28ac09",
-      "uri": "spotify:track:2mRwodUOATBk5spcUsEidB",
-      "duration_ms": 184748
-    },
-    {
-      "played_at": "2026-06-18T13:40:09.621Z",
-      "name": "lo que hay x aquí",
-      "artists": [
-        "Rels B"
-      ],
-      "album": "lo que hay x aquí",
-      "image": "https://i.scdn.co/image/ab67616d0000b27385acf6becb994eb3cf3edd15",
-      "uri": "spotify:track:5IlLm20JXhKbMtsH20NblC",
-      "duration_ms": 155031
-    },
     {
       "played_at": "2026-06-18T13:43:57.093Z",
       "name": "De Dónde Es????",
@@ -22502,6 +22388,118 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831",
       "uri": "spotify:track:3L0JDlycMhSA7R0M0OfNIY",
       "duration_ms": 181546
+    },
+    {
+      "played_at": "2026-09-29T19:54:07.412Z",
+      "name": "El Hombre Que Yo Amo",
+      "artists": [
+        "Myriam Hernandez"
+      ],
+      "album": "Todo Lo Mio",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b2ea8d5a2060c46c2b2c85f8",
+      "uri": "spotify:track:5OtonpNWhoAw9z3wRwM2TC",
+      "duration_ms": 213453
+    },
+    {
+      "played_at": "2026-09-29T19:57:59.379Z",
+      "name": "Aquel Lugar",
+      "artists": [
+        "Adolescent's Orquesta"
+      ],
+      "album": "Búscame",
+      "image": "https://i.scdn.co/image/ab67616d0000b27395832255e8da870da6bfdcd3",
+      "uri": "spotify:track:16c6awlmGfeusU7zoVu5yc",
+      "duration_ms": 231410
+    },
+    {
+      "played_at": "2026-09-29T20:01:19.468Z",
+      "name": "Todo De Ti",
+      "artists": [
+        "Rauw Alejandro"
+      ],
+      "album": "VICE VERSA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f793c0c53727d8c5c950f809",
+      "uri": "spotify:track:3rdAz1fbUfZxYgaCviYhRo",
+      "duration_ms": 199604
+    },
+    {
+      "played_at": "2026-09-29T20:10:00.471Z",
+      "name": "Secreto De Amor",
+      "artists": [
+        "Joan Sebastian"
+      ],
+      "album": "Secreto De Amor",
+      "image": "https://i.scdn.co/image/ab67616d0000b273078eeb66acfcc9c323fe2a76",
+      "uri": "spotify:track:47PiSg7z5qjUyEGKN4I1g7",
+      "duration_ms": 273008
+    },
+    {
+      "played_at": "2026-09-29T20:13:23.729Z",
+      "name": "La Gloria Eres Tu",
+      "artists": [
+        "Luis Miguel"
+      ],
+      "album": "Romances",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a181913ea31219fed3a558b",
+      "uri": "spotify:track:0toNfHRTPmbsHi63G7Vgdz",
+      "duration_ms": 202760
+    },
+    {
+      "played_at": "2026-09-29T20:19:45.849Z",
+      "name": "Dele Gracias a la Vida",
+      "artists": [
+        "José José"
+      ],
+      "album": "Mujeriego",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731e494d81e6bb204be5253282",
+      "uri": "spotify:track:2joKxq92tZ9AXohixKAMyx",
+      "duration_ms": 221413
+    },
+    {
+      "played_at": "2026-09-29T20:26:50.300Z",
+      "name": "Callaita",
+      "artists": [
+        "Bad Bunny",
+        "Tainy"
+      ],
+      "album": "Callaita",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734aef420e62863ebf622c27f5",
+      "uri": "spotify:track:2TH65lNHgvLxCKXM3apjxI",
+      "duration_ms": 250533
+    },
+    {
+      "played_at": "2026-09-29T20:29:44.645Z",
+      "name": "capaz (merengueton)",
+      "artists": [
+        "Alleh",
+        "Yorghaki"
+      ],
+      "album": "LA CIUDAD",
+      "image": "https://i.scdn.co/image/ab67616d0000b27353596a050e8369c51da11029",
+      "uri": "spotify:track:2dd3G3ZqEcG2cNS1tp3oEk",
+      "duration_ms": 173858
+    },
+    {
+      "played_at": "2026-09-29T20:32:18.873Z",
+      "name": "Una Noche en Medellín",
+      "artists": [
+        "Cris MJ"
+      ],
+      "album": "Una Noche en Medellín",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be60f176970cdde893632dd8",
+      "uri": "spotify:track:0lREs0EdgrMQQKw00yx0Ct",
+      "duration_ms": 153750
+    },
+    {
+      "played_at": "2026-09-29T20:42:34.398Z",
+      "name": "Is It Really You?",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "I Let It in and It Took Everything",
+      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+      "uri": "spotify:track:4OmlsAT8r4q9vPFBvfYgyZ",
+      "duration_ms": 287627
     }
   ]
 }

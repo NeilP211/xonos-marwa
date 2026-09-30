@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-29T19:50:48.876Z",
-  "is_playing": true,
+  "updated_at": "2026-09-30T00:05:58.104Z",
+  "is_playing": false,
   "track": {
-    "name": "El Hombre Que Yo Amo",
+    "name": "Is It Really You?",
     "artists": [
-      "Myriam Hernandez"
+      "Loathe"
     ],
-    "album": "Todo Lo Mio",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b2ea8d5a2060c46c2b2c85f8",
-    "uri": "spotify:track:5OtonpNWhoAw9z3wRwM2TC"
+    "album": "I Let It in and It Took Everything",
+    "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+    "uri": "spotify:track:4OmlsAT8r4q9vPFBvfYgyZ"
   },
-  "played_at": "2026-09-29T19:50:48.876Z"
+  "played_at": "2026-09-29T20:42:34.398Z"
 }
