@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-30T00:05:58.104Z",
+  "updated_at": "2026-09-30T09:24:50.929Z",
   "is_playing": false,
   "track": {
-    "name": "Is It Really You?",
+    "name": "Smile In Your Sleep",
     "artists": [
-      "Loathe"
+      "Silverstein"
     ],
-    "album": "I Let It in and It Took Everything",
-    "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
-    "uri": "spotify:track:4OmlsAT8r4q9vPFBvfYgyZ"
+    "album": "Discovering The Waterfront",
+    "image": "https://i.scdn.co/image/ab67616d0000b273aade7ea1ce5e7f75f6d40a3c",
+    "uri": "spotify:track:29dljceloiAgAeARUwZ3QC"
   },
-  "played_at": "2026-09-29T20:42:34.398Z"
+  "played_at": "2026-09-30T06:57:12.669Z"
 }
