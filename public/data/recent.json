@@ -1,85 +1,6 @@
 {
-  "updated_at": "2026-09-30T09:24:50.894Z",
+  "updated_at": "2026-09-30T17:44:27.368Z",
   "plays": [
-    {
-      "played_at": "2026-06-18T14:40:22.781Z",
-      "name": "Bendito",
-      "artists": [
-        "Rawayana"
-      ],
-      "album": "¿Dónde Es El After?",
-      "image": "https://i.scdn.co/image/ab67616d0000b273932fe6d260177091a0e115ba",
-      "uri": "spotify:track:6f00ixRBopYCszGmKhOUyp",
-      "duration_ms": 154586
-    },
-    {
-      "played_at": "2026-06-18T14:43:35.627Z",
-      "name": "Playa Pantaleta",
-      "artists": [
-        "Rawayana"
-      ],
-      "album": "¿Dónde Es El After?",
-      "image": "https://i.scdn.co/image/ab67616d0000b273932fe6d260177091a0e115ba",
-      "uri": "spotify:track:3Eu6LVgWHm3iristXeOjWf",
-      "duration_ms": 192093
-    },
-    {
-      "played_at": "2026-06-18T14:47:25.430Z",
-      "name": "Hora Loca",
-      "artists": [
-        "Rawayana",
-        "Monsieur Periné"
-      ],
-      "album": "¿Quién trae las cornetas?",
-      "image": "https://i.scdn.co/image/ab67616d0000b27304ee4c8e013751482ea3b958",
-      "uri": "spotify:track:3lfjd8A0DkB84yrvjzkbry",
-      "duration_ms": 191825
-    },
-    {
-      "played_at": "2026-06-18T14:52:13.106Z",
-      "name": "fantasmas",
-      "artists": [
-        "HUMBE"
-      ],
-      "album": "DUEÑO DEL CIELO",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730c4ef3ae1269872fe80e2154",
-      "uri": "spotify:track:3iTVjevexCuVrBwmkR4qJc",
-      "duration_ms": 287248
-    },
-    {
-      "played_at": "2026-06-18T14:57:26.826Z",
-      "name": "Querámonos lento",
-      "artists": [
-        "Manuel Lizarazo"
-      ],
-      "album": "Querámonos lento",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731f5e04cbfc94eff236b5fd46",
-      "uri": "spotify:track:2GZvRXUFYY1EMJTP4nnVhW",
-      "duration_ms": 139852
-    },
-    {
-      "played_at": "2026-06-18T15:00:03.137Z",
-      "name": "Te Conozco Tan Bien",
-      "artists": [
-        "Manuel Lizarazo"
-      ],
-      "album": "Las q no te canté",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ec89aad680ba965065c7cd1b",
-      "uri": "spotify:track:1RW4Mmf8riRUZT3iWKLWM0",
-      "duration_ms": 155800
-    },
-    {
-      "played_at": "2026-06-18T15:03:52.951Z",
-      "name": "AMOR AMOR",
-      "artists": [
-        "PARDOPARDO",
-        "Thyan V"
-      ],
-      "album": "AMOR AMOR",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737e819d4788953ed5c2fc121c",
-      "uri": "spotify:track:4vuw6IbxGY5rliFeGJD0m1",
-      "duration_ms": 229333
-    },
     {
       "played_at": "2026-06-18T15:08:58.237Z",
       "name": "Ateo",
@@ -22495,6 +22416,83 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273aade7ea1ce5e7f75f6d40a3c",
       "uri": "spotify:track:29dljceloiAgAeARUwZ3QC",
       "duration_ms": 193920
+    },
+    {
+      "played_at": "2026-09-30T12:29:13.304Z",
+      "name": "Harder To Pretend",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "A Stranger To You",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732244c635d7f41716d16150df",
+      "uri": "spotify:track:1MnehU6nVJJt6OVem0pvUm",
+      "duration_ms": 212320
+    },
+    {
+      "played_at": "2026-09-30T12:35:13.007Z",
+      "name": "departing the body",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "private music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+      "uri": "spotify:track:2uXxooVssBJB8Llk2dB5kf",
+      "duration_ms": 359228
+    },
+    {
+      "played_at": "2026-09-30T12:40:05.986Z",
+      "name": "Marisol",
+      "artists": [
+        "Static Dress"
+      ],
+      "album": "Rouge Carpet Disaster",
+      "image": "https://i.scdn.co/image/ab67616d0000b27378f8b5df47c65e736dd3dcbd",
+      "uri": "spotify:track:0uWPUfo3Lymv9fuxgkm42j",
+      "duration_ms": 292500
+    },
+    {
+      "played_at": "2026-09-30T12:42:56.467Z",
+      "name": "in your head",
+      "artists": [
+        "cloudyfield"
+      ],
+      "album": "in your head",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a51d9c1f181661c0a99d370f",
+      "uri": "spotify:track:0GrAc2fGqrvY7xMsAPdTKC",
+      "duration_ms": 170000
+    },
+    {
+      "played_at": "2026-09-30T12:47:02.051Z",
+      "name": "For Now",
+      "artists": [
+        "Thornhill"
+      ],
+      "album": "BODIES",
+      "image": "https://i.scdn.co/image/ab67616d0000b27364b7a0a4cb0d08c354ff48db",
+      "uri": "spotify:track:0Gg9krMVwwsTC3URfYb7Hc",
+      "duration_ms": 245101
+    },
+    {
+      "played_at": "2026-09-30T12:52:57.170Z",
+      "name": "Screaming",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "I Let It in and It Took Everything",
+      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+      "uri": "spotify:track:611WshW3yQKLCQ2pTCOii4",
+      "duration_ms": 354640
+    },
+    {
+      "played_at": "2026-09-30T16:20:06.108Z",
+      "name": "Luka",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Luka",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da824d21dc5fa336020fff3e",
+      "uri": "spotify:track:6ILmZpvejf4z5kYW1c4x9n",
+      "duration_ms": 209220
     }
   ]
 }

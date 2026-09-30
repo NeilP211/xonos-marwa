@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-30T09:24:50.929Z",
+  "updated_at": "2026-09-30T17:44:27.458Z",
   "is_playing": false,
   "track": {
-    "name": "Smile In Your Sleep",
+    "name": "Luka",
     "artists": [
-      "Silverstein"
+      "VIOLENT VIRA"
     ],
-    "album": "Discovering The Waterfront",
-    "image": "https://i.scdn.co/image/ab67616d0000b273aade7ea1ce5e7f75f6d40a3c",
-    "uri": "spotify:track:29dljceloiAgAeARUwZ3QC"
+    "album": "Luka",
+    "image": "https://i.scdn.co/image/ab67616d0000b273da824d21dc5fa336020fff3e",
+    "uri": "spotify:track:6ILmZpvejf4z5kYW1c4x9n"
   },
-  "played_at": "2026-09-30T06:57:12.669Z"
+  "played_at": "2026-09-30T16:20:06.108Z"
 }
