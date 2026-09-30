@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T17:44:27.275Z",
+  "generated_at": "2026-09-30T21:58:16.904Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -30,6 +30,18 @@
         },
         {
           "rank": 3,
+          "name": "Props & Mayhem",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "Collide With The Sky",
+          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+          "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO",
+          "url": "https://open.spotify.com/track/2SYMnBpx7zyhSDPQwoOlFO",
+          "duration_ms": 217853
+        },
+        {
+          "rank": 4,
           "name": "Change (In the House of Flies)",
           "artists": [
             "Deftones"
@@ -41,7 +53,7 @@
           "duration_ms": 299533
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Burn Me With A Bible",
           "artists": [
             "VIOLENT VIRA"
@@ -53,7 +65,19 @@
           "duration_ms": 245393
         },
         {
-          "rank": 5,
+          "rank": 6,
+          "name": "stingray",
+          "artists": [
+            "Rehash"
+          ],
+          "album": "mock",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732f50a9ad97d36ef45ac44937",
+          "uri": "spotify:track:1iegi4anCrPW5YReZbviwa",
+          "url": "https://open.spotify.com/track/1iegi4anCrPW5YReZbviwa",
+          "duration_ms": 184041
+        },
+        {
+          "rank": 7,
           "name": "Resilience",
           "artists": [
             "Pierce The Veil"
@@ -65,7 +89,7 @@
           "duration_ms": 220360
         },
         {
-          "rank": 6,
+          "rank": 8,
           "name": "12 Fractures",
           "artists": [
             "Pierce The Veil",
@@ -78,7 +102,7 @@
           "duration_ms": 181600
         },
         {
-          "rank": 7,
+          "rank": 9,
           "name": "Circles",
           "artists": [
             "Pierce The Veil"
@@ -90,31 +114,19 @@
           "duration_ms": 224306
         },
         {
-          "rank": 8,
-          "name": "stingray",
-          "artists": [
-            "Rehash"
-          ],
-          "album": "mock",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732f50a9ad97d36ef45ac44937",
-          "uri": "spotify:track:1iegi4anCrPW5YReZbviwa",
-          "url": "https://open.spotify.com/track/1iegi4anCrPW5YReZbviwa",
-          "duration_ms": 184041
-        },
-        {
-          "rank": 9,
-          "name": "Props & Mayhem",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "Collide With The Sky",
-          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-          "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO",
-          "url": "https://open.spotify.com/track/2SYMnBpx7zyhSDPQwoOlFO",
-          "duration_ms": 217853
-        },
-        {
           "rank": 10,
+          "name": "Helena",
+          "artists": [
+            "My Chemical Romance"
+          ],
+          "album": "Three Cheers for Sweet Revenge",
+          "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
+          "uri": "spotify:track:5dTHtzHFPyi8TlTtzoz1J9",
+          "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9",
+          "duration_ms": 204733
+        },
+        {
+          "rank": 11,
           "name": "Ceremony",
           "artists": [
             "Deftones"
@@ -126,7 +138,7 @@
           "duration_ms": 207752
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Phantom Bride",
           "artists": [
             "Deftones"
@@ -138,7 +150,19 @@
           "duration_ms": 293053
         },
         {
-          "rank": 12,
+          "rank": 13,
+          "name": "I'm Low On Gas And You Need A Jacket",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "Collide With The Sky",
+          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+          "uri": "spotify:track:40WWeoX26jtsfdmFx5iRty",
+          "url": "https://open.spotify.com/track/40WWeoX26jtsfdmFx5iRty",
+          "duration_ms": 252386
+        },
+        {
+          "rank": 14,
           "name": "DÁKITI",
           "artists": [
             "Bad Bunny",
@@ -151,7 +175,7 @@
           "duration_ms": 205090
         },
         {
-          "rank": 13,
+          "rank": 15,
           "name": "Y QUE TAL",
           "artists": [
             "Joey V Mendez"
@@ -163,7 +187,7 @@
           "duration_ms": 187898
         },
         {
-          "rank": 14,
+          "rank": 16,
           "name": "Emergency Contact",
           "artists": [
             "Pierce The Veil"
@@ -175,7 +199,7 @@
           "duration_ms": 240000
         },
         {
-          "rank": 15,
+          "rank": 17,
           "name": "So Far So Fake",
           "artists": [
             "Pierce The Veil"
@@ -187,7 +211,7 @@
           "duration_ms": 236160
         },
         {
-          "rank": 16,
+          "rank": 18,
           "name": "Dile Luna",
           "artists": [
             "KAROL G",
@@ -200,19 +224,7 @@
           "duration_ms": 187508
         },
         {
-          "rank": 17,
-          "name": "Helena",
-          "artists": [
-            "My Chemical Romance"
-          ],
-          "album": "Three Cheers for Sweet Revenge",
-          "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
-          "uri": "spotify:track:5dTHtzHFPyi8TlTtzoz1J9",
-          "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9",
-          "duration_ms": 204733
-        },
-        {
-          "rank": 18,
+          "rank": 19,
           "name": "Flawless Execution",
           "artists": [
             "Pierce The Veil"
@@ -224,7 +236,7 @@
           "duration_ms": 240053
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "MOOO!",
           "artists": [
             "Doja Cat"
@@ -236,7 +248,7 @@
           "duration_ms": 285138
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Deseándote",
           "artists": [
             "Frankie Ruiz"
@@ -248,7 +260,7 @@
           "duration_ms": 281333
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Hawái",
           "artists": [
             "Maluma"
@@ -260,7 +272,7 @@
           "duration_ms": 199112
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Anniversary of an Uninteresting Event",
           "artists": [
             "Deftones"
@@ -272,7 +284,7 @@
           "duration_ms": 237333
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Death Of An Executioner",
           "artists": [
             "Pierce The Veil"
@@ -282,18 +294,6 @@
           "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
           "url": "https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp",
           "duration_ms": 267800
-        },
-        {
-          "rank": 24,
-          "name": "I'm Low On Gas And You Need A Jacket",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "Collide With The Sky",
-          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-          "uri": "spotify:track:40WWeoX26jtsfdmFx5iRty",
-          "url": "https://open.spotify.com/track/40WWeoX26jtsfdmFx5iRty",
-          "duration_ms": 252386
         },
         {
           "rank": 25,

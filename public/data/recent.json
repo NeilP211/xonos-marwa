@@ -1,110 +1,6 @@
 {
-  "updated_at": "2026-09-30T17:44:27.368Z",
+  "updated_at": "2026-09-30T21:58:17.184Z",
   "plays": [
-    {
-      "played_at": "2026-06-18T15:08:58.237Z",
-      "name": "Ateo",
-      "artists": [
-        "C. Tangana",
-        "NATHY PELUSO"
-      ],
-      "album": "El Madrileño (La Sobremesa)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27341533c81ef4793029083c205",
-      "uri": "spotify:track:5WxYU8RRzy5X0kC6Fx9SpI",
-      "duration_ms": 240000
-    },
-    {
-      "played_at": "2026-06-18T15:14:07.830Z",
-      "name": "Por Ti, Yo",
-      "artists": [
-        "La Quinna"
-      ],
-      "album": "Por Ti, Yo",
-      "image": "https://i.scdn.co/image/ab67616d0000b27393d03e7267c3002d177f6424",
-      "uri": "spotify:track:01dfWAtKjp990rN0SM4bWZ",
-      "duration_ms": 309146
-    },
-    {
-      "played_at": "2026-06-18T15:17:20.827Z",
-      "name": "Mónaco",
-      "artists": [
-        "LAGOS",
-        "Danny Ocean"
-      ],
-      "album": "Clásicos",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734603462dd193f76ab1f98218",
-      "uri": "spotify:track:3HgvO4B5LLmdPOT2d8cSZd",
-      "duration_ms": 192313
-    },
-    {
-      "played_at": "2026-06-18T16:18:42.393Z",
-      "name": "QUE HACES",
-      "artists": [
-        "Becky G",
-        "Manuel Turizo"
-      ],
-      "album": "QUE HACES",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cfdc7c6e909ced5ff7c2b1d3",
-      "uri": "spotify:track:4ad3yFpPEMFLnvCtvbman5",
-      "duration_ms": 171813
-    },
-    {
-      "played_at": "2026-06-18T16:22:43.487Z",
-      "name": "P.Y.T. (Pretty Young Thing)",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Thriller",
-      "image": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-      "uri": "spotify:track:1CgmY8fVN7kstVDZmsdM5k",
-      "duration_ms": 238333
-    },
-    {
-      "played_at": "2026-06-18T16:43:08.238Z",
-      "name": "LUNA",
-      "artists": [
-        "Feid",
-        "ATL Jacob"
-      ],
-      "album": "FERXXOCALIPSIS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242",
-      "uri": "spotify:track:7bywjHOc0wSjGGbj04XbVi",
-      "duration_ms": 196800
-    },
-    {
-      "played_at": "2026-06-18T20:41:08.273Z",
-      "name": "Odio (feat. Drake)",
-      "artists": [
-        "Romeo Santos",
-        "Drake"
-      ],
-      "album": "Fórmula, Vol. 2 (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e0e4b48b060715c9aa7fca18",
-      "uri": "spotify:track:1iLv1ieT9BZ3qsti9yTCnG",
-      "duration_ms": 225000
-    },
-    {
-      "played_at": "2026-06-18T21:10:59.844Z",
-      "name": "Nothing Compares - Bonus Track",
-      "artists": [
-        "The Weeknd"
-      ],
-      "album": "After Hours (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ef017e899c0547766997d874",
-      "uri": "spotify:track:6utQlfLooYsUkq5xUg3vxt",
-      "duration_ms": 222306
-    },
-    {
-      "played_at": "2026-06-18T21:49:14.220Z",
-      "name": "hmu",
-      "artists": [
-        "greek"
-      ],
-      "album": "EXTC",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c12de4a270ee0e8c8fc2b675",
-      "uri": "spotify:track:4fC8mW8ZFQanmSHq30mgWz",
-      "duration_ms": 235801
-    },
     {
       "played_at": "2026-06-20T00:17:27.366Z",
       "name": "WHO DO U LUV",
@@ -22493,6 +22389,105 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273da824d21dc5fa336020fff3e",
       "uri": "spotify:track:6ILmZpvejf4z5kYW1c4x9n",
       "duration_ms": 209220
+    },
+    {
+      "played_at": "2026-09-30T18:21:06.088Z",
+      "name": "stingray",
+      "artists": [
+        "Rehash"
+      ],
+      "album": "mock",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f50a9ad97d36ef45ac44937",
+      "uri": "spotify:track:1iegi4anCrPW5YReZbviwa",
+      "duration_ms": 184041
+    },
+    {
+      "played_at": "2026-09-30T18:22:08.012Z",
+      "name": "stingray",
+      "artists": [
+        "Rehash"
+      ],
+      "album": "mock",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f50a9ad97d36ef45ac44937",
+      "uri": "spotify:track:1iegi4anCrPW5YReZbviwa",
+      "duration_ms": 184041
+    },
+    {
+      "played_at": "2026-09-30T18:26:19.981Z",
+      "name": "Props & Mayhem",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO",
+      "duration_ms": 217853
+    },
+    {
+      "played_at": "2026-09-30T18:30:32.868Z",
+      "name": "I'm Low On Gas And You Need A Jacket",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:40WWeoX26jtsfdmFx5iRty",
+      "duration_ms": 252386
+    },
+    {
+      "played_at": "2026-09-30T18:33:58.102Z",
+      "name": "Helena",
+      "artists": [
+        "My Chemical Romance"
+      ],
+      "album": "Three Cheers for Sweet Revenge",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
+      "uri": "spotify:track:5dTHtzHFPyi8TlTtzoz1J9",
+      "duration_ms": 204733
+    },
+    {
+      "played_at": "2026-09-30T19:54:39.950Z",
+      "name": "The Ghost of You",
+      "artists": [
+        "My Chemical Romance"
+      ],
+      "album": "Three Cheers for Sweet Revenge",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
+      "uri": "spotify:track:1yKAqZoi8xWGLCf5vajroL",
+      "duration_ms": 194253
+    },
+    {
+      "played_at": "2026-09-30T20:01:02.776Z",
+      "name": "Resilience",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+      "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-09-30T20:05:49.241Z",
+      "name": "Change (In the House of Flies)",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "White Pony",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
+      "uri": "spotify:track:51c94ac31swyDQj9B3Lzs3",
+      "duration_ms": 299533
+    },
+    {
+      "played_at": "2026-09-30T21:50:39.548Z",
+      "name": "Prayers / Triangles",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Gore",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1de34b79834eddf96f803ff",
+      "uri": "spotify:track:0B1Iqqq8wVoXM5R5glHQES",
+      "duration_ms": 217920
     }
   ]
 }
