@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T04:44:04.898Z",
+  "generated_at": "2026-10-01T12:38:51.464Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1888,18 +1888,6 @@
         },
         {
           "rank": 4,
-          "name": "Soft Spot",
-          "artists": [
-            "keshi"
-          ],
-          "album": "Requiem",
-          "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
-          "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
-          "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7",
-          "duration_ms": 204223
-        },
-        {
-          "rank": 5,
           "name": "沉溺（你让我的心不再结冰）",
           "artists": [
             "邹沛沛",
@@ -1912,7 +1900,7 @@
           "duration_ms": 193773
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "LAYALINA",
           "artists": [
             "TUL8TE"
@@ -1922,6 +1910,18 @@
           "uri": "spotify:track:1yiJHrunZu2fov7OhC7vM9",
           "url": "https://open.spotify.com/track/1yiJHrunZu2fov7OhC7vM9",
           "duration_ms": 218833
+        },
+        {
+          "rank": 6,
+          "name": "Soft Spot",
+          "artists": [
+            "keshi"
+          ],
+          "album": "Requiem",
+          "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
+          "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
+          "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7",
+          "duration_ms": 204223
         },
         {
           "rank": 7,
@@ -2098,6 +2098,19 @@
         },
         {
           "rank": 21,
+          "name": "Hold On Till May",
+          "artists": [
+            "Pierce The Veil",
+            "Lindsey Stamey"
+          ],
+          "album": "Collide With The Sky",
+          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+          "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
+          "url": "https://open.spotify.com/track/5u2FOoFhp495GIj5BJC77J",
+          "duration_ms": 278586
+        },
+        {
+          "rank": 22,
           "name": "Dujem",
           "artists": [
             "Butrint Imeri"
@@ -2109,7 +2122,7 @@
           "duration_ms": 157441
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "12 Fractures",
           "artists": [
             "Pierce The Veil",
@@ -2122,7 +2135,7 @@
           "duration_ms": 181600
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "اخدني معك",
           "artists": [
             "Fadel Chaker"
@@ -2134,7 +2147,7 @@
           "duration_ms": 313939
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Sweet Dreams (feat. Miguel)",
           "artists": [
             "j-hope",
@@ -2147,7 +2160,7 @@
           "duration_ms": 172952
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Shared Trauma",
           "artists": [
             "Pierce The Veil"
@@ -2159,7 +2172,7 @@
           "duration_ms": 253000
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Staying",
           "artists": [
             "Lizzy McAlpine"
@@ -2171,7 +2184,7 @@
           "duration_ms": 151647
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Ojos Tristes (with The Marías)",
           "artists": [
             "Selena Gomez",
@@ -2185,7 +2198,7 @@
           "duration_ms": 201920
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "M.",
           "artists": [
             "Anıl Emre Daldal"
@@ -2197,7 +2210,7 @@
           "duration_ms": 223750
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Azul",
           "artists": [
             "J Balvin"
@@ -2209,7 +2222,7 @@
           "duration_ms": 205933
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Siesta Freestyle",
           "artists": [
             "Lewis OfMan",
@@ -2222,7 +2235,7 @@
           "duration_ms": 194160
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Still Monster",
           "artists": [
             "ENHYPEN"
@@ -2234,7 +2247,7 @@
           "duration_ms": 186119
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Callaita",
           "artists": [
             "Bad Bunny",
@@ -2247,7 +2260,7 @@
           "duration_ms": 250533
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Mucho Corazón",
           "artists": [
             "Luis Miguel"
@@ -2257,19 +2270,6 @@
           "uri": "spotify:track:5C1HYHG6b1wk9MpC2UP9C6",
           "url": "https://open.spotify.com/track/5C1HYHG6b1wk9MpC2UP9C6",
           "duration_ms": 203733
-        },
-        {
-          "rank": 34,
-          "name": "Hold On Till May",
-          "artists": [
-            "Pierce The Veil",
-            "Lindsey Stamey"
-          ],
-          "album": "Collide With The Sky",
-          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-          "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
-          "url": "https://open.spotify.com/track/5u2FOoFhp495GIj5BJC77J",
-          "duration_ms": 278586
         },
         {
           "rank": 35,
@@ -2492,14 +2492,6 @@
         },
         {
           "rank": 4,
-          "name": "Amr Diab",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb0964551acbca47182ef26a24",
-          "genres": [],
-          "uri": "spotify:artist:5abSRg0xN1NV3gLbuvX24M",
-          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
-        },
-        {
-          "rank": 5,
           "name": "Pierce The Veil",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6f8f8d13be17bf486219edc7",
           "genres": [],
@@ -2507,20 +2499,28 @@
           "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         },
         {
-          "rank": 6,
-          "name": "Lana Del Rey",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
+          "rank": 5,
+          "name": "Amr Diab",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb0964551acbca47182ef26a24",
           "genres": [],
-          "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "uri": "spotify:artist:5abSRg0xN1NV3gLbuvX24M",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "Bad Bunny",
           "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
           "genres": [],
           "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "rank": 7,
+          "name": "Lana Del Rey",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
+          "genres": [],
+          "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         },
         {
           "rank": 8,
@@ -2716,14 +2716,6 @@
         },
         {
           "rank": 32,
-          "name": "Nancy Ajram",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb5c9cf78344e4a0dd486a0e34",
-          "genres": [],
-          "uri": "spotify:artist:0LnHdW6HMPoOlNdhG3DHjE",
-          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
-        },
-        {
-          "rank": 33,
           "name": "Rawayana",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5d52d93053343dc60653bbde",
           "genres": [],
@@ -2731,12 +2723,20 @@
           "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "KISS OF LIFE",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4b89abdc6c414c949aa45cbe",
           "genres": [],
           "uri": "spotify:artist:4TEK9tIkcoxib4GxT3O4ky",
           "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        },
+        {
+          "rank": 34,
+          "name": "Nancy Ajram",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb5c9cf78344e4a0dd486a0e34",
+          "genres": [],
+          "uri": "spotify:artist:0LnHdW6HMPoOlNdhG3DHjE",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
         },
         {
           "rank": 35,
@@ -2860,11 +2860,11 @@
         },
         {
           "rank": 50,
-          "name": "Milena",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebf7a24a6e14e58a3106344603",
+          "name": "My Chemical Romance",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb0c55e74e435910793888f7cf",
           "genres": [],
-          "uri": "spotify:artist:2ODok2cPMF1Z1gZetfaL6n",
-          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+          "uri": "spotify:artist:7FBcuc1gsnv6Y1nwFtNRCb",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ]
     }
