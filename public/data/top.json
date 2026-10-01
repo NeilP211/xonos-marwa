@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T21:58:16.904Z",
+  "generated_at": "2026-10-01T04:44:04.898Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -18,6 +18,18 @@
         },
         {
           "rank": 2,
+          "name": "Change (In the House of Flies)",
+          "artists": [
+            "Deftones"
+          ],
+          "album": "White Pony",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
+          "uri": "spotify:track:51c94ac31swyDQj9B3Lzs3",
+          "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3",
+          "duration_ms": 299533
+        },
+        {
+          "rank": 3,
           "name": "Shared Trauma",
           "artists": [
             "Pierce The Veil"
@@ -29,7 +41,7 @@
           "duration_ms": 253000
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Props & Mayhem",
           "artists": [
             "Pierce The Veil"
@@ -39,18 +51,6 @@
           "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO",
           "url": "https://open.spotify.com/track/2SYMnBpx7zyhSDPQwoOlFO",
           "duration_ms": 217853
-        },
-        {
-          "rank": 4,
-          "name": "Change (In the House of Flies)",
-          "artists": [
-            "Deftones"
-          ],
-          "album": "White Pony",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
-          "uri": "spotify:track:51c94ac31swyDQj9B3Lzs3",
-          "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3",
-          "duration_ms": 299533
         },
         {
           "rank": 5,
@@ -66,18 +66,6 @@
         },
         {
           "rank": 6,
-          "name": "stingray",
-          "artists": [
-            "Rehash"
-          ],
-          "album": "mock",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732f50a9ad97d36ef45ac44937",
-          "uri": "spotify:track:1iegi4anCrPW5YReZbviwa",
-          "url": "https://open.spotify.com/track/1iegi4anCrPW5YReZbviwa",
-          "duration_ms": 184041
-        },
-        {
-          "rank": 7,
           "name": "Resilience",
           "artists": [
             "Pierce The Veil"
@@ -87,6 +75,18 @@
           "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
           "url": "https://open.spotify.com/track/08vqJRf0PuLF1YACmIG3o8",
           "duration_ms": 220360
+        },
+        {
+          "rank": 7,
+          "name": "stingray",
+          "artists": [
+            "Rehash"
+          ],
+          "album": "mock",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732f50a9ad97d36ef45ac44937",
+          "uri": "spotify:track:1iegi4anCrPW5YReZbviwa",
+          "url": "https://open.spotify.com/track/1iegi4anCrPW5YReZbviwa",
+          "duration_ms": 184041
         },
         {
           "rank": 8,
@@ -249,6 +249,18 @@
         },
         {
           "rank": 21,
+          "name": "Prayers / Triangles",
+          "artists": [
+            "Deftones"
+          ],
+          "album": "Gore",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a1de34b79834eddf96f803ff",
+          "uri": "spotify:track:0B1Iqqq8wVoXM5R5glHQES",
+          "url": "https://open.spotify.com/track/0B1Iqqq8wVoXM5R5glHQES",
+          "duration_ms": 217920
+        },
+        {
+          "rank": 22,
           "name": "Deseándote",
           "artists": [
             "Frankie Ruiz"
@@ -260,7 +272,19 @@
           "duration_ms": 281333
         },
         {
-          "rank": 22,
+          "rank": 23,
+          "name": "The Ghost of You",
+          "artists": [
+            "My Chemical Romance"
+          ],
+          "album": "Three Cheers for Sweet Revenge",
+          "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
+          "uri": "spotify:track:1yKAqZoi8xWGLCf5vajroL",
+          "url": "https://open.spotify.com/track/1yKAqZoi8xWGLCf5vajroL",
+          "duration_ms": 194253
+        },
+        {
+          "rank": 24,
           "name": "Hawái",
           "artists": [
             "Maluma"
@@ -272,7 +296,7 @@
           "duration_ms": 199112
         },
         {
-          "rank": 23,
+          "rank": 25,
           "name": "Anniversary of an Uninteresting Event",
           "artists": [
             "Deftones"
@@ -284,7 +308,7 @@
           "duration_ms": 237333
         },
         {
-          "rank": 24,
+          "rank": 26,
           "name": "Death Of An Executioner",
           "artists": [
             "Pierce The Veil"
@@ -296,7 +320,7 @@
           "duration_ms": 267800
         },
         {
-          "rank": 25,
+          "rank": 27,
           "name": "Sediento",
           "artists": [
             "Joey V Mendez"
@@ -308,7 +332,7 @@
           "duration_ms": 176969
         },
         {
-          "rank": 26,
+          "rank": 28,
           "name": "The Way It Breaks",
           "artists": [
             "Loathe",
@@ -321,7 +345,7 @@
           "duration_ms": 306786
         },
         {
-          "rank": 27,
+          "rank": 29,
           "name": "Luka",
           "artists": [
             "VIOLENT VIRA"
@@ -333,7 +357,7 @@
           "duration_ms": 209220
         },
         {
-          "rank": 28,
+          "rank": 30,
           "name": "Callaita",
           "artists": [
             "Bad Bunny",
@@ -346,7 +370,7 @@
           "duration_ms": 250533
         },
         {
-          "rank": 29,
+          "rank": 31,
           "name": "Comfortable Liar",
           "artists": [
             "Chevelle"
@@ -358,7 +382,7 @@
           "duration_ms": 223266
         },
         {
-          "rank": 30,
+          "rank": 32,
           "name": "Creo En Ti",
           "artists": [
             "maye"
@@ -370,7 +394,7 @@
           "duration_ms": 202425
         },
         {
-          "rank": 31,
+          "rank": 33,
           "name": "PANTI Y COLALE 2.0",
           "artists": [
             "El Alfa",
@@ -389,7 +413,7 @@
           "duration_ms": 279685
         },
         {
-          "rank": 32,
+          "rank": 34,
           "name": "Fallen Star",
           "artists": [
             "The Neighbourhood"
@@ -401,7 +425,7 @@
           "duration_ms": 224938
         },
         {
-          "rank": 33,
+          "rank": 35,
           "name": "I Let It in and It Took Everything...",
           "artists": [
             "Loathe",
@@ -414,7 +438,7 @@
           "duration_ms": 320413
         },
         {
-          "rank": 34,
+          "rank": 36,
           "name": "parasite",
           "artists": [
             "cloudyfield"
@@ -426,7 +450,7 @@
           "duration_ms": 160750
         },
         {
-          "rank": 35,
+          "rank": 37,
           "name": "Can't Leave Alone (feat. Avenoir & Maz B)",
           "artists": [
             "Pino"
@@ -438,7 +462,7 @@
           "duration_ms": 213413
         },
         {
-          "rank": 36,
+          "rank": 38,
           "name": "Art of War",
           "artists": [
             "Avenoir"
@@ -450,19 +474,7 @@
           "duration_ms": 126973
         },
         {
-          "rank": 37,
-          "name": "Prayers / Triangles",
-          "artists": [
-            "Deftones"
-          ],
-          "album": "Gore",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a1de34b79834eddf96f803ff",
-          "uri": "spotify:track:0B1Iqqq8wVoXM5R5glHQES",
-          "url": "https://open.spotify.com/track/0B1Iqqq8wVoXM5R5glHQES",
-          "duration_ms": 217920
-        },
-        {
-          "rank": 38,
+          "rank": 39,
           "name": "Después de ti",
           "artists": [
             "KAROL G",
@@ -473,18 +485,6 @@
           "uri": "spotify:track:1XUEx6XLSmuPx9hqYARlrd",
           "url": "https://open.spotify.com/track/1XUEx6XLSmuPx9hqYARlrd",
           "duration_ms": 268996
-        },
-        {
-          "rank": 39,
-          "name": "The Ghost of You",
-          "artists": [
-            "My Chemical Romance"
-          ],
-          "album": "Three Cheers for Sweet Revenge",
-          "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
-          "uri": "spotify:track:1yKAqZoi8xWGLCf5vajroL",
-          "url": "https://open.spotify.com/track/1yKAqZoi8xWGLCf5vajroL",
-          "duration_ms": 194253
         },
         {
           "rank": 40,
@@ -898,30 +898,6 @@
         },
         {
           "rank": 6,
-          "name": "Shared Trauma",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
-          "url": "https://open.spotify.com/track/0ZHcRJMgSjQ3Gjf80ti943",
-          "duration_ms": 253000
-        },
-        {
-          "rank": 7,
-          "name": "A Lonely Night",
-          "artists": [
-            "The Weeknd"
-          ],
-          "album": "Starboy",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
-          "uri": "spotify:track:4UknpXoLjlB7Mao4UWcJ2o",
-          "url": "https://open.spotify.com/track/4UknpXoLjlB7Mao4UWcJ2o",
-          "duration_ms": 220173
-        },
-        {
-          "rank": 8,
           "name": "Helena",
           "artists": [
             "My Chemical Romance"
@@ -933,7 +909,7 @@
           "duration_ms": 204733
         },
         {
-          "rank": 9,
+          "rank": 7,
           "name": "Hold On Till May",
           "artists": [
             "Pierce The Veil",
@@ -944,6 +920,30 @@
           "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
           "url": "https://open.spotify.com/track/5u2FOoFhp495GIj5BJC77J",
           "duration_ms": 278586
+        },
+        {
+          "rank": 8,
+          "name": "Shared Trauma",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
+          "url": "https://open.spotify.com/track/0ZHcRJMgSjQ3Gjf80ti943",
+          "duration_ms": 253000
+        },
+        {
+          "rank": 9,
+          "name": "A Lonely Night",
+          "artists": [
+            "The Weeknd"
+          ],
+          "album": "Starboy",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
+          "uri": "spotify:track:4UknpXoLjlB7Mao4UWcJ2o",
+          "url": "https://open.spotify.com/track/4UknpXoLjlB7Mao4UWcJ2o",
+          "duration_ms": 220173
         },
         {
           "rank": 10,
@@ -1080,6 +1080,18 @@
         },
         {
           "rank": 21,
+          "name": "Props & Mayhem",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "Collide With The Sky",
+          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+          "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO",
+          "url": "https://open.spotify.com/track/2SYMnBpx7zyhSDPQwoOlFO",
+          "duration_ms": 217853
+        },
+        {
+          "rank": 22,
           "name": "Mónaco",
           "artists": [
             "LAGOS",
@@ -1092,7 +1104,7 @@
           "duration_ms": 192313
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Akuma no Ko",
           "artists": [
             "Ai Higuchi"
@@ -1104,7 +1116,7 @@
           "duration_ms": 229960
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "日落计数器",
           "artists": [
             "莫非定律乐团"
@@ -1116,7 +1128,19 @@
           "duration_ms": 291564
         },
         {
-          "rank": 24,
+          "rank": 25,
+          "name": "Change (In the House of Flies)",
+          "artists": [
+            "Deftones"
+          ],
+          "album": "White Pony",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
+          "uri": "spotify:track:51c94ac31swyDQj9B3Lzs3",
+          "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3",
+          "duration_ms": 299533
+        },
+        {
+          "rank": 26,
           "name": "Shingeki Gt 20130218 Kyojin",
           "artists": [
             "Sawano Hiroyuki"
@@ -1128,7 +1152,7 @@
           "duration_ms": 151400
         },
         {
-          "rank": 25,
+          "rank": 27,
           "name": "Flor De Michoacán",
           "artists": [
             "Menny Flores"
@@ -1140,7 +1164,7 @@
           "duration_ms": 193853
         },
         {
-          "rank": 26,
+          "rank": 28,
           "name": "Deseándote",
           "artists": [
             "Frankie Ruiz"
@@ -1152,7 +1176,7 @@
           "duration_ms": 281333
         },
         {
-          "rank": 27,
+          "rank": 29,
           "name": "Forever",
           "artists": [
             "keshi"
@@ -1164,7 +1188,7 @@
           "duration_ms": 171415
         },
         {
-          "rank": 28,
+          "rank": 30,
           "name": "Death Of An Executioner",
           "artists": [
             "Pierce The Veil"
@@ -1176,7 +1200,7 @@
           "duration_ms": 267800
         },
         {
-          "rank": 29,
+          "rank": 31,
           "name": "Callaita",
           "artists": [
             "Bad Bunny",
@@ -1189,7 +1213,7 @@
           "duration_ms": 250533
         },
         {
-          "rank": 30,
+          "rank": 32,
           "name": "Jiyuu no Tsubasa",
           "artists": [
             "Linked Horizon"
@@ -1201,19 +1225,7 @@
           "duration_ms": 331946
         },
         {
-          "rank": 31,
-          "name": "Change (In the House of Flies)",
-          "artists": [
-            "Deftones"
-          ],
-          "album": "White Pony",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
-          "uri": "spotify:track:51c94ac31swyDQj9B3Lzs3",
-          "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3",
-          "duration_ms": 299533
-        },
-        {
-          "rank": 32,
+          "rank": 33,
           "name": "Circles",
           "artists": [
             "Pierce The Veil"
@@ -1225,7 +1237,7 @@
           "duration_ms": 224306
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Virgen",
           "artists": [
             "Adolescent's Orquesta"
@@ -1235,18 +1247,6 @@
           "uri": "spotify:track:5HCGrYR7g9u2X9Ju83yQLm",
           "url": "https://open.spotify.com/track/5HCGrYR7g9u2X9Ju83yQLm",
           "duration_ms": 271751
-        },
-        {
-          "rank": 34,
-          "name": "Props & Mayhem",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "Collide With The Sky",
-          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-          "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO",
-          "url": "https://open.spotify.com/track/2SYMnBpx7zyhSDPQwoOlFO",
-          "duration_ms": 217853
         },
         {
           "rank": 35,
@@ -1287,6 +1287,18 @@
         },
         {
           "rank": 38,
+          "name": "stingray",
+          "artists": [
+            "Rehash"
+          ],
+          "album": "mock",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732f50a9ad97d36ef45ac44937",
+          "uri": "spotify:track:1iegi4anCrPW5YReZbviwa",
+          "url": "https://open.spotify.com/track/1iegi4anCrPW5YReZbviwa",
+          "duration_ms": 184041
+        },
+        {
+          "rank": 39,
           "name": "흩어진나날들",
           "artists": [
             "강수지"
@@ -1298,7 +1310,7 @@
           "duration_ms": 262126
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Fangs",
           "artists": [
             "Loathe"
@@ -1310,7 +1322,7 @@
           "duration_ms": 249293
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Flawless Execution",
           "artists": [
             "Pierce The Veil"
@@ -1322,7 +1334,7 @@
           "duration_ms": 240053
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Toronto",
           "artists": [
             "Nandé",
@@ -1336,7 +1348,7 @@
           "duration_ms": 198888
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Flaca",
           "artists": [
             "Cultura Profética",
@@ -1349,7 +1361,7 @@
           "duration_ms": 255875
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Caraphernelia",
           "artists": [
             "Pierce The Veil"
@@ -1361,7 +1373,7 @@
           "duration_ms": 268480
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "In Another Time",
           "artists": [
             "Sade"
@@ -1373,7 +1385,7 @@
           "duration_ms": 304413
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Morado",
           "artists": [
             "J Balvin"
@@ -1385,7 +1397,7 @@
           "duration_ms": 200266
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Mi Atención",
           "artists": [
             "Martox"
@@ -1397,7 +1409,7 @@
           "duration_ms": 212179
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Boku no Sensou",
           "artists": [
             "Shinsei Kamattechan"
@@ -1409,7 +1421,7 @@
           "duration_ms": 280466
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "WHO DO U LUV",
           "artists": [
             "Avenoir"
@@ -1421,7 +1433,7 @@
           "duration_ms": 248760
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "A Match Into Water",
           "artists": [
             "Pierce The Veil"
@@ -1431,18 +1443,6 @@
           "uri": "spotify:track:54MXF9I8s3DuiQo3g0gZ5k",
           "url": "https://open.spotify.com/track/54MXF9I8s3DuiQo3g0gZ5k",
           "duration_ms": 212546
-        },
-        {
-          "rank": 50,
-          "name": "Favour",
-          "artists": [
-            "Avenoir"
-          ],
-          "album": "Favour",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739d56b1e5772b1a52cf369d1b",
-          "uri": "spotify:track:7sYQ4bgCZAbnV3TdUbscFz",
-          "url": "https://open.spotify.com/track/7sYQ4bgCZAbnV3TdUbscFz",
-          "duration_ms": 156000
         }
       ],
       "artists": [
@@ -1816,6 +1816,14 @@
         },
         {
           "rank": 47,
+          "name": "Chevelle",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6411cad01afe7d60b448dabc",
+          "genres": [],
+          "uri": "spotify:artist:56dO9zeHKuU5Gvfc2kxHNw",
+          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+        },
+        {
+          "rank": 48,
           "name": "Silence Wang",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe031c2c433fefe3fd10f5caa",
           "genres": [],
@@ -1823,7 +1831,7 @@
           "url": "https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Mora",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe6252cc367480d8fe43e711f",
           "genres": [],
@@ -1831,20 +1839,12 @@
           "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Bruno Romano",
           "image": "https://i.scdn.co/image/ab6761610000e5eb048c29f827a167107701699f",
           "genres": [],
           "uri": "spotify:artist:5X0LwOlzNqPulEOFm9hH1k",
           "url": "https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k"
-        },
-        {
-          "rank": 50,
-          "name": "Menny Flores",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebbb7c35cc0701c97917699796",
-          "genres": [],
-          "uri": "spotify:artist:5iV6pocuYqWg9Cx5JQNyJV",
-          "url": "https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV"
         }
       ]
     },
