@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-10-02T09:27:53.038Z",
+  "updated_at": "2026-10-02T17:35:50.967Z",
   "is_playing": false,
   "track": {
-    "name": "Diles",
+    "name": "VOY A LLeVARTE PA PR",
     "artists": [
-      "Bad Bunny",
-      "Ozuna",
-      "Farruko",
-      "Arcángel",
-      "Ñengo Flow",
-      "DJ Luian",
-      "Mambo Kingz"
+      "Bad Bunny"
     ],
-    "album": "Diles",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f62aa1dd0b43f583418cd018",
-    "uri": "spotify:track:6C1RD7YQVvt3YQj0CmuTeu"
+    "album": "DeBÍ TiRAR MáS FOToS",
+    "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ"
   },
-  "played_at": "2026-10-01T22:56:52.341Z"
+  "played_at": "2026-10-02T16:06:44.991Z"
 }

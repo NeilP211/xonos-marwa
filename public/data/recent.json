@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-10-02T09:27:52.979Z",
+  "updated_at": "2026-10-02T17:35:50.921Z",
   "plays": [
-    {
-      "played_at": "2026-06-22T13:38:29.369Z",
-      "name": "A Lonely Night",
-      "artists": [
-        "The Weeknd"
-      ],
-      "album": "Starboy",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
-      "uri": "spotify:track:0ifooM33X1iBxVYyOkSbXW",
-      "duration_ms": 220173
-    },
-    {
-      "played_at": "2026-06-22T13:38:52.100Z",
-      "name": "WHO DO U LUV",
-      "artists": [
-        "Avenoir"
-      ],
-      "album": "WHO DO U LUV",
-      "image": "https://i.scdn.co/image/ab67616d0000b27373dc757337bcdd30b76723c5",
-      "uri": "spotify:track:74KASQI7XvyWdsNyQcJuv9",
-      "duration_ms": 248760
-    },
     {
       "played_at": "2026-06-22T13:44:52.990Z",
       "name": "M.",
@@ -22495,6 +22473,34 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f62aa1dd0b43f583418cd018",
       "uri": "spotify:track:6C1RD7YQVvt3YQj0CmuTeu",
       "duration_ms": 286040
+    },
+    {
+      "played_at": "2026-10-02T16:04:07.984Z",
+      "name": "Diles",
+      "artists": [
+        "Bad Bunny",
+        "Ozuna",
+        "Farruko",
+        "Arcángel",
+        "Ñengo Flow",
+        "DJ Luian",
+        "Mambo Kingz"
+      ],
+      "album": "Diles",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f62aa1dd0b43f583418cd018",
+      "uri": "spotify:track:6C1RD7YQVvt3YQj0CmuTeu",
+      "duration_ms": 286040
+    },
+    {
+      "played_at": "2026-10-02T16:06:44.991Z",
+      "name": "VOY A LLeVARTE PA PR",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ",
+      "duration_ms": 156364
     }
   ]
 }
