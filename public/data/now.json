@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-10-02T00:34:47.640Z",
+  "updated_at": "2026-10-02T09:27:53.038Z",
   "is_playing": false,
   "track": {
-    "name": "Beso",
+    "name": "Diles",
     "artists": [
-      "Jósean Log"
+      "Bad Bunny",
+      "Ozuna",
+      "Farruko",
+      "Arcángel",
+      "Ñengo Flow",
+      "DJ Luian",
+      "Mambo Kingz"
     ],
-    "album": "Háblate de Mí",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a8659bf75fee7dc8c01afc67",
-    "uri": "spotify:track:4PpuZIMmeng6qPicveSI22"
+    "album": "Diles",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f62aa1dd0b43f583418cd018",
+    "uri": "spotify:track:6C1RD7YQVvt3YQj0CmuTeu"
   },
-  "played_at": "2026-10-01T22:49:28.065Z"
+  "played_at": "2026-10-01T22:56:52.341Z"
 }
