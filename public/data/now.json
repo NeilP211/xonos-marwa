@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-02T17:35:50.967Z",
+  "updated_at": "2026-10-02T21:55:37.963Z",
   "is_playing": false,
   "track": {
-    "name": "VOY A LLeVARTE PA PR",
+    "name": "So Far So Fake",
     "artists": [
-      "Bad Bunny"
+      "Pierce The Veil"
     ],
-    "album": "DeBÍ TiRAR MáS FOToS",
-    "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-    "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ"
+    "album": "The Jaws Of Life",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+    "uri": "spotify:track:3fWibgdtgIie6LKTZ2rUoI"
   },
-  "played_at": "2026-10-02T16:06:44.991Z"
+  "played_at": "2026-10-02T21:33:59.778Z"
 }
