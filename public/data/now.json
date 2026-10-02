@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-01T20:10:53.450Z",
+  "updated_at": "2026-10-02T00:34:47.640Z",
   "is_playing": false,
   "track": {
-    "name": "Prayers / Triangles",
+    "name": "Beso",
     "artists": [
-      "Deftones"
+      "Jósean Log"
     ],
-    "album": "Gore",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a1de34b79834eddf96f803ff",
-    "uri": "spotify:track:0B1Iqqq8wVoXM5R5glHQES"
+    "album": "Háblate de Mí",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a8659bf75fee7dc8c01afc67",
+    "uri": "spotify:track:4PpuZIMmeng6qPicveSI22"
   },
-  "played_at": "2026-09-30T21:50:39.548Z"
+  "played_at": "2026-10-01T22:49:28.065Z"
 }
