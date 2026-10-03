@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-03T15:53:06.562Z",
+  "updated_at": "2026-10-03T20:43:01.878Z",
   "is_playing": false,
   "track": {
-    "name": "Resilience",
+    "name": "KYLIE",
     "artists": [
-      "Pierce The Veil"
+      "Neisan"
     ],
-    "album": "The Jaws Of Life",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-    "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8"
+    "album": "KYLIE",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ec60f1d5f9529461a2491f11",
+    "uri": "spotify:track:7uc3re3vm37q79nvOXiAZz"
   },
-  "played_at": "2026-10-03T06:51:27.251Z"
+  "played_at": "2026-10-03T07:36:33.069Z"
 }

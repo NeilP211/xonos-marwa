@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-03T15:53:06.455Z",
+  "updated_at": "2026-10-03T20:43:01.760Z",
   "plays": [
-    {
-      "played_at": "2026-06-22T15:05:04.531Z",
-      "name": "隐形人（电视剧《难哄》等待曲）",
-      "artists": [
-        "白敬亭"
-      ],
-      "album": "电视剧《难哄》影视原声带·只喜欢你Love Moments",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e315e968f364d79e460d8f62",
-      "uri": "spotify:track:11Vu9Zo7P4JXdrDRWVyrem",
-      "duration_ms": 285024
-    },
     {
       "played_at": "2026-06-22T15:09:46.815Z",
       "name": "당돌한 여자",
@@ -22498,6 +22487,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
       "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
       "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-10-03T07:36:33.069Z",
+      "name": "KYLIE",
+      "artists": [
+        "Neisan"
+      ],
+      "album": "KYLIE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ec60f1d5f9529461a2491f11",
+      "uri": "spotify:track:7uc3re3vm37q79nvOXiAZz",
+      "duration_ms": 152448
     }
   ]
 }
