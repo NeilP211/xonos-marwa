@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T04:49:23.230Z",
+  "generated_at": "2026-10-04T11:55:16.641Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2743,22 +2743,6 @@
         },
         {
           "rank": 37,
-          "name": "Nancy Ajram",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb5c9cf78344e4a0dd486a0e34",
-          "genres": [],
-          "uri": "spotify:artist:0LnHdW6HMPoOlNdhG3DHjE",
-          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
-        },
-        {
-          "rank": 38,
-          "name": "Jung Kook",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb71089d18c93e3a51e70ff0dc",
-          "genres": [],
-          "uri": "spotify:artist:6HaGTQPmzraVmaVxvz6EUc",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "rank": 39,
           "name": "NewJeans",
           "image": "https://i.scdn.co/image/ab6761610000e5eb841bdcf28a956f3a384ffcf4",
           "genres": [],
@@ -2766,12 +2750,28 @@
           "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         },
         {
-          "rank": 40,
+          "rank": 38,
+          "name": "Nancy Ajram",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb5c9cf78344e4a0dd486a0e34",
+          "genres": [],
+          "uri": "spotify:artist:0LnHdW6HMPoOlNdhG3DHjE",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        },
+        {
+          "rank": 39,
           "name": "Luis Miguel",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6481401e529e475116702a29",
           "genres": [],
           "uri": "spotify:artist:2nszmSgqreHSdJA3zWPyrW",
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        },
+        {
+          "rank": 40,
+          "name": "Jung Kook",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb71089d18c93e3a51e70ff0dc",
+          "genres": [],
+          "uri": "spotify:artist:6HaGTQPmzraVmaVxvz6EUc",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
         },
         {
           "rank": 41,
