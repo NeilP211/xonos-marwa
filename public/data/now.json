@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-06T12:56:45.310Z",
-  "is_playing": false,
+  "updated_at": "2026-10-07T00:25:32.524Z",
+  "is_playing": true,
   "track": {
-    "name": "KYLIE",
+    "name": "Little Dipper",
     "artists": [
-      "Neisan"
+      "Hum"
     ],
-    "album": "KYLIE",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ec60f1d5f9529461a2491f11",
-    "uri": "spotify:track:7uc3re3vm37q79nvOXiAZz"
+    "album": "You'd Prefer An Astronaut",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f2237ba7c0eb6326738ad6ad",
+    "uri": "spotify:track:3GYlvip4QHNSM1ZtdxyfZt"
   },
-  "played_at": "2026-10-03T07:36:33.069Z"
+  "played_at": "2026-10-07T00:25:32.524Z"
 }

@@ -1,120 +1,6 @@
 {
-  "updated_at": "2026-10-06T12:56:45.224Z",
+  "updated_at": "2026-10-07T00:25:32.275Z",
   "plays": [
-    {
-      "played_at": "2026-06-22T15:09:46.815Z",
-      "name": "당돌한 여자",
-      "artists": [
-        "JIHYO",
-        "NAYEON",
-        "쯔위",
-        "Chaeyeong"
-      ],
-      "album": "투유 프로젝트 - 슈가맨 Pt.11",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e3c5360152c87edc29302306",
-      "uri": "spotify:track:7AqScxClmkJdqHZjWSkKH8",
-      "duration_ms": 185533
-    },
-    {
-      "played_at": "2026-06-22T15:14:39.679Z",
-      "name": "我的爱没前奏",
-      "artists": [
-        "Nana Ou-Yang"
-      ],
-      "album": "我的爱没前奏",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739fd2ca3f9a7a20035bb93ea8",
-      "uri": "spotify:track:0Gt3TmU30vJv7nAapvUPK4",
-      "duration_ms": 199596
-    },
-    {
-      "played_at": "2026-06-22T15:19:10.704Z",
-      "name": "晨昏线（《双轨》影视剧回响曲）",
-      "artists": [
-        "Jin Wenqi"
-      ],
-      "album": "《双轨》影视原声带",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736034229c072242a5519089bb",
-      "uri": "spotify:track:16bvGBhaWtFrqVsMAaI314",
-      "duration_ms": 270480
-    },
-    {
-      "played_at": "2026-06-22T15:22:11.073Z",
-      "name": "Miniskirt",
-      "artists": [
-        "AOA"
-      ],
-      "album": "MINISKIRT",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336adcea4e93245f1fec547df",
-      "uri": "spotify:track:6Yj8kVuVR3UPxx9r5eFEoV",
-      "duration_ms": 179808
-    },
-    {
-      "played_at": "2026-06-22T15:37:24.339Z",
-      "name": "雨蝶 - R&B微醺版",
-      "artists": [
-        "微醺卡带"
-      ],
-      "album": "雨蝶 (R&B微醺版)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27381bfa5296306a950e8b64aa0",
-      "uri": "spotify:track:4BdMTfgOY7zGwIGCqJpEnm",
-      "duration_ms": 234984
-    },
-    {
-      "played_at": "2026-06-22T15:42:13.510Z",
-      "name": "沉溺（你让我的心不再结冰）",
-      "artists": [
-        "邹沛沛",
-        "Pank"
-      ],
-      "album": "沉溺（你让我的心不再结冰）",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735e10693b2c3d38dd7ad4299a",
-      "uri": "spotify:track:6NtVX4qwWMmAtNFaG485iq",
-      "duration_ms": 193773
-    },
-    {
-      "played_at": "2026-06-22T15:46:06.756Z",
-      "name": "Love Talk",
-      "artists": [
-        "WayV"
-      ],
-      "album": "Take Over The Moon - The 2nd Mini Album",
-      "image": "https://i.scdn.co/image/ab67616d0000b273374ed0d3862263ef52df6828",
-      "uri": "spotify:track:6bc8VmlNt5S9WJlyw8bBdd",
-      "duration_ms": 232694
-    },
-    {
-      "played_at": "2026-06-22T15:47:55.588Z",
-      "name": "Forever Star(《偷偷藏不住》电视剧插曲)",
-      "artists": [
-        "張洢豪"
-      ],
-      "album": "《偷偷藏不住》影视原声专辑",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b4457aab74a08290c3084a0a",
-      "uri": "spotify:track:4hZUa0IFUOHhvZhK1YwXHu",
-      "duration_ms": 202666
-    },
-    {
-      "played_at": "2026-06-22T15:53:19.814Z",
-      "name": "《夢的燭衣》（《大夢歸離》影視劇情殤曲）",
-      "artists": [
-        "Zhang Bichen"
-      ],
-      "album": "《大夢歸離》影視原聲帶",
-      "image": "https://i.scdn.co/image/ab67616d0000b273282babb68ec6cc6ded27cbde",
-      "uri": "spotify:track:43wT8wgMOXTBFfZwIj6UKW",
-      "duration_ms": 231949
-    },
-    {
-      "played_at": "2026-06-22T15:57:12.512Z",
-      "name": "Love Talk - English Version",
-      "artists": [
-        "WayV"
-      ],
-      "album": "Love Talk (English Version)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734b766593db7dbd908a97cea7",
-      "uri": "spotify:track:2e3cJdJ8xWwydl8JIYlCqB",
-      "duration_ms": 232150
-    },
     {
       "played_at": "2026-06-22T16:01:51.817Z",
       "name": "越界（《双轨》影视剧人物曲）",
@@ -22498,6 +22384,118 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273ec60f1d5f9529461a2491f11",
       "uri": "spotify:track:7uc3re3vm37q79nvOXiAZz",
       "duration_ms": 152448
+    },
+    {
+      "played_at": "2026-10-06T22:06:46.869Z",
+      "name": "Hold On Till May",
+      "artists": [
+        "Pierce The Veil",
+        "Lindsey Stamey"
+      ],
+      "album": "Collide With The Sky",
+      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+      "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
+      "duration_ms": 278586
+    },
+    {
+      "played_at": "2026-10-06T22:34:35.590Z",
+      "name": "Darkness",
+      "artists": [
+        "SWEET SPINE"
+      ],
+      "album": "Darkness",
+      "image": "https://i.scdn.co/image/ab67616d0000b273967164b7cd5dcd7efb7fc2de",
+      "uri": "spotify:track:4WvX69qstX6F3rOHfpTymz",
+      "duration_ms": 228923
+    },
+    {
+      "played_at": "2026-10-06T22:59:45.700Z",
+      "name": "888",
+      "artists": [
+        "SWEET SPINE"
+      ],
+      "album": "888",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c540d2b785636ef4baf0acc",
+      "uri": "spotify:track:4He8osOTt4dzl3HTHcjP43",
+      "duration_ms": 214857
+    },
+    {
+      "played_at": "2026-10-06T23:02:30.678Z",
+      "name": "Smile In Your Sleep",
+      "artists": [
+        "Silverstein"
+      ],
+      "album": "Discovering The Waterfront",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aade7ea1ce5e7f75f6d40a3c",
+      "uri": "spotify:track:29dljceloiAgAeARUwZ3QC",
+      "duration_ms": 193920
+    },
+    {
+      "played_at": "2026-10-06T23:08:39.393Z",
+      "name": "Resilience",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+      "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-10-06T23:13:33.928Z",
+      "name": "Change (In the House of Flies)",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "White Pony",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
+      "uri": "spotify:track:51c94ac31swyDQj9B3Lzs3",
+      "duration_ms": 299533
+    },
+    {
+      "played_at": "2026-10-06T23:21:38.685Z",
+      "name": "Kiss Me Now",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Kiss Me Now",
+      "image": "https://i.scdn.co/image/ab67616d0000b27352a7a9543acdb0aadc61f08a",
+      "uri": "spotify:track:40KgVtH6ANki7AN2Sj1rZD",
+      "duration_ms": 256268
+    },
+    {
+      "played_at": "2026-10-06T23:24:27.788Z",
+      "name": "Even When I’m Not With You",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:6yJmxPGazR55GAQdyHPf6q",
+      "duration_ms": 174146
+    },
+    {
+      "played_at": "2026-10-06T23:24:50.692Z",
+      "name": "Luka",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Luka",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da824d21dc5fa336020fff3e",
+      "uri": "spotify:track:6ILmZpvejf4z5kYW1c4x9n",
+      "duration_ms": 209220
+    },
+    {
+      "played_at": "2026-10-07T00:19:34.064Z",
+      "name": "Chica de Verde",
+      "artists": [
+        "Bruno Romano",
+        "Elisa González"
+      ],
+      "album": "Chica de Verde",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da9eccf72a3e9d55e41db1f4",
+      "uri": "spotify:track:6ZxsJwY5QgN6R0mRBYWrHf",
+      "duration_ms": 225694
     }
   ]
 }
