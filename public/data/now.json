@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-07T00:25:32.524Z",
-  "is_playing": true,
+  "updated_at": "2026-10-07T09:57:24.830Z",
+  "is_playing": false,
   "track": {
-    "name": "Little Dipper",
+    "name": "Stairs",
     "artists": [
-      "Hum"
+      "Design19"
     ],
-    "album": "You'd Prefer An Astronaut",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f2237ba7c0eb6326738ad6ad",
-    "uri": "spotify:track:3GYlvip4QHNSM1ZtdxyfZt"
+    "album": "Stairs",
+    "image": "https://i.scdn.co/image/ab67616d0000b27317b587e36d4b0b6a27843915",
+    "uri": "spotify:track:1uY46jL5nv79kZSvh4Wg4j"
   },
-  "played_at": "2026-10-07T00:25:32.524Z"
+  "played_at": "2026-10-07T01:17:23.898Z"
 }

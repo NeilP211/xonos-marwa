@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-10-07T00:25:32.275Z",
+  "updated_at": "2026-10-07T09:57:24.789Z",
   "plays": [
-    {
-      "played_at": "2026-06-22T16:01:51.817Z",
-      "name": "越界（《双轨》影视剧人物曲）",
-      "artists": [
-        "Esther Yu"
-      ],
-      "album": "越界（《双轨》影视剧人物曲）",
-      "image": "https://i.scdn.co/image/ab67616d0000b273671226c54acb80af0fdaeef8",
-      "uri": "spotify:track:7Iod4BUsXPvTwZhNDGDQLe",
-      "duration_ms": 207364
-    },
-    {
-      "played_at": "2026-06-22T16:05:42.235Z",
-      "name": "space",
-      "artists": [
-        "The Poles"
-      ],
-      "album": "The High Tide Club",
-      "image": "https://i.scdn.co/image/ab67616d0000b273acda674910f3dd3d1820915d",
-      "uri": "spotify:track:0DHyNlgEaolgfVxPhyFDTq",
-      "duration_ms": 224000
-    },
-    {
-      "played_at": "2026-06-22T16:13:10.655Z",
-      "name": "嘘",
-      "artists": [
-        "SID"
-      ],
-      "album": "hikari",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732246f2bb6fe78dfff00766c8",
-      "uri": "spotify:track:5hyuqT3PwqSKtH1EUSST20",
-      "duration_ms": 205973
-    },
     {
       "played_at": "2026-06-22T16:16:28.216Z",
       "name": "happy endings do exist",
@@ -22496,6 +22463,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273da9eccf72a3e9d55e41db1f4",
       "uri": "spotify:track:6ZxsJwY5QgN6R0mRBYWrHf",
       "duration_ms": 225694
+    },
+    {
+      "played_at": "2026-10-07T00:28:05.196Z",
+      "name": "Falling Away from Me",
+      "artists": [
+        "Korn"
+      ],
+      "album": "Issues",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e19ecb8de414a0294bd0bf13",
+      "uri": "spotify:track:2F6FfZ4w8z3eJpSxPotVO5",
+      "duration_ms": 270920
+    },
+    {
+      "played_at": "2026-10-07T00:46:54.330Z",
+      "name": "Shmoopie",
+      "artists": [
+        "Buddha Trixie"
+      ],
+      "album": "Shmoopie",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730f2f281561018a37afd53d2d",
+      "uri": "spotify:track:4Z7i8q6y2B5SooNiEKgT8s",
+      "duration_ms": 247717
+    },
+    {
+      "played_at": "2026-10-07T01:17:23.898Z",
+      "name": "Stairs",
+      "artists": [
+        "Design19"
+      ],
+      "album": "Stairs",
+      "image": "https://i.scdn.co/image/ab67616d0000b27317b587e36d4b0b6a27843915",
+      "uri": "spotify:track:1uY46jL5nv79kZSvh4Wg4j",
+      "duration_ms": 240693
     }
   ]
 }
