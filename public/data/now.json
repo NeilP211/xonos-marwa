@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-08T00:45:56.402Z",
+  "updated_at": "2026-10-08T10:09:55.596Z",
   "is_playing": false,
   "track": {
-    "name": "Stairs",
+    "name": "Beauty School",
     "artists": [
-      "Design19"
+      "Deftones"
     ],
-    "album": "Stairs",
-    "image": "https://i.scdn.co/image/ab67616d0000b27317b587e36d4b0b6a27843915",
-    "uri": "spotify:track:1uY46jL5nv79kZSvh4Wg4j"
+    "album": "Diamond Eyes",
+    "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+    "uri": "spotify:track:5sUCU4eiyf0pplIJ7OGEoc"
   },
-  "played_at": "2026-10-07T01:17:23.898Z"
+  "played_at": "2026-10-08T06:02:21.791Z"
 }

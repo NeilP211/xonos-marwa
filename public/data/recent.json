@@ -1,188 +1,6 @@
 {
-  "updated_at": "2026-10-08T00:45:56.240Z",
+  "updated_at": "2026-10-08T10:09:55.491Z",
   "plays": [
-    {
-      "played_at": "2026-06-22T16:16:28.216Z",
-      "name": "happy endings do exist",
-      "artists": [
-        "PRYVT"
-      ],
-      "album": "happy endings do exist",
-      "image": "https://i.scdn.co/image/ab67616d0000b27371d049ebd75abecaea06765e",
-      "uri": "spotify:track:3f3UiKcmfzCkeV0QxOnBK9",
-      "duration_ms": 197100
-    },
-    {
-      "played_at": "2026-06-22T16:29:13.805Z",
-      "name": "Lo Que Tiene",
-      "artists": [
-        "Morad",
-        "Beny Jr",
-        "Rvfv"
-      ],
-      "album": "Lo Que Tiene",
-      "image": "https://i.scdn.co/image/ab67616d0000b27345e6bba1ac0c5b54a9ee8121",
-      "uri": "spotify:track:6RqD0fpAaKEZvQd0QrTj7j",
-      "duration_ms": 259200
-    },
-    {
-      "played_at": "2026-06-22T16:32:30.336Z",
-      "name": "Si Antes Te Hubiera Conocido",
-      "artists": [
-        "KAROL G"
-      ],
-      "album": "Si Antes Te Hubiera Conocido",
-      "image": "https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e",
-      "uri": "spotify:track:6WatFBLVB0x077xWeoVc2k",
-      "duration_ms": 195824
-    },
-    {
-      "played_at": "2026-06-22T16:36:43.330Z",
-      "name": "Ojos Tristes (with The Marías)",
-      "artists": [
-        "Selena Gomez",
-        "benny blanco",
-        "The Marías"
-      ],
-      "album": "I Said I Love You First",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735c99217c0a33291dcd4e0242",
-      "uri": "spotify:track:1DFmBjoeQN9DpOVTEewyx0",
-      "duration_ms": 201920
-    },
-    {
-      "played_at": "2026-06-22T16:45:52.407Z",
-      "name": "浪里书（电影《毕正明的证明》插曲）",
-      "artists": [
-        "莫非定律乐团"
-      ],
-      "album": "电影《毕正明的证明》原声专辑",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d9a70bce07147276d0fb38ad",
-      "uri": "spotify:track:3xmt0fv02CRcGi3Za2hIvs",
-      "duration_ms": 218000
-    },
-    {
-      "played_at": "2026-06-22T16:52:50.792Z",
-      "name": "要不然我們就這樣一萬年 - 電視劇《長月燼明》插曲",
-      "artists": [
-        "黃霄雲"
-      ],
-      "album": "要不然我們就這樣一萬年-電視劇《長月燼明》插曲",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ee1c8e4e50314a90d259c164",
-      "uri": "spotify:track:4QouBebU7c4MJCHYJw7WL0",
-      "duration_ms": 284710
-    },
-    {
-      "played_at": "2026-06-22T16:59:00.357Z",
-      "name": "Beso",
-      "artists": [
-        "Jósean Log"
-      ],
-      "album": "Háblate de Mí",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a8659bf75fee7dc8c01afc67",
-      "uri": "spotify:track:4PpuZIMmeng6qPicveSI22",
-      "duration_ms": 211021
-    },
-    {
-      "played_at": "2026-06-22T17:00:30.388Z",
-      "name": "Beso",
-      "artists": [
-        "Jósean Log"
-      ],
-      "album": "Háblate de Mí",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a8659bf75fee7dc8c01afc67",
-      "uri": "spotify:track:4PpuZIMmeng6qPicveSI22",
-      "duration_ms": 211021
-    },
-    {
-      "played_at": "2026-06-22T17:31:04.459Z",
-      "name": "A Lonely Night",
-      "artists": [
-        "The Weeknd"
-      ],
-      "album": "Starboy",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
-      "uri": "spotify:track:4UknpXoLjlB7Mao4UWcJ2o",
-      "duration_ms": 220173
-    },
-    {
-      "played_at": "2026-06-22T17:34:46.886Z",
-      "name": "Peaches",
-      "artists": [
-        "KAI"
-      ],
-      "album": "Peaches - The 2nd Mini Album",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e17d7c9f32167b7b7c8e9f21",
-      "uri": "spotify:track:237OjBs3wvamAFpHp0yItw",
-      "duration_ms": 198080
-    },
-    {
-      "played_at": "2026-06-22T19:04:37.228Z",
-      "name": "银河坠落时（电视剧《炽夏》主题曲）",
-      "artists": [
-        "周柯宇"
-      ],
-      "album": "银河坠落时（电视剧《炽夏》主题曲）",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b89f6f87847bae112f83056e",
-      "uri": "spotify:track:2ssUMyM3RmDk6DG3WkkU5N",
-      "duration_ms": 282000
-    },
-    {
-      "played_at": "2026-06-22T19:08:45.786Z",
-      "name": "梦与环游",
-      "artists": [
-        "徐子未",
-        "崔十八"
-      ],
-      "album": "梦与环游",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739c74ca5163a7baf1752b2304",
-      "uri": "spotify:track:66iFguBWerVKgA93Bex6cZ",
-      "duration_ms": 248000
-    },
-    {
-      "played_at": "2026-06-22T19:13:52.963Z",
-      "name": "顷刻之间",
-      "artists": [
-        "陈麒名"
-      ],
-      "album": "顷刻之间",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e1f3b6decbf8556601432555",
-      "uri": "spotify:track:1sgCnr54jYN33u851iGabW",
-      "duration_ms": 214186
-    },
-    {
-      "played_at": "2026-06-22T19:17:02.520Z",
-      "name": "Frozen Heart",
-      "artists": [
-        "8Bite",
-        "Dyrox"
-      ],
-      "album": "Frozen Heart",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bcdd9cb6af1eafa5244bd518",
-      "uri": "spotify:track:0GRHTkx3f6VsIoSRA0DsVZ",
-      "duration_ms": 189014
-    },
-    {
-      "played_at": "2026-06-22T19:31:39.454Z",
-      "name": "日落计数器",
-      "artists": [
-        "莫非定律乐团"
-      ],
-      "album": "日落计数器",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e93dbbce3937df90318b35a1",
-      "uri": "spotify:track:3BPuq1TTqJ5lat7IKqyZTW",
-      "duration_ms": 291564
-    },
-    {
-      "played_at": "2026-06-22T19:37:32.235Z",
-      "name": "日落计数器",
-      "artists": [
-        "莫非定律乐团"
-      ],
-      "album": "日落计数器",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e93dbbce3937df90318b35a1",
-      "uri": "spotify:track:3BPuq1TTqJ5lat7IKqyZTW",
-      "duration_ms": 291564
-    },
     {
       "played_at": "2026-06-22T19:44:38.147Z",
       "name": "Uzunlar - V1",
@@ -22496,6 +22314,183 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27317b587e36d4b0b6a27843915",
       "uri": "spotify:track:1uY46jL5nv79kZSvh4Wg4j",
       "duration_ms": 240693
+    },
+    {
+      "played_at": "2026-10-07T07:10:46.323Z",
+      "name": "The Jaws Of Life",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:4mfbHWZCIsDVMKk9HAqEgF",
+      "duration_ms": 222666
+    },
+    {
+      "played_at": "2026-10-08T00:54:27.449Z",
+      "name": "The Jaws Of Life",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:4mfbHWZCIsDVMKk9HAqEgF",
+      "duration_ms": 222666
+    },
+    {
+      "played_at": "2026-10-08T00:54:44.001Z",
+      "name": "Irrational Fears - Interlude",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:1AtTmjAqrlmg9P2enDqVg9",
+      "duration_ms": 21560
+    },
+    {
+      "played_at": "2026-10-08T00:57:56.147Z",
+      "name": "Pass The Nirvana",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:7I93h9I0RUqt1ci3Bfa290",
+      "duration_ms": 197373
+    },
+    {
+      "played_at": "2026-10-08T01:06:11.073Z",
+      "name": "So Far So Fake",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3fWibgdtgIie6LKTZ2rUoI",
+      "duration_ms": 236160
+    },
+    {
+      "played_at": "2026-10-08T01:12:24.704Z",
+      "name": "Emergency Contact",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:4amltxLIfFmtYEvZbdgDqO",
+      "duration_ms": 240000
+    },
+    {
+      "played_at": "2026-10-08T01:15:37.148Z",
+      "name": "12 Fractures",
+      "artists": [
+        "Pierce The Veil",
+        "chloe moriondo"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+      "duration_ms": 181600
+    },
+    {
+      "played_at": "2026-10-08T01:20:16.236Z",
+      "name": "Damn The Man, Save The Empire",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:57ISsI9qQcAUkhiqwEMhxG",
+      "duration_ms": 237000
+    },
+    {
+      "played_at": "2026-10-08T01:39:50.855Z",
+      "name": "Blood on the Sheets",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "Blood on the Sheets",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738d4a55fb6473e1337d06e601",
+      "uri": "spotify:track:0CRavjrcZpkhHA51p9bHuu",
+      "duration_ms": 229500
+    },
+    {
+      "played_at": "2026-10-08T01:45:11.552Z",
+      "name": "i think about you all the time",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "private music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+      "uri": "spotify:track:0M5NH22uVXHSXjSi5SXTXM",
+      "duration_ms": 248957
+    },
+    {
+      "played_at": "2026-10-08T01:48:27.092Z",
+      "name": "crawl",
+      "artists": [
+        "cloudyfield"
+      ],
+      "album": "crawl",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d117fb1f18402fe241d5531a",
+      "uri": "spotify:track:1vz5nsrQThI3GLd0gN3pWB",
+      "duration_ms": 200526
+    },
+    {
+      "played_at": "2026-10-08T01:53:06.190Z",
+      "name": "Little Dipper",
+      "artists": [
+        "Hum"
+      ],
+      "album": "You'd Prefer An Astronaut",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f2237ba7c0eb6326738ad6ad",
+      "uri": "spotify:track:3GYlvip4QHNSM1ZtdxyfZt",
+      "duration_ms": 283866
+    },
+    {
+      "played_at": "2026-10-08T01:57:38.788Z",
+      "name": "Falling Away from Me",
+      "artists": [
+        "Korn"
+      ],
+      "album": "Issues",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e19ecb8de414a0294bd0bf13",
+      "uri": "spotify:track:2F6FfZ4w8z3eJpSxPotVO5",
+      "duration_ms": 270920
+    },
+    {
+      "played_at": "2026-10-08T02:03:44.561Z",
+      "name": "Rivière",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fdf04b824d53ee302180b5e5",
+      "uri": "spotify:track:5PE95gvBBIkzjc8Gs6v8M2",
+      "duration_ms": 225240
+    },
+    {
+      "played_at": "2026-10-08T02:10:31.302Z",
+      "name": "No One's Deserving",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Jar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+      "uri": "spotify:track:68NXTtyVOS3rNGaYCxeHfW",
+      "duration_ms": 183317
+    },
+    {
+      "played_at": "2026-10-08T06:02:21.791Z",
+      "name": "Beauty School",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:5sUCU4eiyf0pplIJ7OGEoc",
+      "duration_ms": 287840
     }
   ]
 }
