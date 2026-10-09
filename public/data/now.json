@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-08T18:34:23.587Z",
+  "updated_at": "2026-10-09T01:01:35.615Z",
   "is_playing": false,
   "track": {
-    "name": "Beauty School",
+    "name": "Resilience",
     "artists": [
-      "Deftones"
+      "Pierce The Veil"
     ],
-    "album": "Diamond Eyes",
-    "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
-    "uri": "spotify:track:5sUCU4eiyf0pplIJ7OGEoc"
+    "album": "The Jaws Of Life",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+    "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8"
   },
-  "played_at": "2026-10-08T06:02:21.791Z"
+  "played_at": "2026-10-08T21:27:25.503Z"
 }
