@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-09T01:01:35.615Z",
+  "updated_at": "2026-10-09T10:11:14.530Z",
   "is_playing": false,
   "track": {
-    "name": "Resilience",
+    "name": "Luka",
     "artists": [
-      "Pierce The Veil"
+      "VIOLENT VIRA"
     ],
-    "album": "The Jaws Of Life",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-    "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8"
+    "album": "Luka",
+    "image": "https://i.scdn.co/image/ab67616d0000b273da824d21dc5fa336020fff3e",
+    "uri": "spotify:track:6ILmZpvejf4z5kYW1c4x9n"
   },
-  "played_at": "2026-10-08T21:27:25.503Z"
+  "played_at": "2026-10-08T22:29:07.731Z"
 }
