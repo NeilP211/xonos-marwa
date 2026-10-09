@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-10-09T10:11:14.530Z",
-  "is_playing": false,
+  "updated_at": "2026-10-09T18:05:47.920Z",
+  "is_playing": true,
   "track": {
-    "name": "Luka",
+    "name": "COMO UN BEBÉ",
     "artists": [
-      "VIOLENT VIRA"
+      "J Balvin",
+      "Bad Bunny",
+      "Mr Eazi"
     ],
-    "album": "Luka",
-    "image": "https://i.scdn.co/image/ab67616d0000b273da824d21dc5fa336020fff3e",
-    "uri": "spotify:track:6ILmZpvejf4z5kYW1c4x9n"
+    "album": "OASIS",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734891d9b25d8919448388f3bb",
+    "uri": "spotify:track:7knLcYCOSaURD0d7HUULFM"
   },
-  "played_at": "2026-10-08T22:29:07.731Z"
+  "played_at": "2026-10-09T18:05:47.920Z"
 }
