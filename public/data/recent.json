@@ -1,197 +1,6 @@
 {
-  "updated_at": "2026-10-09T18:05:47.759Z",
+  "updated_at": "2026-10-10T00:31:55.710Z",
   "plays": [
-    {
-      "played_at": "2026-06-23T20:30:36.722Z",
-      "name": "Soft Spot",
-      "artists": [
-        "keshi"
-      ],
-      "album": "Requiem",
-      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
-      "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
-      "duration_ms": 204223
-    },
-    {
-      "played_at": "2026-06-23T20:34:19.769Z",
-      "name": "Let Love Bleed Red",
-      "artists": [
-        "Sleeping With Sirens"
-      ],
-      "album": "With Ears To See And Eyes To Hear",
-      "image": "https://i.scdn.co/image/ab67616d0000b273032fd22bde573d0746c87352",
-      "uri": "spotify:track:1v8RDUkhH5wR9IBrC6Hroy",
-      "duration_ms": 222493
-    },
-    {
-      "played_at": "2026-06-23T20:40:17.501Z",
-      "name": "All My Heart",
-      "artists": [
-        "Sleeping With Sirens"
-      ],
-      "album": "Let's Cheers To This",
-      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
-      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
-      "duration_ms": 279293
-    },
-    {
-      "played_at": "2026-06-23T20:53:38.611Z",
-      "name": "If You Can't Hang",
-      "artists": [
-        "Sleeping With Sirens"
-      ],
-      "album": "Let's Cheers To This",
-      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
-      "uri": "spotify:track:2Tc9VznHtQUmfOgE3L1RdN",
-      "duration_ms": 250240
-    },
-    {
-      "played_at": "2026-06-24T03:52:08.302Z",
-      "name": "A Lonely Night",
-      "artists": [
-        "The Weeknd"
-      ],
-      "album": "Starboy",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
-      "uri": "spotify:track:0ifooM33X1iBxVYyOkSbXW",
-      "duration_ms": 220173
-    },
-    {
-      "played_at": "2026-06-24T17:47:27.350Z",
-      "name": "RAL 9002 (feat. HEIZE)",
-      "artists": [
-        "youra",
-        "Heize"
-      ],
-      "album": "RAL 9002",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d7e78f766b8f21182268ad3c",
-      "uri": "spotify:track:3P9jINw5TmUelQlm0TJGTY",
-      "duration_ms": 189533
-    },
-    {
-      "played_at": "2026-06-24T17:52:22.689Z",
-      "name": "夢境里的算法 (R&B)",
-      "artists": [
-        "JinJin"
-      ],
-      "album": "夢境里的算法 (R&B)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732a2c9595bdb1f886665c251c",
-      "uri": "spotify:track:0a8FVXJdTfcbMm7u5UDtBe",
-      "duration_ms": 234736
-    },
-    {
-      "played_at": "2026-06-24T17:57:30.338Z",
-      "name": "雨蝶（微醺版）",
-      "artists": [
-        "麦片儿"
-      ],
-      "album": "雨蝶（微醺版）",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f0d0cbb15b20d14201f09d8b",
-      "uri": "spotify:track:6KckOp3Y9zuuS8LAJSPUO5",
-      "duration_ms": 244944
-    },
-    {
-      "played_at": "2026-06-24T18:01:04.242Z",
-      "name": "给我一个理由忘记（R&B版）",
-      "artists": [
-        "夏火ww"
-      ],
-      "album": "给我一个理由忘记（R&B版）",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738de4c903288fcb38f9aeb97f",
-      "uri": "spotify:track:5CezZqPEOHGmrq0AXVfmTn",
-      "duration_ms": 213370
-    },
-    {
-      "played_at": "2026-06-24T18:06:11.558Z",
-      "name": "45.7（网剧《拜托了班长》插曲）",
-      "artists": [
-        "洪一诺"
-      ],
-      "album": "拜托了班长 影视原声专辑",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735ca1ce60379e527479a4b884",
-      "uri": "spotify:track:57hkBNYqnFUWC9Ay7MX2Yg",
-      "duration_ms": 245216
-    },
-    {
-      "played_at": "2026-06-24T18:22:00.476Z",
-      "name": "FaSHioN",
-      "artists": [
-        "CORTIS"
-      ],
-      "album": "COLOR OUTSIDE THE LINES",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734b56a34b0c2b3798fd46f855",
-      "uri": "spotify:track:4ecdsGz3Hg6TKPwQ0ZOdJz",
-      "duration_ms": 174653
-    },
-    {
-      "played_at": "2026-06-24T18:26:23.717Z",
-      "name": "GO!",
-      "artists": [
-        "CORTIS"
-      ],
-      "album": "COLOR OUTSIDE THE LINES",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734b56a34b0c2b3798fd46f855",
-      "uri": "spotify:track:6OWWZtNQORY1McaZmOrwhc",
-      "duration_ms": 170880
-    },
-    {
-      "played_at": "2026-06-24T18:29:37.865Z",
-      "name": "Never Let Go",
-      "artists": [
-        "LNGSHOT"
-      ],
-      "album": "SHOT CALLERS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739ae175cd44e09688bb7c0f4f",
-      "uri": "spotify:track:37xebnhvUyM8VyyDDeo65d",
-      "duration_ms": 193620
-    },
-    {
-      "played_at": "2026-06-24T18:33:37.997Z",
-      "name": "Still With You",
-      "artists": [
-        "Jung Kook"
-      ],
-      "album": "Still With You",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d",
-      "uri": "spotify:track:0eFMbKCRw8KByXyWBw8WO7",
-      "duration_ms": 239905
-    },
-    {
-      "played_at": "2026-06-24T18:36:59.316Z",
-      "name": "Gabriela",
-      "artists": [
-        "KATSEYE"
-      ],
-      "album": "Gabriela",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f8d4d00ffe09373efb13ce29",
-      "uri": "spotify:track:1xOqGUkyxGQRdCvGpvWKmL",
-      "duration_ms": 197226
-    },
-    {
-      "played_at": "2026-06-24T18:45:37.379Z",
-      "name": "Khé?",
-      "artists": [
-        "Rauw Alejandro",
-        "Romeo Santos"
-      ],
-      "album": "Cosa Nuestra",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b",
-      "uri": "spotify:track:1YYfyJ2yCvGFCxwjsIqEK9",
-      "duration_ms": 206066
-    },
-    {
-      "played_at": "2026-06-24T19:21:17.249Z",
-      "name": "Nostálgico",
-      "artists": [
-        "Rvssian",
-        "Rauw Alejandro",
-        "Chris Brown"
-      ],
-      "album": "Nostálgico",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735e4285764a057f6629bba66f",
-      "uri": "spotify:track:2BEcap3xJtmiPaHKyfQi4e",
-      "duration_ms": 209883
-    },
     {
       "played_at": "2026-06-24T20:44:34.705Z",
       "name": "Let Love Bleed Red",
@@ -22496,6 +22305,209 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b",
       "uri": "spotify:track:0l0vcZMU7AOeQmUIREoI2U",
       "duration_ms": 191018
+    },
+    {
+      "played_at": "2026-10-09T18:08:24.416Z",
+      "name": "COMO UN BEBÉ",
+      "artists": [
+        "J Balvin",
+        "Bad Bunny",
+        "Mr Eazi"
+      ],
+      "album": "OASIS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734891d9b25d8919448388f3bb",
+      "uri": "spotify:track:7knLcYCOSaURD0d7HUULFM",
+      "duration_ms": 218826
+    },
+    {
+      "played_at": "2026-10-09T18:10:52.220Z",
+      "name": "Te llevas To",
+      "artists": [
+        "KAROL G"
+      ],
+      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+      "image": "https://i.scdn.co/image/ab67616d0000b27321deb742375f88edfb2e7368",
+      "uri": "spotify:track:05P0CPgq8EH9yXOYWql17I",
+      "duration_ms": 152786
+    },
+    {
+      "played_at": "2026-10-09T18:14:41.036Z",
+      "name": "El Farsante",
+      "artists": [
+        "Ozuna"
+      ],
+      "album": "Odisea",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b0a875d7f1bfe4ec4aaffa48",
+      "uri": "spotify:track:5EId1m4DNwTf3at31w8bPJ",
+      "duration_ms": 233826
+    },
+    {
+      "played_at": "2026-10-09T18:17:20.820Z",
+      "name": "CORA DE HIELO",
+      "artists": [
+        "RØZ",
+        "Natt Calma",
+        "Mau Moctezuma"
+      ],
+      "album": "CORA DE HIELO",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734fa5ec1eeaf7275bf7d51bef",
+      "uri": "spotify:track:4ZzxVQZcZWcLjfiOA3hRH8",
+      "duration_ms": 164769
+    },
+    {
+      "played_at": "2026-10-09T18:20:41.517Z",
+      "name": "Me Rehúso",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "album": "54+1",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d8243a13e6f41310a5fa7b96",
+      "uri": "spotify:track:6ifUES3keWjwXgae8pXI3o",
+      "duration_ms": 205714
+    },
+    {
+      "played_at": "2026-10-09T18:24:45.371Z",
+      "name": "Amanece",
+      "artists": [
+        "Anuel AA",
+        "Haze"
+      ],
+      "album": "Amanece",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e276f2d395bedd121a03685",
+      "uri": "spotify:track:1LiN0Z98FkR1t0m8KmLcAH",
+      "duration_ms": 190004
+    },
+    {
+      "played_at": "2026-10-09T18:28:11.059Z",
+      "name": "Reencuentro",
+      "artists": [
+        "Brray",
+        "Jovaan"
+      ],
+      "album": "Reencuentro",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bd5fe93f53217b893e42c5",
+      "uri": "spotify:track:06RZ1qiXcizX9bGrznIMki",
+      "duration_ms": 210638
+    },
+    {
+      "played_at": "2026-10-09T18:30:39.767Z",
+      "name": "DE SERIE",
+      "artists": [
+        "Taiko",
+        "Judeline"
+      ],
+      "album": "OFFSIDE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273465c99ce0676cbd06cd8c022",
+      "uri": "spotify:track:2IxNQwOauQhMRhcL3GfEf2",
+      "duration_ms": 153765
+    },
+    {
+      "played_at": "2026-10-09T18:33:41.568Z",
+      "name": "Final feliz",
+      "artists": [
+        "KAROL G"
+      ],
+      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+      "image": "https://i.scdn.co/image/ab67616d0000b27321deb742375f88edfb2e7368",
+      "uri": "spotify:track:3Oiirh2007ZHkNQtzEI1vH",
+      "duration_ms": 186792
+    },
+    {
+      "played_at": "2026-10-09T18:37:04.771Z",
+      "name": "SE PUSO FEO",
+      "artists": [
+        "Feid",
+        "Divino",
+        "Baby Ranks"
+      ],
+      "album": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+      "image": "https://i.scdn.co/image/ab67616d0000b27355ab7b349735d19c43d7aea0",
+      "uri": "spotify:track:6r2FMcPFa2sthCwAd0328y",
+      "duration_ms": 208168
+    },
+    {
+      "played_at": "2026-10-09T18:40:29.275Z",
+      "name": "Dile a El",
+      "artists": [
+        "Rauw Alejandro"
+      ],
+      "album": "Afrodisíaco",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbb38f3a3a5b0799aa6988f1",
+      "uri": "spotify:track:13Tbv4nflNxg9kYBIbJnd9",
+      "duration_ms": 209540
+    },
+    {
+      "played_at": "2026-10-09T18:44:50.274Z",
+      "name": "COLMILLO",
+      "artists": [
+        "Tainy",
+        "J Balvin",
+        "Young Miko",
+        "Jowell & Randy"
+      ],
+      "album": "DATA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f885fb64a381318a1c9c14e4",
+      "uri": "spotify:track:15U5RHzuLMPNFThQqfKL0U",
+      "duration_ms": 265999
+    },
+    {
+      "played_at": "2026-10-09T18:47:35.773Z",
+      "name": "BIAF <3",
+      "artists": [
+        "Young Miko"
+      ],
+      "album": "Do Not Disturb: Late Checkout",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c8aeb68e2d5cb49ede9fe55",
+      "uri": "spotify:track:6YRif0qQH6DIvfJ4DxR4vn",
+      "duration_ms": 170434
+    },
+    {
+      "played_at": "2026-10-09T18:49:58.973Z",
+      "name": "Solecito Vení",
+      "artists": [
+        "Greeicy",
+        "Rawayana"
+      ],
+      "album": "CANDELA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735d75f876beb962529396f9a9",
+      "uri": "spotify:track:6Ue84aBdSKDtyA493wcVfD",
+      "duration_ms": 148200
+    },
+    {
+      "played_at": "2026-10-09T18:53:39.969Z",
+      "name": "MAMIII",
+      "artists": [
+        "Becky G",
+        "KAROL G"
+      ],
+      "album": "ESQUEMAS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ddad5b63226b0084a7bd06d4",
+      "uri": "spotify:track:7FlQk2gJ6TBrHHiidvdR2O",
+      "duration_ms": 226088
+    },
+    {
+      "played_at": "2026-10-09T18:57:15.574Z",
+      "name": "Still",
+      "artists": [
+        "KAROL G",
+        "Bruno Mars"
+      ],
+      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+      "image": "https://i.scdn.co/image/ab67616d0000b27321deb742375f88edfb2e7368",
+      "uri": "spotify:track:1dj1bE6SpLu8jLotrzWsJF",
+      "duration_ms": 220600
+    },
+    {
+      "played_at": "2026-10-09T19:01:14.374Z",
+      "name": "Dardos",
+      "artists": [
+        "Romeo Santos",
+        "Prince Royce"
+      ],
+      "album": "Better Late Than Never",
+      "image": "https://i.scdn.co/image/ab67616d0000b27391750ed467a5ecc14beaa03f",
+      "uri": "spotify:track:5SudOD9R1Of6CsJVWZy6CQ",
+      "duration_ms": 243070
     }
   ]
 }

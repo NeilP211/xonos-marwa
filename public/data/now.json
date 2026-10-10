@@ -1,16 +1,15 @@
 {
-  "updated_at": "2026-10-09T18:05:47.920Z",
-  "is_playing": true,
+  "updated_at": "2026-10-10T00:31:55.804Z",
+  "is_playing": false,
   "track": {
-    "name": "COMO UN BEBÉ",
+    "name": "Dardos",
     "artists": [
-      "J Balvin",
-      "Bad Bunny",
-      "Mr Eazi"
+      "Romeo Santos",
+      "Prince Royce"
     ],
-    "album": "OASIS",
-    "image": "https://i.scdn.co/image/ab67616d0000b2734891d9b25d8919448388f3bb",
-    "uri": "spotify:track:7knLcYCOSaURD0d7HUULFM"
+    "album": "Better Late Than Never",
+    "image": "https://i.scdn.co/image/ab67616d0000b27391750ed467a5ecc14beaa03f",
+    "uri": "spotify:track:5SudOD9R1Of6CsJVWZy6CQ"
   },
-  "played_at": "2026-10-09T18:05:47.920Z"
+  "played_at": "2026-10-09T19:01:14.374Z"
 }
