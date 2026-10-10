@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T09:32:30.104Z",
+  "generated_at": "2026-10-10T17:04:47.585Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -920,18 +920,6 @@
         },
         {
           "rank": 9,
-          "name": "A Lonely Night",
-          "artists": [
-            "The Weeknd"
-          ],
-          "album": "Starboy",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
-          "uri": "spotify:track:4UknpXoLjlB7Mao4UWcJ2o",
-          "url": "https://open.spotify.com/track/4UknpXoLjlB7Mao4UWcJ2o",
-          "duration_ms": 220173
-        },
-        {
-          "rank": 10,
           "name": "Chica de Verde",
           "artists": [
             "Bruno Romano",
@@ -942,6 +930,18 @@
           "uri": "spotify:track:6ZxsJwY5QgN6R0mRBYWrHf",
           "url": "https://open.spotify.com/track/6ZxsJwY5QgN6R0mRBYWrHf",
           "duration_ms": 225694
+        },
+        {
+          "rank": 10,
+          "name": "A Lonely Night",
+          "artists": [
+            "The Weeknd"
+          ],
+          "album": "Starboy",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
+          "uri": "spotify:track:4UknpXoLjlB7Mao4UWcJ2o",
+          "url": "https://open.spotify.com/track/4UknpXoLjlB7Mao4UWcJ2o",
+          "duration_ms": 220173
         },
         {
           "rank": 11,
@@ -1041,6 +1041,18 @@
         },
         {
           "rank": 19,
+          "name": "Deseándote",
+          "artists": [
+            "Frankie Ruiz"
+          ],
+          "album": "Frankie Ruiz La Leyenda",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
+          "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
+          "url": "https://open.spotify.com/track/0FsXZAMf6NACvNJ2LI6ySp",
+          "duration_ms": 281333
+        },
+        {
+          "rank": 20,
           "name": "Props & Mayhem",
           "artists": [
             "Pierce The Veil"
@@ -1052,7 +1064,7 @@
           "duration_ms": 217853
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "雨蝶 - R&B微醺版",
           "artists": [
             "微醺卡带"
@@ -1064,7 +1076,7 @@
           "duration_ms": 234984
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Art of War",
           "artists": [
             "Avenoir"
@@ -1076,7 +1088,7 @@
           "duration_ms": 126973
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Nunca Más",
           "artists": [
             "La Isla Centeno"
@@ -1088,7 +1100,7 @@
           "duration_ms": 229214
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Change (In the House of Flies)",
           "artists": [
             "Deftones"
@@ -1098,18 +1110,6 @@
           "uri": "spotify:track:51c94ac31swyDQj9B3Lzs3",
           "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3",
           "duration_ms": 299533
-        },
-        {
-          "rank": 24,
-          "name": "Deseándote",
-          "artists": [
-            "Frankie Ruiz"
-          ],
-          "album": "Frankie Ruiz La Leyenda",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
-          "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
-          "url": "https://open.spotify.com/track/0FsXZAMf6NACvNJ2LI6ySp",
-          "duration_ms": 281333
         },
         {
           "rank": 25,
@@ -1285,6 +1285,18 @@
         },
         {
           "rank": 39,
+          "name": "Beso",
+          "artists": [
+            "Jósean Log"
+          ],
+          "album": "Háblate de Mí",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a8659bf75fee7dc8c01afc67",
+          "uri": "spotify:track:4PpuZIMmeng6qPicveSI22",
+          "url": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22",
+          "duration_ms": 211021
+        },
+        {
+          "rank": 40,
           "name": "Is It Really You?",
           "artists": [
             "Loathe"
@@ -1296,7 +1308,7 @@
           "duration_ms": 287627
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "stingray",
           "artists": [
             "Rehash"
@@ -1308,7 +1320,19 @@
           "duration_ms": 184041
         },
         {
-          "rank": 41,
+          "rank": 42,
+          "name": "Morado",
+          "artists": [
+            "J Balvin"
+          ],
+          "album": "Colores",
+          "image": "https://i.scdn.co/image/ab67616d0000b27335692baca45542527d742d0d",
+          "uri": "spotify:track:35KmOEIUqAGn02t7n4qaIr",
+          "url": "https://open.spotify.com/track/35KmOEIUqAGn02t7n4qaIr",
+          "duration_ms": 200266
+        },
+        {
+          "rank": 43,
           "name": "흩어진나날들",
           "artists": [
             "강수지"
@@ -1320,7 +1344,7 @@
           "duration_ms": 262126
         },
         {
-          "rank": 42,
+          "rank": 44,
           "name": "Fangs",
           "artists": [
             "Loathe"
@@ -1332,7 +1356,7 @@
           "duration_ms": 249293
         },
         {
-          "rank": 43,
+          "rank": 45,
           "name": "Flaca",
           "artists": [
             "Cultura Profética",
@@ -1345,7 +1369,7 @@
           "duration_ms": 255875
         },
         {
-          "rank": 44,
+          "rank": 46,
           "name": "Caraphernelia",
           "artists": [
             "Pierce The Veil"
@@ -1357,7 +1381,7 @@
           "duration_ms": 268480
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "In Another Time",
           "artists": [
             "Sade"
@@ -1369,7 +1393,7 @@
           "duration_ms": 304413
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "Burn Me With A Bible",
           "artists": [
             "VIOLENT VIRA"
@@ -1381,7 +1405,7 @@
           "duration_ms": 245393
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "Mi Atención",
           "artists": [
             "Martox"
@@ -1393,7 +1417,7 @@
           "duration_ms": 212179
         },
         {
-          "rank": 48,
+          "rank": 50,
           "name": "Como Es Que Se Hace",
           "artists": [
             "Yandel",
@@ -1404,30 +1428,6 @@
           "uri": "spotify:track:0ou3TddCNhvZeyGFbz7Y6E",
           "url": "https://open.spotify.com/track/0ou3TddCNhvZeyGFbz7Y6E",
           "duration_ms": 205320
-        },
-        {
-          "rank": 49,
-          "name": "The Ghost of You",
-          "artists": [
-            "My Chemical Romance"
-          ],
-          "album": "Three Cheers for Sweet Revenge",
-          "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
-          "uri": "spotify:track:1yKAqZoi8xWGLCf5vajroL",
-          "url": "https://open.spotify.com/track/1yKAqZoi8xWGLCf5vajroL",
-          "duration_ms": 194253
-        },
-        {
-          "rank": 50,
-          "name": "Beso",
-          "artists": [
-            "Jósean Log"
-          ],
-          "album": "Háblate de Mí",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a8659bf75fee7dc8c01afc67",
-          "uri": "spotify:track:4PpuZIMmeng6qPicveSI22",
-          "url": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22",
-          "duration_ms": 211021
         }
       ],
       "artists": [
@@ -1481,19 +1481,19 @@
         },
         {
           "rank": 7,
-          "name": "Danny Ocean",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6d11079e9ea4fd57b5df6c97",
-          "genres": [],
-          "uri": "spotify:artist:5H1nN1SzW0qNeUEZvuXjAj",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "rank": 8,
           "name": "KAROL G",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3869e286c9043f85e8e4bc06",
           "genres": [],
           "uri": "spotify:artist:790FomKkXshlbRYZFtlgla",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "rank": 8,
+          "name": "Danny Ocean",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6d11079e9ea4fd57b5df6c97",
+          "genres": [],
+          "uri": "spotify:artist:5H1nN1SzW0qNeUEZvuXjAj",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         },
         {
           "rank": 9,
