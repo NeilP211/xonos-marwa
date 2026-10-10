@@ -1,15 +1,19 @@
 {
-  "updated_at": "2026-10-10T00:31:55.804Z",
+  "updated_at": "2026-10-10T09:32:30.313Z",
   "is_playing": false,
   "track": {
-    "name": "Dardos",
+    "name": "La Paso Cabrón (feat. Gigolo y La Exce, Falsetto y Sammy, Mike Duran & Baby Angel)",
     "artists": [
-      "Romeo Santos",
-      "Prince Royce"
+      "Trap Capos",
+      "Noriel",
+      "Gigolo Y La Exce",
+      "Sammy & Falsetto",
+      "Mike Duran",
+      "Baby Angel"
     ],
-    "album": "Better Late Than Never",
-    "image": "https://i.scdn.co/image/ab67616d0000b27391750ed467a5ecc14beaa03f",
-    "uri": "spotify:track:5SudOD9R1Of6CsJVWZy6CQ"
+    "album": "Trap Capos: Season 1",
+    "image": "https://i.scdn.co/image/ab67616d0000b27377ecc981b6490db46a2aecae",
+    "uri": "spotify:track:2rnvFmtBu8L32HcFXgBf9F"
   },
-  "played_at": "2026-10-09T19:01:14.374Z"
+  "played_at": "2026-10-10T03:35:32.184Z"
 }
