@@ -1,19 +1,14 @@
 {
-  "updated_at": "2026-10-12T10:23:52.905Z",
+  "updated_at": "2026-10-12T21:01:26.539Z",
   "is_playing": false,
   "track": {
-    "name": "La Paso Cabrón (feat. Gigolo y La Exce, Falsetto y Sammy, Mike Duran & Baby Angel)",
+    "name": "Flawless Execution",
     "artists": [
-      "Trap Capos",
-      "Noriel",
-      "Gigolo Y La Exce",
-      "Sammy & Falsetto",
-      "Mike Duran",
-      "Baby Angel"
+      "Pierce The Veil"
     ],
-    "album": "Trap Capos: Season 1",
-    "image": "https://i.scdn.co/image/ab67616d0000b27377ecc981b6490db46a2aecae",
-    "uri": "spotify:track:2rnvFmtBu8L32HcFXgBf9F"
+    "album": "The Jaws Of Life",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+    "uri": "spotify:track:3XfmKIeWD1gGrKhwIEon6Q"
   },
-  "played_at": "2026-10-10T03:35:32.184Z"
+  "played_at": "2026-10-12T17:28:00.358Z"
 }
