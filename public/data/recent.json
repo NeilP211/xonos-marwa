@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-10-13T05:55:17.823Z",
+  "updated_at": "2026-10-13T13:46:06.809Z",
   "plays": [
-    {
-      "played_at": "2026-06-25T15:59:57.081Z",
-      "name": "UNDERSTAND",
-      "artists": [
-        "keshi"
-      ],
-      "album": "GABRIEL",
-      "image": "https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb",
-      "uri": "spotify:track:72sfmdpuO5r8cBDgs7MqZZ",
-      "duration_ms": 150519
-    },
-    {
-      "played_at": "2026-06-25T16:12:21.399Z",
-      "name": "escala en Panamá",
-      "artists": [
-        "Danny Ocean"
-      ],
-      "album": "venequia.",
-      "image": "https://i.scdn.co/image/ab67616d0000b27316dc7a439d4cc9979dae43eb",
-      "uri": "spotify:track:7KhdmSkSsouQhiSCFad0Ou",
-      "duration_ms": 132336
-    },
-    {
-      "played_at": "2026-06-25T16:17:09.223Z",
-      "name": "fantasmas",
-      "artists": [
-        "HUMBE"
-      ],
-      "album": "DUEÑO DEL CIELO",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730c4ef3ae1269872fe80e2154",
-      "uri": "spotify:track:3iTVjevexCuVrBwmkR4qJc",
-      "duration_ms": 287248
-    },
     {
       "played_at": "2026-06-25T16:20:53.908Z",
       "name": "PLAYA PRIVADA",
@@ -22519,6 +22486,40 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27389aa3d00d339b8948374782b",
       "uri": "spotify:track:4x2PkqSLtuwv53hLqq4GiY",
       "duration_ms": 236533
+    },
+    {
+      "played_at": "2026-10-13T07:06:11.352Z",
+      "name": "Superpowers",
+      "artists": [
+        "Daniel Caesar"
+      ],
+      "album": "NEVER ENOUGH",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737c68face1dc58127f3a7b1cc",
+      "uri": "spotify:track:736PP5LTtREkDgktNmX3Gu",
+      "duration_ms": 174512
+    },
+    {
+      "played_at": "2026-10-13T07:10:30.624Z",
+      "name": "Beauty And A Beat",
+      "artists": [
+        "Justin Bieber",
+        "Nicki Minaj"
+      ],
+      "album": "Believe",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f1d02a6cec967f8b6b78f76e",
+      "uri": "spotify:track:6QFCMUUq1T2Vf5sFUXcuQ7",
+      "duration_ms": 227986
+    },
+    {
+      "played_at": "2026-10-13T09:18:37.338Z",
+      "name": "DAISIES",
+      "artists": [
+        "Justin Bieber"
+      ],
+      "album": "SWAG",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d65c4773bc5061fd27facc5b",
+      "uri": "spotify:track:5BZsQlgw21vDOAjoqkNgKb",
+      "duration_ms": 176453
     }
   ]
 }

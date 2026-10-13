@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-13T05:55:17.941Z",
+  "updated_at": "2026-10-13T13:46:06.913Z",
   "is_playing": false,
   "track": {
-    "name": "Backburner",
+    "name": "DAISIES",
     "artists": [
-      "NIKI"
+      "Justin Bieber"
     ],
-    "album": "Nicole",
-    "image": "https://i.scdn.co/image/ab67616d0000b27389aa3d00d339b8948374782b",
-    "uri": "spotify:track:4x2PkqSLtuwv53hLqq4GiY"
+    "album": "SWAG",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d65c4773bc5061fd27facc5b",
+    "uri": "spotify:track:5BZsQlgw21vDOAjoqkNgKb"
   },
-  "played_at": "2026-10-13T04:42:03.516Z"
+  "played_at": "2026-10-13T09:18:37.338Z"
 }
