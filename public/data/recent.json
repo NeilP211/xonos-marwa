@@ -1,75 +1,6 @@
 {
-  "updated_at": "2026-10-13T13:46:06.809Z",
+  "updated_at": "2026-10-13T20:32:08.886Z",
   "plays": [
-    {
-      "played_at": "2026-06-25T16:20:53.908Z",
-      "name": "PLAYA PRIVADA",
-      "artists": [
-        "Mora",
-        "ELENA ROSE"
-      ],
-      "album": "MICRODOSIS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e9a9de396bb621a2822fb278",
-      "uri": "spotify:track:2OF2V1JvNjOCOjhnIdfh3L",
-      "duration_ms": 157647
-    },
-    {
-      "played_at": "2026-06-25T16:25:02.119Z",
-      "name": "Me Pasa (Piscis)",
-      "artists": [
-        "Bomba Estéreo",
-        "Rawayana",
-        "ASTROPICAL"
-      ],
-      "album": "ASTROPICAL",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732769d84d74fa75a74edaa41b",
-      "uri": "spotify:track:63ZVyUi9weRwuMf1QsbDnY",
-      "duration_ms": 201307
-    },
-    {
-      "played_at": "2026-06-25T16:31:55.997Z",
-      "name": "Mujeriego",
-      "artists": [
-        "José José"
-      ],
-      "album": "Mujeriego",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731e494d81e6bb204be5253282",
-      "uri": "spotify:track:2djCa914hXJtSJPxN3ziCX",
-      "duration_ms": 228493
-    },
-    {
-      "played_at": "2026-06-25T16:34:55.160Z",
-      "name": "Corriendo Con Tijeras",
-      "artists": [
-        "Lasso"
-      ],
-      "album": "Eva",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738e3d95a57c2be60c96dee4b8",
-      "uri": "spotify:track:4iD92GmrfOzcteNgs74CYe",
-      "duration_ms": 194720
-    },
-    {
-      "played_at": "2026-06-25T16:39:22.241Z",
-      "name": "11 PM",
-      "artists": [
-        "Maluma"
-      ],
-      "album": "11:11",
-      "image": "https://i.scdn.co/image/ab67616d0000b27390a2bafda8d3147d3ff98502",
-      "uri": "spotify:track:7KbF6AdprOXEEHlsq11Z6d",
-      "duration_ms": 175733
-    },
-    {
-      "played_at": "2026-06-25T19:11:00.545Z",
-      "name": "Forever",
-      "artists": [
-        "keshi"
-      ],
-      "album": "Requiem (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733dfa5d71dad925112f5d5b9a",
-      "uri": "spotify:track:2C5nlzIMJ81NYmeGhofNNP",
-      "duration_ms": 171415
-    },
     {
       "played_at": "2026-06-25T19:15:52.142Z",
       "name": "日落计数器",
@@ -22520,6 +22451,72 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d65c4773bc5061fd27facc5b",
       "uri": "spotify:track:5BZsQlgw21vDOAjoqkNgKb",
       "duration_ms": 176453
+    },
+    {
+      "played_at": "2026-10-13T19:03:51.223Z",
+      "name": "Flawless Execution",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3XfmKIeWD1gGrKhwIEon6Q",
+      "duration_ms": 240053
+    },
+    {
+      "played_at": "2026-10-13T19:07:46.122Z",
+      "name": "Emergency Contact",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:4amltxLIfFmtYEvZbdgDqO",
+      "duration_ms": 240000
+    },
+    {
+      "played_at": "2026-10-13T19:39:19.879Z",
+      "name": "The Jaws Of Life",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:4mfbHWZCIsDVMKk9HAqEgF",
+      "duration_ms": 222666
+    },
+    {
+      "played_at": "2026-10-13T19:42:55.182Z",
+      "name": "Resilience",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+      "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-10-13T19:47:23.048Z",
+      "name": "So Far So Fake",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3fWibgdtgIie6LKTZ2rUoI",
+      "duration_ms": 236160
+    },
+    {
+      "played_at": "2026-10-13T19:47:41.151Z",
+      "name": "Irrational Fears - Interlude",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:1AtTmjAqrlmg9P2enDqVg9",
+      "duration_ms": 21560
     }
   ]
 }

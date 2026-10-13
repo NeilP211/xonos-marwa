@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-13T13:46:06.913Z",
+  "updated_at": "2026-10-13T20:32:08.967Z",
   "is_playing": false,
   "track": {
-    "name": "DAISIES",
+    "name": "Irrational Fears - Interlude",
     "artists": [
-      "Justin Bieber"
+      "Pierce The Veil"
     ],
-    "album": "SWAG",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d65c4773bc5061fd27facc5b",
-    "uri": "spotify:track:5BZsQlgw21vDOAjoqkNgKb"
+    "album": "The Jaws Of Life",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+    "uri": "spotify:track:1AtTmjAqrlmg9P2enDqVg9"
   },
-  "played_at": "2026-10-13T09:18:37.338Z"
+  "played_at": "2026-10-13T19:47:41.151Z"
 }
