@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-12T21:01:26.539Z",
+  "updated_at": "2026-10-13T05:55:17.941Z",
   "is_playing": false,
   "track": {
-    "name": "Flawless Execution",
+    "name": "Backburner",
     "artists": [
-      "Pierce The Veil"
+      "NIKI"
     ],
-    "album": "The Jaws Of Life",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-    "uri": "spotify:track:3XfmKIeWD1gGrKhwIEon6Q"
+    "album": "Nicole",
+    "image": "https://i.scdn.co/image/ab67616d0000b27389aa3d00d339b8948374782b",
+    "uri": "spotify:track:4x2PkqSLtuwv53hLqq4GiY"
   },
-  "played_at": "2026-10-12T17:28:00.358Z"
+  "played_at": "2026-10-13T04:42:03.516Z"
 }

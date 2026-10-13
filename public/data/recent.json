@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-12T21:01:26.437Z",
+  "updated_at": "2026-10-13T05:55:17.823Z",
   "plays": [
-    {
-      "played_at": "2026-06-25T15:59:02.352Z",
-      "name": "Soft Spot",
-      "artists": [
-        "keshi"
-      ],
-      "album": "Requiem",
-      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
-      "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
-      "duration_ms": 204223
-    },
     {
       "played_at": "2026-06-25T15:59:57.081Z",
       "name": "UNDERSTAND",
@@ -22519,6 +22508,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
       "uri": "spotify:track:3XfmKIeWD1gGrKhwIEon6Q",
       "duration_ms": 240053
+    },
+    {
+      "played_at": "2026-10-13T04:42:03.516Z",
+      "name": "Backburner",
+      "artists": [
+        "NIKI"
+      ],
+      "album": "Nicole",
+      "image": "https://i.scdn.co/image/ab67616d0000b27389aa3d00d339b8948374782b",
+      "uri": "spotify:track:4x2PkqSLtuwv53hLqq4GiY",
+      "duration_ms": 236533
     }
   ]
 }
