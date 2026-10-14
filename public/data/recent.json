@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-13T20:32:08.886Z",
+  "updated_at": "2026-10-14T00:10:48.982Z",
   "plays": [
-    {
-      "played_at": "2026-06-25T19:15:52.142Z",
-      "name": "日落计数器",
-      "artists": [
-        "莫非定律乐团"
-      ],
-      "album": "日落计数器",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e93dbbce3937df90318b35a1",
-      "uri": "spotify:track:3BPuq1TTqJ5lat7IKqyZTW",
-      "duration_ms": 291564
-    },
     {
       "played_at": "2026-06-25T19:19:35.258Z",
       "name": "Let Love Bleed Red",
@@ -22517,6 +22506,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
       "uri": "spotify:track:1AtTmjAqrlmg9P2enDqVg9",
       "duration_ms": 21560
+    },
+    {
+      "played_at": "2026-10-13T19:53:26.097Z",
+      "name": "Shared Trauma",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
+      "duration_ms": 253000
     }
   ]
 }
