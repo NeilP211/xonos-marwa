@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-10-15T16:30:14.408Z",
+  "updated_at": "2026-10-15T21:02:12.383Z",
   "is_playing": false,
   "track": {
-    "name": "Shared Trauma",
+    "name": "Aslan",
     "artists": [
-      "Pierce The Veil"
+      "BANANA FISH",
+      "Shinichi Osawa"
     ],
-    "album": "The Jaws Of Life",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-    "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943"
+    "album": "BANANA FISH (Original Soundtrack Produced by Shinichi Osawa)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
+    "uri": "spotify:track:5WGIUhbFS6UzpCXpuvDu4Q"
   },
-  "played_at": "2026-10-14T07:05:45.523Z"
+  "played_at": "2026-10-15T20:13:34.016Z"
 }
