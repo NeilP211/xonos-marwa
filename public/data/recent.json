@@ -1,116 +1,6 @@
 {
-  "updated_at": "2026-10-18T10:33:28.025Z",
+  "updated_at": "2026-10-18T15:32:01.431Z",
   "plays": [
-    {
-      "played_at": "2026-06-25T20:29:03.328Z",
-      "name": "Resilience",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
-      "duration_ms": 220360
-    },
-    {
-      "played_at": "2026-06-25T20:34:36.984Z",
-      "name": "Resilience",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
-      "duration_ms": 220360
-    },
-    {
-      "played_at": "2026-06-25T20:48:12.141Z",
-      "name": "Resilience",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
-      "duration_ms": 220360
-    },
-    {
-      "played_at": "2026-06-25T20:51:52.317Z",
-      "name": "Resilience",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
-      "duration_ms": 220360
-    },
-    {
-      "played_at": "2026-06-25T20:55:32.874Z",
-      "name": "Resilience",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
-      "duration_ms": 220360
-    },
-    {
-      "played_at": "2026-06-26T16:21:34.532Z",
-      "name": "Cemetery Drive",
-      "artists": [
-        "My Chemical Romance"
-      ],
-      "album": "Three Cheers for Sweet Revenge",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
-      "uri": "spotify:track:2cViIXIe8Pbd1sOJExMJlK",
-      "duration_ms": 188066
-    },
-    {
-      "played_at": "2026-06-26T16:29:33.590Z",
-      "name": "Gold Medal Ribbon",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "Misadventures",
-      "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
-      "uri": "spotify:track:0yq3IiS6IbPFmqLN46WxiG",
-      "duration_ms": 238306
-    },
-    {
-      "played_at": "2026-06-26T16:38:47.741Z",
-      "name": "Emergency Contact",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-      "uri": "spotify:track:4amltxLIfFmtYEvZbdgDqO",
-      "duration_ms": 240000
-    },
-    {
-      "played_at": "2026-06-26T16:43:25.156Z",
-      "name": "Kissing in Cars (Bonus Track)",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "Selfish Machines (Reissue)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733c8674afa47336f571b13ebd",
-      "uri": "spotify:track:21n769QrJtrmN0pXuBkYOm",
-      "duration_ms": 257211
-    },
-    {
-      "played_at": "2026-06-26T16:52:37.061Z",
-      "name": "Million Dollar Houses (The Painter)",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "Selfish Machines",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
-      "uri": "spotify:track:0iWCpaSaiIZVPSqjZ9YB5L",
-      "duration_ms": 241640
-    },
     {
       "played_at": "2026-06-26T16:57:30.020Z",
       "name": "Dive In",
@@ -22523,6 +22413,117 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
       "uri": "spotify:track:4mfbHWZCIsDVMKk9HAqEgF",
       "duration_ms": 222666
+    },
+    {
+      "played_at": "2026-10-18T11:48:57.050Z",
+      "name": "Baby Girl",
+      "artists": [
+        "PROXIE",
+        "GALCHANIE"
+      ],
+      "album": "Baby Girl",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732b4f65a014a0f3dac11f7afd",
+      "uri": "spotify:track:1waM1iX8oDT7PnR5Abr5IZ",
+      "duration_ms": 155529
+    },
+    {
+      "played_at": "2026-10-18T12:26:34.708Z",
+      "name": "mademoiselle",
+      "artists": [
+        "KAMIJO"
+      ],
+      "album": "mademoiselle",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d8dc00fc7b0d05467751d6f5",
+      "uri": "spotify:track:6L7ukgfjkoj8d11IjdB2hP",
+      "duration_ms": 238666
+    },
+    {
+      "played_at": "2026-10-18T12:53:04.565Z",
+      "name": "Perverted Martyr",
+      "artists": [
+        "Femme Fatale"
+      ],
+      "album": "ARCANA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730be46f612eb1f4067715916f",
+      "uri": "spotify:track:1Xb86IudDAjgxvkejaaQ1O",
+      "duration_ms": 232128
+    },
+    {
+      "played_at": "2026-10-18T13:05:34.194Z",
+      "name": "Romantic Season",
+      "artists": [
+        "LAREINE"
+      ],
+      "album": "Winter Romantic",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735f94208beab6ffce4d49fc0f",
+      "uri": "spotify:track:1qBJGFqkXDIIBWAdr6dV1o",
+      "duration_ms": 260120
+    },
+    {
+      "played_at": "2026-10-18T13:11:15.323Z",
+      "name": "Metamorphose",
+      "artists": [
+        "LAREINE"
+      ],
+      "album": "LILLILLIE CHARLOTTE within MetamorphoseLIE CHARLOTTE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731bf4be602ae37d924bba5f4c",
+      "uri": "spotify:track:1xXs1ge4evZ82rMVZGUrm6",
+      "duration_ms": 346186
+    },
+    {
+      "played_at": "2026-10-18T13:19:57.780Z",
+      "name": "Mizerable",
+      "artists": [
+        "GACKT"
+      ],
+      "album": "Mizerable",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c796ec978326ca2ceee56f0",
+      "uri": "spotify:track:3qLc6xDhKALXaul4lmwpmm",
+      "duration_ms": 295933
+    },
+    {
+      "played_at": "2026-10-18T13:19:57.781Z",
+      "name": "TEMPLE -Blood sucking for praying-",
+      "artists": [
+        "KAMIJO"
+      ],
+      "album": "TEMPLE -Blood sucking for praying-",
+      "image": "https://i.scdn.co/image/ab67616d0000b273692a44dd2529f37f3009ff7e",
+      "uri": "spotify:track:5Ecd2dxtHqyaBrw0m0fbmc",
+      "duration_ms": 282453
+    },
+    {
+      "played_at": "2026-10-18T13:41:59.530Z",
+      "name": "Pourriture noble",
+      "artists": [
+        "Kaya"
+      ],
+      "album": "GLITTER",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b46c2deac5ff3ddb5a71788d",
+      "uri": "spotify:track:6mBcNhFJjc6c17C7QiLKgz",
+      "duration_ms": 292031
+    },
+    {
+      "played_at": "2026-10-18T13:47:34.129Z",
+      "name": "極東の恋人",
+      "artists": [
+        "LAREINE"
+      ],
+      "album": "Winter Romantic",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735f94208beab6ffce4d49fc0f",
+      "uri": "spotify:track:3hBXG8J66iEOvhcQeK6DXP",
+      "duration_ms": 339546
+    },
+    {
+      "played_at": "2026-10-18T13:49:36.858Z",
+      "name": "これを依存と呼ぶなら",
+      "artists": [
+        "MEJIBRAY"
+      ],
+      "album": "Slivers.exe",
+      "image": "https://i.scdn.co/image/ab67616d0000b273abf5c64f5c5a9a9bb204d5b9",
+      "uri": "spotify:track:1Oe45Ze9SwanHB2vL7gY9H",
+      "duration_ms": 340346
     }
   ]
 }

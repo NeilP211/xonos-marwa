@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-18T10:33:28.119Z",
+  "updated_at": "2026-10-18T15:32:01.543Z",
   "is_playing": false,
   "track": {
-    "name": "The Jaws Of Life",
+    "name": "これを依存と呼ぶなら",
     "artists": [
-      "Pierce The Veil"
+      "MEJIBRAY"
     ],
-    "album": "The Jaws Of Life",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-    "uri": "spotify:track:4mfbHWZCIsDVMKk9HAqEgF"
+    "album": "Slivers.exe",
+    "image": "https://i.scdn.co/image/ab67616d0000b273abf5c64f5c5a9a9bb204d5b9",
+    "uri": "spotify:track:1Oe45Ze9SwanHB2vL7gY9H"
   },
-  "played_at": "2026-10-18T10:22:30.931Z"
+  "played_at": "2026-10-18T13:49:36.858Z"
 }
