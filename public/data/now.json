@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-10-18T03:32:57.609Z",
+  "updated_at": "2026-10-18T10:33:28.119Z",
   "is_playing": false,
   "track": {
-    "name": "Aslan",
+    "name": "The Jaws Of Life",
     "artists": [
-      "BANANA FISH",
-      "Shinichi Osawa"
+      "Pierce The Veil"
     ],
-    "album": "BANANA FISH (Original Soundtrack Produced by Shinichi Osawa)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
-    "uri": "spotify:track:5WGIUhbFS6UzpCXpuvDu4Q"
+    "album": "The Jaws Of Life",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+    "uri": "spotify:track:4mfbHWZCIsDVMKk9HAqEgF"
   },
-  "played_at": "2026-10-15T20:13:34.016Z"
+  "played_at": "2026-10-18T10:22:30.931Z"
 }
