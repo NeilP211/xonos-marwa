@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T22:50:31.528Z",
+  "generated_at": "2026-10-19T12:27:32.102Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1931,6 +1931,19 @@
         },
         {
           "rank": 10,
+          "name": "12 Fractures",
+          "artists": [
+            "Pierce The Veil",
+            "chloe moriondo"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+          "url": "https://open.spotify.com/track/2R5SzmhzoaCkjDJcSaGrN3",
+          "duration_ms": 181600
+        },
+        {
+          "rank": 11,
           "name": "وماله",
           "artists": [
             "Amr Diab"
@@ -1942,7 +1955,7 @@
           "duration_ms": 288313
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Shared Trauma",
           "artists": [
             "Pierce The Veil"
@@ -1954,7 +1967,7 @@
           "duration_ms": 253000
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Soft Spot",
           "artists": [
             "keshi"
@@ -1966,7 +1979,7 @@
           "duration_ms": 204223
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Virgen",
           "artists": [
             "Adolescent's Orquesta"
@@ -1976,19 +1989,6 @@
           "uri": "spotify:track:1HWbpfmzt1YplLceHgirCv",
           "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv",
           "duration_ms": 273763
-        },
-        {
-          "rank": 14,
-          "name": "12 Fractures",
-          "artists": [
-            "Pierce The Veil",
-            "chloe moriondo"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
-          "url": "https://open.spotify.com/track/2R5SzmhzoaCkjDJcSaGrN3",
-          "duration_ms": 181600
         },
         {
           "rank": 15,
