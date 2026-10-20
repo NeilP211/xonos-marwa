@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-10-20T14:09:28.831Z",
+  "updated_at": "2026-10-20T18:59:55.207Z",
   "plays": [
-    {
-      "played_at": "2026-06-26T16:57:30.020Z",
-      "name": "Dive In",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "Misadventures",
-      "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
-      "uri": "spotify:track:6LhGzSZlIGxZpyIXXZn9ZV",
-      "duration_ms": 292360
-    },
-    {
-      "played_at": "2026-06-26T17:04:43.559Z",
-      "name": "Wonderless",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "A Flair For The Dramatic",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d2d0137c32938ae8cb44e0ca",
-      "uri": "spotify:track:4QCczE24wLpDmPJ3qwwEvC",
-      "duration_ms": 341053
-    },
     {
       "played_at": "2026-06-26T17:08:40.524Z",
       "name": "King For A Day",
@@ -22524,6 +22502,29 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273abf5c64f5c5a9a9bb204d5b9",
       "uri": "spotify:track:1Oe45Ze9SwanHB2vL7gY9H",
       "duration_ms": 340346
+    },
+    {
+      "played_at": "2026-10-20T15:31:37.630Z",
+      "name": "Red Swan",
+      "artists": [
+        "YOSHIKI",
+        "HYDE"
+      ],
+      "album": "Red Swan",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
+      "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX",
+      "duration_ms": 263720
+    },
+    {
+      "played_at": "2026-10-20T15:48:18.965Z",
+      "name": "Pourriture noble",
+      "artists": [
+        "Kaya"
+      ],
+      "album": "GLITTER",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b46c2deac5ff3ddb5a71788d",
+      "uri": "spotify:track:6mBcNhFJjc6c17C7QiLKgz",
+      "duration_ms": 292031
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-20T14:09:28.918Z",
+  "updated_at": "2026-10-20T18:59:55.246Z",
   "is_playing": false,
   "track": {
-    "name": "これを依存と呼ぶなら",
+    "name": "Pourriture noble",
     "artists": [
-      "MEJIBRAY"
+      "Kaya"
     ],
-    "album": "Slivers.exe",
-    "image": "https://i.scdn.co/image/ab67616d0000b273abf5c64f5c5a9a9bb204d5b9",
-    "uri": "spotify:track:1Oe45Ze9SwanHB2vL7gY9H"
+    "album": "GLITTER",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b46c2deac5ff3ddb5a71788d",
+    "uri": "spotify:track:6mBcNhFJjc6c17C7QiLKgz"
   },
-  "played_at": "2026-10-18T13:49:36.858Z"
+  "played_at": "2026-10-20T15:48:18.965Z"
 }
