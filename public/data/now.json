@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-21T16:47:30.101Z",
+  "updated_at": "2026-10-21T21:22:14.026Z",
   "is_playing": false,
   "track": {
-    "name": "Pourriture noble",
+    "name": "Mizerable",
     "artists": [
-      "Kaya"
+      "GACKT"
     ],
-    "album": "GLITTER",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b46c2deac5ff3ddb5a71788d",
-    "uri": "spotify:track:6mBcNhFJjc6c17C7QiLKgz"
+    "album": "Mizerable",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732119a8e012fb7acfa4668be2",
+    "uri": "spotify:track:75Frd3MMVwG2j3eMBdZVvl"
   },
-  "played_at": "2026-10-20T15:48:18.965Z"
+  "played_at": "2026-10-21T19:27:57.361Z"
 }

@@ -1,51 +1,6 @@
 {
-  "updated_at": "2026-10-21T16:47:29.987Z",
+  "updated_at": "2026-10-21T21:22:13.903Z",
   "plays": [
-    {
-      "played_at": "2026-06-26T17:08:40.524Z",
-      "name": "King For A Day",
-      "artists": [
-        "Pierce The Veil",
-        "Kellin Quinn"
-      ],
-      "album": "Collide With The Sky",
-      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-      "uri": "spotify:track:1IT0WQk5J8NsaeII8ktdlZ",
-      "duration_ms": 236293
-    },
-    {
-      "played_at": "2026-06-26T17:13:40.523Z",
-      "name": "Today I Saw The Whole World",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "Misadventures",
-      "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
-      "uri": "spotify:track:48vr34351V9Sz1QVxmbYNf",
-      "duration_ms": 221960
-    },
-    {
-      "played_at": "2026-06-26T17:18:29.192Z",
-      "name": "The New National Anthem",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "Selfish Machines",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
-      "uri": "spotify:track:0LRrtw1MFASb7tgyHqVXnh",
-      "duration_ms": 239573
-    },
-    {
-      "played_at": "2026-06-26T17:25:03.369Z",
-      "name": "Death Of An Executioner",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-      "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
-      "duration_ms": 267800
-    },
     {
       "played_at": "2026-06-27T23:19:01.330Z",
       "name": "Moonwalkin'",
@@ -22525,6 +22480,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273b46c2deac5ff3ddb5a71788d",
       "uri": "spotify:track:6mBcNhFJjc6c17C7QiLKgz",
       "duration_ms": 292031
+    },
+    {
+      "played_at": "2026-10-20T15:54:44.527Z",
+      "name": "極東の恋人",
+      "artists": [
+        "LAREINE"
+      ],
+      "album": "Winter Romantic",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735f94208beab6ffce4d49fc0f",
+      "uri": "spotify:track:3hBXG8J66iEOvhcQeK6DXP",
+      "duration_ms": 339546
+    },
+    {
+      "played_at": "2026-10-21T19:14:57.171Z",
+      "name": "極東の恋人",
+      "artists": [
+        "LAREINE"
+      ],
+      "album": "Winter Romantic",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735f94208beab6ffce4d49fc0f",
+      "uri": "spotify:track:3hBXG8J66iEOvhcQeK6DXP",
+      "duration_ms": 339546
+    },
+    {
+      "played_at": "2026-10-21T19:20:32.802Z",
+      "name": "これを依存と呼ぶなら",
+      "artists": [
+        "MEJIBRAY"
+      ],
+      "album": "Slivers.exe",
+      "image": "https://i.scdn.co/image/ab67616d0000b273abf5c64f5c5a9a9bb204d5b9",
+      "uri": "spotify:track:1Oe45Ze9SwanHB2vL7gY9H",
+      "duration_ms": 340346
+    },
+    {
+      "played_at": "2026-10-21T19:27:57.361Z",
+      "name": "Mizerable",
+      "artists": [
+        "GACKT"
+      ],
+      "album": "Mizerable",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732119a8e012fb7acfa4668be2",
+      "uri": "spotify:track:75Frd3MMVwG2j3eMBdZVvl",
+      "duration_ms": 296266
     }
   ]
 }
