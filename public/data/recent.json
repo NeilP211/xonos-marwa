@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-21T21:22:13.903Z",
+  "updated_at": "2026-10-22T03:44:03.200Z",
   "plays": [
-    {
-      "played_at": "2026-06-27T23:19:01.330Z",
-      "name": "Moonwalkin'",
-      "artists": [
-        "LNGSHOT"
-      ],
-      "album": "SHOT CALLERS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739ae175cd44e09688bb7c0f4f",
-      "uri": "spotify:track:46V2ciN6F5bxjQWityNhkY",
-      "duration_ms": 208495
-    },
     {
       "played_at": "2026-06-27T23:24:57.936Z",
       "name": "Soft Spot",
@@ -22524,6 +22513,19 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732119a8e012fb7acfa4668be2",
       "uri": "spotify:track:75Frd3MMVwG2j3eMBdZVvl",
       "duration_ms": 296266
+    },
+    {
+      "played_at": "2026-10-21T22:56:40.534Z",
+      "name": "BbY WOW",
+      "artists": [
+        "KAROL G",
+        "Judeline",
+        "rusowsky"
+      ],
+      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+      "image": "https://i.scdn.co/image/ab67616d0000b27321deb742375f88edfb2e7368",
+      "uri": "spotify:track:3h5T5JypYU7huFiVYhv1dr",
+      "duration_ms": 225834
     }
   ]
 }

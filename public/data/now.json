@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-10-21T21:22:14.026Z",
+  "updated_at": "2026-10-22T03:44:03.294Z",
   "is_playing": false,
   "track": {
-    "name": "Mizerable",
+    "name": "BbY WOW",
     "artists": [
-      "GACKT"
+      "KAROL G",
+      "Judeline",
+      "rusowsky"
     ],
-    "album": "Mizerable",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732119a8e012fb7acfa4668be2",
-    "uri": "spotify:track:75Frd3MMVwG2j3eMBdZVvl"
+    "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+    "image": "https://i.scdn.co/image/ab67616d0000b27321deb742375f88edfb2e7368",
+    "uri": "spotify:track:3h5T5JypYU7huFiVYhv1dr"
   },
-  "played_at": "2026-10-21T19:27:57.361Z"
+  "played_at": "2026-10-21T22:56:40.534Z"
 }
