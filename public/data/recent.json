@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-26T12:26:39.615Z",
+  "updated_at": "2026-10-26T20:20:16.908Z",
   "plays": [
-    {
-      "played_at": "2026-06-27T23:24:57.936Z",
-      "name": "Soft Spot",
-      "artists": [
-        "keshi"
-      ],
-      "album": "Requiem",
-      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
-      "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
-      "duration_ms": 204223
-    },
     {
       "played_at": "2026-06-27T23:37:07.550Z",
       "name": "New Perspective",
@@ -22526,6 +22515,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27321deb742375f88edfb2e7368",
       "uri": "spotify:track:3h5T5JypYU7huFiVYhv1dr",
       "duration_ms": 225834
+    },
+    {
+      "played_at": "2026-10-23T01:50:56.566Z",
+      "name": "bigassbearman",
+      "artists": [
+        "ericdoa"
+      ],
+      "album": "DOA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c615ec4f5dd17806a802162",
+      "uri": "spotify:track:6L8C8fJ9ajR01ODnO5LHsB",
+      "duration_ms": 149468
     }
   ]
 }

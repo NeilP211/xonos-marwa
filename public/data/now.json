@@ -1,16 +1,14 @@
 {
-  "updated_at": "2026-10-26T12:26:39.712Z",
+  "updated_at": "2026-10-26T20:20:17.025Z",
   "is_playing": false,
   "track": {
-    "name": "BbY WOW",
+    "name": "bigassbearman",
     "artists": [
-      "KAROL G",
-      "Judeline",
-      "rusowsky"
+      "ericdoa"
     ],
-    "album": "NO ME ARREPIENTO DE SENTIR TANTO",
-    "image": "https://i.scdn.co/image/ab67616d0000b27321deb742375f88edfb2e7368",
-    "uri": "spotify:track:3h5T5JypYU7huFiVYhv1dr"
+    "album": "DOA",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731c615ec4f5dd17806a802162",
+    "uri": "spotify:track:6L8C8fJ9ajR01ODnO5LHsB"
   },
-  "played_at": "2026-10-21T22:56:40.534Z"
+  "played_at": "2026-10-23T01:50:56.566Z"
 }
