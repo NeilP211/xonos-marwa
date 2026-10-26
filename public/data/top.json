@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T03:44:28.160Z",
+  "generated_at": "2026-10-26T12:26:39.545Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -696,7 +696,7 @@
         {
           "rank": 10,
           "name": "BANANA FISH",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
+          "image": null,
           "genres": [],
           "uri": "spotify:artist:6DNp21IM2bQYeoddj9smnB",
           "url": "https://open.spotify.com/artist/6DNp21IM2bQYeoddj9smnB"
