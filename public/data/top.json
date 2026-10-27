@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T20:20:16.785Z",
+  "generated_at": "2026-10-27T00:15:31.271Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -79,6 +79,18 @@
         },
         {
           "rank": 7,
+          "name": "極東の恋人",
+          "artists": [
+            "LAREINE"
+          ],
+          "album": "Winter Romantic",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735f94208beab6ffce4d49fc0f",
+          "uri": "spotify:track:3hBXG8J66iEOvhcQeK6DXP",
+          "url": "https://open.spotify.com/track/3hBXG8J66iEOvhcQeK6DXP",
+          "duration_ms": 339546
+        },
+        {
+          "rank": 8,
           "name": "BbY WOW",
           "artists": [
             "KAROL G",
@@ -92,7 +104,7 @@
           "duration_ms": 225834
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Emergency Contact",
           "artists": [
             "Pierce The Veil"
@@ -104,7 +116,7 @@
           "duration_ms": 240000
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Even When I’m Not With You",
           "artists": [
             "Pierce The Veil"
@@ -116,7 +128,7 @@
           "duration_ms": 174146
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Pourriture noble",
           "artists": [
             "Kaya"
@@ -128,7 +140,7 @@
           "duration_ms": 292031
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Deseándote",
           "artists": [
             "Frankie Ruiz"
@@ -140,7 +152,7 @@
           "duration_ms": 281333
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "12 Fractures",
           "artists": [
             "Pierce The Veil",
@@ -153,7 +165,7 @@
           "duration_ms": 181600
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Flawless Execution",
           "artists": [
             "Pierce The Veil"
@@ -165,7 +177,7 @@
           "duration_ms": 240053
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "The Jaws Of Life",
           "artists": [
             "Pierce The Veil"
@@ -177,7 +189,7 @@
           "duration_ms": 222666
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Pass The Nirvana",
           "artists": [
             "Pierce The Veil"
@@ -187,18 +199,6 @@
           "uri": "spotify:track:7I93h9I0RUqt1ci3Bfa290",
           "url": "https://open.spotify.com/track/7I93h9I0RUqt1ci3Bfa290",
           "duration_ms": 197373
-        },
-        {
-          "rank": 16,
-          "name": "極東の恋人",
-          "artists": [
-            "LAREINE"
-          ],
-          "album": "Winter Romantic",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735f94208beab6ffce4d49fc0f",
-          "uri": "spotify:track:3hBXG8J66iEOvhcQeK6DXP",
-          "url": "https://open.spotify.com/track/3hBXG8J66iEOvhcQeK6DXP",
-          "duration_ms": 339546
         },
         {
           "rank": 17,
@@ -238,18 +238,6 @@
         },
         {
           "rank": 20,
-          "name": "Kiss Me Now",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
-          "uri": "spotify:track:6yT9iNKt8fQoYpQkbWc7YR",
-          "url": "https://open.spotify.com/track/6yT9iNKt8fQoYpQkbWc7YR",
-          "duration_ms": 256268
-        },
-        {
-          "rank": 21,
           "name": "Stairs",
           "artists": [
             "Design19"
@@ -261,7 +249,7 @@
           "duration_ms": 236560
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Perverted Martyr",
           "artists": [
             "Femme Fatale"
@@ -273,7 +261,7 @@
           "duration_ms": 232128
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Falling Away from Me",
           "artists": [
             "Korn"
@@ -285,7 +273,7 @@
           "duration_ms": 270920
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Change (In the House of Flies)",
           "artists": [
             "Deftones"
@@ -297,7 +285,7 @@
           "duration_ms": 299533
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Helena",
           "artists": [
             "My Chemical Romance"
@@ -307,6 +295,18 @@
           "uri": "spotify:track:5dTHtzHFPyi8TlTtzoz1J9",
           "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9",
           "duration_ms": 204733
+        },
+        {
+          "rank": 25,
+          "name": "Kiss Me Now",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
+          "uri": "spotify:track:6yT9iNKt8fQoYpQkbWc7YR",
+          "url": "https://open.spotify.com/track/6yT9iNKt8fQoYpQkbWc7YR",
+          "duration_ms": 256268
         },
         {
           "rank": 26,
@@ -499,6 +499,18 @@
         },
         {
           "rank": 41,
+          "name": "Mizerable",
+          "artists": [
+            "GACKT"
+          ],
+          "album": "Mizerable",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732119a8e012fb7acfa4668be2",
+          "uri": "spotify:track:75Frd3MMVwG2j3eMBdZVvl",
+          "url": "https://open.spotify.com/track/75Frd3MMVwG2j3eMBdZVvl",
+          "duration_ms": 296266
+        },
+        {
+          "rank": 42,
           "name": "Prayers / Triangles",
           "artists": [
             "Deftones"
@@ -510,7 +522,7 @@
           "duration_ms": 217920
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Demolition Lovers",
           "artists": [
             "My Chemical Romance"
@@ -522,7 +534,7 @@
           "duration_ms": 366560
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "I Have No Idea What I'm Doing",
           "artists": [
             "The Blindfolded Seamonkeys"
@@ -534,7 +546,7 @@
           "duration_ms": 196213
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "The Ghost of You",
           "artists": [
             "My Chemical Romance"
@@ -546,7 +558,7 @@
           "duration_ms": 194253
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Snuff",
           "artists": [
             "Slipknot"
@@ -558,7 +570,7 @@
           "duration_ms": 276146
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Morado",
           "artists": [
             "J Balvin"
@@ -570,7 +582,7 @@
           "duration_ms": 200266
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Little Dipper",
           "artists": [
             "Hum"
@@ -582,7 +594,7 @@
           "duration_ms": 283866
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Silver Plate",
           "artists": [
             "Design19"
@@ -594,7 +606,7 @@
           "duration_ms": 198800
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Pyro-Foam",
           "artists": [
             "Design19"
@@ -604,18 +616,6 @@
           "uri": "spotify:track:3n9HqiId0xJOCFlOZDMXkb",
           "url": "https://open.spotify.com/track/3n9HqiId0xJOCFlOZDMXkb",
           "duration_ms": 217533
-        },
-        {
-          "rank": 50,
-          "name": "Lion In My Backyard",
-          "artists": [
-            "The Blindfolded Seamonkeys"
-          ],
-          "album": "Lion In My Backyard",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ec4e7aae933dcf1e81b7e5a9",
-          "uri": "spotify:track:3zPIZ81WpL8UH7MVYWr8jH",
-          "url": "https://open.spotify.com/track/3zPIZ81WpL8UH7MVYWr8jH",
-          "duration_ms": 264600
         }
       ],
       "artists": [
@@ -733,6 +733,14 @@
         },
         {
           "rank": 15,
+          "name": "gulu gulu",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb7e863631369aaddd8f72efea",
+          "genres": [],
+          "uri": "spotify:artist:7IS31MnxPnYaDKlFRZ3pdt",
+          "url": "https://open.spotify.com/artist/7IS31MnxPnYaDKlFRZ3pdt"
+        },
+        {
+          "rank": 16,
           "name": "Loathe",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
           "genres": [],
@@ -740,7 +748,7 @@
           "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Kaya",
           "image": "https://i.scdn.co/image/ab67616d0000b273f25a166ed7ebcd049581f03e",
           "genres": [],
@@ -748,7 +756,7 @@
           "url": "https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "KAMIJO",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd619816883817163caae41c6",
           "genres": [],
