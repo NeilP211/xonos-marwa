@@ -1,131 +1,6 @@
 {
-  "updated_at": "2026-10-27T00:15:31.445Z",
+  "updated_at": "2026-10-27T08:43:58.530Z",
   "plays": [
-    {
-      "played_at": "2026-06-29T13:56:36.931Z",
-      "name": "Hold On Till May",
-      "artists": [
-        "Pierce The Veil",
-        "Lindsey Stamey"
-      ],
-      "album": "Collide With The Sky",
-      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-      "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
-      "duration_ms": 278586
-    },
-    {
-      "played_at": "2026-06-29T14:07:34.408Z",
-      "name": "You're All I Want",
-      "artists": [
-        "Cigarettes After Sex"
-      ],
-      "album": "You're All I Want",
-      "image": "https://i.scdn.co/image/ab67616d0000b273963454e08e5e9def7e8cd204",
-      "uri": "spotify:track:2cTvZSCqzjkTMkIypLxUFH",
-      "duration_ms": 264453
-    },
-    {
-      "played_at": "2026-06-29T14:12:58.168Z",
-      "name": "Resilience",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
-      "duration_ms": 220360
-    },
-    {
-      "played_at": "2026-06-29T14:17:00.014Z",
-      "name": "Sextape",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Diamond Eyes",
-      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
-      "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
-      "duration_ms": 241533
-    },
-    {
-      "played_at": "2026-06-29T14:21:59.949Z",
-      "name": "Change (In the House of Flies)",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "White Pony",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
-      "uri": "spotify:track:51c94ac31swyDQj9B3Lzs3",
-      "duration_ms": 299533
-    },
-    {
-      "played_at": "2026-06-29T14:27:05.611Z",
-      "name": "Nunca Más",
-      "artists": [
-        "La Isla Centeno"
-      ],
-      "album": "Canciones Para El Volcán",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739540a18191d908bf060065d0",
-      "uri": "spotify:track:5eiZ4TFyBsLOpPzBgR4oG5",
-      "duration_ms": 229214
-    },
-    {
-      "played_at": "2026-06-29T14:31:21.267Z",
-      "name": "El Final Que Nunca Fue",
-      "artists": [
-        "La Isla Centeno"
-      ],
-      "album": "Medianoche",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e1555524026379924f950859",
-      "uri": "spotify:track:5lZuMJ8Y8l8HGyHireXHGV",
-      "duration_ms": 254500
-    },
-    {
-      "played_at": "2026-06-29T14:32:13.324Z",
-      "name": "Quisiera Enamorarme",
-      "artists": [
-        "Me Dicen Jos",
-        "Julia Amoroso"
-      ],
-      "album": "Quisiera Enamorarme",
-      "image": "https://i.scdn.co/image/ab67616d0000b273acfb8111795a1ea518158b9e",
-      "uri": "spotify:track:3ZhfWEFlqebiUEcc3YbR7D",
-      "duration_ms": 186200
-    },
-    {
-      "played_at": "2026-06-29T14:34:46.125Z",
-      "name": "Quisiera Enamorarme",
-      "artists": [
-        "Me Dicen Jos",
-        "Julia Amoroso"
-      ],
-      "album": "Quisiera Enamorarme",
-      "image": "https://i.scdn.co/image/ab67616d0000b273acfb8111795a1ea518158b9e",
-      "uri": "spotify:track:3ZhfWEFlqebiUEcc3YbR7D",
-      "duration_ms": 186200
-    },
-    {
-      "played_at": "2026-06-29T14:45:46.167Z",
-      "name": "Alguien Como Tú",
-      "artists": [
-        "La Isla Centeno"
-      ],
-      "album": "Canciones Para El Volcán",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739540a18191d908bf060065d0",
-      "uri": "spotify:track:0158cDde2tONXGhWmTqSMI",
-      "duration_ms": 237978
-    },
-    {
-      "played_at": "2026-06-29T14:49:32.254Z",
-      "name": "Chica de Verde",
-      "artists": [
-        "Bruno Romano",
-        "Elisa González"
-      ],
-      "album": "Chica de Verde",
-      "image": "https://i.scdn.co/image/ab67616d0000b273da9eccf72a3e9d55e41db1f4",
-      "uri": "spotify:track:6ZxsJwY5QgN6R0mRBYWrHf",
-      "duration_ms": 225694
-    },
     {
       "played_at": "2026-06-29T14:54:26.176Z",
       "name": "Flor De Michoacán",
@@ -22526,6 +22401,128 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732119a8e012fb7acfa4668be2",
       "uri": "spotify:track:75Frd3MMVwG2j3eMBdZVvl",
       "duration_ms": 296266
+    },
+    {
+      "played_at": "2026-10-27T04:07:30.878Z",
+      "name": "Death Of An Executioner",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
+      "duration_ms": 267800
+    },
+    {
+      "played_at": "2026-10-27T04:19:45.754Z",
+      "name": "Oyasumi.",
+      "artists": [
+        "gulu gulu"
+      ],
+      "album": "Gulu Gulu Ryuushutsu Ongen Shuu (Living Dead Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cd357d35696d27096cbfef84",
+      "uri": "spotify:track:0I7SycHSHC43o4ceBeGYpN",
+      "duration_ms": 194720
+    },
+    {
+      "played_at": "2026-10-27T04:55:42.700Z",
+      "name": "\"Seppun\"",
+      "artists": [
+        "Fukuro"
+      ],
+      "album": "\"Adult Children\"",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fc88d9b87d9c76f197f8d284",
+      "uri": "spotify:track:40ISWir8YdPeY7fQGIRYa7",
+      "duration_ms": 275369
+    },
+    {
+      "played_at": "2026-10-27T05:00:30.840Z",
+      "name": "Is It Really You?",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "I Let It in and It Took Everything",
+      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+      "uri": "spotify:track:4OmlsAT8r4q9vPFBvfYgyZ",
+      "duration_ms": 287627
+    },
+    {
+      "played_at": "2026-10-27T05:06:49.481Z",
+      "name": "Aslan",
+      "artists": [
+        "Shinichi Osawa Works"
+      ],
+      "album": "BANANA FISH Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
+      "uri": "spotify:track:5WGIUhbFS6UzpCXpuvDu4Q",
+      "duration_ms": 224840
+    },
+    {
+      "played_at": "2026-10-27T05:09:10.194Z",
+      "name": "Him and Hym",
+      "artists": [
+        "Shinichi Osawa Works"
+      ],
+      "album": "BANANA FISH Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
+      "uri": "spotify:track:4wEoijvnHdqavxmSPkiXcv",
+      "duration_ms": 140200
+    },
+    {
+      "played_at": "2026-10-27T05:13:35.025Z",
+      "name": "Red Swan",
+      "artists": [
+        "YOSHIKI",
+        "HYDE"
+      ],
+      "album": "Red Swan",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
+      "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX",
+      "duration_ms": 263720
+    },
+    {
+      "played_at": "2026-10-27T05:17:33.255Z",
+      "name": "The Rumbling",
+      "artists": [
+        "SiM"
+      ],
+      "album": "The Rumbling",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733505d6bd1a83f04a2513a114",
+      "uri": "spotify:track:6k0X05danQOXSBTVek5DU1",
+      "duration_ms": 220799
+    },
+    {
+      "played_at": "2026-10-27T05:22:12.319Z",
+      "name": "Boku no Sensou",
+      "artists": [
+        "Shinsei Kamattechan"
+      ],
+      "album": "Boku no Sensou",
+      "image": "https://i.scdn.co/image/ab67616d0000b273953495ccff3d6488674ac770",
+      "uri": "spotify:track:3KhwEuqLNjHfsKaBDo1yVh",
+      "duration_ms": 280466
+    },
+    {
+      "played_at": "2026-10-27T06:50:16.301Z",
+      "name": "Aslan",
+      "artists": [
+        "Shinichi Osawa Works"
+      ],
+      "album": "BANANA FISH Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
+      "uri": "spotify:track:5WGIUhbFS6UzpCXpuvDu4Q",
+      "duration_ms": 224840
+    },
+    {
+      "played_at": "2026-10-27T06:52:40.700Z",
+      "name": "bigassbearman",
+      "artists": [
+        "ericdoa"
+      ],
+      "album": "DOA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c615ec4f5dd17806a802162",
+      "uri": "spotify:track:6L8C8fJ9ajR01ODnO5LHsB",
+      "duration_ms": 149468
     }
   ]
 }
