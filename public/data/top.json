@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T15:10:50.430Z",
+  "generated_at": "2026-10-27T21:54:29.279Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -677,19 +677,19 @@
         },
         {
           "rank": 8,
-          "name": "Shinichi Osawa Works",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
-          "genres": [],
-          "uri": "spotify:artist:4d3dSSG92Bywc1qwtKVOrb",
-          "url": "https://open.spotify.com/artist/4d3dSSG92Bywc1qwtKVOrb"
-        },
-        {
-          "rank": 9,
           "name": "Cigarettes After Sex",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
           "genres": [],
           "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        },
+        {
+          "rank": 9,
+          "name": "Shinichi Osawa Works",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
+          "genres": [],
+          "uri": "spotify:artist:4d3dSSG92Bywc1qwtKVOrb",
+          "url": "https://open.spotify.com/artist/4d3dSSG92Bywc1qwtKVOrb"
         },
         {
           "rank": 10,
@@ -1889,6 +1889,19 @@
         },
         {
           "rank": 9,
+          "name": "Red Swan",
+          "artists": [
+            "YOSHIKI",
+            "HYDE"
+          ],
+          "album": "Red Swan",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
+          "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX",
+          "url": "https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX",
+          "duration_ms": 263720
+        },
+        {
+          "rank": 10,
           "name": "月下（《白月梵星》影视剧插曲）",
           "artists": [
             "不才"
@@ -1900,7 +1913,7 @@
           "duration_ms": 230640
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "12 Fractures",
           "artists": [
             "Pierce The Veil",
@@ -1913,7 +1926,7 @@
           "duration_ms": 181600
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "وماله",
           "artists": [
             "Amr Diab"
@@ -1925,7 +1938,7 @@
           "duration_ms": 288313
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Shared Trauma",
           "artists": [
             "Pierce The Veil"
@@ -1937,7 +1950,7 @@
           "duration_ms": 253000
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Soft Spot",
           "artists": [
             "keshi"
@@ -1949,7 +1962,7 @@
           "duration_ms": 204223
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Virgen",
           "artists": [
             "Adolescent's Orquesta"
@@ -1961,7 +1974,7 @@
           "duration_ms": 273763
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Uzunlar - V1",
           "artists": [
             "Evdeki Saat"
@@ -1973,7 +1986,7 @@
           "duration_ms": 282352
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Ay No Puedo",
           "artists": [
             "The Marías"
@@ -1985,7 +1998,7 @@
           "duration_ms": 181546
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Chica de Verde",
           "artists": [
             "Bruno Romano",
@@ -1996,19 +2009,6 @@
           "uri": "spotify:track:7reVHXZzcuWJ4hKJIqVnva",
           "url": "https://open.spotify.com/track/7reVHXZzcuWJ4hKJIqVnva",
           "duration_ms": 225694
-        },
-        {
-          "rank": 18,
-          "name": "Red Swan",
-          "artists": [
-            "YOSHIKI",
-            "HYDE"
-          ],
-          "album": "Red Swan",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
-          "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX",
-          "url": "https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX",
-          "duration_ms": 263720
         },
         {
           "rank": 19,
@@ -2225,18 +2225,6 @@
         },
         {
           "rank": 36,
-          "name": "M.",
-          "artists": [
-            "Anıl Emre Daldal"
-          ],
-          "album": "M.",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d7ddae05b16e763bc82b69a5",
-          "uri": "spotify:track:6wfb4nI2Vih263JqC8WSoW",
-          "url": "https://open.spotify.com/track/6wfb4nI2Vih263JqC8WSoW",
-          "duration_ms": 223750
-        },
-        {
-          "rank": 37,
           "name": "Ana Mosh Anani",
           "artists": [
             "Amr Diab"
@@ -2248,7 +2236,7 @@
           "duration_ms": 289959
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Reggaeton",
           "artists": [
             "J Balvin"
@@ -2260,7 +2248,7 @@
           "duration_ms": 158800
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "Ice On My Teeth",
           "artists": [
             "ATEEZ"
@@ -2272,7 +2260,7 @@
           "duration_ms": 183494
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "Beso",
           "artists": [
             "Jósean Log"
@@ -2284,7 +2272,7 @@
           "duration_ms": 211021
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "Sustum",
           "artists": [
             "Evdeki Saat"
@@ -2294,6 +2282,18 @@
           "uri": "spotify:track:23zRxgamz0Ur4mFDhvOmlb",
           "url": "https://open.spotify.com/track/23zRxgamz0Ur4mFDhvOmlb",
           "duration_ms": 212250
+        },
+        {
+          "rank": 41,
+          "name": "M.",
+          "artists": [
+            "Anıl Emre Daldal"
+          ],
+          "album": "M.",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d7ddae05b16e763bc82b69a5",
+          "uri": "spotify:track:6wfb4nI2Vih263JqC8WSoW",
+          "url": "https://open.spotify.com/track/6wfb4nI2Vih263JqC8WSoW",
+          "duration_ms": 223750
         },
         {
           "rank": 42,
@@ -2456,6 +2456,14 @@
         },
         {
           "rank": 7,
+          "name": "Rauw Alejandro",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6d72db3fd29576caa9cb821f",
+          "genres": [],
+          "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "rank": 8,
           "name": "KAROL G",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3869e286c9043f85e8e4bc06",
           "genres": [],
@@ -2463,20 +2471,12 @@
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Kali Uchis",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdeac5367816c7ab1f607e89a",
           "genres": [],
           "uri": "spotify:artist:1U1el3k54VvEUzo3ybLPlM",
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "rank": 9,
-          "name": "Rauw Alejandro",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6d72db3fd29576caa9cb821f",
-          "genres": [],
-          "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
           "rank": 10,
@@ -2504,6 +2504,14 @@
         },
         {
           "rank": 13,
+          "name": "Cigarettes After Sex",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
+          "genres": [],
+          "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        },
+        {
+          "rank": 14,
           "name": "Sherine",
           "image": "https://i.scdn.co/image/ab6761610000e5eb743cd86cefbd410e57a804c5",
           "genres": [],
@@ -2511,20 +2519,12 @@
           "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Lana Del Rey",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
           "genres": [],
           "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa",
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "rank": 15,
-          "name": "Cigarettes After Sex",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
-          "genres": [],
-          "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
         {
           "rank": 16,
@@ -2592,14 +2592,6 @@
         },
         {
           "rank": 24,
-          "name": "Romeo Santos",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
-          "genres": [],
-          "uri": "spotify:artist:5lwmRuXgjX8xIwlnauTZIP",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "rank": 25,
           "name": "ATEEZ",
           "image": "https://i.scdn.co/image/ab6761610000e5eb630859e6682cfa878243bacc",
           "genres": [],
@@ -2607,12 +2599,20 @@
           "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
           "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        },
+        {
+          "rank": 26,
+          "name": "Romeo Santos",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
+          "genres": [],
+          "uri": "spotify:artist:5lwmRuXgjX8xIwlnauTZIP",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         },
         {
           "rank": 27,

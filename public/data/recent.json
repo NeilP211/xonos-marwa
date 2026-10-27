@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-27T15:10:50.640Z",
+  "updated_at": "2026-10-27T21:54:29.403Z",
   "plays": [
-    {
-      "played_at": "2026-06-29T16:22:25.499Z",
-      "name": "Death Of An Executioner",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-      "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
-      "duration_ms": 267800
-    },
     {
       "played_at": "2026-06-29T16:26:50.607Z",
       "name": "a kind thing to do (feat. Vic Fuentes)",
@@ -22523,6 +22512,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
       "uri": "spotify:track:4xbN7giFhdGbSQTPyG178F",
       "duration_ms": 258013
+    },
+    {
+      "played_at": "2026-10-27T15:18:06.278Z",
+      "name": "Sesame Syrup",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Crush",
+      "image": "https://i.scdn.co/image/ab67616d0000b27364f71083789a20353e05b1eb",
+      "uri": "spotify:track:6GcZ4pdtZgbf2ptgHG31bq",
+      "duration_ms": 303296
     }
   ]
 }

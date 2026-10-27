@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-27T15:10:50.740Z",
+  "updated_at": "2026-10-27T21:54:29.451Z",
   "is_playing": false,
   "track": {
-    "name": "John Wayne",
+    "name": "Sesame Syrup",
     "artists": [
       "Cigarettes After Sex"
     ],
-    "album": "Cigarettes After Sex",
-    "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
-    "uri": "spotify:track:4xbN7giFhdGbSQTPyG178F"
+    "album": "Crush",
+    "image": "https://i.scdn.co/image/ab67616d0000b27364f71083789a20353e05b1eb",
+    "uri": "spotify:track:6GcZ4pdtZgbf2ptgHG31bq"
   },
-  "played_at": "2026-10-27T14:38:36.119Z"
+  "played_at": "2026-10-27T15:18:06.278Z"
 }
