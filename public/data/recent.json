@@ -1,150 +1,6 @@
 {
-  "updated_at": "2026-10-27T08:43:58.530Z",
+  "updated_at": "2026-10-27T15:10:50.640Z",
   "plays": [
-    {
-      "played_at": "2026-06-29T14:54:26.176Z",
-      "name": "Flor De Michoacán",
-      "artists": [
-        "Menny Flores"
-      ],
-      "album": "Flor De Michoacán",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
-      "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3",
-      "duration_ms": 193853
-    },
-    {
-      "played_at": "2026-06-29T15:04:51.397Z",
-      "name": "Después de ti",
-      "artists": [
-        "KAROL G",
-        "Greg Gonzalez"
-      ],
-      "album": "Después de ti",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bd735e1302f8073b253cc71a",
-      "uri": "spotify:track:6PbhFQkpQjoojWo2b6Ghoi",
-      "duration_ms": 275898
-    },
-    {
-      "played_at": "2026-06-29T15:09:11.527Z",
-      "name": "Cuenta Hasta 3",
-      "artists": [
-        "Menny Flores"
-      ],
-      "album": "Flor De Michoacán",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
-      "uri": "spotify:track:2qKqoHAp40cd2AhOnHCtWF",
-      "duration_ms": 172000
-    },
-    {
-      "played_at": "2026-06-29T15:13:12.358Z",
-      "name": "Descifrar",
-      "artists": [
-        "maye"
-      ],
-      "album": "Descifrar",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
-      "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
-      "duration_ms": 178700
-    },
-    {
-      "played_at": "2026-06-29T15:20:09.110Z",
-      "name": "انا مش اناني",
-      "artists": [
-        "Amr Diab"
-      ],
-      "album": "شفت الايام",
-      "image": "https://i.scdn.co/image/ab67616d0000b273dbdd04ce70d11be66a2b4963",
-      "uri": "spotify:track:4gY4H2HNss9fWlILOEifzr",
-      "duration_ms": 289959
-    },
-    {
-      "played_at": "2026-06-29T15:26:08.528Z",
-      "name": "Tamally Maak",
-      "artists": [
-        "Amr Diab"
-      ],
-      "album": "Tamally Maak",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-      "uri": "spotify:track:6TYFcqqQVQPb3YsgfRhvqs",
-      "duration_ms": 269232
-    },
-    {
-      "played_at": "2026-06-29T15:32:36.970Z",
-      "name": "Mesh Am Betrouhi Min Bali",
-      "artists": [
-        "Marwan Khoury"
-      ],
-      "album": "El Aad Al Aaksy",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735b5356c58939f98986e72ee8",
-      "uri": "spotify:track:4EEjYOLaUZRPiCgssb1YLa",
-      "duration_ms": 257541
-    },
-    {
-      "played_at": "2026-06-29T15:35:34.512Z",
-      "name": "الليلادي",
-      "artists": [
-        "Amr Diab"
-      ],
-      "album": "الليلادي",
-      "image": "https://i.scdn.co/image/ab67616d0000b27373b72d2ce3d19fa428595c2c",
-      "uri": "spotify:track:2gb49TkAX2nDgFDIZ3y3BW",
-      "duration_ms": 176640
-    },
-    {
-      "played_at": "2026-06-29T15:41:52.901Z",
-      "name": "وماله",
-      "artists": [
-        "Amr Diab"
-      ],
-      "album": "كمل كلامك",
-      "image": "https://i.scdn.co/image/ab67616d0000b273027b0429b1d6ae7aa630f865",
-      "uri": "spotify:track:7z1OHWVyKvynHMiIGHVLon",
-      "duration_ms": 288313
-    },
-    {
-      "played_at": "2026-06-29T15:47:10.932Z",
-      "name": "Heseeny",
-      "artists": [
-        "TUL8TE"
-      ],
-      "album": "Narein",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732e50096092c24bd9acb0749d",
-      "uri": "spotify:track:6AOmVuYPC8WJN0hzZ1ODIj",
-      "duration_ms": 213838
-    },
-    {
-      "played_at": "2026-06-29T15:52:03.365Z",
-      "name": "Yally Zaalan",
-      "artists": [
-        "Mohamed Hamaki"
-      ],
-      "album": "Omroh Ma Yeghib",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733bbba5c0407a0522f97e07dd",
-      "uri": "spotify:track:1gJfRu9I7hadI70g3YEyt8",
-      "duration_ms": 292440
-    },
-    {
-      "played_at": "2026-06-29T15:58:09.976Z",
-      "name": "كلام عينيه",
-      "artists": [
-        "Sherine"
-      ],
-      "album": "نساى",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
-      "uri": "spotify:track:6g95dK7o7vVh8ZCnDAseU5",
-      "duration_ms": 235833
-    },
-    {
-      "played_at": "2026-06-29T16:16:57.290Z",
-      "name": "Awseflak Eh",
-      "artists": [
-        "Ragheb Alama"
-      ],
-      "album": "Ragheb Alama (Greatest Hits)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a91bd0e51c49398efdbbc980",
-      "uri": "spotify:track:3oJGAoJVJlC22adeGpoKqR",
-      "duration_ms": 275200
-    },
     {
       "played_at": "2026-06-29T16:22:25.499Z",
       "name": "Death Of An Executioner",
@@ -22523,6 +22379,150 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731c615ec4f5dd17806a802162",
       "uri": "spotify:track:6L8C8fJ9ajR01ODnO5LHsB",
       "duration_ms": 149468
+    },
+    {
+      "played_at": "2026-10-27T13:09:24.799Z",
+      "name": "美しい日々の欠片",
+      "artists": [
+        "KAMIJO"
+      ],
+      "album": "美しい日々の欠片",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358539e9b0baea1f6d012373d",
+      "uri": "spotify:track:4sPFNZAp3bDCFL3BTrGmKb",
+      "duration_ms": 360415
+    },
+    {
+      "played_at": "2026-10-27T13:14:40.100Z",
+      "name": "Affection",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Affection",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735fb77915b586180b3b41ccbb",
+      "uri": "spotify:track:769vrAYHcuLwOV0at2hiOf",
+      "duration_ms": 311000
+    },
+    {
+      "played_at": "2026-10-27T13:18:01.078Z",
+      "name": "Starry Eyes",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "I.",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f20d15ff288e94492f7097eb",
+      "uri": "spotify:track:68Hj6boN4Yo2l7RZBnSpW0",
+      "duration_ms": 206000
+    },
+    {
+      "played_at": "2026-10-27T13:21:42.091Z",
+      "name": "Neon Moon",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Neon Moon",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735251efd34e7ec688cab4bd2c",
+      "uri": "spotify:track:5r7QVaDpYeWMcbxxrkqb6H",
+      "duration_ms": 225767
+    },
+    {
+      "played_at": "2026-10-27T13:25:54.222Z",
+      "name": "Falling In Love",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cry",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
+      "uri": "spotify:track:3g7ngtg7xK3N9nKwAjDfH3",
+      "duration_ms": 245840
+    },
+    {
+      "played_at": "2026-10-27T13:25:55.137Z",
+      "name": "Pistol",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Pistol",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be7f9e6feff2e51ae547f942",
+      "uri": "spotify:track:36pMQRacz9p99OevARrvVs",
+      "duration_ms": 234174
+    },
+    {
+      "played_at": "2026-10-27T13:44:58.309Z",
+      "name": "Ain't Nobody Else Like You",
+      "artists": [
+        "Cass Elliot"
+      ],
+      "album": "Mama's Big Ones",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731441866921b337b26dd53cff",
+      "uri": "spotify:track:7l5BTHQXkTQxZjc9HyoN3h",
+      "duration_ms": 144160
+    },
+    {
+      "played_at": "2026-10-27T13:52:10.692Z",
+      "name": "Cowboys and Angels - Remastered",
+      "artists": [
+        "George Michael"
+      ],
+      "album": "Listen Without Prejudice Vol. 1 (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fcfe16b59dd398fe8b79e0a8",
+      "uri": "spotify:track:1TDzHrMyt99Ey8IB72i7u9",
+      "duration_ms": 434733
+    },
+    {
+      "played_at": "2026-10-27T13:59:34.034Z",
+      "name": "I Love You Secretly",
+      "artists": [
+        "The Miracles",
+        "Marvin Gaye"
+      ],
+      "album": "Renaissance",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325db2cb0cf498403a9e09fc0",
+      "uri": "spotify:track:2ykNJxkcqdKFl2qJyaRUVr",
+      "duration_ms": 264240
+    },
+    {
+      "played_at": "2026-10-27T14:02:50.716Z",
+      "name": "What More Can I Say",
+      "artists": [
+        "The Notations"
+      ],
+      "album": "Still Here: 1967-1973",
+      "image": "https://i.scdn.co/image/ab67616d0000b27384aa41ae4889e16ad3c3bff7",
+      "uri": "spotify:track:1PHPODXYdkxmU9nkrqLd8y",
+      "duration_ms": 200506
+    },
+    {
+      "played_at": "2026-10-27T14:29:51.492Z",
+      "name": "Stop Waiting",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Bubblegum",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f00e7eae8e4ed688e17fc118",
+      "uri": "spotify:track:5ZP8LfM7TezqoxF9yp6VzX",
+      "duration_ms": 362973
+    },
+    {
+      "played_at": "2026-10-27T14:34:23.119Z",
+      "name": "Hideaway",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "X's",
+      "image": "https://i.scdn.co/image/ab67616d0000b273967004d2f641e38309a0b547",
+      "uri": "spotify:track:0FxhxzAZGcUc9YTAdlaTQo",
+      "duration_ms": 276640
+    },
+    {
+      "played_at": "2026-10-27T14:38:36.119Z",
+      "name": "John Wayne",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cigarettes After Sex",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+      "uri": "spotify:track:4xbN7giFhdGbSQTPyG178F",
+      "duration_ms": 258013
     }
   ]
 }

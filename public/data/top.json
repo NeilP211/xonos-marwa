@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T08:43:58.372Z",
+  "generated_at": "2026-10-27T15:10:50.430Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -685,6 +685,14 @@
         },
         {
           "rank": 9,
+          "name": "Cigarettes After Sex",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
+          "genres": [],
+          "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        },
+        {
+          "rank": 10,
           "name": "VIOLENT VIRA",
           "image": "https://i.scdn.co/image/ab6761610000e5eb14c07bcb4da9499543d1031d",
           "genres": [],
@@ -692,7 +700,7 @@
           "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Luis Miguel",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6481401e529e475116702a29",
           "genres": [],
@@ -700,7 +708,7 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "LAREINE",
           "image": "https://i.scdn.co/image/ab67616d0000b2731bf4be602ae37d924bba5f4c",
           "genres": [],
@@ -708,7 +716,7 @@
           "url": "https://open.spotify.com/artist/2w3S57NmAGnZwqC1ATXxDP"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "J Balvin",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0405b03342c2e56751b9923d",
           "genres": [],
@@ -716,7 +724,7 @@
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "RØZ",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc0de2d8306a376f544dd8c8a",
           "genres": [],
@@ -724,7 +732,7 @@
           "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Feid",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e529f4ad13f86c69962cb12",
           "genres": [],
@@ -732,7 +740,7 @@
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "gulu gulu",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e863631369aaddd8f72efea",
           "genres": [],
@@ -740,7 +748,7 @@
           "url": "https://open.spotify.com/artist/7IS31MnxPnYaDKlFRZ3pdt"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Loathe",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
           "genres": [],
@@ -748,7 +756,7 @@
           "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Kaya",
           "image": "https://i.scdn.co/image/ab67616d0000b273f25a166ed7ebcd049581f03e",
           "genres": [],
@@ -756,7 +764,7 @@
           "url": "https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "KAMIJO",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd619816883817163caae41c6",
           "genres": [],
@@ -905,6 +913,19 @@
         },
         {
           "rank": 12,
+          "name": "Red Swan",
+          "artists": [
+            "YOSHIKI",
+            "HYDE"
+          ],
+          "album": "Red Swan",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
+          "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX",
+          "url": "https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX",
+          "duration_ms": 263720
+        },
+        {
+          "rank": 13,
           "name": "So Far So Fake",
           "artists": [
             "Pierce The Veil"
@@ -916,7 +937,7 @@
           "duration_ms": 236160
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Let Love Bleed Red",
           "artists": [
             "Sleeping With Sirens"
@@ -926,19 +947,6 @@
           "uri": "spotify:track:1v8RDUkhH5wR9IBrC6Hroy",
           "url": "https://open.spotify.com/track/1v8RDUkhH5wR9IBrC6Hroy",
           "duration_ms": 222493
-        },
-        {
-          "rank": 14,
-          "name": "Red Swan",
-          "artists": [
-            "YOSHIKI",
-            "HYDE"
-          ],
-          "album": "Red Swan",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
-          "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX",
-          "url": "https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX",
-          "duration_ms": 263720
         },
         {
           "rank": 15,
@@ -954,6 +962,18 @@
         },
         {
           "rank": 16,
+          "name": "Death Of An Executioner",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
+          "url": "https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp",
+          "duration_ms": 267800
+        },
+        {
+          "rank": 17,
           "name": "Descifrar",
           "artists": [
             "maye"
@@ -965,7 +985,7 @@
           "duration_ms": 178700
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Props & Mayhem",
           "artists": [
             "Pierce The Veil"
@@ -975,18 +995,6 @@
           "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO",
           "url": "https://open.spotify.com/track/2SYMnBpx7zyhSDPQwoOlFO",
           "duration_ms": 217853
-        },
-        {
-          "rank": 18,
-          "name": "Death Of An Executioner",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
-          "url": "https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp",
-          "duration_ms": 267800
         },
         {
           "rank": 19,
@@ -1235,10 +1243,10 @@
           "rank": 39,
           "name": "흩어진나날들",
           "artists": [
-            "강수지"
+            "Kang Soo Jee"
           ],
-          "album": "강수지2집",
-          "image": "https://i.scdn.co/image/ab67616d0000b27336baac318c4aac27ed3a54ea",
+          "album": "흩어진 나날들",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735488c9c000bed54fcf0287ba",
           "uri": "spotify:track:3IuA2jGGOgZCGwQBiLhRuP",
           "url": "https://open.spotify.com/track/3IuA2jGGOgZCGwQBiLhRuP",
           "duration_ms": 262126
@@ -1460,6 +1468,14 @@
         },
         {
           "rank": 11,
+          "name": "Cigarettes After Sex",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
+          "genres": [],
+          "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        },
+        {
+          "rank": 12,
           "name": "Joey V Mendez",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd6dc4f7cffa58ee9d73be6cf",
           "genres": [],
@@ -1467,7 +1483,7 @@
           "url": "https://open.spotify.com/artist/24yO6ycVuKPoSHHB4Q0m7P"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "VIOLENT VIRA",
           "image": "https://i.scdn.co/image/ab6761610000e5eb14c07bcb4da9499543d1031d",
           "genres": [],
@@ -1475,7 +1491,7 @@
           "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Feid",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e529f4ad13f86c69962cb12",
           "genres": [],
@@ -1483,7 +1499,7 @@
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Michael Jackson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb997cc9a4aec335d46c9481fd",
           "genres": [],
@@ -1491,7 +1507,7 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "J Balvin",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0405b03342c2e56751b9923d",
           "genres": [],
@@ -1499,7 +1515,7 @@
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "BTS",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf80ec63ea7a0ef0fba60957d",
           "genres": [],
@@ -1507,7 +1523,7 @@
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "The Marías",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
           "genres": [],
@@ -1515,7 +1531,7 @@
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Kali Uchis",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdeac5367816c7ab1f607e89a",
           "genres": [],
@@ -1523,7 +1539,7 @@
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Rawayana",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5d52d93053343dc60653bbde",
           "genres": [],
@@ -1531,7 +1547,7 @@
           "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "maye",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc44bdd7c78e751026c67857c",
           "genres": [],
@@ -1539,7 +1555,7 @@
           "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "wave to earth",
           "image": "https://i.scdn.co/image/ab6761610000e5eb11fa75d331351ecfc2e93faf",
           "genres": [],
@@ -1547,20 +1563,12 @@
           "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Sade",
           "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
           "genres": [],
           "uri": "spotify:artist:47zz7sob9NUcODy0BTDvKx",
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        },
-        {
-          "rank": 23,
-          "name": "Cigarettes After Sex",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
-          "genres": [],
-          "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
         {
           "rank": 24,
@@ -1772,11 +1780,11 @@
         },
         {
           "rank": 50,
-          "name": "Saint Levant",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebf30d9b352c41c2cff90117af",
+          "name": "Shinichi Osawa Works",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
           "genres": [],
-          "uri": "spotify:artist:5ZZsFnpO7frU8h5xH1wtjT",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+          "uri": "spotify:artist:4d3dSSG92Bywc1qwtKVOrb",
+          "url": "https://open.spotify.com/artist/4d3dSSG92Bywc1qwtKVOrb"
         }
       ]
     },
