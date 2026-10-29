@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T00:38:52.167Z",
+  "generated_at": "2026-10-29T09:32:01.967Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -17,18 +17,6 @@
         },
         {
           "rank": 2,
-          "name": "極東の恋人",
-          "artists": [
-            "LAREINE"
-          ],
-          "album": "Winter Romantic",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735f94208beab6ffce4d49fc0f",
-          "uri": "spotify:track:3hBXG8J66iEOvhcQeK6DXP",
-          "url": "https://open.spotify.com/track/3hBXG8J66iEOvhcQeK6DXP",
-          "duration_ms": 339546
-        },
-        {
-          "rank": 3,
           "name": "So Far So Fake",
           "artists": [
             "Pierce The Veil"
@@ -40,7 +28,44 @@
           "duration_ms": 236160
         },
         {
+          "rank": 3,
+          "name": "Shared Trauma",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
+          "url": "https://open.spotify.com/track/0ZHcRJMgSjQ3Gjf80ti943",
+          "duration_ms": 253000
+        },
+        {
           "rank": 4,
+          "name": "極東の恋人",
+          "artists": [
+            "LAREINE"
+          ],
+          "album": "Winter Romantic",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735f94208beab6ffce4d49fc0f",
+          "uri": "spotify:track:3hBXG8J66iEOvhcQeK6DXP",
+          "url": "https://open.spotify.com/track/3hBXG8J66iEOvhcQeK6DXP",
+          "duration_ms": 339546
+        },
+        {
+          "rank": 5,
+          "name": "12 Fractures",
+          "artists": [
+            "Pierce The Veil",
+            "chloe moriondo"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+          "url": "https://open.spotify.com/track/2R5SzmhzoaCkjDJcSaGrN3",
+          "duration_ms": 181600
+        },
+        {
+          "rank": 6,
           "name": "BbY WOW",
           "artists": [
             "KAROL G",
@@ -54,7 +79,7 @@
           "duration_ms": 225834
         },
         {
-          "rank": 5,
+          "rank": 7,
           "name": "Death Of An Executioner",
           "artists": [
             "Pierce The Veil"
@@ -66,7 +91,7 @@
           "duration_ms": 267800
         },
         {
-          "rank": 6,
+          "rank": 8,
           "name": "Emergency Contact",
           "artists": [
             "Pierce The Veil"
@@ -78,7 +103,7 @@
           "duration_ms": 240000
         },
         {
-          "rank": 7,
+          "rank": 9,
           "name": "Chica de Verde",
           "artists": [
             "Bruno Romano",
@@ -91,7 +116,7 @@
           "duration_ms": 225694
         },
         {
-          "rank": 8,
+          "rank": 10,
           "name": "Even When I’m Not With You",
           "artists": [
             "Pierce The Veil"
@@ -103,19 +128,7 @@
           "duration_ms": 174146
         },
         {
-          "rank": 9,
-          "name": "Shared Trauma",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
-          "url": "https://open.spotify.com/track/0ZHcRJMgSjQ3Gjf80ti943",
-          "duration_ms": 253000
-        },
-        {
-          "rank": 10,
+          "rank": 11,
           "name": "Pourriture noble",
           "artists": [
             "Kaya"
@@ -125,19 +138,6 @@
           "uri": "spotify:track:6mBcNhFJjc6c17C7QiLKgz",
           "url": "https://open.spotify.com/track/6mBcNhFJjc6c17C7QiLKgz",
           "duration_ms": 292031
-        },
-        {
-          "rank": 11,
-          "name": "12 Fractures",
-          "artists": [
-            "Pierce The Veil",
-            "chloe moriondo"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
-          "url": "https://open.spotify.com/track/2R5SzmhzoaCkjDJcSaGrN3",
-          "duration_ms": 181600
         },
         {
           "rank": 12,

@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-10-29T00:38:52.333Z",
+  "updated_at": "2026-10-29T09:32:02.064Z",
   "plays": [
-    {
-      "played_at": "2026-06-30T14:33:25.128Z",
-      "name": "Chica de Verde",
-      "artists": [
-        "Bruno Romano",
-        "Elisa González"
-      ],
-      "album": "Chica de Verde",
-      "image": "https://i.scdn.co/image/ab67616d0000b273da9eccf72a3e9d55e41db1f4",
-      "uri": "spotify:track:6ZxsJwY5QgN6R0mRBYWrHf",
-      "duration_ms": 225694
-    },
     {
       "played_at": "2026-06-30T14:40:12.826Z",
       "name": "Te Me Vas",
@@ -22521,6 +22509,19 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
       "uri": "spotify:track:0yq3IiS6IbPFmqLN46WxiG",
       "duration_ms": 238306
+    },
+    {
+      "played_at": "2026-10-29T00:42:04.419Z",
+      "name": "Growing Different Limbs",
+      "artists": [
+        "Lady Radiator",
+        "Donovan Melero",
+        "Hail The Sun"
+      ],
+      "album": "Growing Different Limbs",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e72f0d2f9172f8b044ff2565",
+      "uri": "spotify:track:2Kh9Wt5b0rMjTfX0JSARGA",
+      "duration_ms": 200287
     }
   ]
 }

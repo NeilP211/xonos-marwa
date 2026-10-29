@@ -1,14 +1,16 @@
 {
-  "updated_at": "2026-10-29T00:38:52.439Z",
+  "updated_at": "2026-10-29T09:32:02.154Z",
   "is_playing": false,
   "track": {
-    "name": "Gold Medal Ribbon",
+    "name": "Growing Different Limbs",
     "artists": [
-      "Pierce The Veil"
+      "Lady Radiator",
+      "Donovan Melero",
+      "Hail The Sun"
     ],
-    "album": "Misadventures",
-    "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
-    "uri": "spotify:track:0yq3IiS6IbPFmqLN46WxiG"
+    "album": "Growing Different Limbs",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e72f0d2f9172f8b044ff2565",
+    "uri": "spotify:track:2Kh9Wt5b0rMjTfX0JSARGA"
   },
-  "played_at": "2026-10-29T00:24:46.058Z"
+  "played_at": "2026-10-29T00:42:04.419Z"
 }
