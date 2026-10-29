@@ -1,252 +1,6 @@
 {
-  "updated_at": "2026-10-28T20:06:41.013Z",
+  "updated_at": "2026-10-29T00:38:52.333Z",
   "plays": [
-    {
-      "played_at": "2026-06-29T16:26:50.607Z",
-      "name": "a kind thing to do (feat. Vic Fuentes)",
-      "artists": [
-        "Cavetown",
-        "Pierce The Veil",
-        "Vic Fuentes"
-      ],
-      "album": "worm food",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325d765fb355e075d08e95cb6",
-      "uri": "spotify:track:4NlRBHQFKKgTJiDWG02fIV",
-      "duration_ms": 247013
-    },
-    {
-      "played_at": "2026-06-29T16:32:23.174Z",
-      "name": "I'm Low On Gas And You Need A Jacket",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "Collide With The Sky",
-      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-      "uri": "spotify:track:40WWeoX26jtsfdmFx5iRty",
-      "duration_ms": 252386
-    },
-    {
-      "played_at": "2026-06-29T16:40:36.482Z",
-      "name": "Cry",
-      "artists": [
-        "Cigarettes After Sex"
-      ],
-      "album": "Cry",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
-      "uri": "spotify:track:7mDTvYD2ieE4Q28XFziMfJ",
-      "duration_ms": 256799
-    },
-    {
-      "played_at": "2026-06-29T16:45:35.650Z",
-      "name": "Xerces",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Saturday Night Wrist",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
-      "uri": "spotify:track:5hxcxipGOjgTzrPOkfsyyS",
-      "duration_ms": 221800
-    },
-    {
-      "played_at": "2026-06-29T18:30:19.402Z",
-      "name": "LAYALINA",
-      "artists": [
-        "TUL8TE"
-      ],
-      "album": "TESH SHABAB",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cd08f7df5783c39c57d382f4",
-      "uri": "spotify:track:1yiJHrunZu2fov7OhC7vM9",
-      "duration_ms": 218833
-    },
-    {
-      "played_at": "2026-06-29T18:41:18.965Z",
-      "name": "Soura",
-      "artists": [
-        "Masri",
-        "Josylvio",
-        "ILLIE"
-      ],
-      "album": "Soura",
-      "image": "https://i.scdn.co/image/ab6742d3000053b7d2dcc9c393895bd0748a4bb4",
-      "uri": "spotify:track:3eUCf1pcML5Ibl2fXawiu6",
-      "duration_ms": 194751
-    },
-    {
-      "played_at": "2026-06-29T18:47:53.792Z",
-      "name": "قصاد عينى",
-      "artists": [
-        "Amr Diab"
-      ],
-      "album": "ليلى نهارى",
-      "image": "https://i.scdn.co/image/ab67616d0000b273636b9c1f05f0a37e1baa4628",
-      "uri": "spotify:track:3bISYorQwMHFlDaAhNyWd8",
-      "duration_ms": 264228
-    },
-    {
-      "played_at": "2026-06-29T18:52:40.727Z",
-      "name": "ليه بنخبي و مش بنقول",
-      "artists": [
-        "TUL8TE"
-      ],
-      "album": "كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي",
-      "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
-      "uri": "spotify:track:7ADt67nRewsfODDmCuhtQl",
-      "duration_ms": 189320
-    },
-    {
-      "played_at": "2026-06-29T18:56:56.307Z",
-      "name": "Ragea",
-      "artists": [
-        "Amr Diab"
-      ],
-      "album": "Ahla W Ahla",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343b631a1e61aa93b9db9f7a8",
-      "uri": "spotify:track:73ppBd1Mc3J6JeczDvLF8E",
-      "duration_ms": 209186
-    },
-    {
-      "played_at": "2026-06-29T19:05:20.264Z",
-      "name": "WHO DO U LUV",
-      "artists": [
-        "Avenoir"
-      ],
-      "album": "WHO DO U LUV",
-      "image": "https://i.scdn.co/image/ab67616d0000b27373dc757337bcdd30b76723c5",
-      "uri": "spotify:track:74KASQI7XvyWdsNyQcJuv9",
-      "duration_ms": 248760
-    },
-    {
-      "played_at": "2026-06-29T19:15:11.471Z",
-      "name": "Descifrar",
-      "artists": [
-        "maye"
-      ],
-      "album": "Descifrar",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
-      "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
-      "duration_ms": 178700
-    },
-    {
-      "played_at": "2026-06-29T19:19:50.700Z",
-      "name": "All My Heart",
-      "artists": [
-        "Sleeping With Sirens"
-      ],
-      "album": "Let's Cheers To This",
-      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
-      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
-      "duration_ms": 279293
-    },
-    {
-      "played_at": "2026-06-29T19:24:13.526Z",
-      "name": "흩어진나날들",
-      "artists": [
-        "강수지"
-      ],
-      "album": "강수지2집",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336baac318c4aac27ed3a54ea",
-      "uri": "spotify:track:3IuA2jGGOgZCGwQBiLhRuP",
-      "duration_ms": 262126
-    },
-    {
-      "played_at": "2026-06-29T19:31:32.248Z",
-      "name": "All My Heart",
-      "artists": [
-        "Sleeping With Sirens"
-      ],
-      "album": "Let's Cheers To This",
-      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
-      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
-      "duration_ms": 279293
-    },
-    {
-      "played_at": "2026-06-29T19:35:54.217Z",
-      "name": "흩어진나날들",
-      "artists": [
-        "강수지"
-      ],
-      "album": "강수지2집",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336baac318c4aac27ed3a54ea",
-      "uri": "spotify:track:3IuA2jGGOgZCGwQBiLhRuP",
-      "duration_ms": 262126
-    },
-    {
-      "played_at": "2026-06-29T20:44:33.443Z",
-      "name": "Deseándote",
-      "artists": [
-        "Frankie Ruiz"
-      ],
-      "album": "Frankie Ruiz La Leyenda",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
-      "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
-      "duration_ms": 281333
-    },
-    {
-      "played_at": "2026-06-29T20:49:35.915Z",
-      "name": "All My Heart",
-      "artists": [
-        "Sleeping With Sirens"
-      ],
-      "album": "Let's Cheers To This",
-      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
-      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
-      "duration_ms": 279293
-    },
-    {
-      "played_at": "2026-06-29T21:49:37.518Z",
-      "name": "Scene Two - Roger Rabbit",
-      "artists": [
-        "Sleeping With Sirens"
-      ],
-      "album": "If You Were A Movie, This Would Be Your Soundtrack",
-      "image": "https://i.scdn.co/image/ab67616d0000b273de5a8550905395c2d8f7a410",
-      "uri": "spotify:track:1ufmdhLiYExFU8lAVA9wjQ",
-      "duration_ms": 197946
-    },
-    {
-      "played_at": "2026-06-30T14:14:25.782Z",
-      "name": "Forever",
-      "artists": [
-        "keshi"
-      ],
-      "album": "Requiem (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733dfa5d71dad925112f5d5b9a",
-      "uri": "spotify:track:2C5nlzIMJ81NYmeGhofNNP",
-      "duration_ms": 171415
-    },
-    {
-      "played_at": "2026-06-30T14:19:18.504Z",
-      "name": "日落计数器",
-      "artists": [
-        "莫非定律乐团"
-      ],
-      "album": "日落计数器",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e93dbbce3937df90318b35a1",
-      "uri": "spotify:track:3BPuq1TTqJ5lat7IKqyZTW",
-      "duration_ms": 291564
-    },
-    {
-      "played_at": "2026-06-30T14:23:13.726Z",
-      "name": "雨蝶 - R&B微醺版",
-      "artists": [
-        "微醺卡带"
-      ],
-      "album": "雨蝶 (R&B微醺版)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27381bfa5296306a950e8b64aa0",
-      "uri": "spotify:track:4BdMTfgOY7zGwIGCqJpEnm",
-      "duration_ms": 234984
-    },
-    {
-      "played_at": "2026-06-30T14:27:22.801Z",
-      "name": "WHO DO U LUV",
-      "artists": [
-        "Avenoir"
-      ],
-      "album": "WHO DO U LUV",
-      "image": "https://i.scdn.co/image/ab67616d0000b27373dc757337bcdd30b76723c5",
-      "uri": "spotify:track:74KASQI7XvyWdsNyQcJuv9",
-      "duration_ms": 248760
-    },
     {
       "played_at": "2026-06-30T14:33:25.128Z",
       "name": "Chica de Verde",
@@ -22523,6 +22277,250 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27364f71083789a20353e05b1eb",
       "uri": "spotify:track:6GcZ4pdtZgbf2ptgHG31bq",
       "duration_ms": 303296
+    },
+    {
+      "played_at": "2026-10-28T23:09:33.366Z",
+      "name": "I CAN’T LET GO",
+      "artists": [
+        "Lil Tecca",
+        "Don Toliver"
+      ],
+      "album": "PLAN A",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+      "uri": "spotify:track:1Ftb0PK0Qqwax3gofiMd2X",
+      "duration_ms": 150204
+    },
+    {
+      "played_at": "2026-10-28T23:13:45.168Z",
+      "name": "Falling In Love",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cry",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
+      "uri": "spotify:track:3g7ngtg7xK3N9nKwAjDfH3",
+      "duration_ms": 245840
+    },
+    {
+      "played_at": "2026-10-28T23:18:16.595Z",
+      "name": "You Know That I Want To",
+      "artists": [
+        "George Michael"
+      ],
+      "album": "Older + Upper",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f909bc19202a1411df502ad6",
+      "uri": "spotify:track:0uXMyGXoNgEe0w53UJNhfe",
+      "duration_ms": 276418
+    },
+    {
+      "played_at": "2026-10-28T23:21:43.496Z",
+      "name": "in your head",
+      "artists": [
+        "cloudyfield"
+      ],
+      "album": "in your head",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a51d9c1f181661c0a99d370f",
+      "uri": "spotify:track:0GrAc2fGqrvY7xMsAPdTKC",
+      "duration_ms": 170000
+    },
+    {
+      "played_at": "2026-10-28T23:29:16.614Z",
+      "name": "Marisol",
+      "artists": [
+        "Static Dress"
+      ],
+      "album": "Rouge Carpet Disaster",
+      "image": "https://i.scdn.co/image/ab67616d0000b27378f8b5df47c65e736dd3dcbd",
+      "uri": "spotify:track:0uWPUfo3Lymv9fuxgkm42j",
+      "duration_ms": 292500
+    },
+    {
+      "played_at": "2026-10-28T23:32:29.936Z",
+      "name": "such.a.shame",
+      "artists": [
+        "Static Dress"
+      ],
+      "album": "Rouge Carpet Disaster",
+      "image": "https://i.scdn.co/image/ab67616d0000b27378f8b5df47c65e736dd3dcbd",
+      "uri": "spotify:track:460RXhCzhv2ey9HPZmFBUs",
+      "duration_ms": 198375
+    },
+    {
+      "played_at": "2026-10-28T23:37:47.560Z",
+      "name": "Two-Way Mirror",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "I Let It in and It Took Everything",
+      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+      "uri": "spotify:track:0b4TKuvZ4eJ8eHgJgXaCnN",
+      "duration_ms": 300186
+    },
+    {
+      "played_at": "2026-10-28T23:41:30.041Z",
+      "name": "A Sea Of Bliss",
+      "artists": [
+        "Blanket"
+      ],
+      "album": "Ceremonia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273115680e165ccfb01b6a7e97a",
+      "uri": "spotify:track:6qA6GwfbibLCNUYeCCFqEG",
+      "duration_ms": 227369
+    },
+    {
+      "played_at": "2026-10-28T23:44:13.260Z",
+      "name": "wish",
+      "artists": [
+        "Ailey Rain"
+      ],
+      "album": "wish",
+      "image": "https://i.scdn.co/image/ab67616d0000b27378c1ba700456ba2b41db23d5",
+      "uri": "spotify:track:0Tqls9lDjD3xV3RClpXsrd",
+      "duration_ms": 168175
+    },
+    {
+      "played_at": "2026-10-28T23:47:49.723Z",
+      "name": "Your Skull Is Red",
+      "artists": [
+        "Team Sleep"
+      ],
+      "album": "Team Sleep (U.S. Release)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734b2a07c3a9b8230f687ca5ba",
+      "uri": "spotify:track:1ncUuvs2dAdpuyhhMgHdgQ",
+      "duration_ms": 221506
+    },
+    {
+      "played_at": "2026-10-28T23:50:36.425Z",
+      "name": "Burnt (By the Sun)",
+      "artists": [
+        "Bleed"
+      ],
+      "album": "Somebody's Closer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f1ed433bdcf4ddb57e58db9",
+      "uri": "spotify:track:0LcU62QpwyqPy0kTylVvkQ",
+      "duration_ms": 171665
+    },
+    {
+      "played_at": "2026-10-28T23:53:15.257Z",
+      "name": "bored. tired. torn.",
+      "artists": [
+        "Split Chain"
+      ],
+      "album": "motionblur",
+      "image": "https://i.scdn.co/image/ab67616d0000b27353a4712a34deaddd31e39294",
+      "uri": "spotify:track:2JtKta5SvYMGc3MV7NxTVG",
+      "duration_ms": 163871
+    },
+    {
+      "played_at": "2026-10-28T23:56:54.660Z",
+      "name": "Adapter",
+      "artists": [
+        "Static Dress"
+      ],
+      "album": "Injury Episode",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db19c22e98aa5a885f5611c1",
+      "uri": "spotify:track:6644m6H6hM1UksZHLRTXNc",
+      "duration_ms": 224375
+    },
+    {
+      "played_at": "2026-10-29T00:00:44.709Z",
+      "name": "purple",
+      "artists": [
+        "she's green"
+      ],
+      "album": "wisteria",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735915fb11c850470689da5215",
+      "uri": "spotify:track:2dlkDejPWHFAVFtmAGirXP",
+      "duration_ms": 235062
+    },
+    {
+      "played_at": "2026-10-29T00:04:03.924Z",
+      "name": "Silence",
+      "artists": [
+        "Pure Hex"
+      ],
+      "album": "Spilling / Five of Tears",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b7a6786feb8408378a0e3489",
+      "uri": "spotify:track:030xn6RmoU6wPTqDxr0eUC",
+      "duration_ms": 204196
+    },
+    {
+      "played_at": "2026-10-29T00:09:18.958Z",
+      "name": "Falling In Love",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cry",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
+      "uri": "spotify:track:3g7ngtg7xK3N9nKwAjDfH3",
+      "duration_ms": 245840
+    },
+    {
+      "played_at": "2026-10-29T00:09:20.458Z",
+      "name": "Resilience",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+      "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-10-29T00:09:41.958Z",
+      "name": "Irrational Fears - Interlude",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:1AtTmjAqrlmg9P2enDqVg9",
+      "duration_ms": 21560
+    },
+    {
+      "played_at": "2026-10-29T00:13:54.959Z",
+      "name": "Shared Trauma",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
+      "duration_ms": 253000
+    },
+    {
+      "played_at": "2026-10-29T00:17:51.155Z",
+      "name": "So Far So Fake",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3fWibgdtgIie6LKTZ2rUoI",
+      "duration_ms": 236160
+    },
+    {
+      "played_at": "2026-10-29T00:20:52.758Z",
+      "name": "12 Fractures",
+      "artists": [
+        "Pierce The Veil",
+        "chloe moriondo"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
+      "duration_ms": 181600
+    },
+    {
+      "played_at": "2026-10-29T00:24:46.058Z",
+      "name": "Gold Medal Ribbon",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "Misadventures",
+      "image": "https://i.scdn.co/image/ab67616d0000b273feef5b9537d7b52555a42f17",
+      "uri": "spotify:track:0yq3IiS6IbPFmqLN46WxiG",
+      "duration_ms": 238306
     }
   ]
 }
