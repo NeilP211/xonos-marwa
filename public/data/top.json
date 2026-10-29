@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T09:32:01.967Z",
+  "generated_at": "2026-10-29T18:09:27.948Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -177,6 +177,19 @@
         },
         {
           "rank": 15,
+          "name": "I CAN’T LET GO",
+          "artists": [
+            "Lil Tecca",
+            "Don Toliver"
+          ],
+          "album": "PLAN A",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+          "uri": "spotify:track:1Ftb0PK0Qqwax3gofiMd2X",
+          "url": "https://open.spotify.com/track/1Ftb0PK0Qqwax3gofiMd2X",
+          "duration_ms": 150204
+        },
+        {
+          "rank": 16,
           "name": "Aslan",
           "artists": [
             "Shinichi Osawa Works"
@@ -188,7 +201,7 @@
           "duration_ms": 224840
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Stairs",
           "artists": [
             "Design19"
@@ -200,7 +213,7 @@
           "duration_ms": 236560
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Perverted Martyr",
           "artists": [
             "Femme Fatale"
@@ -212,7 +225,7 @@
           "duration_ms": 232128
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Falling Away from Me",
           "artists": [
             "Korn"
@@ -224,7 +237,7 @@
           "duration_ms": 270920
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Kiss Me Now",
           "artists": [
             "Pierce The Veil"
@@ -236,7 +249,7 @@
           "duration_ms": 256268
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Is It Really You?",
           "artists": [
             "Loathe"
@@ -248,7 +261,7 @@
           "duration_ms": 287627
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Deseándote",
           "artists": [
             "Frankie Ruiz"
@@ -260,7 +273,7 @@
           "duration_ms": 281333
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Oyasumi.",
           "artists": [
             "gulu gulu"
@@ -272,7 +285,7 @@
           "duration_ms": 194720
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Falling In Love",
           "artists": [
             "Cigarettes After Sex"
@@ -284,7 +297,7 @@
           "duration_ms": 245840
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Props & Mayhem",
           "artists": [
             "Pierce The Veil"
@@ -296,7 +309,19 @@
           "duration_ms": 217853
         },
         {
-          "rank": 25,
+          "rank": 26,
+          "name": "VOGUE",
+          "artists": [
+            "Lil Tecca"
+          ],
+          "album": "PLAN A",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+          "uri": "spotify:track:3xXDLFPydivY2cb5AUgWOv",
+          "url": "https://open.spotify.com/track/3xXDLFPydivY2cb5AUgWOv",
+          "duration_ms": 153014
+        },
+        {
+          "rank": 27,
           "name": "Shmoopie",
           "artists": [
             "Buddha Trixie"
@@ -308,7 +333,7 @@
           "duration_ms": 247717
         },
         {
-          "rank": 26,
+          "rank": 28,
           "name": "Him and Hym",
           "artists": [
             "Shinichi Osawa Works"
@@ -320,7 +345,7 @@
           "duration_ms": 140200
         },
         {
-          "rank": 27,
+          "rank": 29,
           "name": "Damn The Man, Save The Empire",
           "artists": [
             "Pierce The Veil"
@@ -332,7 +357,7 @@
           "duration_ms": 237000
         },
         {
-          "rank": 28,
+          "rank": 30,
           "name": "Hold On Till May",
           "artists": [
             "Pierce The Veil",
@@ -345,7 +370,7 @@
           "duration_ms": 278586
         },
         {
-          "rank": 29,
+          "rank": 31,
           "name": "Diles",
           "artists": [
             "Bad Bunny",
@@ -363,7 +388,7 @@
           "duration_ms": 286040
         },
         {
-          "rank": 30,
+          "rank": 32,
           "name": "bigassbearman",
           "artists": [
             "ericdoa"
@@ -375,7 +400,7 @@
           "duration_ms": 149468
         },
         {
-          "rank": 31,
+          "rank": 33,
           "name": "Mizerable",
           "artists": [
             "GACKT"
@@ -387,7 +412,7 @@
           "duration_ms": 296266
         },
         {
-          "rank": 32,
+          "rank": 34,
           "name": "Marisol",
           "artists": [
             "Static Dress"
@@ -399,7 +424,7 @@
           "duration_ms": 292500
         },
         {
-          "rank": 33,
+          "rank": 35,
           "name": "Demolition Lovers",
           "artists": [
             "My Chemical Romance"
@@ -411,7 +436,7 @@
           "duration_ms": 366560
         },
         {
-          "rank": 34,
+          "rank": 36,
           "name": "I Have No Idea What I'm Doing",
           "artists": [
             "The Blindfolded Seamonkeys"
@@ -423,7 +448,7 @@
           "duration_ms": 196213
         },
         {
-          "rank": 35,
+          "rank": 37,
           "name": "Snuff",
           "artists": [
             "Slipknot"
@@ -435,7 +460,7 @@
           "duration_ms": 276146
         },
         {
-          "rank": 36,
+          "rank": 38,
           "name": "Little Dipper",
           "artists": [
             "Hum"
@@ -447,7 +472,7 @@
           "duration_ms": 283866
         },
         {
-          "rank": 37,
+          "rank": 39,
           "name": "Silver Plate",
           "artists": [
             "Design19"
@@ -459,7 +484,7 @@
           "duration_ms": 198800
         },
         {
-          "rank": 38,
+          "rank": 40,
           "name": "Pyro-Foam",
           "artists": [
             "Design19"
@@ -471,7 +496,7 @@
           "duration_ms": 217533
         },
         {
-          "rank": 39,
+          "rank": 41,
           "name": "Lion In My Backyard",
           "artists": [
             "The Blindfolded Seamonkeys"
@@ -483,7 +508,7 @@
           "duration_ms": 264600
         },
         {
-          "rank": 40,
+          "rank": 42,
           "name": "888",
           "artists": [
             "SWEET SPINE"
@@ -495,7 +520,19 @@
           "duration_ms": 214857
         },
         {
-          "rank": 41,
+          "rank": 43,
+          "name": "4U",
+          "artists": [
+            "Lil Tecca"
+          ],
+          "album": "PLAN A",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+          "uri": "spotify:track:60SgHjJSxTh7FuJm6E5fTS",
+          "url": "https://open.spotify.com/track/60SgHjJSxTh7FuJm6E5fTS",
+          "duration_ms": 142987
+        },
+        {
+          "rank": 44,
           "name": "Duality",
           "artists": [
             "Slipknot"
@@ -507,7 +544,7 @@
           "duration_ms": 252613
         },
         {
-          "rank": 42,
+          "rank": 45,
           "name": "これを依存と呼ぶなら",
           "artists": [
             "MEJIBRAY"
@@ -519,7 +556,7 @@
           "duration_ms": 340346
         },
         {
-          "rank": 43,
+          "rank": 46,
           "name": "Beauty School",
           "artists": [
             "Deftones"
@@ -531,7 +568,7 @@
           "duration_ms": 287840
         },
         {
-          "rank": 44,
+          "rank": 47,
           "name": "Ivonny Bonita",
           "artists": [
             "KAROL G"
@@ -543,7 +580,7 @@
           "duration_ms": 222458
         },
         {
-          "rank": 45,
+          "rank": 48,
           "name": "in your head",
           "artists": [
             "cloudyfield"
@@ -555,7 +592,7 @@
           "duration_ms": 170000
         },
         {
-          "rank": 46,
+          "rank": 49,
           "name": "Ain't Nobody Else Like You",
           "artists": [
             "Cass Elliot"
@@ -567,56 +604,16 @@
           "duration_ms": 144160
         },
         {
-          "rank": 47,
-          "name": "Red Swan",
+          "rank": 50,
+          "name": "No Pole",
           "artists": [
-            "YOSHIKI",
-            "HYDE"
-          ],
-          "album": "Red Swan",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
-          "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX",
-          "url": "https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX",
-          "duration_ms": 263720
-        },
-        {
-          "rank": 48,
-          "name": "I CAN’T LET GO",
-          "artists": [
-            "Lil Tecca",
             "Don Toliver"
           ],
-          "album": "PLAN A",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
-          "uri": "spotify:track:1Ftb0PK0Qqwax3gofiMd2X",
-          "url": "https://open.spotify.com/track/1Ftb0PK0Qqwax3gofiMd2X",
-          "duration_ms": 150204
-        },
-        {
-          "rank": 49,
-          "name": "Después de ti",
-          "artists": [
-            "KAROL G",
-            "Greg Gonzalez"
-          ],
-          "album": "NO ME ARREPIENTO DE SENTIR TANTO",
-          "image": "https://i.scdn.co/image/ab67616d0000b27321deb742375f88edfb2e7368",
-          "uri": "spotify:track:1XUEx6XLSmuPx9hqYARlrd",
-          "url": "https://open.spotify.com/track/1XUEx6XLSmuPx9hqYARlrd",
-          "duration_ms": 268996
-        },
-        {
-          "rank": 50,
-          "name": "Baby Girl",
-          "artists": [
-            "PROXIE",
-            "GALCHANIE"
-          ],
-          "album": "Baby Girl",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732b4f65a014a0f3dac11f7afd",
-          "uri": "spotify:track:1waM1iX8oDT7PnR5Abr5IZ",
-          "url": "https://open.spotify.com/track/1waM1iX8oDT7PnR5Abr5IZ",
-          "duration_ms": 155529
+          "album": "Love Sick (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273307323fa550564b0201b1d76",
+          "uri": "spotify:track:0eaVIYo2zeOaGJeqZ5TwYz",
+          "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz",
+          "duration_ms": 187613
         }
       ],
       "artists": [
@@ -646,6 +643,14 @@
         },
         {
           "rank": 4,
+          "name": "Lil Tecca",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
+          "genres": [],
+          "uri": "spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "rank": 5,
           "name": "Design19",
           "image": "https://i.scdn.co/image/ab6761610000e5eb431e39cb35bd71a7fa6f1792",
           "genres": [],
@@ -653,7 +658,7 @@
           "url": "https://open.spotify.com/artist/3U09lzgkM9iGAHE1ESbRO8"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -661,7 +666,7 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Shinichi Osawa Works",
           "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
           "genres": [],
@@ -669,7 +674,7 @@
           "url": "https://open.spotify.com/artist/4d3dSSG92Bywc1qwtKVOrb"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "My Chemical Romance",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0c55e74e435910793888f7cf",
           "genres": [],
@@ -677,7 +682,7 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "VIOLENT VIRA",
           "image": "https://i.scdn.co/image/ab6761610000e5eb14c07bcb4da9499543d1031d",
           "genres": [],
@@ -685,7 +690,7 @@
           "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "LAREINE",
           "image": "https://i.scdn.co/image/ab67616d0000b2731bf4be602ae37d924bba5f4c",
           "genres": [],
@@ -693,7 +698,7 @@
           "url": "https://open.spotify.com/artist/2w3S57NmAGnZwqC1ATXxDP"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Bad Bunny",
           "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
           "genres": [],
@@ -701,7 +706,7 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Rauw Alejandro",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6d72db3fd29576caa9cb821f",
           "genres": [],
@@ -709,7 +714,7 @@
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Static Dress",
           "image": "https://i.scdn.co/image/ab6761610000e5ebeccc53e00be4f2d9e975e232",
           "genres": [],
@@ -717,7 +722,7 @@
           "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "RØZ",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc0de2d8306a376f544dd8c8a",
           "genres": [],
@@ -725,7 +730,7 @@
           "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "J Balvin",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0405b03342c2e56751b9923d",
           "genres": [],
@@ -733,7 +738,7 @@
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Feid",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e529f4ad13f86c69962cb12",
           "genres": [],
@@ -741,7 +746,7 @@
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Loathe",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
           "genres": [],
@@ -749,7 +754,7 @@
           "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "gulu gulu",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e863631369aaddd8f72efea",
           "genres": [],
@@ -757,7 +762,7 @@
           "url": "https://open.spotify.com/artist/7IS31MnxPnYaDKlFRZ3pdt"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Kaya",
           "image": "https://i.scdn.co/image/ab67616d0000b273f25a166ed7ebcd049581f03e",
           "genres": [],
@@ -765,7 +770,7 @@
           "url": "https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "KAMIJO",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd619816883817163caae41c6",
           "genres": [],

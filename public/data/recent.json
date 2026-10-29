@@ -1,196 +1,6 @@
 {
-  "updated_at": "2026-10-29T09:32:02.064Z",
+  "updated_at": "2026-10-29T18:09:28.049Z",
   "plays": [
-    {
-      "played_at": "2026-06-30T14:40:12.826Z",
-      "name": "Te Me Vas",
-      "artists": [
-        "Prince Royce"
-      ],
-      "album": "Phase II",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737f187201bff22a11f0d6053b",
-      "uri": "spotify:track:18MbEK3bfXlTBQZSr74afQ",
-      "duration_ms": 198973
-    },
-    {
-      "played_at": "2026-06-30T14:45:35.435Z",
-      "name": "Si Me Voy (with The Marías)",
-      "artists": [
-        "Cuco",
-        "The Marías"
-      ],
-      "album": "Si Me Voy (with The Marías)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27314a012da5638f895eaefffa5",
-      "uri": "spotify:track:6GiCszfL4D2GlCU8tFU3sR",
-      "duration_ms": 203219
-    },
-    {
-      "played_at": "2026-06-30T14:49:27.180Z",
-      "name": "Someone Else",
-      "artists": [
-        "LINDO"
-      ],
-      "album": "Someone Else",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734fe417719cd22cee2d316b9b",
-      "uri": "spotify:track:2fJUdrKE20A0MDBKRYKmE8",
-      "duration_ms": 138598
-    },
-    {
-      "played_at": "2026-06-30T14:56:38.245Z",
-      "name": "Oh Qué Será?",
-      "artists": [
-        "Willie Colón"
-      ],
-      "album": "Greatest Hits",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f37950978573d045e79d886b",
-      "uri": "spotify:track:2n1MTLCis6qPSDKdr5XSDI",
-      "duration_ms": 304200
-    },
-    {
-      "played_at": "2026-06-30T15:02:01.681Z",
-      "name": "Y, ¿Si fuera ella?",
-      "artists": [
-        "Alejandro Sanz"
-      ],
-      "album": "Más",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733443d9c76e9713a5986c983c",
-      "uri": "spotify:track:1DmlUpnkg4N1VWquSoffF1",
-      "duration_ms": 323026
-    },
-    {
-      "played_at": "2026-06-30T15:08:33.399Z",
-      "name": "Deslocado",
-      "artists": [
-        "NAPA"
-      ],
-      "album": "Deslocado",
-      "image": "https://i.scdn.co/image/ab67616d0000b273836edb90093bc743598aa54d",
-      "uri": "spotify:track:31CsSZ9KlQmEu0JvWSkM3j",
-      "duration_ms": 179996
-    },
-    {
-      "played_at": "2026-06-30T15:12:18.727Z",
-      "name": "Hoy El Aire Huele a Ti",
-      "artists": [
-        "Luis Miguel"
-      ],
-      "album": "20 Años",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e6cab0ffee915cdbe7c7d85a",
-      "uri": "spotify:track:2ZYvD9zQf1iBLelkgkUl7U",
-      "duration_ms": 224493
-    },
-    {
-      "played_at": "2026-06-30T15:15:58.327Z",
-      "name": "Estar Contigo",
-      "artists": [
-        "Bruno Romano"
-      ],
-      "album": "Estar Contigo",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5876eb6777391b38362e2a",
-      "uri": "spotify:track:6Pj7HgPDtqCbrTlgGrlqJ4",
-      "duration_ms": 214615
-    },
-    {
-      "played_at": "2026-06-30T15:23:58.172Z",
-      "name": "Casi algo",
-      "artists": [
-        "Me Dicen Jos"
-      ],
-      "album": "Casi algo",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b3092d1991912ddea52f18c5",
-      "uri": "spotify:track:2lRIrlut8slUKShhAxJuK7",
-      "duration_ms": 165229
-    },
-    {
-      "played_at": "2026-06-30T15:28:13.379Z",
-      "name": "Y Qué",
-      "artists": [
-        "Martox",
-        "Lena Dardelet"
-      ],
-      "album": "Y Qué",
-      "image": "https://i.scdn.co/image/ab67616d0000b273aada9f071eb7bb5cb8f47b81",
-      "uri": "spotify:track:1Dd6CuCiuoTj0eiBnGnx4X",
-      "duration_ms": 168979
-    },
-    {
-      "played_at": "2026-06-30T15:31:48.476Z",
-      "name": "Llévame",
-      "artists": [
-        "Bruno Romano",
-        "Thiago Muller"
-      ],
-      "album": "Llévame",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b827a895171e8d07687961f0",
-      "uri": "spotify:track:4mJYjmCeiuYarCtAc26VyS",
-      "duration_ms": 214219
-    },
-    {
-      "played_at": "2026-06-30T15:35:23.351Z",
-      "name": "Estar Contigo",
-      "artists": [
-        "Bruno Romano"
-      ],
-      "album": "Estar Contigo",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5876eb6777391b38362e2a",
-      "uri": "spotify:track:6Pj7HgPDtqCbrTlgGrlqJ4",
-      "duration_ms": 214615
-    },
-    {
-      "played_at": "2026-06-30T16:10:12.402Z",
-      "name": "Fallen Star",
-      "artists": [
-        "The Neighbourhood"
-      ],
-      "album": "Fallen Star",
-      "image": "https://i.scdn.co/image/ab67616d0000b27386a26fe844d212d650debca2",
-      "uri": "spotify:track:60F6pgM6H6miNr5AmjxwjL",
-      "duration_ms": 224938
-    },
-    {
-      "played_at": "2026-06-30T16:20:34.799Z",
-      "name": "John Wayne",
-      "artists": [
-        "Cigarettes After Sex"
-      ],
-      "album": "Cigarettes After Sex",
-      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
-      "uri": "spotify:track:4xbN7giFhdGbSQTPyG178F",
-      "duration_ms": 258013
-    },
-    {
-      "played_at": "2026-06-30T16:25:43.159Z",
-      "name": "Nobody New",
-      "artists": [
-        "The Marías"
-      ],
-      "album": "Nobody New",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734076c62eeace86cc7bde7aef",
-      "uri": "spotify:track:3BUc2A0MJ53FHwiy3eohBt",
-      "duration_ms": 215200
-    },
-    {
-      "played_at": "2026-06-30T16:29:50.027Z",
-      "name": "Drugs and Money",
-      "artists": [
-        "Henry Morris"
-      ],
-      "album": "Drugs and Money",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336514063413e17cbeea6d8c4",
-      "uri": "spotify:track:7dNn04Uo3QeNLzAhjPNLDB",
-      "duration_ms": 179016
-    },
-    {
-      "played_at": "2026-06-30T16:35:42.992Z",
-      "name": "You Get Me So High",
-      "artists": [
-        "The Neighbourhood"
-      ],
-      "album": "Hard To Imagine The Neighbourhood Ever Changing",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739b6ac98a52f62d5cb473da40",
-      "uri": "spotify:track:7zwn1eykZtZ5LODrf7c0tS",
-      "duration_ms": 153000
-    },
     {
       "played_at": "2026-06-30T16:36:31.692Z",
       "name": "Tuyo",
@@ -22522,6 +22332,196 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e72f0d2f9172f8b044ff2565",
       "uri": "spotify:track:2Kh9Wt5b0rMjTfX0JSARGA",
       "duration_ms": 200287
+    },
+    {
+      "played_at": "2026-10-29T14:50:40.833Z",
+      "name": "VOGUE",
+      "artists": [
+        "Lil Tecca"
+      ],
+      "album": "PLAN A",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+      "uri": "spotify:track:3xXDLFPydivY2cb5AUgWOv",
+      "duration_ms": 153014
+    },
+    {
+      "played_at": "2026-10-29T14:54:06.569Z",
+      "name": "BAD TIME",
+      "artists": [
+        "Lil Tecca"
+      ],
+      "album": "PLAN A",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+      "uri": "spotify:track:1D9XWqsoNWIfLEzjHcrgMx",
+      "duration_ms": 210803
+    },
+    {
+      "played_at": "2026-10-29T15:00:47.280Z",
+      "name": "No Pole",
+      "artists": [
+        "Don Toliver"
+      ],
+      "album": "Love Sick (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273307323fa550564b0201b1d76",
+      "uri": "spotify:track:0eaVIYo2zeOaGJeqZ5TwYz",
+      "duration_ms": 187613
+    },
+    {
+      "played_at": "2026-10-29T15:03:15.511Z",
+      "name": "E85",
+      "artists": [
+        "Don Toliver"
+      ],
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+      "uri": "spotify:track:3B4cjvGlPvyBLNG3AzEgkZ",
+      "duration_ms": 153181
+    },
+    {
+      "played_at": "2026-10-29T15:06:48.832Z",
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "artists": [
+        "Drake",
+        "Don Toliver"
+      ],
+      "album": "HABIBTI (FOMO)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732685b70af798b4f272c00d8a",
+      "uri": "spotify:track:4IAWZw00ZI9DLKDjesx86u",
+      "duration_ms": 218388
+    },
+    {
+      "played_at": "2026-10-29T15:20:15.625Z",
+      "name": "MAH BOI",
+      "artists": [
+        "DDG",
+        "ian"
+      ],
+      "album": "MAH BOI",
+      "image": "https://i.scdn.co/image/ab67616d0000b27321e83ba5ddc1cfca0321458d",
+      "uri": "spotify:track:0I0djV0zAorTXwUeuFVfWx",
+      "duration_ms": 129110
+    },
+    {
+      "played_at": "2026-10-29T15:22:44.421Z",
+      "name": "Around Me",
+      "artists": [
+        "Noodah05"
+      ],
+      "album": "Champion Story",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b08e854fe0a98f55fedeec7e",
+      "uri": "spotify:track:5ozQ7ysuXTpJwbqx7GvoRY",
+      "duration_ms": 153835
+    },
+    {
+      "played_at": "2026-10-29T15:25:02.423Z",
+      "name": "4U",
+      "artists": [
+        "Lil Tecca"
+      ],
+      "album": "PLAN A",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+      "uri": "spotify:track:60SgHjJSxTh7FuJm6E5fTS",
+      "duration_ms": 142987
+    },
+    {
+      "played_at": "2026-10-29T15:28:45.807Z",
+      "name": "kaleidoscope",
+      "artists": [
+        "Exit Dream"
+      ],
+      "album": "kaleidoscope",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb0171fe8af0165d2ba3dfa0",
+      "uri": "spotify:track:6duaflHuOkKVxwwSi8I87E",
+      "duration_ms": 228400
+    },
+    {
+      "played_at": "2026-10-29T15:31:28.948Z",
+      "name": "wish",
+      "artists": [
+        "Ailey Rain"
+      ],
+      "album": "wish",
+      "image": "https://i.scdn.co/image/ab67616d0000b27378c1ba700456ba2b41db23d5",
+      "uri": "spotify:track:0Tqls9lDjD3xV3RClpXsrd",
+      "duration_ms": 168175
+    },
+    {
+      "played_at": "2026-10-29T15:35:11.331Z",
+      "name": "A Sea Of Bliss",
+      "artists": [
+        "Blanket"
+      ],
+      "album": "Ceremonia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273115680e165ccfb01b6a7e97a",
+      "uri": "spotify:track:6qA6GwfbibLCNUYeCCFqEG",
+      "duration_ms": 227369
+    },
+    {
+      "played_at": "2026-10-29T15:40:06.548Z",
+      "name": "Two-Way Mirror",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "I Let It in and It Took Everything",
+      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+      "uri": "spotify:track:0b4TKuvZ4eJ8eHgJgXaCnN",
+      "duration_ms": 300186
+    },
+    {
+      "played_at": "2026-10-29T15:43:19.950Z",
+      "name": "such.a.shame",
+      "artists": [
+        "Static Dress"
+      ],
+      "album": "Rouge Carpet Disaster",
+      "image": "https://i.scdn.co/image/ab67616d0000b27378f8b5df47c65e736dd3dcbd",
+      "uri": "spotify:track:460RXhCzhv2ey9HPZmFBUs",
+      "duration_ms": 198375
+    },
+    {
+      "played_at": "2026-10-29T15:45:47.897Z",
+      "name": "VOGUE",
+      "artists": [
+        "Lil Tecca"
+      ],
+      "album": "PLAN A",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+      "uri": "spotify:track:3xXDLFPydivY2cb5AUgWOv",
+      "duration_ms": 153014
+    },
+    {
+      "played_at": "2026-10-29T15:49:13.751Z",
+      "name": "BAD TIME",
+      "artists": [
+        "Lil Tecca"
+      ],
+      "album": "PLAN A",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+      "uri": "spotify:track:1D9XWqsoNWIfLEzjHcrgMx",
+      "duration_ms": 210803
+    },
+    {
+      "played_at": "2026-10-29T15:51:26.609Z",
+      "name": "NUMBER 2",
+      "artists": [
+        "Lil Tecca"
+      ],
+      "album": "PLAN A",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+      "uri": "spotify:track:3p1coqZaHyGvFVLb7EmmeE",
+      "duration_ms": 137904
+    },
+    {
+      "played_at": "2026-10-29T15:53:51.817Z",
+      "name": "I CAN’T LET GO",
+      "artists": [
+        "Lil Tecca",
+        "Don Toliver"
+      ],
+      "album": "PLAN A",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+      "uri": "spotify:track:1Ftb0PK0Qqwax3gofiMd2X",
+      "duration_ms": 150204
     }
   ]
 }
