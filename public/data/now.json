@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-10-29T18:09:28.106Z",
+  "updated_at": "2026-10-30T00:39:30.149Z",
   "is_playing": false,
   "track": {
-    "name": "I CAN’T LET GO",
+    "name": "What More Can I Say",
     "artists": [
-      "Lil Tecca",
-      "Don Toliver"
+      "The Notations"
     ],
-    "album": "PLAN A",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
-    "uri": "spotify:track:1Ftb0PK0Qqwax3gofiMd2X"
+    "album": "Still Here: 1967-1973",
+    "image": "https://i.scdn.co/image/ab67616d0000b27384aa41ae4889e16ad3c3bff7",
+    "uri": "spotify:track:1PHPODXYdkxmU9nkrqLd8y"
   },
-  "played_at": "2026-10-29T15:53:51.817Z"
+  "played_at": "2026-10-29T23:57:36.483Z"
 }

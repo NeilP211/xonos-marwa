@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T18:09:27.948Z",
+  "generated_at": "2026-10-30T00:39:29.939Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1682,6 +1682,14 @@
         },
         {
           "rank": 37,
+          "name": "Lil Tecca",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
+          "genres": [],
+          "uri": "spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "rank": 38,
           "name": "PRYVT",
           "image": "https://i.scdn.co/image/ab6761610000e5eb012e40962788790bb7b60f75",
           "genres": [],
@@ -1689,7 +1697,7 @@
           "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Bruno Romano",
           "image": "https://i.scdn.co/image/ab6761610000e5eb048c29f827a167107701699f",
           "genres": [],
@@ -1697,7 +1705,7 @@
           "url": "https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "A Heartwell Ending",
           "image": "https://i.scdn.co/image/ab6761610000e5eb215ac704a98a95326d62cbad",
           "genres": [],
@@ -1705,7 +1713,7 @@
           "url": "https://open.spotify.com/artist/0F7x26QGWIimVu4XnOiXkA"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Chevelle",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6411cad01afe7d60b448dabc",
           "genres": [],
@@ -1713,7 +1721,7 @@
           "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Silence Wang",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe031c2c433fefe3fd10f5caa",
           "genres": [],
@@ -1721,7 +1729,7 @@
           "url": "https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Menny Flores",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbb7c35cc0701c97917699796",
           "genres": [],
@@ -1729,7 +1737,7 @@
           "url": "https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "LAGOS",
           "image": "https://i.scdn.co/image/ab6761610000e5eb03101ae60c19568d1842ad8d",
           "genres": [],
@@ -1737,7 +1745,7 @@
           "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Morad",
           "image": "https://i.scdn.co/image/ab6761610000e5ebad6c5175ba73bba50f96c193",
           "genres": [],
@@ -1745,7 +1753,7 @@
           "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Willie Colón",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4934a2c42935c770bb3ee1af",
           "genres": [],
@@ -1753,7 +1761,7 @@
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "La Isla Centeno",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf55def158ecb9a2b89f5e0bd",
           "genres": [],
@@ -1761,7 +1769,7 @@
           "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Zhou Shen",
           "image": "https://i.scdn.co/image/ab6761610000e5eb555f21234ccc27d609c6f000",
           "genres": [],
@@ -1769,7 +1777,7 @@
           "url": "https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Design19",
           "image": "https://i.scdn.co/image/ab6761610000e5eb431e39cb35bd71a7fa6f1792",
           "genres": [],
@@ -1777,20 +1785,12 @@
           "url": "https://open.spotify.com/artist/3U09lzgkM9iGAHE1ESbRO8"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Sawano Hiroyuki",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7bd33413d188115f3d40e8e1",
           "genres": [],
           "uri": "spotify:artist:0Riv2KnFcLZA3JSVryRg4y",
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
-        },
-        {
-          "rank": 50,
-          "name": "Shinichi Osawa Works",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
-          "genres": [],
-          "uri": "spotify:artist:4d3dSSG92Bywc1qwtKVOrb",
-          "url": "https://open.spotify.com/artist/4d3dSSG92Bywc1qwtKVOrb"
         }
       ]
     },
@@ -1895,31 +1895,6 @@
         },
         {
           "rank": 9,
-          "name": "Red Swan",
-          "artists": [
-            "YOSHIKI",
-            "HYDE"
-          ],
-          "album": "Red Swan",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
-          "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX",
-          "url": "https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX",
-          "duration_ms": 263720
-        },
-        {
-          "rank": 10,
-          "name": "月下（《白月梵星》影视剧插曲）",
-          "artists": [
-            "不才"
-          ],
-          "album": "《白月梵星》影视原声带",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fa455b0bac506185ac488fb7",
-          "uri": "spotify:track:4HhZYPofHIQkBmlaLuTKRv",
-          "url": "https://open.spotify.com/track/4HhZYPofHIQkBmlaLuTKRv",
-          "duration_ms": 230640
-        },
-        {
-          "rank": 11,
           "name": "12 Fractures",
           "artists": [
             "Pierce The Veil",
@@ -1932,19 +1907,20 @@
           "duration_ms": 181600
         },
         {
-          "rank": 12,
-          "name": "وماله",
+          "rank": 10,
+          "name": "Red Swan",
           "artists": [
-            "Amr Diab"
+            "YOSHIKI",
+            "HYDE"
           ],
-          "album": "كمل كلامك",
-          "image": "https://i.scdn.co/image/ab67616d0000b273027b0429b1d6ae7aa630f865",
-          "uri": "spotify:track:7z1OHWVyKvynHMiIGHVLon",
-          "url": "https://open.spotify.com/track/7z1OHWVyKvynHMiIGHVLon",
-          "duration_ms": 288313
+          "album": "Red Swan",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
+          "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX",
+          "url": "https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX",
+          "duration_ms": 263720
         },
         {
-          "rank": 13,
+          "rank": 11,
           "name": "Shared Trauma",
           "artists": [
             "Pierce The Veil"
@@ -1954,6 +1930,30 @@
           "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
           "url": "https://open.spotify.com/track/0ZHcRJMgSjQ3Gjf80ti943",
           "duration_ms": 253000
+        },
+        {
+          "rank": 12,
+          "name": "月下（《白月梵星》影视剧插曲）",
+          "artists": [
+            "不才"
+          ],
+          "album": "《白月梵星》影视原声带",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fa455b0bac506185ac488fb7",
+          "uri": "spotify:track:4HhZYPofHIQkBmlaLuTKRv",
+          "url": "https://open.spotify.com/track/4HhZYPofHIQkBmlaLuTKRv",
+          "duration_ms": 230640
+        },
+        {
+          "rank": 13,
+          "name": "وماله",
+          "artists": [
+            "Amr Diab"
+          ],
+          "album": "كمل كلامك",
+          "image": "https://i.scdn.co/image/ab67616d0000b273027b0429b1d6ae7aa630f865",
+          "uri": "spotify:track:7z1OHWVyKvynHMiIGHVLon",
+          "url": "https://open.spotify.com/track/7z1OHWVyKvynHMiIGHVLon",
+          "duration_ms": 288313
         },
         {
           "rank": 14,

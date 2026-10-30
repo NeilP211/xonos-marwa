@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-29T18:09:28.049Z",
+  "updated_at": "2026-10-30T00:39:30.037Z",
   "plays": [
-    {
-      "played_at": "2026-06-30T16:36:31.692Z",
-      "name": "Tuyo",
-      "artists": [
-        "Nico Play"
-      ],
-      "album": "Tuyo",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734a6a2a2e1b5380da5f612571",
-      "uri": "spotify:track:2TwSlXU3M2h0R3XEuWU22i",
-      "duration_ms": 144115
-    },
     {
       "played_at": "2026-06-30T16:40:22.691Z",
       "name": "sweet escape",
@@ -22522,6 +22511,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
       "uri": "spotify:track:1Ftb0PK0Qqwax3gofiMd2X",
       "duration_ms": 150204
+    },
+    {
+      "played_at": "2026-10-29T23:57:36.483Z",
+      "name": "What More Can I Say",
+      "artists": [
+        "The Notations"
+      ],
+      "album": "Still Here: 1967-1973",
+      "image": "https://i.scdn.co/image/ab67616d0000b27384aa41ae4889e16ad3c3bff7",
+      "uri": "spotify:track:1PHPODXYdkxmU9nkrqLd8y",
+      "duration_ms": 200506
     }
   ]
 }
