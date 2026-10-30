@@ -1,174 +1,6 @@
 {
-  "updated_at": "2026-10-30T17:48:30.128Z",
+  "updated_at": "2026-10-30T22:00:07.470Z",
   "plays": [
-    {
-      "played_at": "2026-06-30T16:40:22.691Z",
-      "name": "sweet escape",
-      "artists": [
-        "Elias"
-      ],
-      "album": "sweet escape",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f33d128f4f526a57f5574364",
-      "uri": "spotify:track:2UUL8S9BKryq83JZPjNgPS",
-      "duration_ms": 254013
-    },
-    {
-      "played_at": "2026-06-30T16:48:45.867Z",
-      "name": "that's how it goes",
-      "artists": [
-        "Asal"
-      ],
-      "album": "Kiss the Sun",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730624cf06fd9d727807d96ffd",
-      "uri": "spotify:track:39bt3rdzrE0g1rX7udDoFD",
-      "duration_ms": 239000
-    },
-    {
-      "played_at": "2026-06-30T16:52:15.588Z",
-      "name": "SLOW DANCING IN THE DARK",
-      "artists": [
-        "Joji"
-      ],
-      "album": "BALLADS 1",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734cc52cd7a712842234e4fce2",
-      "uri": "spotify:track:6rY5FAWxCdAGllYEOZMbjW",
-      "duration_ms": 209273
-    },
-    {
-      "played_at": "2026-06-30T16:57:37.059Z",
-      "name": "Back To Me",
-      "artists": [
-        "The Marías"
-      ],
-      "album": "Back To Me",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a66ab2cbaebcc84ddd45a078",
-      "uri": "spotify:track:4E0P1xs3JNmsNr5c5nFTZJ",
-      "duration_ms": 214800
-    },
-    {
-      "played_at": "2026-06-30T17:01:20.403Z",
-      "name": "Why'd You Only Call Me When You're High?",
-      "artists": [
-        "Arctic Monkeys"
-      ],
-      "album": "AM",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
-      "uri": "spotify:track:086myS9r57YsLbJpU0TgK9",
-      "duration_ms": 161123
-    },
-    {
-      "played_at": "2026-06-30T19:39:00.641Z",
-      "name": "One Night Only",
-      "artists": [
-        "Sonder"
-      ],
-      "album": "One Night Only",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738168b745f4fe9275c6d5fb92",
-      "uri": "spotify:track:74fQgHleHZ4V7Gm1XYcGkj",
-      "duration_ms": 195909
-    },
-    {
-      "played_at": "2026-06-30T19:43:28.150Z",
-      "name": "Like a Tattoo",
-      "artists": [
-        "Sade"
-      ],
-      "album": "Love Deluxe",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
-      "uri": "spotify:track:4PEGwWH4tL6H7dGl4uVSPg",
-      "duration_ms": 218000
-    },
-    {
-      "played_at": "2026-06-30T19:49:30.016Z",
-      "name": "Pink Matter",
-      "artists": [
-        "Frank Ocean",
-        "André 3000"
-      ],
-      "album": "channel ORANGE",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "uri": "spotify:track:1fOkmYW3ZFkkjIdOZSf596",
-      "duration_ms": 268813
-    },
-    {
-      "played_at": "2026-06-30T19:53:21.470Z",
-      "name": "Crisis Evasion",
-      "artists": [
-        "Maz B",
-        "Avenoir"
-      ],
-      "album": "Apollo",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d51f0d8fb16c129232ab32f5",
-      "uri": "spotify:track:590oorGK2QmupDeAGtk1Al",
-      "duration_ms": 154960
-    },
-    {
-      "played_at": "2026-06-30T20:12:11.456Z",
-      "name": "Carita Linda",
-      "artists": [
-        "Rauw Alejandro"
-      ],
-      "album": "Cosa Nuestra: Capítulo 0",
-      "image": "https://i.scdn.co/image/ab67616d0000b273586cde445b4e951ae727c536",
-      "uri": "spotify:track:4Xpt2bVLKFvlL5agz7cBTj",
-      "duration_ms": 203463
-    },
-    {
-      "played_at": "2026-06-30T20:16:25.937Z",
-      "name": "GuabanSexxx",
-      "artists": [
-        "Rauw Alejandro"
-      ],
-      "album": "Cosa Nuestra: Capítulo 0",
-      "image": "https://i.scdn.co/image/ab67616d0000b273586cde445b4e951ae727c536",
-      "uri": "spotify:track:6W2yL4Zfe2WoaSLj7xPJiM",
-      "duration_ms": 161055
-    },
-    {
-      "played_at": "2026-06-30T20:21:08.816Z",
-      "name": "Tú y Yo - Original",
-      "artists": [
-        "La Misma Gente"
-      ],
-      "album": "Grandes Exitos",
-      "image": "https://i.scdn.co/image/ab67616d0000b27319bd6fc581a3fd983da52b3a",
-      "uri": "spotify:track:17LdmV5cIcTvxB0O18tD2Z",
-      "duration_ms": 282331
-    },
-    {
-      "played_at": "2026-06-30T20:23:55.219Z",
-      "name": "Tu Corazón Es Mío...",
-      "artists": [
-        "Kali Uchis"
-      ],
-      "album": "ORQUÍDEAS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b968625b03ec59b30b48e9c3",
-      "uri": "spotify:track:59ak5RmKdyspU26ifSg0rW",
-      "duration_ms": 165845
-    },
-    {
-      "played_at": "2026-06-30T20:30:45.748Z",
-      "name": "Revolú",
-      "artists": [
-        "Rauw Alejandro",
-        "Feid"
-      ],
-      "album": "Cosa Nuestra",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b",
-      "uri": "spotify:track:4lqJsJd7kqWVvamQ4aFHA8",
-      "duration_ms": 215511
-    },
-    {
-      "played_at": "2026-06-30T20:39:34.212Z",
-      "name": "Florida - (Intro)",
-      "artists": [
-        "Valentina Rico"
-      ],
-      "album": "Florida Sunset",
-      "image": "https://i.scdn.co/image/ab67616d0000b27335dc78e0a5e75fb40144a876",
-      "uri": "spotify:track:0HwcjUFHUepCdJW1Jnr6m9",
-      "duration_ms": 109397
-    },
     {
       "played_at": "2026-06-30T20:42:15.317Z",
       "name": "samaná",
@@ -22522,6 +22354,173 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27384aa41ae4889e16ad3c3bff7",
       "uri": "spotify:track:1PHPODXYdkxmU9nkrqLd8y",
       "duration_ms": 200506
+    },
+    {
+      "played_at": "2026-10-30T19:53:19.305Z",
+      "name": "MAH BOI",
+      "artists": [
+        "DDG",
+        "ian"
+      ],
+      "album": "MAH BOI",
+      "image": "https://i.scdn.co/image/ab67616d0000b27321e83ba5ddc1cfca0321458d",
+      "uri": "spotify:track:0I0djV0zAorTXwUeuFVfWx",
+      "duration_ms": 129110
+    },
+    {
+      "played_at": "2026-10-30T19:55:48.008Z",
+      "name": "Around Me",
+      "artists": [
+        "Noodah05"
+      ],
+      "album": "Champion Story",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b08e854fe0a98f55fedeec7e",
+      "uri": "spotify:track:5ozQ7ysuXTpJwbqx7GvoRY",
+      "duration_ms": 153835
+    },
+    {
+      "played_at": "2026-10-30T19:58:06.006Z",
+      "name": "4U",
+      "artists": [
+        "Lil Tecca"
+      ],
+      "album": "PLAN A",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+      "uri": "spotify:track:60SgHjJSxTh7FuJm6E5fTS",
+      "duration_ms": 142987
+    },
+    {
+      "played_at": "2026-10-30T20:55:55.262Z",
+      "name": "kaleidoscope",
+      "artists": [
+        "Exit Dream"
+      ],
+      "album": "kaleidoscope",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb0171fe8af0165d2ba3dfa0",
+      "uri": "spotify:track:6duaflHuOkKVxwwSi8I87E",
+      "duration_ms": 228400
+    },
+    {
+      "played_at": "2026-10-30T20:58:37.837Z",
+      "name": "VOGUE",
+      "artists": [
+        "Lil Tecca"
+      ],
+      "album": "PLAN A",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+      "uri": "spotify:track:3xXDLFPydivY2cb5AUgWOv",
+      "duration_ms": 153014
+    },
+    {
+      "played_at": "2026-10-30T21:02:41.282Z",
+      "name": "BAD TIME",
+      "artists": [
+        "Lil Tecca"
+      ],
+      "album": "PLAN A",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+      "uri": "spotify:track:1D9XWqsoNWIfLEzjHcrgMx",
+      "duration_ms": 210803
+    },
+    {
+      "played_at": "2026-10-30T21:04:54.188Z",
+      "name": "NUMBER 2",
+      "artists": [
+        "Lil Tecca"
+      ],
+      "album": "PLAN A",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+      "uri": "spotify:track:3p1coqZaHyGvFVLb7EmmeE",
+      "duration_ms": 137904
+    },
+    {
+      "played_at": "2026-10-30T21:07:19.391Z",
+      "name": "I CAN’T LET GO",
+      "artists": [
+        "Lil Tecca",
+        "Don Toliver"
+      ],
+      "album": "PLAN A",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+      "uri": "spotify:track:1Ftb0PK0Qqwax3gofiMd2X",
+      "duration_ms": 150204
+    },
+    {
+      "played_at": "2026-10-30T21:10:34.906Z",
+      "name": "What More Can I Say",
+      "artists": [
+        "The Notations"
+      ],
+      "album": "Still Here: 1967-1973",
+      "image": "https://i.scdn.co/image/ab67616d0000b27384aa41ae4889e16ad3c3bff7",
+      "uri": "spotify:track:1PHPODXYdkxmU9nkrqLd8y",
+      "duration_ms": 200506
+    },
+    {
+      "played_at": "2026-10-30T21:12:54.069Z",
+      "name": "Ain't Nobody Else Like You",
+      "artists": [
+        "Cass Elliot"
+      ],
+      "album": "Mama's Big Ones",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731441866921b337b26dd53cff",
+      "uri": "spotify:track:7l5BTHQXkTQxZjc9HyoN3h",
+      "duration_ms": 144160
+    },
+    {
+      "played_at": "2026-10-30T21:21:46.349Z",
+      "name": "Falling In Love",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cry",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
+      "uri": "spotify:track:3g7ngtg7xK3N9nKwAjDfH3",
+      "duration_ms": 245840
+    },
+    {
+      "played_at": "2026-10-30T21:27:49.274Z",
+      "name": "You Know That I Want To",
+      "artists": [
+        "George Michael"
+      ],
+      "album": "Older + Upper",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f909bc19202a1411df502ad6",
+      "uri": "spotify:track:0uXMyGXoNgEe0w53UJNhfe",
+      "duration_ms": 276418
+    },
+    {
+      "played_at": "2026-10-30T21:28:47.360Z",
+      "name": "Sure Thing",
+      "artists": [
+        "Ramonisando"
+      ],
+      "album": "Sure Thing",
+      "image": "https://i.scdn.co/image/ab67616d0000b273388b2c7973e8db9472d6d8ab",
+      "uri": "spotify:track:5KU4a8rDfsoUVkoVYk0COg",
+      "duration_ms": 63000
+    },
+    {
+      "played_at": "2026-10-30T21:32:04.199Z",
+      "name": "Eiji",
+      "artists": [
+        "Shinichi Osawa Works"
+      ],
+      "album": "BANANA FISH Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
+      "uri": "spotify:track:7N2aXwJMrW54Lch4Urn3Ho",
+      "duration_ms": 201933
+    },
+    {
+      "played_at": "2026-10-30T21:34:19.480Z",
+      "name": "Him and Hym",
+      "artists": [
+        "Shinichi Osawa Works"
+      ],
+      "album": "BANANA FISH Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
+      "uri": "spotify:track:4wEoijvnHdqavxmSPkiXcv",
+      "duration_ms": 140200
     }
   ]
 }

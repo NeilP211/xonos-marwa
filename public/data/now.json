@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-30T17:48:30.246Z",
+  "updated_at": "2026-10-30T22:00:07.577Z",
   "is_playing": false,
   "track": {
-    "name": "What More Can I Say",
+    "name": "Him and Hym",
     "artists": [
-      "The Notations"
+      "Shinichi Osawa Works"
     ],
-    "album": "Still Here: 1967-1973",
-    "image": "https://i.scdn.co/image/ab67616d0000b27384aa41ae4889e16ad3c3bff7",
-    "uri": "spotify:track:1PHPODXYdkxmU9nkrqLd8y"
+    "album": "BANANA FISH Original Soundtrack",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
+    "uri": "spotify:track:4wEoijvnHdqavxmSPkiXcv"
   },
-  "played_at": "2026-10-29T23:57:36.483Z"
+  "played_at": "2026-10-30T21:34:19.480Z"
 }
