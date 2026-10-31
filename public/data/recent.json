@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-10-31T16:57:28.510Z",
+  "updated_at": "2026-10-31T21:08:53.619Z",
   "plays": [
-    {
-      "played_at": "2026-06-30T20:42:15.317Z",
-      "name": "samaná",
-      "artists": [
-        "Mau y Ricky",
-        "Danny Ocean",
-        "Yorghaki"
-      ],
-      "album": "samaná",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a606a762d5a93bec654ee9fe",
-      "uri": "spotify:track:3JkqRmM1gWmIZajzcz6lhW",
-      "duration_ms": 160575
-    },
     {
       "played_at": "2026-06-30T20:47:34.860Z",
       "name": "Tú",
@@ -22521,6 +22508,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
       "uri": "spotify:track:4wEoijvnHdqavxmSPkiXcv",
       "duration_ms": 140200
+    },
+    {
+      "played_at": "2026-10-31T20:05:45.174Z",
+      "name": "Aslan",
+      "artists": [
+        "Shinichi Osawa Works"
+      ],
+      "album": "BANANA FISH Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
+      "uri": "spotify:track:5WGIUhbFS6UzpCXpuvDu4Q",
+      "duration_ms": 224840
     }
   ]
 }
