@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T04:34:53.410Z",
+  "generated_at": "2026-10-31T11:50:56.433Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1645,6 +1645,14 @@
         },
         {
           "rank": 34,
+          "name": "Lil Tecca",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
+          "genres": [],
+          "uri": "spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "rank": 35,
           "name": "Rels B",
           "image": "https://i.scdn.co/image/ab6761610000e5eb85c6617e12de3109c04aaf1b",
           "genres": [],
@@ -1652,7 +1660,7 @@
           "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Luis Miguel",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6481401e529e475116702a29",
           "genres": [],
@@ -1660,20 +1668,12 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "The Weeknd",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
           "genres": [],
           "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "rank": 37,
-          "name": "Lil Tecca",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
-          "genres": [],
-          "uri": "spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         },
         {
           "rank": 38,
@@ -1685,6 +1685,14 @@
         },
         {
           "rank": 39,
+          "name": "Shinichi Osawa Works",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
+          "genres": [],
+          "uri": "spotify:artist:4d3dSSG92Bywc1qwtKVOrb",
+          "url": "https://open.spotify.com/artist/4d3dSSG92Bywc1qwtKVOrb"
+        },
+        {
+          "rank": 40,
           "name": "Bruno Romano",
           "image": "https://i.scdn.co/image/ab6761610000e5eb048c29f827a167107701699f",
           "genres": [],
@@ -1692,7 +1700,7 @@
           "url": "https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "A Heartwell Ending",
           "image": "https://i.scdn.co/image/ab6761610000e5eb215ac704a98a95326d62cbad",
           "genres": [],
@@ -1700,7 +1708,7 @@
           "url": "https://open.spotify.com/artist/0F7x26QGWIimVu4XnOiXkA"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Chevelle",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6411cad01afe7d60b448dabc",
           "genres": [],
@@ -1708,7 +1716,7 @@
           "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Silence Wang",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe031c2c433fefe3fd10f5caa",
           "genres": [],
@@ -1716,7 +1724,7 @@
           "url": "https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Menny Flores",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbb7c35cc0701c97917699796",
           "genres": [],
@@ -1724,7 +1732,7 @@
           "url": "https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "LAGOS",
           "image": "https://i.scdn.co/image/ab6761610000e5eb03101ae60c19568d1842ad8d",
           "genres": [],
@@ -1732,7 +1740,7 @@
           "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Morad",
           "image": "https://i.scdn.co/image/ab6761610000e5ebad6c5175ba73bba50f96c193",
           "genres": [],
@@ -1740,7 +1748,7 @@
           "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Willie Colón",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4934a2c42935c770bb3ee1af",
           "genres": [],
@@ -1748,7 +1756,7 @@
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "La Isla Centeno",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf55def158ecb9a2b89f5e0bd",
           "genres": [],
@@ -1756,7 +1764,7 @@
           "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Zhou Shen",
           "image": "https://i.scdn.co/image/ab6761610000e5eb555f21234ccc27d609c6f000",
           "genres": [],
@@ -1764,20 +1772,12 @@
           "url": "https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Design19",
           "image": "https://i.scdn.co/image/ab6761610000e5eb431e39cb35bd71a7fa6f1792",
           "genres": [],
           "uri": "spotify:artist:3U09lzgkM9iGAHE1ESbRO8",
           "url": "https://open.spotify.com/artist/3U09lzgkM9iGAHE1ESbRO8"
-        },
-        {
-          "rank": 50,
-          "name": "Sawano Hiroyuki",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb7bd33413d188115f3d40e8e1",
-          "genres": [],
-          "uri": "spotify:artist:0Riv2KnFcLZA3JSVryRg4y",
-          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ]
     },
