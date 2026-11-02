@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T00:22:30.554Z",
+  "generated_at": "2026-11-02T10:39:59.032Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -588,6 +588,18 @@
         },
         {
           "rank": 49,
+          "name": "wish",
+          "artists": [
+            "Ailey Rain"
+          ],
+          "album": "wish",
+          "image": "https://i.scdn.co/image/ab67616d0000b27378c1ba700456ba2b41db23d5",
+          "uri": "spotify:track:0Tqls9lDjD3xV3RClpXsrd",
+          "url": "https://open.spotify.com/track/0Tqls9lDjD3xV3RClpXsrd",
+          "duration_ms": 168175
+        },
+        {
+          "rank": 50,
           "name": "これを依存と呼ぶなら",
           "artists": [
             "MEJIBRAY"
@@ -597,18 +609,6 @@
           "uri": "spotify:track:1Oe45Ze9SwanHB2vL7gY9H",
           "url": "https://open.spotify.com/track/1Oe45Ze9SwanHB2vL7gY9H",
           "duration_ms": 340346
-        },
-        {
-          "rank": 50,
-          "name": "What More Can I Say",
-          "artists": [
-            "The Notations"
-          ],
-          "album": "Still Here: 1967-1973",
-          "image": "https://i.scdn.co/image/ab67616d0000b27384aa41ae4889e16ad3c3bff7",
-          "uri": "spotify:track:1PHPODXYdkxmU9nkrqLd8y",
-          "url": "https://open.spotify.com/track/1PHPODXYdkxmU9nkrqLd8y",
-          "duration_ms": 200506
         }
       ],
       "artists": [
@@ -938,6 +938,18 @@
         },
         {
           "rank": 14,
+          "name": "Death Of An Executioner",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
+          "url": "https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp",
+          "duration_ms": 267800
+        },
+        {
+          "rank": 15,
           "name": "Red Swan",
           "artists": [
             "YOSHIKI",
@@ -950,7 +962,7 @@
           "duration_ms": 263720
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Soft Spot",
           "artists": [
             "keshi"
@@ -960,18 +972,6 @@
           "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
           "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7",
           "duration_ms": 204223
-        },
-        {
-          "rank": 16,
-          "name": "Death Of An Executioner",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
-          "url": "https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp",
-          "duration_ms": 267800
         },
         {
           "rank": 17,
@@ -1143,6 +1143,18 @@
         },
         {
           "rank": 31,
+          "name": "Pass The Nirvana",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:7I93h9I0RUqt1ci3Bfa290",
+          "url": "https://open.spotify.com/track/7I93h9I0RUqt1ci3Bfa290",
+          "duration_ms": 197373
+        },
+        {
+          "rank": 32,
           "name": "Después de ti",
           "artists": [
             "KAROL G",
@@ -1155,7 +1167,7 @@
           "duration_ms": 268996
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "If Looks Could Kill",
           "artists": [
             "A Heartwell Ending"
@@ -1165,18 +1177,6 @@
           "uri": "spotify:track:39hptpYkIM29T7Ys4icPTj",
           "url": "https://open.spotify.com/track/39hptpYkIM29T7Ys4icPTj",
           "duration_ms": 205560
-        },
-        {
-          "rank": 33,
-          "name": "Pass The Nirvana",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:7I93h9I0RUqt1ci3Bfa290",
-          "url": "https://open.spotify.com/track/7I93h9I0RUqt1ci3Bfa290",
-          "duration_ms": 197373
         },
         {
           "rank": 34,
@@ -1621,6 +1621,14 @@
         },
         {
           "rank": 30,
+          "name": "Lil Tecca",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
+          "genres": [],
+          "uri": "spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "rank": 31,
           "name": "Maluma",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1b0d196ca84f4a0d076b4570",
           "genres": [],
@@ -1628,7 +1636,7 @@
           "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Romeo Santos",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
           "genres": [],
@@ -1636,7 +1644,7 @@
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Manuel Lizarazo",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8dcc84acf5e98c1dbeed63e8",
           "genres": [],
@@ -1644,20 +1652,12 @@
           "url": "https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC"
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Paramore",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
           "genres": [],
           "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF",
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        },
-        {
-          "rank": 34,
-          "name": "Lil Tecca",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
-          "genres": [],
-          "uri": "spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         },
         {
           "rank": 35,
@@ -1717,6 +1717,14 @@
         },
         {
           "rank": 42,
+          "name": "Morad",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebad6c5175ba73bba50f96c193",
+          "genres": [],
+          "uri": "spotify:artist:4az97MtWmBQ5Db3GfDh9j9",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "rank": 43,
           "name": "Chevelle",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6411cad01afe7d60b448dabc",
           "genres": [],
@@ -1724,7 +1732,7 @@
           "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Silence Wang",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe031c2c433fefe3fd10f5caa",
           "genres": [],
@@ -1732,7 +1740,7 @@
           "url": "https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Menny Flores",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbb7c35cc0701c97917699796",
           "genres": [],
@@ -1740,7 +1748,7 @@
           "url": "https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "LAGOS",
           "image": "https://i.scdn.co/image/ab6761610000e5eb03101ae60c19568d1842ad8d",
           "genres": [],
@@ -1748,20 +1756,12 @@
           "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "SiM",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9440359244a4a5f38e526001",
           "genres": [],
           "uri": "spotify:artist:2BM933ADIluGGrPBOhPgIt",
           "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
-        },
-        {
-          "rank": 47,
-          "name": "Morad",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebad6c5175ba73bba50f96c193",
-          "genres": [],
-          "uri": "spotify:artist:4az97MtWmBQ5Db3GfDh9j9",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         },
         {
           "rank": 48,
