@@ -1,173 +1,6 @@
 {
-  "updated_at": "2026-11-01T19:24:04.598Z",
+  "updated_at": "2026-11-02T00:22:30.770Z",
   "plays": [
-    {
-      "played_at": "2026-06-30T20:47:34.860Z",
-      "name": "Tú",
-      "artists": [
-        "maye"
-      ],
-      "album": "Tú",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e535e8147235d96bb734ba41",
-      "uri": "spotify:track:1jecO8NeYLsVWVptITz4c1",
-      "duration_ms": 206611
-    },
-    {
-      "played_at": "2026-06-30T20:55:36.674Z",
-      "name": "Si Me Voy (with The Marías)",
-      "artists": [
-        "Cuco",
-        "The Marías"
-      ],
-      "album": "Si Me Voy (with The Marías)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27314a012da5638f895eaefffa5",
-      "uri": "spotify:track:6GiCszfL4D2GlCU8tFU3sR",
-      "duration_ms": 203219
-    },
-    {
-      "played_at": "2026-06-30T22:11:13.059Z",
-      "name": "505",
-      "artists": [
-        "Arctic Monkeys"
-      ],
-      "album": "Favourite Worst Nightmare (Standard Version)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90",
-      "uri": "spotify:track:58ge6dfP91o9oXMzq3XkIS",
-      "duration_ms": 253586
-    },
-    {
-      "played_at": "2026-07-02T14:36:21.256Z",
-      "name": "IT's You (YEOSANG, SAN, WOOYOUNG)",
-      "artists": [
-        "ATEEZ"
-      ],
-      "album": "THE WORLD EP.FIN : WILL",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fb0dc2a2a2017bb36fce34a0",
-      "uri": "spotify:track:7B8BU9kWRWUVSppWQGdgiz",
-      "duration_ms": 209538
-    },
-    {
-      "played_at": "2026-07-04T02:46:16.914Z",
-      "name": "PARA oLviDarTe",
-      "artists": [
-        "Joey V Mendez"
-      ],
-      "album": "PARA oLviDarTe",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a16008540f06c59ff2476844",
-      "uri": "spotify:track:6QYVMsyLobnHZasFDC4d93",
-      "duration_ms": 182298
-    },
-    {
-      "played_at": "2026-07-04T11:08:21.157Z",
-      "name": "PARA oLviDarTe",
-      "artists": [
-        "Joey V Mendez"
-      ],
-      "album": "PARA oLviDarTe",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a16008540f06c59ff2476844",
-      "uri": "spotify:track:6QYVMsyLobnHZasFDC4d93",
-      "duration_ms": 182298
-    },
-    {
-      "played_at": "2026-07-07T13:19:44.627Z",
-      "name": "Deslocado",
-      "artists": [
-        "NAPA"
-      ],
-      "album": "Deslocado",
-      "image": "https://i.scdn.co/image/ab67616d0000b273836edb90093bc743598aa54d",
-      "uri": "spotify:track:31CsSZ9KlQmEu0JvWSkM3j",
-      "duration_ms": 179996
-    },
-    {
-      "played_at": "2026-07-07T13:23:29.717Z",
-      "name": "Hoy El Aire Huele a Ti",
-      "artists": [
-        "Luis Miguel"
-      ],
-      "album": "20 Años",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e6cab0ffee915cdbe7c7d85a",
-      "uri": "spotify:track:2ZYvD9zQf1iBLelkgkUl7U",
-      "duration_ms": 224493
-    },
-    {
-      "played_at": "2026-07-07T13:33:38.724Z",
-      "name": "Virgen",
-      "artists": [
-        "Adolescent's Orquesta"
-      ],
-      "album": "Ahora Más Que Nunca",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c30c9fc1d43d8e1ca14ecbe6",
-      "uri": "spotify:track:5HCGrYR7g9u2X9Ju83yQLm",
-      "duration_ms": 271751
-    },
-    {
-      "played_at": "2026-07-07T13:40:55.394Z",
-      "name": "Chica de Verde",
-      "artists": [
-        "Bruno Romano",
-        "Elisa González"
-      ],
-      "album": "Chica de Verde",
-      "image": "https://i.scdn.co/image/ab67616d0000b273da9eccf72a3e9d55e41db1f4",
-      "uri": "spotify:track:6ZxsJwY5QgN6R0mRBYWrHf",
-      "duration_ms": 225694
-    },
-    {
-      "played_at": "2026-07-07T13:53:49.039Z",
-      "name": "Tu Con El",
-      "artists": [
-        "Frankie Ruiz"
-      ],
-      "album": "Nacimiento Y Recuerdos",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ac2480ea9c662472dcfd3e19",
-      "uri": "spotify:track:6cHHrFD3fmBG9MR3k8kvep",
-      "duration_ms": 302373
-    },
-    {
-      "played_at": "2026-07-07T13:58:43.548Z",
-      "name": "Sin Sentimientos",
-      "artists": [
-        "Grupo Niche"
-      ],
-      "album": "The Best",
-      "image": "https://i.scdn.co/image/ab67616d0000b27351c9409f7962e3aee55c74c6",
-      "uri": "spotify:track:4ubwzNjqHGaZZ5k06PDx1H",
-      "duration_ms": 293893
-    },
-    {
-      "played_at": "2026-07-07T14:07:00.938Z",
-      "name": "El Gran Varon",
-      "artists": [
-        "Willie Colón"
-      ],
-      "album": "Legal Alien - Top Secrets",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343592161a15d2c47d51e8996",
-      "uri": "spotify:track:3TyMFBLPobtMaH8oeY0sMP",
-      "duration_ms": 414380
-    },
-    {
-      "played_at": "2026-07-07T14:11:35.573Z",
-      "name": "Virgen",
-      "artists": [
-        "Adolescent's Orquesta"
-      ],
-      "album": "La Historia... Los Éxitos",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fb433733c10ebc43787e4ea7",
-      "uri": "spotify:track:1HWbpfmzt1YplLceHgirCv",
-      "duration_ms": 273763
-    },
-    {
-      "played_at": "2026-07-07T14:17:49.840Z",
-      "name": "Deseándote",
-      "artists": [
-        "Frankie Ruiz"
-      ],
-      "album": "Frankie Ruiz La Leyenda",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
-      "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
-      "duration_ms": 281333
-    },
     {
       "played_at": "2026-07-07T14:40:21.273Z",
       "name": "Que Locura Enamorarme De Ti",
@@ -22519,6 +22352,184 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
       "uri": "spotify:track:5WGIUhbFS6UzpCXpuvDu4Q",
       "duration_ms": 224840
+    },
+    {
+      "played_at": "2026-11-01T22:07:53.560Z",
+      "name": "MAH BOI",
+      "artists": [
+        "DDG",
+        "ian"
+      ],
+      "album": "MAH BOI",
+      "image": "https://i.scdn.co/image/ab67616d0000b27321e83ba5ddc1cfca0321458d",
+      "uri": "spotify:track:0I0djV0zAorTXwUeuFVfWx",
+      "duration_ms": 129110
+    },
+    {
+      "played_at": "2026-11-01T22:20:17.828Z",
+      "name": "Death Of An Executioner",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
+      "duration_ms": 267800
+    },
+    {
+      "played_at": "2026-11-01T22:28:49.631Z",
+      "name": "Body - Remix",
+      "artists": [
+        "Eladio Carrion",
+        "Rauw Alejandro",
+        "De La Rose"
+      ],
+      "album": "Body (Remix)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335c5eb9d5a41e0088b7e500d",
+      "uri": "spotify:track:0jELnO3Z7O05HMMCUF9GBK",
+      "duration_ms": 234240
+    },
+    {
+      "played_at": "2026-11-01T22:31:49.504Z",
+      "name": "Roulin",
+      "artists": [
+        "ELENA ROSE",
+        "Eladio Carrion"
+      ],
+      "album": "Bendito Verano",
+      "image": "https://i.scdn.co/image/ab67616d0000b27353115ce7e31e24692020c381",
+      "uri": "spotify:track:4CW60MJtsp5GckOQLcC2NK",
+      "duration_ms": 179354
+    },
+    {
+      "played_at": "2026-11-01T22:35:23.257Z",
+      "name": "MONSTRUO",
+      "artists": [
+        "Tainy",
+        "Feid"
+      ],
+      "album": "MONSTRUO",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733ac5f201998caabb651ce4eb",
+      "uri": "spotify:track:2ToF4unFUMMKGfu7KYhy1j",
+      "duration_ms": 213430
+    },
+    {
+      "played_at": "2026-11-01T22:38:46.086Z",
+      "name": "Aquel diciembre",
+      "artists": [
+        "Young Miko",
+        "Rauw Alejandro"
+      ],
+      "album": "Do Not Disturb: Late Checkout",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c8aeb68e2d5cb49ede9fe55",
+      "uri": "spotify:track:6A2VAtuRu5p5LymL4RSCBG",
+      "duration_ms": 202413
+    },
+    {
+      "played_at": "2026-11-01T22:42:52.277Z",
+      "name": "Update",
+      "artists": [
+        "Yan Block",
+        "Conep"
+      ],
+      "album": "Update",
+      "image": "https://i.scdn.co/image/ab67616d0000b273929f1dbcde03401b4970f896",
+      "uri": "spotify:track:3efihPV82Lr24Ow6nw5P6m",
+      "duration_ms": 245760
+    },
+    {
+      "played_at": "2026-11-01T22:47:14.426Z",
+      "name": "Andando",
+      "artists": [
+        "Morad",
+        "Eladio Carrion",
+        "Beny Jr"
+      ],
+      "album": "Reinsertado",
+      "image": "https://i.scdn.co/image/ab67616d0000b27385b5cc77602eea1c4d25e1fd",
+      "uri": "spotify:track:2AG1Rn7k5OPiiylRoGkOq2",
+      "duration_ms": 261714
+    },
+    {
+      "played_at": "2026-11-01T22:51:22.728Z",
+      "name": "Kyoto",
+      "artists": [
+        "Omar Courtz",
+        "De La Rose",
+        "Haze"
+      ],
+      "album": "Kyoto",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737da4895c8715a196147ee168",
+      "uri": "spotify:track:7eNwwoxDR8KVzNAuGvliAO",
+      "duration_ms": 247840
+    },
+    {
+      "played_at": "2026-11-01T22:55:59.158Z",
+      "name": "De Lejitos - Remix",
+      "artists": [
+        "Jay Wheeler",
+        "Omar Courtz"
+      ],
+      "album": "La Voz Favorita",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c132fb4ba462a3859c4f2ff3",
+      "uri": "spotify:track:5dgREmLlxVJn6h8U0CofEo",
+      "duration_ms": 276000
+    },
+    {
+      "played_at": "2026-11-01T22:58:40.645Z",
+      "name": "MAH BOI",
+      "artists": [
+        "DDG",
+        "ian"
+      ],
+      "album": "MAH BOI",
+      "image": "https://i.scdn.co/image/ab67616d0000b27321e83ba5ddc1cfca0321458d",
+      "uri": "spotify:track:0I0djV0zAorTXwUeuFVfWx",
+      "duration_ms": 129110
+    },
+    {
+      "played_at": "2026-11-01T23:01:14.929Z",
+      "name": "Around Me",
+      "artists": [
+        "Noodah05"
+      ],
+      "album": "Champion Story",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b08e854fe0a98f55fedeec7e",
+      "uri": "spotify:track:5ozQ7ysuXTpJwbqx7GvoRY",
+      "duration_ms": 153835
+    },
+    {
+      "played_at": "2026-11-01T23:03:38.334Z",
+      "name": "4U",
+      "artists": [
+        "Lil Tecca"
+      ],
+      "album": "PLAN A",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+      "uri": "spotify:track:60SgHjJSxTh7FuJm6E5fTS",
+      "duration_ms": 142987
+    },
+    {
+      "played_at": "2026-11-01T23:07:27.250Z",
+      "name": "kaleidoscope",
+      "artists": [
+        "Exit Dream"
+      ],
+      "album": "kaleidoscope",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb0171fe8af0165d2ba3dfa0",
+      "uri": "spotify:track:6duaflHuOkKVxwwSi8I87E",
+      "duration_ms": 228400
+    },
+    {
+      "played_at": "2026-11-02T00:09:27.968Z",
+      "name": "wish",
+      "artists": [
+        "Ailey Rain"
+      ],
+      "album": "wish",
+      "image": "https://i.scdn.co/image/ab67616d0000b27378c1ba700456ba2b41db23d5",
+      "uri": "spotify:track:0Tqls9lDjD3xV3RClpXsrd",
+      "duration_ms": 168175
     }
   ]
 }
