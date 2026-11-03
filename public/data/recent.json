@@ -1,63 +1,6 @@
 {
-  "updated_at": "2026-11-03T05:44:58.316Z",
+  "updated_at": "2026-11-03T13:46:56.091Z",
   "plays": [
-    {
-      "played_at": "2026-07-08T19:46:32.125Z",
-      "name": "Perceive",
-      "artists": [
-        "Pino"
-      ],
-      "album": "Perceive",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bfd9dd1067f2b97fa5bf612b",
-      "uri": "spotify:track:5LiKEur61m7wGv8V8h5Y2v",
-      "duration_ms": 213861
-    },
-    {
-      "played_at": "2026-07-08T19:51:51.233Z",
-      "name": "Mascara",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Around the Fur",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
-      "uri": "spotify:track:4cLdpErILMO8Db8pQVAVcZ",
-      "duration_ms": 225293
-    },
-    {
-      "played_at": "2026-07-08T19:58:39.062Z",
-      "name": "Yours",
-      "artists": [
-        "maye"
-      ],
-      "album": "Yours",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730aedc3771cdda7f51002b8c4",
-      "uri": "spotify:track:0gmStTUTuiU807EB4KafOX",
-      "duration_ms": 220887
-    },
-    {
-      "played_at": "2026-07-08T20:05:05.307Z",
-      "name": "A Night To Remember",
-      "artists": [
-        "beabadoobee",
-        "Laufey"
-      ],
-      "album": "A Night To Remember",
-      "image": "https://i.scdn.co/image/ab67616d0000b27303ea1900840b8804f779f7b3",
-      "uri": "spotify:track:180AbZduI6bYQIzwCHRwu9",
-      "duration_ms": 233388
-    },
-    {
-      "played_at": "2026-07-08T20:10:45.648Z",
-      "name": "Red Swan",
-      "artists": [
-        "YOSHIKI",
-        "HYDE"
-      ],
-      "album": "Red Swan",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
-      "uri": "spotify:track:0zvN9oq95bIEQjvfcdeZlX",
-      "duration_ms": 263720
-    },
     {
       "played_at": "2026-07-08T20:14:10.706Z",
       "name": "Soft Spot",
@@ -22534,6 +22477,61 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732c0d3921b0c7e3c24ab728be",
       "uri": "spotify:track:5DG0yA1huMq33bYM1anYg5",
       "duration_ms": 227001
+    },
+    {
+      "played_at": "2026-11-02T17:20:23.965Z",
+      "name": "Cadenza",
+      "artists": [
+        "Fukuro"
+      ],
+      "album": "\"Fukuro no Mori\"",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da8d3eebaadbfca344331ff2",
+      "uri": "spotify:track:3jM4TX2BUa1c7rCP1DzK99",
+      "duration_ms": 230342
+    },
+    {
+      "played_at": "2026-11-03T06:06:49.270Z",
+      "name": "Pourriture noble",
+      "artists": [
+        "Kaya"
+      ],
+      "album": "GLITTER",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b46c2deac5ff3ddb5a71788d",
+      "uri": "spotify:track:6mBcNhFJjc6c17C7QiLKgz",
+      "duration_ms": 292031
+    },
+    {
+      "played_at": "2026-11-03T06:12:42.562Z",
+      "name": "極東の恋人",
+      "artists": [
+        "LAREINE"
+      ],
+      "album": "Winter Romantic",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735f94208beab6ffce4d49fc0f",
+      "uri": "spotify:track:3hBXG8J66iEOvhcQeK6DXP",
+      "duration_ms": 339546
+    },
+    {
+      "played_at": "2026-11-03T06:22:03.970Z",
+      "name": "薔薇は美しく散る",
+      "artists": [
+        "LAREINE"
+      ],
+      "album": "LILLILLIE CHARLOTTE within MetamorphoseLIE CHARLOTTE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731bf4be602ae37d924bba5f4c",
+      "uri": "spotify:track:6RhRXYnuXBiGWgqhGQGqz8",
+      "duration_ms": 211026
+    },
+    {
+      "played_at": "2026-11-03T09:22:28.494Z",
+      "name": "Marionette",
+      "artists": [
+        "Kaya"
+      ],
+      "album": "Nocturne",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8952eafa7e836b21fa9d7ff",
+      "uri": "spotify:track:6yrpCHRQ3ToeqhuT9L1il9",
+      "duration_ms": 233525
     }
   ]
 }

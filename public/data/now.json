@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-03T05:44:58.422Z",
+  "updated_at": "2026-11-03T13:46:56.192Z",
   "is_playing": false,
   "track": {
-    "name": "Sono toki made sayonara",
+    "name": "Marionette",
     "artists": [
-      "glamscure"
+      "Kaya"
     ],
-    "album": "Succubus≒incubuS",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732c0d3921b0c7e3c24ab728be",
-    "uri": "spotify:track:5DG0yA1huMq33bYM1anYg5"
+    "album": "Nocturne",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c8952eafa7e836b21fa9d7ff",
+    "uri": "spotify:track:6yrpCHRQ3ToeqhuT9L1il9"
   },
-  "played_at": "2026-11-02T16:00:29.503Z"
+  "played_at": "2026-11-03T09:22:28.494Z"
 }

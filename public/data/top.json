@@ -1,22 +1,10 @@
 {
-  "generated_at": "2026-11-03T05:44:58.225Z",
+  "generated_at": "2026-11-03T13:46:55.904Z",
   "ranges": {
     "short_term": {
       "tracks": [
         {
           "rank": 1,
-          "name": "極東の恋人",
-          "artists": [
-            "LAREINE"
-          ],
-          "album": "Winter Romantic",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735f94208beab6ffce4d49fc0f",
-          "uri": "spotify:track:3hBXG8J66iEOvhcQeK6DXP",
-          "url": "https://open.spotify.com/track/3hBXG8J66iEOvhcQeK6DXP",
-          "duration_ms": 339546
-        },
-        {
-          "rank": 2,
           "name": "Pourriture noble",
           "artists": [
             "Kaya"
@@ -26,6 +14,18 @@
           "uri": "spotify:track:6mBcNhFJjc6c17C7QiLKgz",
           "url": "https://open.spotify.com/track/6mBcNhFJjc6c17C7QiLKgz",
           "duration_ms": 292031
+        },
+        {
+          "rank": 2,
+          "name": "極東の恋人",
+          "artists": [
+            "LAREINE"
+          ],
+          "album": "Winter Romantic",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735f94208beab6ffce4d49fc0f",
+          "uri": "spotify:track:3hBXG8J66iEOvhcQeK6DXP",
+          "url": "https://open.spotify.com/track/3hBXG8J66iEOvhcQeK6DXP",
+          "duration_ms": 339546
         },
         {
           "rank": 3,
@@ -288,6 +288,18 @@
         },
         {
           "rank": 24,
+          "name": "これを依存と呼ぶなら",
+          "artists": [
+            "MEJIBRAY"
+          ],
+          "album": "Slivers.exe",
+          "image": "https://i.scdn.co/image/ab67616d0000b273abf5c64f5c5a9a9bb204d5b9",
+          "uri": "spotify:track:1Oe45Ze9SwanHB2vL7gY9H",
+          "url": "https://open.spotify.com/track/1Oe45Ze9SwanHB2vL7gY9H",
+          "duration_ms": 340346
+        },
+        {
+          "rank": 25,
           "name": "Even When I’m Not With You",
           "artists": [
             "Pierce The Veil"
@@ -299,7 +311,7 @@
           "duration_ms": 174146
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Stairs",
           "artists": [
             "Design19"
@@ -311,7 +323,7 @@
           "duration_ms": 236560
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Perverted Martyr",
           "artists": [
             "Femme Fatale"
@@ -323,7 +335,7 @@
           "duration_ms": 232128
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Falling Away from Me",
           "artists": [
             "Korn"
@@ -335,7 +347,7 @@
           "duration_ms": 270920
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Around Me",
           "artists": [
             "Noodah05"
@@ -347,7 +359,7 @@
           "duration_ms": 153835
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Kiss Me Now",
           "artists": [
             "Pierce The Veil"
@@ -357,18 +369,6 @@
           "uri": "spotify:track:6yT9iNKt8fQoYpQkbWc7YR",
           "url": "https://open.spotify.com/track/6yT9iNKt8fQoYpQkbWc7YR",
           "duration_ms": 256268
-        },
-        {
-          "rank": 30,
-          "name": "これを依存と呼ぶなら",
-          "artists": [
-            "MEJIBRAY"
-          ],
-          "album": "Slivers.exe",
-          "image": "https://i.scdn.co/image/ab67616d0000b273abf5c64f5c5a9a9bb204d5b9",
-          "uri": "spotify:track:1Oe45Ze9SwanHB2vL7gY9H",
-          "url": "https://open.spotify.com/track/1Oe45Ze9SwanHB2vL7gY9H",
-          "duration_ms": 340346
         },
         {
           "rank": 31,
@@ -796,6 +796,14 @@
           "genres": [],
           "uri": "spotify:artist:5O4DsTkJ6z2eTSvIHZ6sDo",
           "url": "https://open.spotify.com/artist/5O4DsTkJ6z2eTSvIHZ6sDo"
+        },
+        {
+          "rank": 24,
+          "name": "Fukuro",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6d15f58710ecab2f0bb571ab",
+          "genres": [],
+          "uri": "spotify:artist:6G4xErlRWfs1ReVqZvsjh6",
+          "url": "https://open.spotify.com/artist/6G4xErlRWfs1ReVqZvsjh6"
         }
       ]
     },
