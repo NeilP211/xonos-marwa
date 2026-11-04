@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T01:04:47.165Z",
+  "generated_at": "2026-11-04T10:35:11.465Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1621,6 +1621,14 @@
         },
         {
           "rank": 27,
+          "name": "TUL8TE",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
+          "genres": [],
+          "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        },
+        {
+          "rank": 28,
           "name": "Lil Tecca",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
           "genres": [],
@@ -1628,7 +1636,7 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "My Chemical Romance",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0c55e74e435910793888f7cf",
           "genres": [],
@@ -1636,7 +1644,7 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Maluma",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1b0d196ca84f4a0d076b4570",
           "genres": [],
@@ -1644,20 +1652,12 @@
           "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Romeo Santos",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
           "genres": [],
           "uri": "spotify:artist:5lwmRuXgjX8xIwlnauTZIP",
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "rank": 31,
-          "name": "TUL8TE",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
-          "genres": [],
-          "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
-          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
         },
         {
           "rank": 32,
@@ -1976,18 +1976,6 @@
         },
         {
           "rank": 14,
-          "name": "Soft Spot",
-          "artists": [
-            "keshi"
-          ],
-          "album": "Requiem",
-          "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
-          "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
-          "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7",
-          "duration_ms": 204223
-        },
-        {
-          "rank": 15,
           "name": "Virgen",
           "artists": [
             "Adolescent's Orquesta"
@@ -1999,7 +1987,7 @@
           "duration_ms": 273763
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Uzunlar - V1",
           "artists": [
             "Evdeki Saat"
@@ -2011,19 +1999,19 @@
           "duration_ms": 282352
         },
         {
-          "rank": 17,
-          "name": "Ay No Puedo",
+          "rank": 16,
+          "name": "Soft Spot",
           "artists": [
-            "The Marías"
+            "keshi"
           ],
-          "album": "Submarine",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831",
-          "uri": "spotify:track:3L0JDlycMhSA7R0M0OfNIY",
-          "url": "https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY",
-          "duration_ms": 181546
+          "album": "Requiem",
+          "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
+          "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
+          "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7",
+          "duration_ms": 204223
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Chica de Verde",
           "artists": [
             "Bruno Romano",
@@ -2036,7 +2024,7 @@
           "duration_ms": 225694
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "VeLDÁ",
           "artists": [
             "Bad Bunny",
@@ -2050,7 +2038,7 @@
           "duration_ms": 235336
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Hold On Till May",
           "artists": [
             "Pierce The Veil",
@@ -2061,6 +2049,18 @@
           "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
           "url": "https://open.spotify.com/track/5u2FOoFhp495GIj5BJC77J",
           "duration_ms": 278586
+        },
+        {
+          "rank": 20,
+          "name": "Ay No Puedo",
+          "artists": [
+            "The Marías"
+          ],
+          "album": "Submarine",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831",
+          "uri": "spotify:track:3L0JDlycMhSA7R0M0OfNIY",
+          "url": "https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY",
+          "duration_ms": 181546
         },
         {
           "rank": 21,
@@ -2238,18 +2238,6 @@
         },
         {
           "rank": 35,
-          "name": "Mucho Corazón",
-          "artists": [
-            "Luis Miguel"
-          ],
-          "album": "Romance",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bda5c1e56bf06c3c7fc173f7",
-          "uri": "spotify:track:5C1HYHG6b1wk9MpC2UP9C6",
-          "url": "https://open.spotify.com/track/5C1HYHG6b1wk9MpC2UP9C6",
-          "duration_ms": 203733
-        },
-        {
-          "rank": 36,
           "name": "Ana Mosh Anani",
           "artists": [
             "Amr Diab"
@@ -2261,7 +2249,7 @@
           "duration_ms": 289959
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Reggaeton",
           "artists": [
             "J Balvin"
@@ -2273,7 +2261,7 @@
           "duration_ms": 158800
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Ice On My Teeth",
           "artists": [
             "ATEEZ"
@@ -2285,7 +2273,7 @@
           "duration_ms": 183494
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "Beso",
           "artists": [
             "Jósean Log"
@@ -2297,7 +2285,7 @@
           "duration_ms": 211021
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "Sustum",
           "artists": [
             "Evdeki Saat"
@@ -2307,6 +2295,18 @@
           "uri": "spotify:track:23zRxgamz0Ur4mFDhvOmlb",
           "url": "https://open.spotify.com/track/23zRxgamz0Ur4mFDhvOmlb",
           "duration_ms": 212250
+        },
+        {
+          "rank": 40,
+          "name": "Mucho Corazón",
+          "artists": [
+            "Luis Miguel"
+          ],
+          "album": "Romance",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bda5c1e56bf06c3c7fc173f7",
+          "uri": "spotify:track:5C1HYHG6b1wk9MpC2UP9C6",
+          "url": "https://open.spotify.com/track/5C1HYHG6b1wk9MpC2UP9C6",
+          "duration_ms": 203733
         },
         {
           "rank": 41,
@@ -2322,18 +2322,6 @@
         },
         {
           "rank": 42,
-          "name": "Tamally Maak",
-          "artists": [
-            "Amr Diab"
-          ],
-          "album": "Tamally Maak",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-          "uri": "spotify:track:6TYFcqqQVQPb3YsgfRhvqs",
-          "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
-          "duration_ms": 269232
-        },
-        {
-          "rank": 43,
           "name": "Anlatamam",
           "artists": [
             "Toygar Işıklı"
@@ -2345,7 +2333,7 @@
           "duration_ms": 132550
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "Art of War",
           "artists": [
             "Avenoir"
@@ -2357,7 +2345,7 @@
           "duration_ms": 126973
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "BAILE INoLVIDABLE",
           "artists": [
             "Bad Bunny"
@@ -2369,7 +2357,7 @@
           "duration_ms": 367725
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "要不然我們就這樣一萬年",
           "artists": [
             "黃霄雲"
@@ -2381,7 +2369,7 @@
           "duration_ms": 284710
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "WELTiTA",
           "artists": [
             "Bad Bunny",
@@ -2392,6 +2380,18 @@
           "uri": "spotify:track:5WEF0icHWmAZBBMglBd599",
           "url": "https://open.spotify.com/track/5WEF0icHWmAZBBMglBd599",
           "duration_ms": 187507
+        },
+        {
+          "rank": 47,
+          "name": "Tamally Maak",
+          "artists": [
+            "Amr Diab"
+          ],
+          "album": "Tamally Maak",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+          "uri": "spotify:track:6TYFcqqQVQPb3YsgfRhvqs",
+          "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
+          "duration_ms": 269232
         },
         {
           "rank": 48,
@@ -2617,6 +2617,14 @@
         },
         {
           "rank": 24,
+          "name": "TUL8TE",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
+          "genres": [],
+          "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        },
+        {
+          "rank": 25,
           "name": "ATEEZ",
           "image": "https://i.scdn.co/image/ab6761610000e5eb630859e6682cfa878243bacc",
           "genres": [],
@@ -2624,7 +2632,7 @@
           "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -2632,7 +2640,7 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Romeo Santos",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
           "genres": [],
@@ -2640,20 +2648,12 @@
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Pantoja",
           "image": "https://i.scdn.co/image/ab6761610000e5eb79c5add7566fcc23528512b1",
           "genres": [],
           "uri": "spotify:artist:1sSMrejChoHWBnCe7w6fKc",
           "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
-        },
-        {
-          "rank": 28,
-          "name": "TUL8TE",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
-          "genres": [],
-          "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
-          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
         },
         {
           "rank": 29,
