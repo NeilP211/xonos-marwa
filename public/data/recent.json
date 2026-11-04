@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-03T20:48:16.824Z",
+  "updated_at": "2026-11-04T01:04:47.294Z",
   "plays": [
-    {
-      "played_at": "2026-07-08T20:14:10.706Z",
-      "name": "Soft Spot",
-      "artists": [
-        "keshi"
-      ],
-      "album": "Requiem",
-      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
-      "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
-      "duration_ms": 204223
-    },
     {
       "played_at": "2026-07-08T20:17:33.770Z",
       "name": "bittersweet",
@@ -22532,6 +22521,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c8952eafa7e836b21fa9d7ff",
       "uri": "spotify:track:6yrpCHRQ3ToeqhuT9L1il9",
       "duration_ms": 233525
+    },
+    {
+      "played_at": "2026-11-03T22:39:44.102Z",
+      "name": "Garee2a Awy - A COLORS SHOW",
+      "artists": [
+        "TUL8TE",
+        "COLORS"
+      ],
+      "album": "Garee2a Awy - A COLORS SHOW",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373aa5127d0871a45c130ea55",
+      "uri": "spotify:track:4rf1NRUuO9jRXdRSvsYpHC",
+      "duration_ms": 158502
     }
   ]
 }

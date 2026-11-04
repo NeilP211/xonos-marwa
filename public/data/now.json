@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-11-03T20:48:17.009Z",
+  "updated_at": "2026-11-04T01:04:47.331Z",
   "is_playing": false,
   "track": {
-    "name": "Marionette",
+    "name": "Garee2a Awy - A COLORS SHOW",
     "artists": [
-      "Kaya"
+      "TUL8TE",
+      "COLORS"
     ],
-    "album": "Nocturne",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c8952eafa7e836b21fa9d7ff",
-    "uri": "spotify:track:6yrpCHRQ3ToeqhuT9L1il9"
+    "album": "Garee2a Awy - A COLORS SHOW",
+    "image": "https://i.scdn.co/image/ab67616d0000b27373aa5127d0871a45c130ea55",
+    "uri": "spotify:track:4rf1NRUuO9jRXdRSvsYpHC"
   },
-  "played_at": "2026-11-03T09:22:28.494Z"
+  "played_at": "2026-11-03T22:39:44.102Z"
 }
