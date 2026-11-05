@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-11-05T01:20:25.480Z",
+  "updated_at": "2026-11-05T10:27:48.812Z",
   "is_playing": false,
   "track": {
-    "name": "Garee2a Awy - A COLORS SHOW",
+    "name": "Soft Spot",
     "artists": [
-      "TUL8TE",
-      "COLORS"
+      "keshi"
     ],
-    "album": "Garee2a Awy - A COLORS SHOW",
-    "image": "https://i.scdn.co/image/ab67616d0000b27373aa5127d0871a45c130ea55",
-    "uri": "spotify:track:4rf1NRUuO9jRXdRSvsYpHC"
+    "album": "Requiem",
+    "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
+    "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7"
   },
-  "played_at": "2026-11-03T22:39:44.102Z"
+  "played_at": "2026-11-05T09:28:13.616Z"
 }

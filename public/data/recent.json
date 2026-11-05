@@ -1,254 +1,6 @@
 {
-  "updated_at": "2026-11-05T01:20:25.346Z",
+  "updated_at": "2026-11-05T10:27:48.726Z",
   "plays": [
-    {
-      "played_at": "2026-07-08T20:17:33.770Z",
-      "name": "bittersweet",
-      "artists": [
-        "Madison Beer"
-      ],
-      "album": "bittersweet",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732fb3d517253228abf2468f74",
-      "uri": "spotify:track:3A02hWQ2ebOFDWSbAMNnpw",
-      "duration_ms": 202795
-    },
-    {
-      "played_at": "2026-07-08T20:56:58.023Z",
-      "name": "IT'S YOU (feat. keshi)",
-      "artists": [
-        "MAX",
-        "keshi"
-      ],
-      "album": "LOVE IN STEREO",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e55eb3a0250595d56d7068a7",
-      "uri": "spotify:track:1hWDc5jD5br9pXSOtubFlf",
-      "duration_ms": 173426
-    },
-    {
-      "played_at": "2026-07-09T14:09:27.559Z",
-      "name": "La Mentira",
-      "artists": [
-        "Luis Miguel"
-      ],
-      "album": "Romance",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bda5c1e56bf06c3c7fc173f7",
-      "uri": "spotify:track:3wogsSWyEEu5eVgLqUqySF",
-      "duration_ms": 226493
-    },
-    {
-      "played_at": "2026-07-09T14:13:17.818Z",
-      "name": "Nunca Más",
-      "artists": [
-        "La Isla Centeno"
-      ],
-      "album": "Canciones Para El Volcán",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739540a18191d908bf060065d0",
-      "uri": "spotify:track:5eiZ4TFyBsLOpPzBgR4oG5",
-      "duration_ms": 229214
-    },
-    {
-      "played_at": "2026-07-09T14:16:23.502Z",
-      "name": "Quisiera Enamorarme",
-      "artists": [
-        "Me Dicen Jos",
-        "Julia Amoroso"
-      ],
-      "album": "Quisiera Enamorarme",
-      "image": "https://i.scdn.co/image/ab67616d0000b273acfb8111795a1ea518158b9e",
-      "uri": "spotify:track:3ZhfWEFlqebiUEcc3YbR7D",
-      "duration_ms": 186200
-    },
-    {
-      "played_at": "2026-07-09T14:20:13.232Z",
-      "name": "AMOR AMOR",
-      "artists": [
-        "PARDOPARDO",
-        "Thyan V"
-      ],
-      "album": "AMOR AMOR",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737e819d4788953ed5c2fc121c",
-      "uri": "spotify:track:4vuw6IbxGY5rliFeGJD0m1",
-      "duration_ms": 229333
-    },
-    {
-      "played_at": "2026-07-09T14:25:19.159Z",
-      "name": "TUS OJOS",
-      "artists": [
-        "Beto Cardenas"
-      ],
-      "album": "TUS OJOS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738ea08ca6266bdc4e994194fe",
-      "uri": "spotify:track:66iwTS1oZxQm31fBNMBUcb",
-      "duration_ms": 214333
-    },
-    {
-      "played_at": "2026-07-09T14:28:08.725Z",
-      "name": "Y Qué",
-      "artists": [
-        "Martox",
-        "Lena Dardelet"
-      ],
-      "album": "Y Qué",
-      "image": "https://i.scdn.co/image/ab67616d0000b273aada9f071eb7bb5cb8f47b81",
-      "uri": "spotify:track:1Dd6CuCiuoTj0eiBnGnx4X",
-      "duration_ms": 168979
-    },
-    {
-      "played_at": "2026-07-09T14:31:42.416Z",
-      "name": "Si por Mi Fuera",
-      "artists": [
-        "Los Rumberos",
-        "Juan Pablo Vega"
-      ],
-      "album": "Si por Mi Fuera",
-      "image": "https://i.scdn.co/image/ab67616d0000b27311b11823ccc2d14df2508d83",
-      "uri": "spotify:track:5z9a61fPYYlb2hV0GLVYaB",
-      "duration_ms": 212680
-    },
-    {
-      "played_at": "2026-07-09T14:35:05.237Z",
-      "name": "La Gloria Eres Tu",
-      "artists": [
-        "Luis Miguel"
-      ],
-      "album": "Romances",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736a181913ea31219fed3a558b",
-      "uri": "spotify:track:0toNfHRTPmbsHi63G7Vgdz",
-      "duration_ms": 202760
-    },
-    {
-      "played_at": "2026-07-09T14:39:03.922Z",
-      "name": "Alguien Como Tú",
-      "artists": [
-        "La Isla Centeno"
-      ],
-      "album": "Canciones Para El Volcán",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739540a18191d908bf060065d0",
-      "uri": "spotify:track:0158cDde2tONXGhWmTqSMI",
-      "duration_ms": 237978
-    },
-    {
-      "played_at": "2026-07-09T14:50:14.472Z",
-      "name": "Casi algo",
-      "artists": [
-        "Me Dicen Jos"
-      ],
-      "album": "Casi algo",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b3092d1991912ddea52f18c5",
-      "uri": "spotify:track:2lRIrlut8slUKShhAxJuK7",
-      "duration_ms": 165229
-    },
-    {
-      "played_at": "2026-07-09T14:52:49.843Z",
-      "name": "Y SI SOMOS NOVIOS???",
-      "artists": [
-        "PARDOPARDO"
-      ],
-      "album": "Y SI SOMOS NOVIOS???",
-      "image": "https://i.scdn.co/image/ab67616d0000b27387e2d28c29de7bf09e262c79",
-      "uri": "spotify:track:1DG4eM5tQvuaBSEEO2NSlk",
-      "duration_ms": 153939
-    },
-    {
-      "played_at": "2026-07-09T14:55:41.208Z",
-      "name": "Bésame",
-      "artists": [
-        "El Otro Polo",
-        "Rawayana"
-      ],
-      "album": "A Color",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f5eda9a494f46c0da42eada0",
-      "uri": "spotify:track:05ayzVXVRd5JBtCkQiMFJY",
-      "duration_ms": 170520
-    },
-    {
-      "played_at": "2026-07-09T14:59:49.974Z",
-      "name": "Tengo",
-      "artists": [
-        "Tania Matus"
-      ],
-      "album": "Tengo",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b4e0b9932d97bf7ba721669d",
-      "uri": "spotify:track:0yOUq6w4cN037OcxdZDQQP",
-      "duration_ms": 248208
-    },
-    {
-      "played_at": "2026-07-09T15:04:18.009Z",
-      "name": "Flor De Michoacán",
-      "artists": [
-        "Menny Flores"
-      ],
-      "album": "Flor De Michoacán",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
-      "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3",
-      "duration_ms": 193853
-    },
-    {
-      "played_at": "2026-07-09T15:10:00.289Z",
-      "name": "Caraphernelia",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "Selfish Machines",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
-      "uri": "spotify:track:2G8PweZBBwTpyP8vpNQJK2",
-      "duration_ms": 268480
-    },
-    {
-      "played_at": "2026-07-09T15:13:55.709Z",
-      "name": "夢境里的算法 (R&B)",
-      "artists": [
-        "JinJin"
-      ],
-      "album": "夢境里的算法 (R&B)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732a2c9595bdb1f886665c251c",
-      "uri": "spotify:track:0a8FVXJdTfcbMm7u5UDtBe",
-      "duration_ms": 234736
-    },
-    {
-      "played_at": "2026-07-09T15:25:21.547Z",
-      "name": "Tamally Maak",
-      "artists": [
-        "Amr Diab"
-      ],
-      "album": "Tamally Maak",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-      "uri": "spotify:track:6TYFcqqQVQPb3YsgfRhvqs",
-      "duration_ms": 269232
-    },
-    {
-      "played_at": "2026-07-09T15:31:39.241Z",
-      "name": "Awseflak Eh",
-      "artists": [
-        "Ragheb Alama"
-      ],
-      "album": "Ragheb Alama (Greatest Hits)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a91bd0e51c49398efdbbc980",
-      "uri": "spotify:track:3oJGAoJVJlC22adeGpoKqR",
-      "duration_ms": 275200
-    },
-    {
-      "played_at": "2026-07-09T15:36:05.817Z",
-      "name": "Amarain",
-      "artists": [
-        "Amr Diab"
-      ],
-      "album": "Amarain",
-      "image": "https://i.scdn.co/image/ab67616d0000b27335f0ee93b7a038510fe0dad0",
-      "uri": "spotify:track:0WcFWvjYOAEFJn1LuvqX7F",
-      "duration_ms": 265365
-    },
-    {
-      "played_at": "2026-07-09T16:06:03.467Z",
-      "name": "Look Here",
-      "artists": [
-        "BTS"
-      ],
-      "album": "Dark & Wild",
-      "image": "https://i.scdn.co/image/ab67616d0000b273abe7090bc3ae94d741dfaf6b",
-      "uri": "spotify:track:0x4cMbCLC6L7aJQs3EiPaZ",
-      "duration_ms": 218887
-    },
     {
       "played_at": "2026-07-09T16:12:11.025Z",
       "name": "It Will Rain",
@@ -22533,6 +22285,260 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27373aa5127d0871a45c130ea55",
       "uri": "spotify:track:4rf1NRUuO9jRXdRSvsYpHC",
       "duration_ms": 158502
+    },
+    {
+      "played_at": "2026-11-05T02:43:10.869Z",
+      "name": "No Pole",
+      "artists": [
+        "Don Toliver"
+      ],
+      "album": "Love Sick (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273307323fa550564b0201b1d76",
+      "uri": "spotify:track:0eaVIYo2zeOaGJeqZ5TwYz",
+      "duration_ms": 187613
+    },
+    {
+      "played_at": "2026-11-05T02:45:38.961Z",
+      "name": "E85",
+      "artists": [
+        "Don Toliver"
+      ],
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+      "uri": "spotify:track:3B4cjvGlPvyBLNG3AzEgkZ",
+      "duration_ms": 153181
+    },
+    {
+      "played_at": "2026-11-05T02:49:12.359Z",
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "artists": [
+        "Drake",
+        "Don Toliver"
+      ],
+      "album": "HABIBTI (FOMO)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732685b70af798b4f272c00d8a",
+      "uri": "spotify:track:4IAWZw00ZI9DLKDjesx86u",
+      "duration_ms": 218388
+    },
+    {
+      "played_at": "2026-11-05T02:53:02.163Z",
+      "name": "Cold Shoulder (feat. Don Toliver & Yebba)",
+      "artists": [
+        "Drake",
+        "Don Toliver",
+        "Yebba"
+      ],
+      "album": "HABIBTI (FOMO)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732685b70af798b4f272c00d8a",
+      "uri": "spotify:track:50GVx8sCc1TDKHXumgYqEO",
+      "duration_ms": 234849
+    },
+    {
+      "played_at": "2026-11-05T03:55:05.608Z",
+      "name": "Death Of An Executioner",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
+      "duration_ms": 267800
+    },
+    {
+      "played_at": "2026-11-05T04:01:51.615Z",
+      "name": "Kiss Me Now",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
+      "uri": "spotify:track:6yT9iNKt8fQoYpQkbWc7YR",
+      "duration_ms": 256268
+    },
+    {
+      "played_at": "2026-11-05T04:07:06.691Z",
+      "name": "Box Turtle, Magnificent Isn't She",
+      "artists": [
+        "Lady Radiator"
+      ],
+      "album": "Bounce Energy Hear Me Out",
+      "image": "https://i.scdn.co/image/ab67616d0000b27374f28f5ebd39d7642362b783",
+      "uri": "spotify:track:4Dev97TQztwKYRMfR7HZCM",
+      "duration_ms": 314526
+    },
+    {
+      "played_at": "2026-11-05T04:11:35.106Z",
+      "name": "Karma Police",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
+      "uri": "spotify:track:35FZulR4L8REIjU0u1pw1k",
+      "duration_ms": 268051
+    },
+    {
+      "played_at": "2026-11-05T04:27:42.262Z",
+      "name": "Plein Soleil",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Plein Soleil",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730ec8ba23870ec98ac63aa2ad",
+      "uri": "spotify:track:2jYoHERAJLmbPEzgEq3q81",
+      "duration_ms": 205746
+    },
+    {
+      "played_at": "2026-11-05T06:42:10.594Z",
+      "name": "Way 2 Sexy (with Future & Young Thug)",
+      "artists": [
+        "Drake",
+        "Future",
+        "Young Thug"
+      ],
+      "album": "Certified Lover Boy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+      "uri": "spotify:track:0k1WUmIRnG3xU6fvvDVfRG",
+      "duration_ms": 257604
+    },
+    {
+      "played_at": "2026-11-05T06:47:09.795Z",
+      "name": "Bus Stop (feat. Brent Faiyaz)",
+      "artists": [
+        "Don Toliver",
+        "Brent Faiyaz"
+      ],
+      "album": "Love Sick",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736d5a148417ab9b8a43041c1f",
+      "uri": "spotify:track:2k3IJR9hf34ZfEnTdlcoSK",
+      "duration_ms": 236840
+    },
+    {
+      "played_at": "2026-11-05T06:50:13.899Z",
+      "name": "Bus Stop (feat. Brent Faiyaz)",
+      "artists": [
+        "Don Toliver",
+        "Brent Faiyaz"
+      ],
+      "album": "Love Sick",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736d5a148417ab9b8a43041c1f",
+      "uri": "spotify:track:2k3IJR9hf34ZfEnTdlcoSK",
+      "duration_ms": 236840
+    },
+    {
+      "played_at": "2026-11-05T06:53:27.971Z",
+      "name": "FWU",
+      "artists": [
+        "Don Toliver",
+        "Mustard"
+      ],
+      "album": "FWU",
+      "image": "https://i.scdn.co/image/ab67616d0000b273867fbde5755d14967df3e7d5",
+      "uri": "spotify:track:1NpHJ96ljWvqdbjlyc9GtT",
+      "duration_ms": 171000
+    },
+    {
+      "played_at": "2026-11-05T06:59:10.909Z",
+      "name": "Best Time",
+      "artists": [
+        "Brent Faiyaz"
+      ],
+      "album": "Larger Than Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ceb160561269ab00b1df9678",
+      "uri": "spotify:track:1zgHn1EqUyA0HqNYMdJ5ia",
+      "duration_ms": 82508
+    },
+    {
+      "played_at": "2026-11-05T07:01:16.408Z",
+      "name": "LINK UP",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "NOIRE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0f31b07cf90960adb477d54",
+      "uri": "spotify:track:1AhGYugYUCWwyB08K2U875",
+      "duration_ms": 125346
+    },
+    {
+      "played_at": "2026-11-05T07:24:49.863Z",
+      "name": "DIE TRYING",
+      "artists": [
+        "PARTYNEXTDOOR",
+        "Drake",
+        "Yebba"
+      ],
+      "album": "$ome $exy $ongs 4 U",
+      "image": "https://i.scdn.co/image/ab67616d0000b27382e549302f7a635fedc98331",
+      "uri": "spotify:track:0gIUyyegjuKZenuZKCRiAL",
+      "duration_ms": 195431
+    },
+    {
+      "played_at": "2026-11-05T07:28:03.805Z",
+      "name": "CN TOWER",
+      "artists": [
+        "PARTYNEXTDOOR",
+        "Drake"
+      ],
+      "album": "$ome $exy $ongs 4 U",
+      "image": "https://i.scdn.co/image/ab67616d0000b27382e549302f7a635fedc98331",
+      "uri": "spotify:track:0wXjZ7aSrgM2BYZaTNpjdh",
+      "duration_ms": 241889
+    },
+    {
+      "played_at": "2026-11-05T07:45:05.789Z",
+      "name": "ROLE MODEL",
+      "artists": [
+        "Brent Faiyaz"
+      ],
+      "album": "WASTELAND",
+      "image": "https://i.scdn.co/image/ab67616d0000b27369f63a842ea91ca7c522593a",
+      "uri": "spotify:track:1wGpEisE7VmhhSazD8hZ5l",
+      "duration_ms": 194009
+    },
+    {
+      "played_at": "2026-11-05T08:14:39.869Z",
+      "name": "MOTH BALLS",
+      "artists": [
+        "PARTYNEXTDOOR",
+        "Drake"
+      ],
+      "album": "$ome $exy $ongs 4 U",
+      "image": "https://i.scdn.co/image/ab67616d0000b27382e549302f7a635fedc98331",
+      "uri": "spotify:track:4OEzhuZiS1Qy4LsxkrEb9O",
+      "duration_ms": 212629
+    },
+    {
+      "played_at": "2026-11-05T08:19:31.123Z",
+      "name": "Apocalypse",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cigarettes After Sex",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+      "uri": "spotify:track:1oAwsWBovWRIp7qLMGPIet",
+      "duration_ms": 290146
+    },
+    {
+      "played_at": "2026-11-05T08:24:50.839Z",
+      "name": "K.",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cigarettes After Sex",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+      "uri": "spotify:track:2xGjfbXZnI8uQDhukoQURQ",
+      "duration_ms": 319560
+    },
+    {
+      "played_at": "2026-11-05T09:28:13.616Z",
+      "name": "Soft Spot",
+      "artists": [
+        "keshi"
+      ],
+      "album": "Requiem",
+      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
+      "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
+      "duration_ms": 204223
     }
   ]
 }
