@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T10:27:48.611Z",
+  "generated_at": "2026-11-05T19:38:33.162Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -923,6 +923,18 @@
         },
         {
           "rank": 10,
+          "name": "Death Of An Executioner",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
+          "url": "https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp",
+          "duration_ms": 267800
+        },
+        {
+          "rank": 11,
           "name": "Helena",
           "artists": [
             "My Chemical Romance"
@@ -934,7 +946,7 @@
           "duration_ms": 204733
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Chica de Verde",
           "artists": [
             "Bruno Romano",
@@ -947,7 +959,7 @@
           "duration_ms": 225694
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "So Far So Fake",
           "artists": [
             "Pierce The Veil"
@@ -959,7 +971,7 @@
           "duration_ms": 236160
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Let Love Bleed Red",
           "artists": [
             "Sleeping With Sirens"
@@ -969,18 +981,6 @@
           "uri": "spotify:track:1v8RDUkhH5wR9IBrC6Hroy",
           "url": "https://open.spotify.com/track/1v8RDUkhH5wR9IBrC6Hroy",
           "duration_ms": 222493
-        },
-        {
-          "rank": 14,
-          "name": "Death Of An Executioner",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
-          "url": "https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp",
-          "duration_ms": 267800
         },
         {
           "rank": 15,
@@ -1020,6 +1020,18 @@
         },
         {
           "rank": 18,
+          "name": "Deseándote",
+          "artists": [
+            "Frankie Ruiz"
+          ],
+          "album": "Frankie Ruiz La Leyenda",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
+          "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
+          "url": "https://open.spotify.com/track/0FsXZAMf6NACvNJ2LI6ySp",
+          "duration_ms": 281333
+        },
+        {
+          "rank": 19,
           "name": "Flawless Execution",
           "artists": [
             "Pierce The Veil"
@@ -1031,7 +1043,7 @@
           "duration_ms": 240053
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "雨蝶 - R&B微醺版",
           "artists": [
             "微醺卡带"
@@ -1043,7 +1055,7 @@
           "duration_ms": 234984
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Art of War",
           "artists": [
             "Avenoir"
@@ -1053,18 +1065,6 @@
           "uri": "spotify:track:1W5Du9CclU9myih1pu1eA5",
           "url": "https://open.spotify.com/track/1W5Du9CclU9myih1pu1eA5",
           "duration_ms": 126973
-        },
-        {
-          "rank": 21,
-          "name": "Deseándote",
-          "artists": [
-            "Frankie Ruiz"
-          ],
-          "album": "Frankie Ruiz La Leyenda",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
-          "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
-          "url": "https://open.spotify.com/track/0FsXZAMf6NACvNJ2LI6ySp",
-          "duration_ms": 281333
         },
         {
           "rank": 22,
@@ -1117,6 +1117,18 @@
         },
         {
           "rank": 26,
+          "name": "Pass The Nirvana",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:7I93h9I0RUqt1ci3Bfa290",
+          "url": "https://open.spotify.com/track/7I93h9I0RUqt1ci3Bfa290",
+          "duration_ms": 197373
+        },
+        {
+          "rank": 27,
           "name": "Flor De Michoacán",
           "artists": [
             "Menny Flores"
@@ -1128,7 +1140,7 @@
           "duration_ms": 193853
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Forever",
           "artists": [
             "keshi"
@@ -1140,7 +1152,7 @@
           "duration_ms": 171415
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Nunca Más",
           "artists": [
             "La Isla Centeno"
@@ -1150,18 +1162,6 @@
           "uri": "spotify:track:5eiZ4TFyBsLOpPzBgR4oG5",
           "url": "https://open.spotify.com/track/5eiZ4TFyBsLOpPzBgR4oG5",
           "duration_ms": 229214
-        },
-        {
-          "rank": 29,
-          "name": "Pass The Nirvana",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:7I93h9I0RUqt1ci3Bfa290",
-          "url": "https://open.spotify.com/track/7I93h9I0RUqt1ci3Bfa290",
-          "duration_ms": 197373
         },
         {
           "rank": 30,

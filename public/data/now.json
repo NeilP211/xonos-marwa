@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-11-05T10:27:48.812Z",
+  "updated_at": "2026-11-05T19:38:33.441Z",
   "is_playing": false,
   "track": {
-    "name": "Soft Spot",
+    "name": "Secondhand (feat. Rema)",
     "artists": [
-      "keshi"
+      "Don Toliver",
+      "Rema"
     ],
-    "album": "Requiem",
-    "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
-    "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7"
+    "album": "OCTANE",
+    "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+    "uri": "spotify:track:4Z5KKoBGxpJo8YbDcGQXd5"
   },
-  "played_at": "2026-11-05T09:28:13.616Z"
+  "played_at": "2026-11-05T19:11:43.722Z"
 }
