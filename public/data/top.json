@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T19:38:33.162Z",
+  "generated_at": "2026-11-06T01:24:08.137Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -680,19 +680,19 @@
         },
         {
           "rank": 9,
-          "name": "KAMIJO",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd619816883817163caae41c6",
-          "genres": [],
-          "uri": "spotify:artist:0JwCbwaiMVKrIA6cH8fquT",
-          "url": "https://open.spotify.com/artist/0JwCbwaiMVKrIA6cH8fquT"
-        },
-        {
-          "rank": 10,
           "name": "Don Toliver",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
           "genres": [],
           "uri": "spotify:artist:4Gso3d4CscCijv0lmajZWs",
           "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "rank": 10,
+          "name": "KAMIJO",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd619816883817163caae41c6",
+          "genres": [],
+          "uri": "spotify:artist:0JwCbwaiMVKrIA6cH8fquT",
+          "url": "https://open.spotify.com/artist/0JwCbwaiMVKrIA6cH8fquT"
         },
         {
           "rank": 11,
@@ -1560,7 +1560,7 @@
         {
           "rank": 18,
           "name": "Kali Uchis",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebdeac5367816c7ab1f607e89a",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb37cfef7964da2f1b983b0279",
           "genres": [],
           "uri": "spotify:artist:1U1el3k54VvEUzo3ybLPlM",
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
@@ -2508,7 +2508,7 @@
         {
           "rank": 9,
           "name": "Kali Uchis",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebdeac5367816c7ab1f607e89a",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb37cfef7964da2f1b983b0279",
           "genres": [],
           "uri": "spotify:artist:1U1el3k54VvEUzo3ybLPlM",
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
