@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T01:24:08.137Z",
+  "generated_at": "2026-11-06T10:29:17.388Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -81,18 +81,6 @@
         },
         {
           "rank": 7,
-          "name": "Resilience",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
-          "url": "https://open.spotify.com/track/08vqJRf0PuLF1YACmIG3o8",
-          "duration_ms": 220360
-        },
-        {
-          "rank": 8,
           "name": "VOGUE",
           "artists": [
             "Lil Tecca"
@@ -104,7 +92,7 @@
           "duration_ms": 153014
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Aslan",
           "artists": [
             "Shinichi Osawa Works"
@@ -116,7 +104,7 @@
           "duration_ms": 224840
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Mizerable",
           "artists": [
             "GACKT"
@@ -126,6 +114,18 @@
           "uri": "spotify:track:75Frd3MMVwG2j3eMBdZVvl",
           "url": "https://open.spotify.com/track/75Frd3MMVwG2j3eMBdZVvl",
           "duration_ms": 296266
+        },
+        {
+          "rank": 10,
+          "name": "Is It Really You?",
+          "artists": [
+            "Loathe"
+          ],
+          "album": "I Let It in and It Took Everything",
+          "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+          "uri": "spotify:track:4OmlsAT8r4q9vPFBvfYgyZ",
+          "url": "https://open.spotify.com/track/4OmlsAT8r4q9vPFBvfYgyZ",
+          "duration_ms": 287627
         },
         {
           "rank": 11,
@@ -153,6 +153,18 @@
         },
         {
           "rank": 13,
+          "name": "Resilience",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+          "url": "https://open.spotify.com/track/08vqJRf0PuLF1YACmIG3o8",
+          "duration_ms": 220360
+        },
+        {
+          "rank": 14,
           "name": "Oyasumi.",
           "artists": [
             "gulu gulu"
@@ -164,7 +176,7 @@
           "duration_ms": 194720
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Falling In Love",
           "artists": [
             "Cigarettes After Sex"
@@ -176,7 +188,7 @@
           "duration_ms": 245840
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Shared Trauma",
           "artists": [
             "Pierce The Veil"
@@ -188,7 +200,7 @@
           "duration_ms": 253000
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "No Pole",
           "artists": [
             "Don Toliver"
@@ -200,7 +212,7 @@
           "duration_ms": 187613
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Flawless Execution",
           "artists": [
             "Pierce The Veil"
@@ -212,7 +224,7 @@
           "duration_ms": 240053
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "So Far So Fake",
           "artists": [
             "Pierce The Veil"
@@ -224,7 +236,7 @@
           "duration_ms": 236160
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Red Swan",
           "artists": [
             "YOSHIKI",
@@ -237,7 +249,7 @@
           "duration_ms": 263720
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Emergency Contact",
           "artists": [
             "Pierce The Veil"
@@ -249,7 +261,7 @@
           "duration_ms": 240000
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Him and Hym",
           "artists": [
             "Shinichi Osawa Works"
@@ -261,7 +273,7 @@
           "duration_ms": 140200
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "これを依存と呼ぶなら",
           "artists": [
             "MEJIBRAY"
@@ -273,7 +285,7 @@
           "duration_ms": 340346
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Perverted Martyr",
           "artists": [
             "Femme Fatale"
@@ -285,7 +297,7 @@
           "duration_ms": 232128
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Around Me",
           "artists": [
             "Noodah05"
@@ -297,7 +309,7 @@
           "duration_ms": 153835
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Even When I’m Not With You",
           "artists": [
             "Pierce The Veil"
@@ -309,7 +321,7 @@
           "duration_ms": 174146
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "kaleidoscope",
           "artists": [
             "Exit Dream"
@@ -319,18 +331,6 @@
           "uri": "spotify:track:6duaflHuOkKVxwwSi8I87E",
           "url": "https://open.spotify.com/track/6duaflHuOkKVxwwSi8I87E",
           "duration_ms": 228400
-        },
-        {
-          "rank": 27,
-          "name": "Is It Really You?",
-          "artists": [
-            "Loathe"
-          ],
-          "album": "I Let It in and It Took Everything",
-          "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
-          "uri": "spotify:track:4OmlsAT8r4q9vPFBvfYgyZ",
-          "url": "https://open.spotify.com/track/4OmlsAT8r4q9vPFBvfYgyZ",
-          "duration_ms": 287627
         },
         {
           "rank": 28,
@@ -383,18 +383,6 @@
         },
         {
           "rank": 32,
-          "name": "Props & Mayhem",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "Collide With The Sky",
-          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-          "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO",
-          "url": "https://open.spotify.com/track/2SYMnBpx7zyhSDPQwoOlFO",
-          "duration_ms": 217853
-        },
-        {
-          "rank": 33,
           "name": "The Jaws Of Life",
           "artists": [
             "Pierce The Veil"
@@ -406,7 +394,7 @@
           "duration_ms": 222666
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "bigassbearman",
           "artists": [
             "ericdoa"
@@ -418,7 +406,7 @@
           "duration_ms": 149468
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "Metamorphose",
           "artists": [
             "LAREINE"
@@ -430,7 +418,7 @@
           "duration_ms": 346186
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "Marisol",
           "artists": [
             "Static Dress"
@@ -442,7 +430,7 @@
           "duration_ms": 292500
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "NUMBER 2",
           "artists": [
             "Lil Tecca"
@@ -454,7 +442,7 @@
           "duration_ms": 137904
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "SALOME",
           "artists": [
             "Kaya"
@@ -464,6 +452,18 @@
           "uri": "spotify:track:6ebm9SNCHJXnzQdMhClsGd",
           "url": "https://open.spotify.com/track/6ebm9SNCHJXnzQdMhClsGd",
           "duration_ms": 244835
+        },
+        {
+          "rank": 38,
+          "name": "wish",
+          "artists": [
+            "Ailey Rain"
+          ],
+          "album": "wish",
+          "image": "https://i.scdn.co/image/ab67616d0000b27378c1ba700456ba2b41db23d5",
+          "uri": "spotify:track:0Tqls9lDjD3xV3RClpXsrd",
+          "url": "https://open.spotify.com/track/0Tqls9lDjD3xV3RClpXsrd",
+          "duration_ms": 168175
         },
         {
           "rank": 39,
@@ -479,6 +479,18 @@
         },
         {
           "rank": 40,
+          "name": "Cowboys and Angels - Remastered",
+          "artists": [
+            "George Michael"
+          ],
+          "album": "Listen Without Prejudice Vol. 1 (Remastered)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fcfe16b59dd398fe8b79e0a8",
+          "uri": "spotify:track:1TDzHrMyt99Ey8IB72i7u9",
+          "url": "https://open.spotify.com/track/1TDzHrMyt99Ey8IB72i7u9",
+          "duration_ms": 434733
+        },
+        {
+          "rank": 41,
           "name": "Ivonny Bonita",
           "artists": [
             "KAROL G"
@@ -490,7 +502,7 @@
           "duration_ms": 222458
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "in your head",
           "artists": [
             "cloudyfield"
@@ -502,7 +514,7 @@
           "duration_ms": 170000
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "How to Pretend",
           "artists": [
             "Lucy Bedroque"
@@ -514,7 +526,7 @@
           "duration_ms": 224086
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Body - Remix",
           "artists": [
             "Eladio Carrion",
@@ -528,7 +540,31 @@
           "duration_ms": 234240
         },
         {
-          "rank": 44,
+          "rank": 45,
+          "name": "You Have Been Loved",
+          "artists": [
+            "George Michael"
+          ],
+          "album": "Older",
+          "image": "https://i.scdn.co/image/ab67616d0000b273721aa94703c1a94c735aacd0",
+          "uri": "spotify:track:1W19bowAmX4WJusclbWIbM",
+          "url": "https://open.spotify.com/track/1W19bowAmX4WJusclbWIbM",
+          "duration_ms": 330800
+        },
+        {
+          "rank": 46,
+          "name": "一念 (影视剧《逐玉》插曲)",
+          "artists": [
+            "张紫宁 / 李鑫一"
+          ],
+          "album": "《逐玉》 影视原声带",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e273383859cd02ba247b5d96",
+          "uri": "spotify:track:1iZVXRo5IcIradUoVYymRW",
+          "url": "https://open.spotify.com/track/1iZVXRo5IcIradUoVYymRW",
+          "duration_ms": 190000
+        },
+        {
+          "rank": 47,
           "name": "Apocalypse",
           "artists": [
             "Cigarettes After Sex"
@@ -540,7 +576,7 @@
           "duration_ms": 290146
         },
         {
-          "rank": 45,
+          "rank": 48,
           "name": "Baby Girl",
           "artists": [
             "PROXIE",
@@ -553,7 +589,19 @@
           "duration_ms": 155529
         },
         {
-          "rank": 46,
+          "rank": 49,
+          "name": "Props & Mayhem",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "Collide With The Sky",
+          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
+          "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO",
+          "url": "https://open.spotify.com/track/2SYMnBpx7zyhSDPQwoOlFO",
+          "duration_ms": 217853
+        },
+        {
+          "rank": 50,
           "name": "You Know That I Want To",
           "artists": [
             "George Michael"
@@ -563,54 +611,6 @@
           "uri": "spotify:track:2Xf3MCSo4McLjbCtAAsxcB",
           "url": "https://open.spotify.com/track/2Xf3MCSo4McLjbCtAAsxcB",
           "duration_ms": 276418
-        },
-        {
-          "rank": 47,
-          "name": "Plein Soleil",
-          "artists": [
-            "Avenoir"
-          ],
-          "album": "Plein Soleil",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730ec8ba23870ec98ac63aa2ad",
-          "uri": "spotify:track:2jYoHERAJLmbPEzgEq3q81",
-          "url": "https://open.spotify.com/track/2jYoHERAJLmbPEzgEq3q81",
-          "duration_ms": 205746
-        },
-        {
-          "rank": 48,
-          "name": "E85",
-          "artists": [
-            "Don Toliver"
-          ],
-          "album": "OCTANE",
-          "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-          "uri": "spotify:track:3B4cjvGlPvyBLNG3AzEgkZ",
-          "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ",
-          "duration_ms": 153181
-        },
-        {
-          "rank": 49,
-          "name": "The Rumbling",
-          "artists": [
-            "SiM"
-          ],
-          "album": "PLAYDEAD -DELUXE EDiTiON-",
-          "image": "https://i.scdn.co/image/ab67616d0000b27368f7f0de31d7f23b20cf03e9",
-          "uri": "spotify:track:3PRo9a0gEiyQIEyUOz2JRb",
-          "url": "https://open.spotify.com/track/3PRo9a0gEiyQIEyUOz2JRb",
-          "duration_ms": 221105
-        },
-        {
-          "rank": 50,
-          "name": "I'm Low On Gas And You Need A Jacket",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "Collide With The Sky",
-          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-          "uri": "spotify:track:40WWeoX26jtsfdmFx5iRty",
-          "url": "https://open.spotify.com/track/40WWeoX26jtsfdmFx5iRty",
-          "duration_ms": 252386
         }
       ],
       "artists": [
@@ -656,6 +656,14 @@
         },
         {
           "rank": 6,
+          "name": "George Michael",
+          "image": "https://i.scdn.co/image/ab6761610000e5eba45d8843ba426dcecab75f7e",
+          "genres": [],
+          "uri": "spotify:artist:19ra5tSw0tWufvUp8GotLo",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "rank": 7,
           "name": "GACKT",
           "image": "https://i.scdn.co/image/ab6761610000e5eb67ef40a2e9b5360a0b8e3c89",
           "genres": [],
@@ -663,7 +671,7 @@
           "url": "https://open.spotify.com/artist/0MebO9MFNvedjUBsPGo0YN"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "BUCK-TICK",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbef14ae6a0b704cc4b533e7a",
           "genres": [],
@@ -671,7 +679,7 @@
           "url": "https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "LAREINE",
           "image": "https://i.scdn.co/image/ab67616d0000b2731bf4be602ae37d924bba5f4c",
           "genres": [],
@@ -679,7 +687,15 @@
           "url": "https://open.spotify.com/artist/2w3S57NmAGnZwqC1ATXxDP"
         },
         {
-          "rank": 9,
+          "rank": 10,
+          "name": "Loathe",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
+          "genres": [],
+          "uri": "spotify:artist:4G9wSdX0klmoHfjm9i6DLd",
+          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
+        },
+        {
+          "rank": 11,
           "name": "Don Toliver",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
           "genres": [],
@@ -687,7 +703,7 @@
           "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         },
         {
-          "rank": 10,
+          "rank": 12,
           "name": "KAMIJO",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd619816883817163caae41c6",
           "genres": [],
@@ -695,15 +711,7 @@
           "url": "https://open.spotify.com/artist/0JwCbwaiMVKrIA6cH8fquT"
         },
         {
-          "rank": 11,
-          "name": "Deftones",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
-          "genres": [],
-          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        },
-        {
-          "rank": 12,
+          "rank": 13,
           "name": "KAROL G",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3869e286c9043f85e8e4bc06",
           "genres": [],
@@ -711,7 +719,7 @@
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Rauw Alejandro",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6d72db3fd29576caa9cb821f",
           "genres": [],
@@ -719,7 +727,7 @@
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Static Dress",
           "image": "https://i.scdn.co/image/ab6761610000e5ebeccc53e00be4f2d9e975e232",
           "genres": [],
@@ -727,7 +735,7 @@
           "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "gulu gulu",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e863631369aaddd8f72efea",
           "genres": [],
@@ -735,7 +743,7 @@
           "url": "https://open.spotify.com/artist/7IS31MnxPnYaDKlFRZ3pdt"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Tainy",
           "image": "https://i.scdn.co/image/ab6761610000e5eba0d42a558309507a6a3b3311",
           "genres": [],
@@ -743,7 +751,7 @@
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "RØZ",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc0de2d8306a376f544dd8c8a",
           "genres": [],
@@ -751,7 +759,7 @@
           "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "J Balvin",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0405b03342c2e56751b9923d",
           "genres": [],
@@ -759,7 +767,7 @@
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Feid",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e529f4ad13f86c69962cb12",
           "genres": [],
@@ -767,20 +775,12 @@
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Drake",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
           "genres": [],
           "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "rank": 21,
-          "name": "Loathe",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
-          "genres": [],
-          "uri": "spotify:artist:4G9wSdX0klmoHfjm9i6DLd",
-          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
         },
         {
           "rank": 22,
@@ -805,6 +805,14 @@
           "genres": [],
           "uri": "spotify:artist:6G4xErlRWfs1ReVqZvsjh6",
           "url": "https://open.spotify.com/artist/6G4xErlRWfs1ReVqZvsjh6"
+        },
+        {
+          "rank": 25,
+          "name": "Deftones",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
+          "genres": [],
+          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ]
     },
@@ -1044,6 +1052,18 @@
         },
         {
           "rank": 20,
+          "name": "Is It Really You?",
+          "artists": [
+            "Loathe"
+          ],
+          "album": "I Let It in and It Took Everything",
+          "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+          "uri": "spotify:track:4OmlsAT8r4q9vPFBvfYgyZ",
+          "url": "https://open.spotify.com/track/4OmlsAT8r4q9vPFBvfYgyZ",
+          "duration_ms": 287627
+        },
+        {
+          "rank": 21,
           "name": "雨蝶 - R&B微醺版",
           "artists": [
             "微醺卡带"
@@ -1055,7 +1075,7 @@
           "duration_ms": 234984
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Art of War",
           "artists": [
             "Avenoir"
@@ -1067,7 +1087,7 @@
           "duration_ms": 126973
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Change (In the House of Flies)",
           "artists": [
             "Deftones"
@@ -1079,7 +1099,7 @@
           "duration_ms": 299533
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Red Swan",
           "artists": [
             "YOSHIKI",
@@ -1090,18 +1110,6 @@
           "uri": "spotify:track:4GNMgGyZcgnE4nEdYFWJGn",
           "url": "https://open.spotify.com/track/4GNMgGyZcgnE4nEdYFWJGn",
           "duration_ms": 263720
-        },
-        {
-          "rank": 24,
-          "name": "Is It Really You?",
-          "artists": [
-            "Loathe"
-          ],
-          "album": "I Let It in and It Took Everything",
-          "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
-          "uri": "spotify:track:4OmlsAT8r4q9vPFBvfYgyZ",
-          "url": "https://open.spotify.com/track/4OmlsAT8r4q9vPFBvfYgyZ",
-          "duration_ms": 287627
         },
         {
           "rank": 25,
@@ -1631,14 +1639,6 @@
         },
         {
           "rank": 27,
-          "name": "TUL8TE",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
-          "genres": [],
-          "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
-          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
-        },
-        {
-          "rank": 28,
           "name": "Lil Tecca",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
           "genres": [],
@@ -1646,7 +1646,7 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "My Chemical Romance",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0c55e74e435910793888f7cf",
           "genres": [],
@@ -1654,7 +1654,7 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Maluma",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1b0d196ca84f4a0d076b4570",
           "genres": [],
@@ -1662,12 +1662,20 @@
           "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Romeo Santos",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
           "genres": [],
           "uri": "spotify:artist:5lwmRuXgjX8xIwlnauTZIP",
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "rank": 31,
+          "name": "TUL8TE",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
+          "genres": [],
+          "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
         },
         {
           "rank": 32,
@@ -2523,6 +2531,14 @@
         },
         {
           "rank": 11,
+          "name": "Cigarettes After Sex",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
+          "genres": [],
+          "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        },
+        {
+          "rank": 12,
           "name": "LE SSERAFIM",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb976b6defd4f7343c78d63c0",
           "genres": [],
@@ -2530,20 +2546,12 @@
           "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "The Marías",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
           "genres": [],
           "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        },
-        {
-          "rank": 13,
-          "name": "Cigarettes After Sex",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
-          "genres": [],
-          "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
         {
           "rank": 14,
@@ -2627,14 +2635,6 @@
         },
         {
           "rank": 24,
-          "name": "TUL8TE",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
-          "genres": [],
-          "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
-          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
-        },
-        {
-          "rank": 25,
           "name": "ATEEZ",
           "image": "https://i.scdn.co/image/ab6761610000e5eb630859e6682cfa878243bacc",
           "genres": [],
@@ -2642,7 +2642,7 @@
           "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -2650,7 +2650,7 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Romeo Santos",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
           "genres": [],
@@ -2658,12 +2658,20 @@
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "Pantoja",
           "image": "https://i.scdn.co/image/ab6761610000e5eb79c5add7566fcc23528512b1",
           "genres": [],
           "uri": "spotify:artist:1sSMrejChoHWBnCe7w6fKc",
           "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
+        },
+        {
+          "rank": 28,
+          "name": "TUL8TE",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
+          "genres": [],
+          "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
         },
         {
           "rank": 29,

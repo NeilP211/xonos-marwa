@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-11-06T01:24:08.558Z",
+  "updated_at": "2026-11-06T10:29:17.589Z",
   "is_playing": false,
   "track": {
-    "name": "Secondhand (feat. Rema)",
+    "name": "Dreaming of You",
     "artists": [
-      "Don Toliver",
-      "Rema"
+      "Cigarettes After Sex"
     ],
-    "album": "OCTANE",
-    "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-    "uri": "spotify:track:4Z5KKoBGxpJo8YbDcGQXd5"
+    "album": "I.",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f20d15ff288e94492f7097eb",
+    "uri": "spotify:track:3hjWG1Wj0sXPXknoVTFCg6"
   },
-  "played_at": "2026-11-05T19:11:43.722Z"
+  "played_at": "2026-11-06T10:22:44.024Z"
 }
