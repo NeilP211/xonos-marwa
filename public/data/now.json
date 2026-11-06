@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-06T10:29:17.589Z",
+  "updated_at": "2026-11-06T19:00:20.119Z",
   "is_playing": false,
   "track": {
-    "name": "Dreaming of You",
+    "name": "Anna Karenina",
     "artists": [
       "Cigarettes After Sex"
     ],
-    "album": "I.",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f20d15ff288e94492f7097eb",
-    "uri": "spotify:track:3hjWG1Wj0sXPXknoVTFCg6"
+    "album": "Anna Karenina",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b016a92bc9aa41ef87655abc",
+    "uri": "spotify:track:1uEap95VIj54OPYOSUdMfg"
   },
-  "played_at": "2026-11-06T10:22:44.024Z"
+  "played_at": "2026-11-06T10:23:58.607Z"
 }

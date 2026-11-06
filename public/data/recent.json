@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-06T10:29:17.495Z",
+  "updated_at": "2026-11-06T19:00:20.021Z",
   "plays": [
-    {
-      "played_at": "2026-07-09T17:40:13.919Z",
-      "name": "UNDERSTAND",
-      "artists": [
-        "keshi"
-      ],
-      "album": "GABRIEL",
-      "image": "https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb",
-      "uri": "spotify:track:72sfmdpuO5r8cBDgs7MqZZ",
-      "duration_ms": 150519
-    },
     {
       "played_at": "2026-07-09T17:43:52.804Z",
       "name": "Fuck it I love you",
@@ -22538,6 +22527,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f20d15ff288e94492f7097eb",
       "uri": "spotify:track:3hjWG1Wj0sXPXknoVTFCg6",
       "duration_ms": 322218
+    },
+    {
+      "played_at": "2026-11-06T10:23:58.607Z",
+      "name": "Anna Karenina",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Anna Karenina",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b016a92bc9aa41ef87655abc",
+      "uri": "spotify:track:1uEap95VIj54OPYOSUdMfg",
+      "duration_ms": 315000
     }
   ]
 }
