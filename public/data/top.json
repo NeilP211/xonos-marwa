@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T17:33:07.621Z",
+  "generated_at": "2026-11-07T21:33:06.545Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -616,7 +616,11 @@
           "rank": 1,
           "name": "Pierce The Veil",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6f8f8d13be17bf486219edc7",
-          "genres": [],
+          "genres": [
+            "emo",
+            "screamo",
+            "post-hardcore"
+          ],
           "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
           "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         },
@@ -624,7 +628,9 @@
           "rank": 2,
           "name": "Cigarettes After Sex",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
-          "genres": [],
+          "genres": [
+            "dream pop"
+          ],
           "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
@@ -632,7 +638,10 @@
           "rank": 3,
           "name": "Lil Tecca",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
-          "genres": [],
+          "genres": [
+            "melodic rap",
+            "rap"
+          ],
           "uri": "spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         },
@@ -640,7 +649,9 @@
           "rank": 4,
           "name": "Shinichi Osawa Works",
           "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
-          "genres": [],
+          "genres": [
+            "anime"
+          ],
           "uri": "spotify:artist:4d3dSSG92Bywc1qwtKVOrb",
           "url": "https://open.spotify.com/artist/4d3dSSG92Bywc1qwtKVOrb"
         },
@@ -648,7 +659,10 @@
           "rank": 5,
           "name": "LAREINE",
           "image": "https://i.scdn.co/image/ab67616d0000b2731bf4be602ae37d924bba5f4c",
-          "genres": [],
+          "genres": [
+            "visual kei",
+            "j-rock"
+          ],
           "uri": "spotify:artist:2w3S57NmAGnZwqC1ATXxDP",
           "url": "https://open.spotify.com/artist/2w3S57NmAGnZwqC1ATXxDP"
         },
@@ -656,7 +670,10 @@
           "rank": 6,
           "name": "Kaya",
           "image": "https://i.scdn.co/image/ab67616d0000b273f25a166ed7ebcd049581f03e",
-          "genres": [],
+          "genres": [
+            "visual kei",
+            "j-rock"
+          ],
           "uri": "spotify:artist:2QIdg099yylM16gsKCTrsg",
           "url": "https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg"
         },
@@ -664,7 +681,10 @@
           "rank": 7,
           "name": "KAMIJO",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd619816883817163caae41c6",
-          "genres": [],
+          "genres": [
+            "visual kei",
+            "j-rock"
+          ],
           "uri": "spotify:artist:0JwCbwaiMVKrIA6cH8fquT",
           "url": "https://open.spotify.com/artist/0JwCbwaiMVKrIA6cH8fquT"
         },
@@ -680,7 +700,10 @@
           "rank": 9,
           "name": "GACKT",
           "image": "https://i.scdn.co/image/ab6761610000e5eb67ef40a2e9b5360a0b8e3c89",
-          "genres": [],
+          "genres": [
+            "visual kei",
+            "j-rock"
+          ],
           "uri": "spotify:artist:0MebO9MFNvedjUBsPGo0YN",
           "url": "https://open.spotify.com/artist/0MebO9MFNvedjUBsPGo0YN"
         },
@@ -688,7 +711,10 @@
           "rank": 10,
           "name": "BUCK-TICK",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbef14ae6a0b704cc4b533e7a",
-          "genres": [],
+          "genres": [
+            "visual kei",
+            "j-rock"
+          ],
           "uri": "spotify:artist:2DiecQcRbDuSJuSPKtirrX",
           "url": "https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX"
         },
@@ -704,7 +730,9 @@
           "rank": 12,
           "name": "Loathe",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
-          "genres": [],
+          "genres": [
+            "shoegaze"
+          ],
           "uri": "spotify:artist:4G9wSdX0klmoHfjm9i6DLd",
           "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
         },
@@ -712,7 +740,10 @@
           "rank": 13,
           "name": "gulu gulu",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e863631369aaddd8f72efea",
-          "genres": [],
+          "genres": [
+            "visual kei",
+            "j-rock"
+          ],
           "uri": "spotify:artist:7IS31MnxPnYaDKlFRZ3pdt",
           "url": "https://open.spotify.com/artist/7IS31MnxPnYaDKlFRZ3pdt"
         },
@@ -720,7 +751,11 @@
           "rank": 14,
           "name": "Static Dress",
           "image": "https://i.scdn.co/image/ab6761610000e5ebeccc53e00be4f2d9e975e232",
-          "genres": [],
+          "genres": [
+            "shoegaze",
+            "post-hardcore",
+            "metalcore"
+          ],
           "uri": "spotify:artist:1Lqdsv7Ff4GNq9PM3Yd0vi",
           "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
         },
@@ -728,7 +763,9 @@
           "rank": 15,
           "name": "Drake",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-          "genres": [],
+          "genres": [
+            "rap"
+          ],
           "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
@@ -736,7 +773,10 @@
           "rank": 16,
           "name": "Plastic Tree",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc230e893d98a53ead38d7f60",
-          "genres": [],
+          "genres": [
+            "visual kei",
+            "j-rock"
+          ],
           "uri": "spotify:artist:5O4DsTkJ6z2eTSvIHZ6sDo",
           "url": "https://open.spotify.com/artist/5O4DsTkJ6z2eTSvIHZ6sDo"
         },
@@ -744,7 +784,10 @@
           "rank": 17,
           "name": "Fukuro",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6d15f58710ecab2f0bb571ab",
-          "genres": [],
+          "genres": [
+            "visual kei",
+            "j-rock"
+          ],
           "uri": "spotify:artist:6G4xErlRWfs1ReVqZvsjh6",
           "url": "https://open.spotify.com/artist/6G4xErlRWfs1ReVqZvsjh6"
         }
@@ -2787,7 +2830,52 @@
     }
   },
   "genres": {
-    "short_term": [],
+    "short_term": [
+      {
+        "genre": "visual kei",
+        "weight": 0.2758913412563667
+      },
+      {
+        "genre": "j-rock",
+        "weight": 0.2758913412563667
+      },
+      {
+        "genre": "post-hardcore",
+        "weight": 0.07385398981324279
+      },
+      {
+        "genre": "rap",
+        "weight": 0.07130730050933787
+      },
+      {
+        "genre": "shoegaze",
+        "weight": 0.06451612903225806
+      },
+      {
+        "genre": "emo",
+        "weight": 0.042444821731748725
+      },
+      {
+        "genre": "screamo",
+        "weight": 0.042444821731748725
+      },
+      {
+        "genre": "dream pop",
+        "weight": 0.04159592529711375
+      },
+      {
+        "genre": "melodic rap",
+        "weight": 0.04074702886247878
+      },
+      {
+        "genre": "anime",
+        "weight": 0.039898132427843805
+      },
+      {
+        "genre": "metalcore",
+        "weight": 0.031409168081494056
+      }
+    ],
     "medium_term": [],
     "long_term": []
   }
