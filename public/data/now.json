@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-07T09:42:02.756Z",
+  "updated_at": "2026-11-07T17:33:07.857Z",
   "is_playing": false,
   "track": {
-    "name": "Romantic Season",
+    "name": "「Akunin」",
     "artists": [
-      "LAREINE"
+      "gulu gulu"
     ],
-    "album": "Winter Romantic",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735f94208beab6ffce4d49fc0f",
-    "uri": "spotify:track:1qBJGFqkXDIIBWAdr6dV1o"
+    "album": "Gulu Gulu Ryuushutsu Ongen Shuu (Living Dead Edition)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273cd357d35696d27096cbfef84",
+    "uri": "spotify:track:0vaZCOY4wStHm59rJ8tERq"
   },
-  "played_at": "2026-11-07T08:22:40.065Z"
+  "played_at": "2026-11-07T12:33:23.563Z"
 }

@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-07T09:42:02.647Z",
+  "updated_at": "2026-11-07T17:33:07.817Z",
   "plays": [
-    {
-      "played_at": "2026-07-10T16:06:33.348Z",
-      "name": "Favour",
-      "artists": [
-        "Avenoir"
-      ],
-      "album": "Favour",
-      "image": "https://i.scdn.co/image/ab67616d0000b273713f9d753c8b418102db1a10",
-      "uri": "spotify:track:7lTUaX0Bs1uE9ALFsmLF8G",
-      "duration_ms": 156000
-    },
     {
       "played_at": "2026-07-10T16:06:35.610Z",
       "name": "space",
@@ -22538,6 +22527,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735f94208beab6ffce4d49fc0f",
       "uri": "spotify:track:1qBJGFqkXDIIBWAdr6dV1o",
       "duration_ms": 260120
+    },
+    {
+      "played_at": "2026-11-07T12:33:23.563Z",
+      "name": "「Akunin」",
+      "artists": [
+        "gulu gulu"
+      ],
+      "album": "Gulu Gulu Ryuushutsu Ongen Shuu (Living Dead Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cd357d35696d27096cbfef84",
+      "uri": "spotify:track:0vaZCOY4wStHm59rJ8tERq",
+      "duration_ms": 285081
     }
   ]
 }
