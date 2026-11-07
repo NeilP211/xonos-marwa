@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-07T00:40:01.543Z",
+  "updated_at": "2026-11-07T09:42:02.756Z",
   "is_playing": false,
   "track": {
-    "name": "Anna Karenina",
+    "name": "Romantic Season",
     "artists": [
-      "Cigarettes After Sex"
+      "LAREINE"
     ],
-    "album": "Anna Karenina",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b016a92bc9aa41ef87655abc",
-    "uri": "spotify:track:1uEap95VIj54OPYOSUdMfg"
+    "album": "Winter Romantic",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735f94208beab6ffce4d49fc0f",
+    "uri": "spotify:track:1qBJGFqkXDIIBWAdr6dV1o"
   },
-  "played_at": "2026-11-06T10:23:58.607Z"
+  "played_at": "2026-11-07T08:22:40.065Z"
 }

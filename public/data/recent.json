@@ -1,138 +1,6 @@
 {
-  "updated_at": "2026-11-07T00:40:01.298Z",
+  "updated_at": "2026-11-07T09:42:02.647Z",
   "plays": [
-    {
-      "played_at": "2026-07-09T17:43:52.804Z",
-      "name": "Fuck it I love you",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Norman Fucking Rockwell!",
-      "image": "https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9",
-      "uri": "spotify:track:7MtVPRGtZl6rPjMfLoI3Lh",
-      "duration_ms": 218287
-    },
-    {
-      "played_at": "2026-07-10T13:48:08.784Z",
-      "name": "Favour",
-      "artists": [
-        "Avenoir"
-      ],
-      "album": "Favour",
-      "image": "https://i.scdn.co/image/ab67616d0000b273713f9d753c8b418102db1a10",
-      "uri": "spotify:track:7lTUaX0Bs1uE9ALFsmLF8G",
-      "duration_ms": 156000
-    },
-    {
-      "played_at": "2026-07-10T13:50:46.935Z",
-      "name": "Sure Thing",
-      "artists": [
-        "Miguel"
-      ],
-      "album": "All I Want Is You",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c",
-      "uri": "spotify:track:0JXXNGljqupsJaZsgSbMZV",
-      "duration_ms": 195373
-    },
-    {
-      "played_at": "2026-07-10T13:57:59.552Z",
-      "name": "Kiss Me Now",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "Kiss Me Now",
-      "image": "https://i.scdn.co/image/ab67616d0000b27352a7a9543acdb0aadc61f08a",
-      "uri": "spotify:track:40KgVtH6ANki7AN2Sj1rZD",
-      "duration_ms": 256268
-    },
-    {
-      "played_at": "2026-07-10T14:00:45.751Z",
-      "name": "Bailando Bachata",
-      "artists": [
-        "Chayanne"
-      ],
-      "album": "Bailemos Otra Vez",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736bf0ce87e2004f9fed53151c",
-      "uri": "spotify:track:2dK99lWPkBVwNen6gK1AtI",
-      "duration_ms": 170809
-    },
-    {
-      "played_at": "2026-07-10T14:49:17.927Z",
-      "name": "Bailando Bachata",
-      "artists": [
-        "Chayanne"
-      ],
-      "album": "Bailemos Otra Vez",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736bf0ce87e2004f9fed53151c",
-      "uri": "spotify:track:2dK99lWPkBVwNen6gK1AtI",
-      "duration_ms": 170809
-    },
-    {
-      "played_at": "2026-07-10T15:25:16.833Z",
-      "name": "흩어진나날들",
-      "artists": [
-        "강수지"
-      ],
-      "album": "강수지2집",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336baac318c4aac27ed3a54ea",
-      "uri": "spotify:track:3IuA2jGGOgZCGwQBiLhRuP",
-      "duration_ms": 262126
-    },
-    {
-      "played_at": "2026-07-10T15:29:12.288Z",
-      "name": "The Bomb Dot Com V2.0",
-      "artists": [
-        "Sleeping With Sirens"
-      ],
-      "album": "With Ears To See And Eyes To Hear",
-      "image": "https://i.scdn.co/image/ab67616d0000b273032fd22bde573d0746c87352",
-      "uri": "spotify:track:6WBkSZbGBaIWnEgnMoXEJU",
-      "duration_ms": 211720
-    },
-    {
-      "played_at": "2026-07-10T15:42:13.834Z",
-      "name": "Requiem",
-      "artists": [
-        "keshi"
-      ],
-      "album": "Requiem",
-      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
-      "uri": "spotify:track:1YH01s3qSCjwt1eEHg6LRG",
-      "duration_ms": 144526
-    },
-    {
-      "played_at": "2026-07-10T15:45:16.145Z",
-      "name": "notas",
-      "artists": [
-        "Santi Muk"
-      ],
-      "album": "notas",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737afb8ea744be53d1c3d41f9e",
-      "uri": "spotify:track:12PEb6javwgeqvZeiiCfbH",
-      "duration_ms": 96817
-    },
-    {
-      "played_at": "2026-07-10T15:49:00.441Z",
-      "name": "Usted",
-      "artists": [
-        "Luis Miguel"
-      ],
-      "album": "Romance",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bda5c1e56bf06c3c7fc173f7",
-      "uri": "spotify:track:0MHSnVk2CrGP8hIkxpxwMJ",
-      "duration_ms": 223200
-    },
-    {
-      "played_at": "2026-07-10T15:52:03.085Z",
-      "name": "Ride",
-      "artists": [
-        "HYBS"
-      ],
-      "album": "Making Steak",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731d41de38bfa654a630cfb07a",
-      "uri": "spotify:track:37HhnXqIRFSSJXWsysl6B7",
-      "duration_ms": 181622
-    },
     {
       "played_at": "2026-07-10T16:06:33.348Z",
       "name": "Favour",
@@ -22538,6 +22406,138 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273b016a92bc9aa41ef87655abc",
       "uri": "spotify:track:1uEap95VIj54OPYOSUdMfg",
       "duration_ms": 315000
+    },
+    {
+      "played_at": "2026-11-07T07:29:11.848Z",
+      "name": "Ain't Nobody Else Like You",
+      "artists": [
+        "Cass Elliot"
+      ],
+      "album": "Mama's Big Ones",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731441866921b337b26dd53cff",
+      "uri": "spotify:track:7l5BTHQXkTQxZjc9HyoN3h",
+      "duration_ms": 144160
+    },
+    {
+      "played_at": "2026-11-07T07:33:18.071Z",
+      "name": "Falling In Love",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cry",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
+      "uri": "spotify:track:3g7ngtg7xK3N9nKwAjDfH3",
+      "duration_ms": 245840
+    },
+    {
+      "played_at": "2026-11-07T07:41:33.164Z",
+      "name": "Sure Thing",
+      "artists": [
+        "Ramonisando"
+      ],
+      "album": "Sure Thing",
+      "image": "https://i.scdn.co/image/ab67616d0000b273388b2c7973e8db9472d6d8ab",
+      "uri": "spotify:track:5KU4a8rDfsoUVkoVYk0COg",
+      "duration_ms": 63000
+    },
+    {
+      "played_at": "2026-11-07T07:44:55.537Z",
+      "name": "Eiji",
+      "artists": [
+        "Shinichi Osawa Works"
+      ],
+      "album": "BANANA FISH Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
+      "uri": "spotify:track:7N2aXwJMrW54Lch4Urn3Ho",
+      "duration_ms": 201933
+    },
+    {
+      "played_at": "2026-11-07T07:47:16.182Z",
+      "name": "Him and Hym",
+      "artists": [
+        "Shinichi Osawa Works"
+      ],
+      "album": "BANANA FISH Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
+      "uri": "spotify:track:4wEoijvnHdqavxmSPkiXcv",
+      "duration_ms": 140200
+    },
+    {
+      "played_at": "2026-11-07T07:51:01.427Z",
+      "name": "Aslan",
+      "artists": [
+        "Shinichi Osawa Works"
+      ],
+      "album": "BANANA FISH Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
+      "uri": "spotify:track:5WGIUhbFS6UzpCXpuvDu4Q",
+      "duration_ms": 224840
+    },
+    {
+      "played_at": "2026-11-07T07:58:54.593Z",
+      "name": "美しい日々の欠片",
+      "artists": [
+        "KAMIJO"
+      ],
+      "album": "美しい日々の欠片",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358539e9b0baea1f6d012373d",
+      "uri": "spotify:track:4sPFNZAp3bDCFL3BTrGmKb",
+      "duration_ms": 360415
+    },
+    {
+      "played_at": "2026-11-07T08:02:53.647Z",
+      "name": "mademoiselle",
+      "artists": [
+        "KAMIJO"
+      ],
+      "album": "mademoiselle",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d8dc00fc7b0d05467751d6f5",
+      "uri": "spotify:track:6L7ukgfjkoj8d11IjdB2hP",
+      "duration_ms": 238666
+    },
+    {
+      "played_at": "2026-11-07T08:07:36.635Z",
+      "name": "TEMPLE -Blood sucking for praying-",
+      "artists": [
+        "KAMIJO"
+      ],
+      "album": "TEMPLE -Blood sucking for praying-",
+      "image": "https://i.scdn.co/image/ab67616d0000b273692a44dd2529f37f3009ff7e",
+      "uri": "spotify:track:5Ecd2dxtHqyaBrw0m0fbmc",
+      "duration_ms": 282453
+    },
+    {
+      "played_at": "2026-11-07T08:12:32.932Z",
+      "name": "Mizerable",
+      "artists": [
+        "GACKT"
+      ],
+      "album": "Mizerable",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c796ec978326ca2ceee56f0",
+      "uri": "spotify:track:3qLc6xDhKALXaul4lmwpmm",
+      "duration_ms": 295933
+    },
+    {
+      "played_at": "2026-11-07T08:18:19.502Z",
+      "name": "Metamorphose",
+      "artists": [
+        "LAREINE"
+      ],
+      "album": "LILLILLIE CHARLOTTE within MetamorphoseLIE CHARLOTTE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731bf4be602ae37d924bba5f4c",
+      "uri": "spotify:track:1xXs1ge4evZ82rMVZGUrm6",
+      "duration_ms": 346186
+    },
+    {
+      "played_at": "2026-11-07T08:22:40.065Z",
+      "name": "Romantic Season",
+      "artists": [
+        "LAREINE"
+      ],
+      "album": "Winter Romantic",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735f94208beab6ffce4d49fc0f",
+      "uri": "spotify:track:1qBJGFqkXDIIBWAdr6dV1o",
+      "duration_ms": 260120
     }
   ]
 }
