@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-07T21:33:06.658Z",
-  "is_playing": false,
+  "updated_at": "2026-11-08T04:58:35.637Z",
+  "is_playing": true,
   "track": {
-    "name": "「Akunin」",
+    "name": "September Rain - 2020 Remaster",
     "artists": [
-      "gulu gulu"
+      "Makoto Matsushita"
     ],
-    "album": "Gulu Gulu Ryuushutsu Ongen Shuu (Living Dead Edition)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273cd357d35696d27096cbfef84",
-    "uri": "spotify:track:0vaZCOY4wStHm59rJ8tERq"
+    "album": "COLLECTION",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d917602d1344242baf29fcdb",
+    "uri": "spotify:track:6A9YFkei6zWfPSxWxlBecY"
   },
-  "played_at": "2026-11-07T12:33:23.563Z"
+  "played_at": "2026-11-08T04:58:35.637Z"
 }

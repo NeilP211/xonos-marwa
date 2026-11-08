@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T21:33:06.545Z",
+  "generated_at": "2026-11-08T04:58:35.325Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -356,6 +356,19 @@
         },
         {
           "rank": 30,
+          "name": "Tonight (Best You Ever Had) (feat. Ludacris)",
+          "artists": [
+            "John Legend",
+            "Ludacris"
+          ],
+          "album": "Think Like A Man - Music From & Inspired By The Film",
+          "image": "https://i.scdn.co/image/ab67616d0000b273515f30d295a72141006f5905",
+          "uri": "spotify:track:17zF2ISrDrQdaULA8cxReK",
+          "url": "https://open.spotify.com/track/17zF2ISrDrQdaULA8cxReK",
+          "duration_ms": 239453
+        },
+        {
+          "rank": 31,
           "name": "BAD TIME",
           "artists": [
             "Lil Tecca"
@@ -367,7 +380,7 @@
           "duration_ms": 210803
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Flawless Execution",
           "artists": [
             "Pierce The Veil"
@@ -379,7 +392,7 @@
           "duration_ms": 240053
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Emergency Contact",
           "artists": [
             "Pierce The Veil"
@@ -391,7 +404,7 @@
           "duration_ms": 240000
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Marisol",
           "artists": [
             "Static Dress"
@@ -403,7 +416,7 @@
           "duration_ms": 292500
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "NUMBER 2",
           "artists": [
             "Lil Tecca"
@@ -415,7 +428,7 @@
           "duration_ms": 137904
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "SALOME",
           "artists": [
             "Kaya"
@@ -427,7 +440,7 @@
           "duration_ms": 244835
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Even When I’m Not With You",
           "artists": [
             "Pierce The Veil"
@@ -439,7 +452,7 @@
           "duration_ms": 174146
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "wish",
           "artists": [
             "Ailey Rain"
@@ -451,7 +464,7 @@
           "duration_ms": 168175
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Cowboys and Angels - Remastered",
           "artists": [
             "George Michael"
@@ -463,7 +476,7 @@
           "duration_ms": 434733
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "mademoiselle",
           "artists": [
             "KAMIJO"
@@ -475,7 +488,7 @@
           "duration_ms": 238666
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "in your head",
           "artists": [
             "cloudyfield"
@@ -487,7 +500,7 @@
           "duration_ms": 170000
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "How to Pretend",
           "artists": [
             "Lucy Bedroque"
@@ -499,7 +512,21 @@
           "duration_ms": 224086
         },
         {
-          "rank": 42,
+          "rank": 43,
+          "name": "DIE TRYING",
+          "artists": [
+            "PARTYNEXTDOOR",
+            "Drake",
+            "Yebba"
+          ],
+          "album": "$ome $exy $ongs 4 U",
+          "image": "https://i.scdn.co/image/ab67616d0000b27382e549302f7a635fedc98331",
+          "uri": "spotify:track:0gIUyyegjuKZenuZKCRiAL",
+          "url": "https://open.spotify.com/track/0gIUyyegjuKZenuZKCRiAL",
+          "duration_ms": 195431
+        },
+        {
+          "rank": 44,
           "name": "Body - Remix",
           "artists": [
             "Eladio Carrion",
@@ -513,7 +540,7 @@
           "duration_ms": 234240
         },
         {
-          "rank": 43,
+          "rank": 45,
           "name": "You Have Been Loved",
           "artists": [
             "George Michael"
@@ -525,7 +552,7 @@
           "duration_ms": 330800
         },
         {
-          "rank": 44,
+          "rank": 46,
           "name": "一念 (影视剧《逐玉》插曲)",
           "artists": [
             "张紫宁 / 李鑫一"
@@ -537,7 +564,7 @@
           "duration_ms": 190000
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "Apocalypse",
           "artists": [
             "Cigarettes After Sex"
@@ -549,7 +576,7 @@
           "duration_ms": 290146
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "Romantic Season",
           "artists": [
             "LAREINE"
@@ -561,7 +588,7 @@
           "duration_ms": 260120
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "Baby Girl",
           "artists": [
             "PROXIE",
@@ -574,7 +601,7 @@
           "duration_ms": 155529
         },
         {
-          "rank": 48,
+          "rank": 50,
           "name": "12 Fractures",
           "artists": [
             "Pierce The Veil",
@@ -585,30 +612,6 @@
           "uri": "spotify:track:2R5SzmhzoaCkjDJcSaGrN3",
           "url": "https://open.spotify.com/track/2R5SzmhzoaCkjDJcSaGrN3",
           "duration_ms": 181600
-        },
-        {
-          "rank": 49,
-          "name": "Props & Mayhem",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "Collide With The Sky",
-          "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-          "uri": "spotify:track:2SYMnBpx7zyhSDPQwoOlFO",
-          "url": "https://open.spotify.com/track/2SYMnBpx7zyhSDPQwoOlFO",
-          "duration_ms": 217853
-        },
-        {
-          "rank": 50,
-          "name": "Plein Soleil",
-          "artists": [
-            "Avenoir"
-          ],
-          "album": "Plein Soleil",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730ec8ba23870ec98ac63aa2ad",
-          "uri": "spotify:track:2jYoHERAJLmbPEzgEq3q81",
-          "url": "https://open.spotify.com/track/2jYoHERAJLmbPEzgEq3q81",
-          "duration_ms": 205746
         }
       ],
       "artists": [
@@ -616,11 +619,7 @@
           "rank": 1,
           "name": "Pierce The Veil",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6f8f8d13be17bf486219edc7",
-          "genres": [
-            "emo",
-            "screamo",
-            "post-hardcore"
-          ],
+          "genres": [],
           "uri": "spotify:artist:4iJLPqClelZOBCBifm8Fzv",
           "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         },
@@ -628,9 +627,7 @@
           "rank": 2,
           "name": "Cigarettes After Sex",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
-          "genres": [
-            "dream pop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
@@ -638,10 +635,7 @@
           "rank": 3,
           "name": "Lil Tecca",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
-          "genres": [
-            "melodic rap",
-            "rap"
-          ],
+          "genres": [],
           "uri": "spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         },
@@ -649,9 +643,7 @@
           "rank": 4,
           "name": "Shinichi Osawa Works",
           "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
-          "genres": [
-            "anime"
-          ],
+          "genres": [],
           "uri": "spotify:artist:4d3dSSG92Bywc1qwtKVOrb",
           "url": "https://open.spotify.com/artist/4d3dSSG92Bywc1qwtKVOrb"
         },
@@ -659,10 +651,7 @@
           "rank": 5,
           "name": "LAREINE",
           "image": "https://i.scdn.co/image/ab67616d0000b2731bf4be602ae37d924bba5f4c",
-          "genres": [
-            "visual kei",
-            "j-rock"
-          ],
+          "genres": [],
           "uri": "spotify:artist:2w3S57NmAGnZwqC1ATXxDP",
           "url": "https://open.spotify.com/artist/2w3S57NmAGnZwqC1ATXxDP"
         },
@@ -670,10 +659,7 @@
           "rank": 6,
           "name": "Kaya",
           "image": "https://i.scdn.co/image/ab67616d0000b273f25a166ed7ebcd049581f03e",
-          "genres": [
-            "visual kei",
-            "j-rock"
-          ],
+          "genres": [],
           "uri": "spotify:artist:2QIdg099yylM16gsKCTrsg",
           "url": "https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg"
         },
@@ -681,10 +667,7 @@
           "rank": 7,
           "name": "KAMIJO",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd619816883817163caae41c6",
-          "genres": [
-            "visual kei",
-            "j-rock"
-          ],
+          "genres": [],
           "uri": "spotify:artist:0JwCbwaiMVKrIA6cH8fquT",
           "url": "https://open.spotify.com/artist/0JwCbwaiMVKrIA6cH8fquT"
         },
@@ -700,10 +683,7 @@
           "rank": 9,
           "name": "GACKT",
           "image": "https://i.scdn.co/image/ab6761610000e5eb67ef40a2e9b5360a0b8e3c89",
-          "genres": [
-            "visual kei",
-            "j-rock"
-          ],
+          "genres": [],
           "uri": "spotify:artist:0MebO9MFNvedjUBsPGo0YN",
           "url": "https://open.spotify.com/artist/0MebO9MFNvedjUBsPGo0YN"
         },
@@ -711,10 +691,7 @@
           "rank": 10,
           "name": "BUCK-TICK",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbef14ae6a0b704cc4b533e7a",
-          "genres": [
-            "visual kei",
-            "j-rock"
-          ],
+          "genres": [],
           "uri": "spotify:artist:2DiecQcRbDuSJuSPKtirrX",
           "url": "https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX"
         },
@@ -728,66 +705,57 @@
         },
         {
           "rank": 12,
+          "name": "void",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb65cc3ebb79d98c6ac627b736",
+          "genres": [],
+          "uri": "spotify:artist:5ySK6tR70ZunnmPEHCrCwF",
+          "url": "https://open.spotify.com/artist/5ySK6tR70ZunnmPEHCrCwF"
+        },
+        {
+          "rank": 13,
           "name": "Loathe",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
-          "genres": [
-            "shoegaze"
-          ],
+          "genres": [],
           "uri": "spotify:artist:4G9wSdX0klmoHfjm9i6DLd",
           "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "gulu gulu",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e863631369aaddd8f72efea",
-          "genres": [
-            "visual kei",
-            "j-rock"
-          ],
+          "genres": [],
           "uri": "spotify:artist:7IS31MnxPnYaDKlFRZ3pdt",
           "url": "https://open.spotify.com/artist/7IS31MnxPnYaDKlFRZ3pdt"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Static Dress",
           "image": "https://i.scdn.co/image/ab6761610000e5ebeccc53e00be4f2d9e975e232",
-          "genres": [
-            "shoegaze",
-            "post-hardcore",
-            "metalcore"
-          ],
+          "genres": [],
           "uri": "spotify:artist:1Lqdsv7Ff4GNq9PM3Yd0vi",
           "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Drake",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-          "genres": [
-            "rap"
-          ],
+          "genres": [],
           "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Plastic Tree",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc230e893d98a53ead38d7f60",
-          "genres": [
-            "visual kei",
-            "j-rock"
-          ],
+          "genres": [],
           "uri": "spotify:artist:5O4DsTkJ6z2eTSvIHZ6sDo",
           "url": "https://open.spotify.com/artist/5O4DsTkJ6z2eTSvIHZ6sDo"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Fukuro",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6d15f58710ecab2f0bb571ab",
-          "genres": [
-            "visual kei",
-            "j-rock"
-          ],
+          "genres": [],
           "uri": "spotify:artist:6G4xErlRWfs1ReVqZvsjh6",
           "url": "https://open.spotify.com/artist/6G4xErlRWfs1ReVqZvsjh6"
         }
@@ -2830,52 +2798,7 @@
     }
   },
   "genres": {
-    "short_term": [
-      {
-        "genre": "visual kei",
-        "weight": 0.2758913412563667
-      },
-      {
-        "genre": "j-rock",
-        "weight": 0.2758913412563667
-      },
-      {
-        "genre": "post-hardcore",
-        "weight": 0.07385398981324279
-      },
-      {
-        "genre": "rap",
-        "weight": 0.07130730050933787
-      },
-      {
-        "genre": "shoegaze",
-        "weight": 0.06451612903225806
-      },
-      {
-        "genre": "emo",
-        "weight": 0.042444821731748725
-      },
-      {
-        "genre": "screamo",
-        "weight": 0.042444821731748725
-      },
-      {
-        "genre": "dream pop",
-        "weight": 0.04159592529711375
-      },
-      {
-        "genre": "melodic rap",
-        "weight": 0.04074702886247878
-      },
-      {
-        "genre": "anime",
-        "weight": 0.039898132427843805
-      },
-      {
-        "genre": "metalcore",
-        "weight": 0.031409168081494056
-      }
-    ],
+    "short_term": [],
     "medium_term": [],
     "long_term": []
   }
