@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-08T04:58:35.637Z",
-  "is_playing": true,
+  "updated_at": "2026-11-08T12:54:43.199Z",
+  "is_playing": false,
   "track": {
-    "name": "September Rain - 2020 Remaster",
+    "name": "Plein Soleil",
     "artists": [
-      "Makoto Matsushita"
+      "Avenoir"
     ],
-    "album": "COLLECTION",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d917602d1344242baf29fcdb",
-    "uri": "spotify:track:6A9YFkei6zWfPSxWxlBecY"
+    "album": "Plein Soleil",
+    "image": "https://i.scdn.co/image/ab67616d0000b2730ec8ba23870ec98ac63aa2ad",
+    "uri": "spotify:track:2jYoHERAJLmbPEzgEq3q81"
   },
-  "played_at": "2026-11-08T04:58:35.637Z"
+  "played_at": "2026-11-07T23:58:55.689Z"
 }
