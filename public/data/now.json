@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-09T11:00:50.325Z",
+  "updated_at": "2026-11-09T22:01:16.245Z",
   "is_playing": false,
   "track": {
-    "name": "El Hob Gany",
+    "name": "No One's Deserving",
     "artists": [
-      "TUL8TE"
+      "Superheaven"
     ],
-    "album": "El Hob Gany",
-    "image": "https://i.scdn.co/image/ab67616d0000b27359a9b963a89b853fa98a4c06",
-    "uri": "spotify:track:67yheG887FPQXlPRNmoXqz"
+    "album": "Jar",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+    "uri": "spotify:track:68NXTtyVOS3rNGaYCxeHfW"
   },
-  "played_at": "2026-11-09T07:09:53.514Z"
+  "played_at": "2026-11-09T21:42:51.020Z"
 }

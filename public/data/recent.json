@@ -1,566 +1,6 @@
 {
-  "updated_at": "2026-11-09T11:00:50.286Z",
+  "updated_at": "2026-11-09T22:01:16.204Z",
   "plays": [
-    {
-      "played_at": "2026-07-10T17:09:35.590Z",
-      "name": "Domingo Familiar",
-      "artists": [
-        "Rawayana",
-        "Jowell & Randy"
-      ],
-      "album": "¿Dónde Es El After?",
-      "image": "https://i.scdn.co/image/ab67616d0000b273932fe6d260177091a0e115ba",
-      "uri": "spotify:track:6s5fdTesXo77NneP3tn3Km",
-      "duration_ms": 158440
-    },
-    {
-      "played_at": "2026-07-10T17:12:19.531Z",
-      "name": "Corazón",
-      "artists": [
-        "Danny Ocean"
-      ],
-      "album": "Babylon Club",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734330d7d9762313dff66f1ca7",
-      "uri": "spotify:track:2339UOI2SU3L1nJtUnx0GF",
-      "duration_ms": 163411
-    },
-    {
-      "played_at": "2026-07-10T17:18:29Z",
-      "name": "El Pana Deiby",
-      "artists": [
-        "Akapellah"
-      ],
-      "album": "El Pana Deiby",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a2f868490ad91df6809dd32e",
-      "uri": "spotify:track:0p5vebYEqSahFULjaYB8LY",
-      "duration_ms": 251773
-    },
-    {
-      "played_at": "2026-07-10T17:32:17.893Z",
-      "name": "El Pana Deiby",
-      "artists": [
-        "Akapellah"
-      ],
-      "album": "El Pana Deiby",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a2f868490ad91df6809dd32e",
-      "uri": "spotify:track:0p5vebYEqSahFULjaYB8LY",
-      "duration_ms": 251773
-    },
-    {
-      "played_at": "2026-07-10T17:38:49.813Z",
-      "name": "Virgen",
-      "artists": [
-        "Adolescent's Orquesta"
-      ],
-      "album": "Ahora Más Que Nunca",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c30c9fc1d43d8e1ca14ecbe6",
-      "uri": "spotify:track:5HCGrYR7g9u2X9Ju83yQLm",
-      "duration_ms": 271751
-    },
-    {
-      "played_at": "2026-07-10T17:43:08.042Z",
-      "name": "Corazón",
-      "artists": [
-        "Danny Ocean"
-      ],
-      "album": "Babylon Club",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734330d7d9762313dff66f1ca7",
-      "uri": "spotify:track:2339UOI2SU3L1nJtUnx0GF",
-      "duration_ms": 163411
-    },
-    {
-      "played_at": "2026-07-10T17:49:29.984Z",
-      "name": "Vitamina",
-      "artists": [
-        "Danny Ocean"
-      ],
-      "album": "Vitamina",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d3fb69da5ef0571b89344fef",
-      "uri": "spotify:track:3LBYHlDSJOeUWSvCHXDWy5",
-      "duration_ms": 157755
-    },
-    {
-      "played_at": "2026-07-10T17:51:57.193Z",
-      "name": "el ingeniero",
-      "artists": [
-        "Alleh",
-        "Yorghaki"
-      ],
-      "album": "LA CIUDAD",
-      "image": "https://i.scdn.co/image/ab67616d0000b27353596a050e8369c51da11029",
-      "uri": "spotify:track:3Qu8oa0nqMwRNWt0Tdzkpo",
-      "duration_ms": 146857
-    },
-    {
-      "played_at": "2026-07-10T17:53:57.635Z",
-      "name": "Qué Rico PR!",
-      "artists": [
-        "Rawayana"
-      ],
-      "album": "¿Dónde Es El After?",
-      "image": "https://i.scdn.co/image/ab67616d0000b273932fe6d260177091a0e115ba",
-      "uri": "spotify:track:08C6m4alGcRaXEbm6IMsNs",
-      "duration_ms": 120000
-    },
-    {
-      "played_at": "2026-07-10T17:56:37.918Z",
-      "name": "Wapa",
-      "artists": [
-        "Jerry Di"
-      ],
-      "album": "Wapa",
-      "image": "https://i.scdn.co/image/ab67616d0000b273489e394cbf5de0d68a9777ad",
-      "uri": "spotify:track:3pKQxo7IgfYkT2BmU4yr4w",
-      "duration_ms": 159776
-    },
-    {
-      "played_at": "2026-07-10T18:00:47.965Z",
-      "name": "Mi Casita",
-      "artists": [
-        "Motherflowers"
-      ],
-      "album": "Mi Casita",
-      "image": "https://i.scdn.co/image/ab67616d0000b27310a3574a92a96514c75b23ed",
-      "uri": "spotify:track:5MQPlCMoRXxIg1waL0Keo8",
-      "duration_ms": 249579
-    },
-    {
-      "played_at": "2026-07-10T18:02:10.210Z",
-      "name": "Alma Llanera / Venezuela - Live from Nobel Peace Prize 2025",
-      "artists": [
-        "Danny Ocean"
-      ],
-      "album": "Alma Llanera / Venezuela (Live from Nobel Peace Prize 2025)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739c594a253dd4cffa0f4cebb2",
-      "uri": "spotify:track:2pvoBWRbXGXQrGgQF6swxn",
-      "duration_ms": 238389
-    },
-    {
-      "played_at": "2026-07-10T18:24:33.198Z",
-      "name": "Flor De Michoacán",
-      "artists": [
-        "Menny Flores"
-      ],
-      "album": "Flor De Michoacán",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
-      "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3",
-      "duration_ms": 193853
-    },
-    {
-      "played_at": "2026-07-10T18:29:02.504Z",
-      "name": "Caraphernelia",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "Selfish Machines",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735eae69bbe37d5f382155e387",
-      "uri": "spotify:track:2G8PweZBBwTpyP8vpNQJK2",
-      "duration_ms": 268480
-    },
-    {
-      "played_at": "2026-07-10T18:46:51.083Z",
-      "name": "LAYALINA",
-      "artists": [
-        "TUL8TE"
-      ],
-      "album": "TESH SHABAB",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cd08f7df5783c39c57d382f4",
-      "uri": "spotify:track:1yiJHrunZu2fov7OhC7vM9",
-      "duration_ms": 218833
-    },
-    {
-      "played_at": "2026-07-10T19:58:09.408Z",
-      "name": "قصاد عينى",
-      "artists": [
-        "Amr Diab"
-      ],
-      "album": "ليلى نهارى",
-      "image": "https://i.scdn.co/image/ab67616d0000b273636b9c1f05f0a37e1baa4628",
-      "uri": "spotify:track:3bISYorQwMHFlDaAhNyWd8",
-      "duration_ms": 264228
-    },
-    {
-      "played_at": "2026-07-10T21:00:51.982Z",
-      "name": "Kiss Me Now",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
-      "uri": "spotify:track:6yT9iNKt8fQoYpQkbWc7YR",
-      "duration_ms": 256268
-    },
-    {
-      "played_at": "2026-07-10T21:06:19.608Z",
-      "name": "Emergency Contact",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-      "uri": "spotify:track:4amltxLIfFmtYEvZbdgDqO",
-      "duration_ms": 240000
-    },
-    {
-      "played_at": "2026-07-10T21:06:55.907Z",
-      "name": "Irrational Fears - Interlude",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-      "uri": "spotify:track:1AtTmjAqrlmg9P2enDqVg9",
-      "duration_ms": 21560
-    },
-    {
-      "played_at": "2026-07-10T21:10:53.427Z",
-      "name": "Damn The Man, Save The Empire",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-      "uri": "spotify:track:57ISsI9qQcAUkhiqwEMhxG",
-      "duration_ms": 237000
-    },
-    {
-      "played_at": "2026-07-10T21:49:32.180Z",
-      "name": "Flawless Execution",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-      "uri": "spotify:track:3XfmKIeWD1gGrKhwIEon6Q",
-      "duration_ms": 240053
-    },
-    {
-      "played_at": "2026-07-11T23:42:13.842Z",
-      "name": "Flawless Execution",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-      "uri": "spotify:track:3XfmKIeWD1gGrKhwIEon6Q",
-      "duration_ms": 240053
-    },
-    {
-      "played_at": "2026-07-11T23:48:25.441Z",
-      "name": "Kiss Me Now",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
-      "uri": "spotify:track:6yT9iNKt8fQoYpQkbWc7YR",
-      "duration_ms": 256268
-    },
-    {
-      "played_at": "2026-07-11T23:53:18.449Z",
-      "name": "Damn The Man, Save The Empire",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-      "uri": "spotify:track:57ISsI9qQcAUkhiqwEMhxG",
-      "duration_ms": 237000
-    },
-    {
-      "played_at": "2026-07-12T00:12:31.149Z",
-      "name": "Hold On Till May",
-      "artists": [
-        "Pierce The Veil",
-        "Lindsey Stamey"
-      ],
-      "album": "Collide With The Sky",
-      "image": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570",
-      "uri": "spotify:track:5u2FOoFhp495GIj5BJC77J",
-      "duration_ms": 278586
-    },
-    {
-      "played_at": "2026-07-12T00:15:29.134Z",
-      "name": "Move",
-      "artists": [
-        "Adam Port",
-        "Stryv",
-        "Keinemusik",
-        "Orso",
-        "Malachiii"
-      ],
-      "album": "Move",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a959d221820e650bee1ca487",
-      "uri": "spotify:track:1BJJbSX6muJVF2AK7uH1x4",
-      "duration_ms": 177598
-    },
-    {
-      "played_at": "2026-07-12T00:43:47.412Z",
-      "name": "Release",
-      "artists": [
-        "Maz B"
-      ],
-      "album": "Release",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739701c7fc6a44ed5d85d61e83",
-      "uri": "spotify:track:44Rmvn1BwzzY5DP6l6PO3D",
-      "duration_ms": 192227
-    },
-    {
-      "played_at": "2026-07-12T00:48:03.849Z",
-      "name": "seasons",
-      "artists": [
-        "wave to earth"
-      ],
-      "album": "summer flows 0.02",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b975ed7ccd57f3a00d570cf",
-      "uri": "spotify:track:0aVd7QiY8BstysHb62c5Fi",
-      "duration_ms": 256000
-    },
-    {
-      "played_at": "2026-07-12T00:52:37.044Z",
-      "name": "Sparks",
-      "artists": [
-        "Coldplay"
-      ],
-      "album": "Parachutes",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a",
-      "uri": "spotify:track:7D0RhFcb3CrfPuTJ0obrod",
-      "duration_ms": 227093
-    },
-    {
-      "played_at": "2026-07-13T09:10:56.287Z",
-      "name": "I Want You",
-      "artists": [
-        "Marvin Gaye"
-      ],
-      "album": "I Want You (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736329e23d367245adceb71fd0",
-      "uri": "spotify:track:2gmWJA9oF4GD2Vw5QoRqu1",
-      "duration_ms": 274400
-    },
-    {
-      "played_at": "2026-07-13T09:14:34.253Z",
-      "name": "Borro Cassette",
-      "artists": [
-        "Maluma"
-      ],
-      "album": "Pretty Boy, Dirty Boy",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c7b78f86d070f52f45ad125f",
-      "uri": "spotify:track:6DUdDIRgLqCGq1DwkNWQTN",
-      "duration_ms": 207296
-    },
-    {
-      "played_at": "2026-07-14T02:01:24.669Z",
-      "name": "Todo De Ti",
-      "artists": [
-        "Rauw Alejandro"
-      ],
-      "album": "VICE VERSA",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f793c0c53727d8c5c950f809",
-      "uri": "spotify:track:3rdAz1fbUfZxYgaCviYhRo",
-      "duration_ms": 199604
-    },
-    {
-      "played_at": "2026-07-14T02:38:30.012Z",
-      "name": "Nothing Compares - Bonus Track",
-      "artists": [
-        "The Weeknd"
-      ],
-      "album": "After Hours (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ef017e899c0547766997d874",
-      "uri": "spotify:track:6utQlfLooYsUkq5xUg3vxt",
-      "duration_ms": 222306
-    },
-    {
-      "played_at": "2026-07-14T02:41:10.454Z",
-      "name": "Run Your Mouth",
-      "artists": [
-        "The Marías"
-      ],
-      "album": "Submarine",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831",
-      "uri": "spotify:track:19fKJrO9XdOf6Xla2QHecO",
-      "duration_ms": 160000
-    },
-    {
-      "played_at": "2026-07-14T02:45:28.456Z",
-      "name": "Knee Socks",
-      "artists": [
-        "Arctic Monkeys"
-      ],
-      "album": "AM",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
-      "uri": "spotify:track:2LGdO5MtFdyphi2EihANZG",
-      "duration_ms": 257563
-    },
-    {
-      "played_at": "2026-07-15T05:11:57.858Z",
-      "name": "In Another Time",
-      "artists": [
-        "Sade"
-      ],
-      "album": "Soldier of Love",
-      "image": "https://i.scdn.co/image/ab67616d0000b27398da02db8bb9253c3367e41a",
-      "uri": "spotify:track:1DKYtHoBNbqjMLqvpw7o73",
-      "duration_ms": 304413
-    },
-    {
-      "played_at": "2026-07-15T05:15:22.075Z",
-      "name": "Selfish Waltz",
-      "artists": [
-        "ATEEZ"
-      ],
-      "album": "GOLDEN HOUR : Part.2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d2e09fa4f9a0285f8d2a9142",
-      "uri": "spotify:track:4sgvhAD07BiE8H0gGbmaCk",
-      "duration_ms": 203654
-    },
-    {
-      "played_at": "2026-07-15T05:18:45.619Z",
-      "name": "Flor De Michoacán",
-      "artists": [
-        "Menny Flores"
-      ],
-      "album": "Flor De Michoacán",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
-      "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3",
-      "duration_ms": 193853
-    },
-    {
-      "played_at": "2026-07-15T05:23:28.181Z",
-      "name": "Descifrar",
-      "artists": [
-        "maye"
-      ],
-      "album": "Descifrar",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
-      "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
-      "duration_ms": 178700
-    },
-    {
-      "played_at": "2026-07-15T05:36:57.079Z",
-      "name": "Forever",
-      "artists": [
-        "keshi"
-      ],
-      "album": "Requiem (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733dfa5d71dad925112f5d5b9a",
-      "uri": "spotify:track:2C5nlzIMJ81NYmeGhofNNP",
-      "duration_ms": 171415
-    },
-    {
-      "played_at": "2026-07-15T05:41:48.795Z",
-      "name": "日落计数器",
-      "artists": [
-        "莫非定律乐团"
-      ],
-      "album": "日落计数器",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e93dbbce3937df90318b35a1",
-      "uri": "spotify:track:3BPuq1TTqJ5lat7IKqyZTW",
-      "duration_ms": 291564
-    },
-    {
-      "played_at": "2026-07-15T05:51:31.900Z",
-      "name": "雨蝶 - R&B微醺版",
-      "artists": [
-        "微醺卡带"
-      ],
-      "album": "雨蝶 (R&B微醺版)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27381bfa5296306a950e8b64aa0",
-      "uri": "spotify:track:4BdMTfgOY7zGwIGCqJpEnm",
-      "duration_ms": 234984
-    },
-    {
-      "played_at": "2026-07-15T05:55:41.254Z",
-      "name": "WHO DO U LUV",
-      "artists": [
-        "Avenoir"
-      ],
-      "album": "WHO DO U LUV",
-      "image": "https://i.scdn.co/image/ab67616d0000b27373dc757337bcdd30b76723c5",
-      "uri": "spotify:track:74KASQI7XvyWdsNyQcJuv9",
-      "duration_ms": 248760
-    },
-    {
-      "played_at": "2026-07-15T05:58:46.818Z",
-      "name": "NOBLE",
-      "artists": [
-        "F3miii"
-      ],
-      "album": "NOBLE (Slowed Down)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733e2c1f8bb3f146186e2a1dc5",
-      "uri": "spotify:track:4Jsus7N4d8hFB2G9gcRdBv",
-      "duration_ms": 185806
-    },
-    {
-      "played_at": "2026-07-15T07:01:02.335Z",
-      "name": "Baby Be Mine",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Thriller",
-      "image": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-      "uri": "spotify:track:6XYbMGvtl6tlPoGWaiH7EY",
-      "duration_ms": 260368
-    },
-    {
-      "played_at": "2026-07-16T18:51:40.061Z",
-      "name": "Mi Plan",
-      "artists": [
-        "Romeo Santos",
-        "Prince Royce"
-      ],
-      "album": "Better Late Than Never",
-      "image": "https://i.scdn.co/image/ab67616d0000b27391750ed467a5ecc14beaa03f",
-      "uri": "spotify:track:05FOhiWbSLWAvRQecuu3dK",
-      "duration_ms": 223453
-    },
-    {
-      "played_at": "2026-07-16T18:54:52.824Z",
-      "name": "Mónaco",
-      "artists": [
-        "LAGOS",
-        "Danny Ocean"
-      ],
-      "album": "Clásicos",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734603462dd193f76ab1f98218",
-      "uri": "spotify:track:3HgvO4B5LLmdPOT2d8cSZd",
-      "duration_ms": 192313
-    },
-    {
-      "played_at": "2026-07-16T18:58:14.826Z",
-      "name": "Jasmine",
-      "artists": [
-        "DPR LIVE"
-      ],
-      "album": "Jasmine",
-      "image": "https://i.scdn.co/image/ab67616d0000b273aede3a5ed9bb90fb91aad963",
-      "uri": "spotify:track:2IgbYlOlFpiSFYnsqB39lM",
-      "duration_ms": 201510
-    },
-    {
-      "played_at": "2026-07-16T19:01:32.124Z",
-      "name": "LUNA",
-      "artists": [
-        "Feid",
-        "ATL Jacob"
-      ],
-      "album": "FERXXOCALIPSIS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242",
-      "uri": "spotify:track:7bywjHOc0wSjGGbj04XbVi",
-      "duration_ms": 196800
-    },
-    {
-      "played_at": "2026-07-16T19:05:10.147Z",
-      "name": "Hecha para Mi",
-      "artists": [
-        "Prince Royce"
-      ],
-      "album": "Phase II",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737f187201bff22a11f0d6053b",
-      "uri": "spotify:track:3lk1zEflQOqyKXngTBMwMC",
-      "duration_ms": 217573
-    },
     {
       "played_at": "2026-07-16T19:09:33.051Z",
       "name": "Please",
@@ -22546,6 +21986,558 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27359a9b963a89b853fa98a4c06",
       "uri": "spotify:track:67yheG887FPQXlPRNmoXqz",
       "duration_ms": 241212
+    },
+    {
+      "played_at": "2026-11-09T16:07:51.814Z",
+      "name": "بقيت وحيد",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي",
+      "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+      "uri": "spotify:track:1bXmR0B5BOfCudp3zQmKmH",
+      "duration_ms": 157785
+    },
+    {
+      "played_at": "2026-11-09T16:17:49.807Z",
+      "name": "Tamally Maak",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "Tamally Maak",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+      "uri": "spotify:track:6TYFcqqQVQPb3YsgfRhvqs",
+      "duration_ms": 269232
+    },
+    {
+      "played_at": "2026-11-09T16:22:09.096Z",
+      "name": "قصاد عينى",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "ليلى نهارى",
+      "image": "https://i.scdn.co/image/ab67616d0000b273636b9c1f05f0a37e1baa4628",
+      "uri": "spotify:track:3bISYorQwMHFlDaAhNyWd8",
+      "duration_ms": 264228
+    },
+    {
+      "played_at": "2026-11-09T16:25:59.206Z",
+      "name": "Al Hob Rajaei - From the Original TV Series Kabel Lel Kaser",
+      "artists": [
+        "Marwan Khoury"
+      ],
+      "album": "Al Hob Rajaei (From the Original TV Series Kabel Lel Kaser)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f2c0e37b968c36dec72d9865",
+      "uri": "spotify:track:1TmC5ECbCbD1bCDNr3zngZ",
+      "duration_ms": 235081
+    },
+    {
+      "played_at": "2026-11-09T16:32:20.090Z",
+      "name": "وحشتيني",
+      "artists": [
+        "Rashed Al-Majed"
+      ],
+      "album": "المسافر",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735ecdd979626ca9c85f064216",
+      "uri": "spotify:track:43RAsvZjJ0Ugau59NJqoTL",
+      "duration_ms": 385906
+    },
+    {
+      "played_at": "2026-11-09T16:35:54.415Z",
+      "name": "Allah Aleik Ya Seedy",
+      "artists": [
+        "Ehab Tawfik"
+      ],
+      "album": "Homma Kelmetain",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb7e76fbae8690b2295239d7",
+      "uri": "spotify:track:2vknxlulbj1JApedTlmrZv",
+      "duration_ms": 219320
+    },
+    {
+      "played_at": "2026-11-09T16:39:19.524Z",
+      "name": "قلتلي قول",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "الليلادي",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373b72d2ce3d19fa428595c2c",
+      "uri": "spotify:track:2WcmHkqbTHj1SrtGAbgQCI",
+      "duration_ms": 209972
+    },
+    {
+      "played_at": "2026-11-09T16:43:49.691Z",
+      "name": "Awseflak Eh",
+      "artists": [
+        "Ragheb Alama"
+      ],
+      "album": "Ragheb Alama (Greatest Hits)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a91bd0e51c49398efdbbc980",
+      "uri": "spotify:track:3oJGAoJVJlC22adeGpoKqR",
+      "duration_ms": 275200
+    },
+    {
+      "played_at": "2026-11-09T16:47:06.357Z",
+      "name": "Nehna We El Kamar Geeran",
+      "artists": [
+        "Fairuz"
+      ],
+      "album": "Fairouz World, Pt. 1",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730110ca8f52f56308a74ec74d",
+      "uri": "spotify:track:2pulvQDTgqjX4djPs6UygN",
+      "duration_ms": 201717
+    },
+    {
+      "played_at": "2026-11-09T16:51:51.309Z",
+      "name": "انا مش اناني",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "شفت الايام",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dbdd04ce70d11be66a2b4963",
+      "uri": "spotify:track:4gY4H2HNss9fWlILOEifzr",
+      "duration_ms": 289959
+    },
+    {
+      "played_at": "2026-11-09T16:56:08.599Z",
+      "name": "Ya Tabtab Wa Dallaa",
+      "artists": [
+        "Nancy Ajram"
+      ],
+      "album": "Ya Tabtab",
+      "image": "https://i.scdn.co/image/ab67616d0000b273524c4540b3f4df756712e8be",
+      "uri": "spotify:track:5l4Lla3ntoJIkCud07XlYn",
+      "duration_ms": 262240
+    },
+    {
+      "played_at": "2026-11-09T17:00:11.200Z",
+      "name": "مقدرش انا",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "بناديك تعالي",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739a8e9e006e159cde49d27d92",
+      "uri": "spotify:track:6gmsU8azjvrB9Am8QLZHXU",
+      "duration_ms": 231888
+    },
+    {
+      "played_at": "2026-11-09T17:05:50.935Z",
+      "name": "فاكر",
+      "artists": [
+        "Elissa"
+      ],
+      "album": "اسعد واحدة",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b36f08f6d67013dd52ebf9b",
+      "uri": "spotify:track:7x3R3jMAwggZW9VipgKafl",
+      "duration_ms": 344659
+    },
+    {
+      "played_at": "2026-11-09T17:09:40.110Z",
+      "name": "Saet El Forak",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "Shoft El Ayam",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7e2bbc56618390edf68925a",
+      "uri": "spotify:track:1lij0raYc7caXpJ8qFRPm7",
+      "duration_ms": 234161
+    },
+    {
+      "played_at": "2026-11-09T17:17:34.811Z",
+      "name": "Oppa Oppa",
+      "artists": [
+        "Haifa Wehbe"
+      ],
+      "album": "Oppa Oppa",
+      "image": "https://i.scdn.co/image/ab67616d0000b273baffb37ec0534a390bed8fa5",
+      "uri": "spotify:track:5cebFKDVtNCYNnfNCZZ971",
+      "duration_ms": 288783
+    },
+    {
+      "played_at": "2026-11-09T17:22:09.242Z",
+      "name": "3la Bali",
+      "artists": [
+        "Sherine"
+      ],
+      "album": "Lazem A3eesh",
+      "image": "https://i.scdn.co/image/ab67616d0000b273815bc0d0382f154678eaa77f",
+      "uri": "spotify:track:05nDuLXu5ejNOM05LNbS8a",
+      "duration_ms": 279457
+    },
+    {
+      "played_at": "2026-11-09T17:28:08.879Z",
+      "name": "Ajmal Ihssas",
+      "artists": [
+        "Elissa"
+      ],
+      "album": "Aayshalak",
+      "image": "https://i.scdn.co/image/ab67616d0000b27374e6d6a5e5463fa5b20d64e6",
+      "uri": "spotify:track:2VHp98YYcFKrAy09IaiXN2",
+      "duration_ms": 356653
+    },
+    {
+      "played_at": "2026-11-09T17:32:56.283Z",
+      "name": "Yally Zaalan",
+      "artists": [
+        "Mohamed Hamaki"
+      ],
+      "album": "Omroh Ma Yeghib",
+      "image": "https://i.scdn.co/image/ab67616d0000b273256546def151aea1ae8b4d2a",
+      "uri": "spotify:track:1gJfRu9I7hadI70g3YEyt8",
+      "duration_ms": 292440
+    },
+    {
+      "played_at": "2026-11-09T17:35:47.978Z",
+      "name": "الليلادي",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "الليلادي",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373b72d2ce3d19fa428595c2c",
+      "uri": "spotify:track:2gb49TkAX2nDgFDIZ3y3BW",
+      "duration_ms": 176640
+    },
+    {
+      "played_at": "2026-11-09T17:39:09.782Z",
+      "name": "KALAMANTINA / كلمنتينا",
+      "artists": [
+        "Saint Levant",
+        "Marwan Moussa"
+      ],
+      "album": "Love Letters / رسائل حب",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a0fce4a818e7d680d6ab5c40",
+      "uri": "spotify:track:3vZ3ngEbunTiK4fOVKyzYD",
+      "duration_ms": 206872
+    },
+    {
+      "played_at": "2026-11-09T17:42:57.211Z",
+      "name": "خليك معايا",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "الليلادي",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373b72d2ce3d19fa428595c2c",
+      "uri": "spotify:track:4xjuBQBnXifS3554AAVtop",
+      "duration_ms": 232411
+    },
+    {
+      "played_at": "2026-11-09T17:45:29.988Z",
+      "name": "بقيت وحيد",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي",
+      "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+      "uri": "spotify:track:1bXmR0B5BOfCudp3zQmKmH",
+      "duration_ms": 157785
+    },
+    {
+      "played_at": "2026-11-09T17:52:15.082Z",
+      "name": "اخدني معك",
+      "artists": [
+        "Fadel Chaker"
+      ],
+      "album": "حبك علمني",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f2914a96f44f3cf4ffffab8b",
+      "uri": "spotify:track:2OG1u9eX4Zjsi7fGQB9T8t",
+      "duration_ms": 313939
+    },
+    {
+      "played_at": "2026-11-09T17:56:55.186Z",
+      "name": "اه يالندن",
+      "artists": [
+        "Adel Ebrahim"
+      ],
+      "album": "عادل ابراهيم 2014",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738fe290c5eddf7e205d72c95b",
+      "uri": "spotify:track:4nC5GnWJe2FcU84eBiJa3l",
+      "duration_ms": 285101
+    },
+    {
+      "played_at": "2026-11-09T18:01:49.088Z",
+      "name": "Heseeny",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "Narein",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732e50096092c24bd9acb0749d",
+      "uri": "spotify:track:6AOmVuYPC8WJN0hzZ1ODIj",
+      "duration_ms": 213838
+    },
+    {
+      "played_at": "2026-11-09T18:05:18.386Z",
+      "name": "El Bint El Awiye",
+      "artists": [
+        "Wael Kfoury"
+      ],
+      "album": "El Bint El Awiye",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734894cd819e3379ed68ee9e45",
+      "uri": "spotify:track:1l3S4j9ksQMh2tKIta1bfw",
+      "duration_ms": 214327
+    },
+    {
+      "played_at": "2026-11-09T18:09:19.542Z",
+      "name": "Ray'a",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "Ray'a",
+      "image": "https://i.scdn.co/image/ab67616d0000b27338725e9102ed17ea357f0202",
+      "uri": "spotify:track:0gSwBFfNxzCEmswl2iluW1",
+      "duration_ms": 246110
+    },
+    {
+      "played_at": "2026-11-09T18:16:00.492Z",
+      "name": "Aloula",
+      "artists": [
+        "Fairuz"
+      ],
+      "album": "Fairuz - Modern Favorites",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b6d1c94ae63194a3ba470af2",
+      "uri": "spotify:track:34WlUzhgoqyzJlALY5Dghy",
+      "duration_ms": 279400
+    },
+    {
+      "played_at": "2026-11-09T18:21:11.491Z",
+      "name": "Leih Beydary Keda",
+      "artists": [
+        "Ruby"
+      ],
+      "album": "Eba Abelny",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eec7b64b4deaedf0bae9016e",
+      "uri": "spotify:track:4iKQHYDFlFsX28FeViuwSK",
+      "duration_ms": 315991
+    },
+    {
+      "played_at": "2026-11-09T18:24:52.896Z",
+      "name": "Sadaany Khalas",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "Arabian Love Songs",
+      "image": "https://i.scdn.co/image/ab67616d0000b273797b5eb357b0ade98a6cccc8",
+      "uri": "spotify:track:0RnGs4Ho88TTj3qqOcRWFb",
+      "duration_ms": 226417
+    },
+    {
+      "played_at": "2026-11-09T18:28:16.692Z",
+      "name": "arrib minni - قرب مني",
+      "artists": [
+        "zeyne"
+      ],
+      "album": "arrib minni - قرب مني",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9815122b5c109aa33d71ee",
+      "uri": "spotify:track:1yvNyea35QgRTZ4zOndXVl",
+      "duration_ms": 208825
+    },
+    {
+      "played_at": "2026-11-09T18:32:05.298Z",
+      "name": "Law Feyyi",
+      "artists": [
+        "Melhem Zein"
+      ],
+      "album": "Law Feyyi",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d7ddcf72a729dcd241298168",
+      "uri": "spotify:track:6b8PlX2IkeOpfItUXCTLvv",
+      "duration_ms": 233599
+    },
+    {
+      "played_at": "2026-11-09T18:37:52.497Z",
+      "name": "Ragea",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "Ahla W Ahla",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343b631a1e61aa93b9db9f7a8",
+      "uri": "spotify:track:73ppBd1Mc3J6JeczDvLF8E",
+      "duration_ms": 209186
+    },
+    {
+      "played_at": "2026-11-09T18:41:29.894Z",
+      "name": "Deira",
+      "artists": [
+        "Saint Levant",
+        "MC Abdul"
+      ],
+      "album": "DEIRA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734fac6cba67ce4b8ca9489d95",
+      "uri": "spotify:track:6FS0BYsjoCqgwg8azaRGlx",
+      "duration_ms": 168911
+    },
+    {
+      "played_at": "2026-11-09T18:46:00.097Z",
+      "name": "Awseflak Eh",
+      "artists": [
+        "Ragheb Alama"
+      ],
+      "album": "Saharouny El Leil",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732ed485e924123db6ea1ce037",
+      "uri": "spotify:track:6avZZ3cgxHT88n0irpjHeR",
+      "duration_ms": 275200
+    },
+    {
+      "played_at": "2026-11-09T18:49:04.399Z",
+      "name": "ليه بنخبي و مش بنقول",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي",
+      "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+      "uri": "spotify:track:7ADt67nRewsfODDmCuhtQl",
+      "duration_ms": 189320
+    },
+    {
+      "played_at": "2026-11-09T18:51:04.592Z",
+      "name": "حبيبي ليه",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي",
+      "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+      "uri": "spotify:track:2OSxxCfS81wcds5RbQ0Ztq",
+      "duration_ms": 120145
+    },
+    {
+      "played_at": "2026-11-09T18:54:40.999Z",
+      "name": "Makrehtosh",
+      "artists": [
+        "Tamer Ashour"
+      ],
+      "album": "Yaah",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735f37b1d95454c5b2bffc8d39",
+      "uri": "spotify:track:6ETTz69AD0SQzjxiCipq7g",
+      "duration_ms": 212112
+    },
+    {
+      "played_at": "2026-11-09T18:57:25.499Z",
+      "name": "رايحين نسهر - بام بام",
+      "artists": [
+        "Mohamed Ramadan"
+      ],
+      "album": "رايحين نسهر - بام بام",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734d5b5fb1b0d51071b89f7049",
+      "uri": "spotify:track:7wKUqlOL9OES7gwPdgUcQl",
+      "duration_ms": 169500
+    },
+    {
+      "played_at": "2026-11-09T19:00:16.456Z",
+      "name": "Shokran Min Hina Le Bokra",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "Shokran Min Hina Le Bokra",
+      "image": "https://i.scdn.co/image/ab67616d0000b273773c59cdb9d4ceea28a97346",
+      "uri": "spotify:track:3SkSfk6ufuSszZQ0e3NYbw",
+      "duration_ms": 175986
+    },
+    {
+      "played_at": "2026-11-09T19:03:30.434Z",
+      "name": "Tegy Nenbeset",
+      "artists": [
+        "Nancy Ajram"
+      ],
+      "album": "Tegy Nenbeset",
+      "image": "https://i.scdn.co/image/ab67616d0000b27375773695865d6f74c56abf5b",
+      "uri": "spotify:track:2olgmxnrsz48q2lodyL9YI",
+      "duration_ms": 198987
+    },
+    {
+      "played_at": "2026-11-09T19:07:08.122Z",
+      "name": "احلى حاجة فيكى",
+      "artists": [
+        "Mohamed Hamaki"
+      ],
+      "album": "خلص الكلام",
+      "image": "https://i.scdn.co/image/ab67616d0000b273efed63c14ec5825ceb603f35",
+      "uri": "spotify:track:06uo1USMfngzC6C7RB9SXb",
+      "duration_ms": 222627
+    },
+    {
+      "played_at": "2026-11-09T19:11:11.501Z",
+      "name": "Oul Tani Eyh",
+      "artists": [
+        "Nancy Ajram"
+      ],
+      "album": "Ah W Noss",
+      "image": "https://i.scdn.co/image/ab67616d0000b273838b460e30d6a77512ffd00c",
+      "uri": "spotify:track:0NLWGe9YcIsUGXeCfEMtmf",
+      "duration_ms": 248440
+    },
+    {
+      "played_at": "2026-11-09T19:15:54.846Z",
+      "name": "وماله",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "كمل كلامك",
+      "image": "https://i.scdn.co/image/ab67616d0000b273027b0429b1d6ae7aa630f865",
+      "uri": "spotify:track:7z1OHWVyKvynHMiIGHVLon",
+      "duration_ms": 288313
+    },
+    {
+      "played_at": "2026-11-09T19:18:13.403Z",
+      "name": "Galbi",
+      "artists": [
+        "Saint Levant"
+      ],
+      "album": "DEIRA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734fac6cba67ce4b8ca9489d95",
+      "uri": "spotify:track:0Sz34vbxPeboL84ZknpvYo",
+      "duration_ms": 143529
+    },
+    {
+      "played_at": "2026-11-09T19:22:00.368Z",
+      "name": "Ana Ayesh",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "Allem Alby",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e14aee4752613f1a53a350fa",
+      "uri": "spotify:track:0dCDNlZIJENBbRCVXVny7d",
+      "duration_ms": 226493
+    },
+    {
+      "played_at": "2026-11-09T21:11:39.645Z",
+      "name": "i think about you all the time",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "private music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+      "uri": "spotify:track:0M5NH22uVXHSXjSi5SXTXM",
+      "duration_ms": 248957
+    },
+    {
+      "played_at": "2026-11-09T21:18:08.493Z",
+      "name": "...hospice",
+      "artists": [
+        "Static Dress"
+      ],
+      "album": "Injury Episode",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db19c22e98aa5a885f5611c1",
+      "uri": "spotify:track:5XuFwlfREzx9PQ5qNnSYDQ",
+      "duration_ms": 253174
+    },
+    {
+      "played_at": "2026-11-09T21:24:21.195Z",
+      "name": "For Now",
+      "artists": [
+        "Thornhill"
+      ],
+      "album": "BODIES",
+      "image": "https://i.scdn.co/image/ab67616d0000b27364b7a0a4cb0d08c354ff48db",
+      "uri": "spotify:track:0Gg9krMVwwsTC3URfYb7Hc",
+      "duration_ms": 245101
+    },
+    {
+      "played_at": "2026-11-09T21:42:51.020Z",
+      "name": "No One's Deserving",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Jar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+      "uri": "spotify:track:68NXTtyVOS3rNGaYCxeHfW",
+      "duration_ms": 183317
     }
   ]
 }
