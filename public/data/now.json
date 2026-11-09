@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-09T00:36:03.873Z",
+  "updated_at": "2026-11-09T11:00:50.325Z",
   "is_playing": false,
   "track": {
-    "name": "Plein Soleil",
+    "name": "El Hob Gany",
     "artists": [
-      "Avenoir"
+      "TUL8TE"
     ],
-    "album": "Plein Soleil",
-    "image": "https://i.scdn.co/image/ab67616d0000b2730ec8ba23870ec98ac63aa2ad",
-    "uri": "spotify:track:2jYoHERAJLmbPEzgEq3q81"
+    "album": "El Hob Gany",
+    "image": "https://i.scdn.co/image/ab67616d0000b27359a9b963a89b853fa98a4c06",
+    "uri": "spotify:track:67yheG887FPQXlPRNmoXqz"
   },
-  "played_at": "2026-11-07T23:58:55.689Z"
+  "played_at": "2026-11-09T07:09:53.514Z"
 }

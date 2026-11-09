@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-09T00:36:03.770Z",
+  "updated_at": "2026-11-09T11:00:50.286Z",
   "plays": [
-    {
-      "played_at": "2026-07-10T17:00:44.193Z",
-      "name": "Virgen",
-      "artists": [
-        "Adolescent's Orquesta"
-      ],
-      "album": "Ahora Más Que Nunca",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c30c9fc1d43d8e1ca14ecbe6",
-      "uri": "spotify:track:5HCGrYR7g9u2X9Ju83yQLm",
-      "duration_ms": 271751
-    },
     {
       "played_at": "2026-07-10T17:09:35.590Z",
       "name": "Domingo Familiar",
@@ -22546,6 +22535,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2730ec8ba23870ec98ac63aa2ad",
       "uri": "spotify:track:2jYoHERAJLmbPEzgEq3q81",
       "duration_ms": 205746
+    },
+    {
+      "played_at": "2026-11-09T07:09:53.514Z",
+      "name": "El Hob Gany",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "El Hob Gany",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359a9b963a89b853fa98a4c06",
+      "uri": "spotify:track:67yheG887FPQXlPRNmoXqz",
+      "duration_ms": 241212
     }
   ]
 }
