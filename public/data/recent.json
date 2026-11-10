@@ -1,141 +1,6 @@
 {
-  "updated_at": "2026-11-10T16:50:54.475Z",
+  "updated_at": "2026-11-10T22:56:55.052Z",
   "plays": [
-    {
-      "played_at": "2026-07-20T01:49:23.686Z",
-      "name": "Brindo Con Agua",
-      "artists": [
-        "Aventura"
-      ],
-      "album": "Brindo Con Agua",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d457347041e720cfabeba73d",
-      "uri": "spotify:track:0VazBorrrrE0vlacDVRQCx",
-      "duration_ms": 281082
-    },
-    {
-      "played_at": "2026-07-20T01:52:18.162Z",
-      "name": "Sweetbitter",
-      "artists": [
-        "RIO"
-      ],
-      "album": "The Young Lover",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a7227cfe0105a5317a8d3414",
-      "uri": "spotify:track:11NREXvElBBK1AinDmyyAC",
-      "duration_ms": 174000
-    },
-    {
-      "played_at": "2026-07-20T02:20:40.493Z",
-      "name": "Love Me Harder",
-      "artists": [
-        "Ariana Grande",
-        "The Weeknd"
-      ],
-      "album": "My Everything (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
-      "uri": "spotify:track:5J4ZkQpzMUFojo1CtAZYpn",
-      "duration_ms": 236133
-    },
-    {
-      "played_at": "2026-07-20T02:24:57.238Z",
-      "name": "The Same",
-      "artists": [
-        "The Poles"
-      ],
-      "album": "We Get, The Same",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734a610c59b2c4e424a1116948",
-      "uri": "spotify:track:3TJfYBSPlJ0zaj3T2IyU2N",
-      "duration_ms": 256303
-    },
-    {
-      "played_at": "2026-07-20T02:55:25.715Z",
-      "name": "P.Y.T. (Pretty Young Thing)",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Thriller",
-      "image": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-      "uri": "spotify:track:1CgmY8fVN7kstVDZmsdM5k",
-      "duration_ms": 238333
-    },
-    {
-      "played_at": "2026-07-20T02:58:42.186Z",
-      "name": "Soura",
-      "artists": [
-        "Masri",
-        "Josylvio",
-        "ILLIE"
-      ],
-      "album": "Soura",
-      "image": "https://i.scdn.co/image/ab67616d0000b27379382feb9f4774676da2e381",
-      "uri": "spotify:track:3MAh3u05SSjAcIJGMGjRXV",
-      "duration_ms": 188727
-    },
-    {
-      "played_at": "2026-07-20T03:04:14.051Z",
-      "name": "霧 - 電視劇《風暴舞》插曲",
-      "artists": [
-        "不才"
-      ],
-      "album": "霧 (電視劇《風暴舞》插曲)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732bc5bd36f614f81f14677793",
-      "uri": "spotify:track:688N0BkMSHxK9poLVE9s2o",
-      "duration_ms": 239306
-    },
-    {
-      "played_at": "2026-07-20T03:06:59.070Z",
-      "name": "Shut up My Moms Calling",
-      "artists": [
-        "Hotel Ugly"
-      ],
-      "album": "Shut up My Moms Calling",
-      "image": "https://i.scdn.co/image/ab67616d0000b273350ab7a839c04bfd5225a9f5",
-      "uri": "spotify:track:3hxIUxnT27p5WcmjGUXNwx",
-      "duration_ms": 164571
-    },
-    {
-      "played_at": "2026-07-20T03:30:39.416Z",
-      "name": "像晴天像雨天（电视剧《难哄》心动曲）",
-      "artists": [
-        "Silence Wang"
-      ],
-      "album": "电视剧《难哄》影视原声带·只喜欢你Love Moments",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e315e968f364d79e460d8f62",
-      "uri": "spotify:track:298LjjcBvuQCAlwUWb9dKb",
-      "duration_ms": 236616
-    },
-    {
-      "played_at": "2026-07-20T04:28:33.887Z",
-      "name": "TURiSTA",
-      "artists": [
-        "Bad Bunny"
-      ],
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "uri": "spotify:track:7tCuCjhxzjX2XCz4JiiAsp",
-      "duration_ms": 190028
-    },
-    {
-      "played_at": "2026-07-20T14:06:58.466Z",
-      "name": "A Lonely Night",
-      "artists": [
-        "The Weeknd"
-      ],
-      "album": "Starboy",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
-      "uri": "spotify:track:4UknpXoLjlB7Mao4UWcJ2o",
-      "duration_ms": 220173
-    },
-    {
-      "played_at": "2026-07-20T14:09:54.382Z",
-      "name": "Favour",
-      "artists": [
-        "Avenoir"
-      ],
-      "album": "Favour",
-      "image": "https://i.scdn.co/image/ab67616d0000b273713f9d753c8b418102db1a10",
-      "uri": "spotify:track:7lTUaX0Bs1uE9ALFsmLF8G",
-      "duration_ms": 156000
-    },
     {
       "played_at": "2026-07-20T14:13:48.703Z",
       "name": "Paradise",
@@ -22550,6 +22415,140 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2739a1a952b7616b7681c3ec3b5",
       "uri": "spotify:track:2gmjFAF7EOxVOc714fNKnO",
       "duration_ms": 177600
+    },
+    {
+      "played_at": "2026-11-10T17:14:29.314Z",
+      "name": "Can't Leave Alone (feat. Avenoir & Maz B)",
+      "artists": [
+        "Pino"
+      ],
+      "album": "’02 (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c59884d4cd8a2330a16dc86",
+      "uri": "spotify:track:72kFnU0XvlOPfqC2G4MowJ",
+      "duration_ms": 213413
+    },
+    {
+      "played_at": "2026-11-10T17:19:05.345Z",
+      "name": "Can't Leave Alone (feat. Avenoir & Maz B)",
+      "artists": [
+        "Pino"
+      ],
+      "album": "’02 (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c59884d4cd8a2330a16dc86",
+      "uri": "spotify:track:72kFnU0XvlOPfqC2G4MowJ",
+      "duration_ms": 213413
+    },
+    {
+      "played_at": "2026-11-10T18:14:47.907Z",
+      "name": "CAN'T SAY",
+      "artists": [
+        "Travis Scott"
+      ],
+      "album": "ASTROWORLD",
+      "image": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
+      "uri": "spotify:track:27a1mYSG5tYg7dmEjWBcmL",
+      "duration_ms": 198408
+    },
+    {
+      "played_at": "2026-11-10T19:28:03.758Z",
+      "name": "Shotta's.",
+      "artists": [
+        "Season 25"
+      ],
+      "album": "Shotta's.",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cc268ffcfdf387d7bfb56de3",
+      "uri": "spotify:track:1ApUYfDejOBvrTnar2Wyf3",
+      "duration_ms": 142613
+    },
+    {
+      "played_at": "2026-11-10T19:46:15.124Z",
+      "name": "Summer In Manila (Oakland Pt.3)",
+      "artists": [
+        "Karri"
+      ],
+      "album": "Summer In Manila (Oakland Pt.3)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c29d0d7785f9230634907c16",
+      "uri": "spotify:track:1E762OhcI2jkcahPlMaKiv",
+      "duration_ms": 171500
+    },
+    {
+      "played_at": "2026-11-10T20:20:59.453Z",
+      "name": "Proud",
+      "artists": [
+        "Jaymin"
+      ],
+      "album": "Proud",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f09c8c7e0234e28e2454c7ab",
+      "uri": "spotify:track:4p0An2hPS9EIhsS99lbSOT",
+      "duration_ms": 130068
+    },
+    {
+      "played_at": "2026-11-10T21:10:26.786Z",
+      "name": "Sin City",
+      "artists": [
+        "Vory"
+      ],
+      "album": "Sin City",
+      "image": "https://i.scdn.co/image/ab67616d0000b27386de08b64ce06f8d4ddf2fe6",
+      "uri": "spotify:track:4WEN05q9X5xgIfBcE0MAAu",
+      "duration_ms": 144000
+    },
+    {
+      "played_at": "2026-11-10T21:30:06.568Z",
+      "name": "Sin City",
+      "artists": [
+        "Vory"
+      ],
+      "album": "Sin City",
+      "image": "https://i.scdn.co/image/ab67616d0000b27386de08b64ce06f8d4ddf2fe6",
+      "uri": "spotify:track:4WEN05q9X5xgIfBcE0MAAu",
+      "duration_ms": 144000
+    },
+    {
+      "played_at": "2026-11-10T21:54:38.940Z",
+      "name": "KALAMANTINA / كلمنتينا",
+      "artists": [
+        "Saint Levant",
+        "Marwan Moussa"
+      ],
+      "album": "Love Letters / رسائل حب",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a0fce4a818e7d680d6ab5c40",
+      "uri": "spotify:track:3vZ3ngEbunTiK4fOVKyzYD",
+      "duration_ms": 206872
+    },
+    {
+      "played_at": "2026-11-10T21:57:08.863Z",
+      "name": "MASLA7JIYA / مصلحجية",
+      "artists": [
+        "Saint Levant"
+      ],
+      "album": "AFANDI / افندي",
+      "image": "https://i.scdn.co/image/ab67616d0000b27349f4ace3aeeccdb73a87dffa",
+      "uri": "spotify:track:3Bd0B9sX86rph6EAqZreNw",
+      "duration_ms": 155000
+    },
+    {
+      "played_at": "2026-11-10T21:59:38.231Z",
+      "name": "MITSUBISHI / متسوبيشي",
+      "artists": [
+        "Saint Levant",
+        "Haifa Wehbe"
+      ],
+      "album": "AFANDI / افندي",
+      "image": "https://i.scdn.co/image/ab67616d0000b27349f4ace3aeeccdb73a87dffa",
+      "uri": "spotify:track:1s87qzoF3kySD5MYP76isH",
+      "duration_ms": 154304
+    },
+    {
+      "played_at": "2026-11-10T22:09:39.951Z",
+      "name": "But Not For Me - Vocal Version",
+      "artists": [
+        "Chet Baker"
+      ],
+      "album": "Chet Baker Sings",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f12f8e33e377ba119ecbd26b",
+      "uri": "spotify:track:3pfbQmD5xGH9Tcc7GqGfSL",
+      "duration_ms": 184466
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-10T16:50:54.575Z",
+  "updated_at": "2026-11-10T22:56:55.168Z",
   "is_playing": false,
   "track": {
-    "name": "ROCKSTAR GIRL",
+    "name": "But Not For Me - Vocal Version",
     "artists": [
-      "Don Toliver"
+      "Chet Baker"
     ],
-    "album": "HARDSTONE PSYCHO",
-    "image": "https://i.scdn.co/image/ab67616d0000b2739a1a952b7616b7681c3ec3b5",
-    "uri": "spotify:track:2gmjFAF7EOxVOc714fNKnO"
+    "album": "Chet Baker Sings",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f12f8e33e377ba119ecbd26b",
+    "uri": "spotify:track:3pfbQmD5xGH9Tcc7GqGfSL"
   },
-  "played_at": "2026-11-10T15:51:21.641Z"
+  "played_at": "2026-11-10T22:09:39.951Z"
 }
