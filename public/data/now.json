@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-10T06:23:49.952Z",
+  "updated_at": "2026-11-10T16:50:54.575Z",
   "is_playing": false,
   "track": {
-    "name": "SALOME",
+    "name": "ROCKSTAR GIRL",
     "artists": [
-      "Kaya"
+      "Don Toliver"
     ],
-    "album": "GOTHIC(B-type)",
-    "image": "https://i.scdn.co/image/ab67616d0000b27353ba7ac250106bb4693f6749",
-    "uri": "spotify:track:6ebm9SNCHJXnzQdMhClsGd"
+    "album": "HARDSTONE PSYCHO",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739a1a952b7616b7681c3ec3b5",
+    "uri": "spotify:track:2gmjFAF7EOxVOc714fNKnO"
   },
-  "played_at": "2026-11-09T23:21:59.194Z"
+  "played_at": "2026-11-10T15:51:21.641Z"
 }
