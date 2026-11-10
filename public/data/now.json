@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-09T22:01:16.245Z",
+  "updated_at": "2026-11-10T06:23:49.952Z",
   "is_playing": false,
   "track": {
-    "name": "No One's Deserving",
+    "name": "SALOME",
     "artists": [
-      "Superheaven"
+      "Kaya"
     ],
-    "album": "Jar",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
-    "uri": "spotify:track:68NXTtyVOS3rNGaYCxeHfW"
+    "album": "GOTHIC(B-type)",
+    "image": "https://i.scdn.co/image/ab67616d0000b27353ba7ac250106bb4693f6749",
+    "uri": "spotify:track:6ebm9SNCHJXnzQdMhClsGd"
   },
-  "played_at": "2026-11-09T21:42:51.020Z"
+  "played_at": "2026-11-09T23:21:59.194Z"
 }

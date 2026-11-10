@@ -1,83 +1,6 @@
 {
-  "updated_at": "2026-11-09T22:01:16.204Z",
+  "updated_at": "2026-11-10T06:23:49.852Z",
   "plays": [
-    {
-      "played_at": "2026-07-16T19:09:33.051Z",
-      "name": "Please",
-      "artists": [
-        "BTS"
-      ],
-      "album": "ARIRANG",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ba4fa604f046ff824331f4f4",
-      "uri": "spotify:track:1I1QqHDHgnEDfeQ20QFWvj",
-      "duration_ms": 172796
-    },
-    {
-      "played_at": "2026-07-16T19:13:21.499Z",
-      "name": "Law Hatsib",
-      "artists": [
-        "Mohamed Hamaki"
-      ],
-      "album": "Ya Fatenny",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737a880327eb5dca0244295143",
-      "uri": "spotify:track:7h7FKF2JBDa6xChi3z9KxC",
-      "duration_ms": 228000
-    },
-    {
-      "played_at": "2026-07-16T19:15:52.463Z",
-      "name": "UNDERSTAND",
-      "artists": [
-        "keshi"
-      ],
-      "album": "GABRIEL",
-      "image": "https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb",
-      "uri": "spotify:track:72sfmdpuO5r8cBDgs7MqZZ",
-      "duration_ms": 150519
-    },
-    {
-      "played_at": "2026-07-16T19:29:59.758Z",
-      "name": "Kalimat",
-      "artists": [
-        "Majida El Roumi"
-      ],
-      "album": "Kalimat",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731a75d1f74e1c307989f94832",
-      "uri": "spotify:track:1kzNSl6M58cxfr8ac6xvhw",
-      "duration_ms": 754640
-    },
-    {
-      "played_at": "2026-07-16T19:35:00.887Z",
-      "name": "Usted",
-      "artists": [
-        "Luis Miguel"
-      ],
-      "album": "Romance",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bda5c1e56bf06c3c7fc173f7",
-      "uri": "spotify:track:0MHSnVk2CrGP8hIkxpxwMJ",
-      "duration_ms": 223200
-    },
-    {
-      "played_at": "2026-07-16T19:39:15.952Z",
-      "name": "Pour que tu m'aimes encore",
-      "artists": [
-        "Céline Dion"
-      ],
-      "album": "D'Eux",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e8f82c231e82ace473727d18",
-      "uri": "spotify:track:6mYSphiU3Qg07g37bZlE4c",
-      "duration_ms": 254800
-    },
-    {
-      "played_at": "2026-07-16T19:42:55.495Z",
-      "name": "Regular - English Version",
-      "artists": [
-        "NCT 127"
-      ],
-      "album": "NCT #127 Regular-Irregular - The 1st Album",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0",
-      "uri": "spotify:track:4KqPuyZdcjXuRqXSARnt6r",
-      "duration_ms": 219106
-    },
     {
       "played_at": "2026-07-16T19:47:49.018Z",
       "name": "我的爱没前奏",
@@ -22538,6 +22461,83 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
       "uri": "spotify:track:68NXTtyVOS3rNGaYCxeHfW",
       "duration_ms": 183317
+    },
+    {
+      "played_at": "2026-11-09T22:08:15.827Z",
+      "name": "Guide light",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "If Not Winter",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8b32380575d518f0639a123",
+      "uri": "spotify:track:4zULX2Zfq7ucz8cHlg6AhQ",
+      "duration_ms": 228146
+    },
+    {
+      "played_at": "2026-11-09T22:36:22.994Z",
+      "name": "Nineteen Ninety Four",
+      "artists": [
+        "✝✝✝ (Crosses)"
+      ],
+      "album": "††† (Crosses)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733eeef35bcdc747ca4506a473",
+      "uri": "spotify:track:4kXclqTkWCdeMzdycUxxxc",
+      "duration_ms": 257071
+    },
+    {
+      "played_at": "2026-11-09T22:42:25.184Z",
+      "name": "極東の恋人",
+      "artists": [
+        "LAREINE"
+      ],
+      "album": "Winter Romantic",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735f94208beab6ffce4d49fc0f",
+      "uri": "spotify:track:3hBXG8J66iEOvhcQeK6DXP",
+      "duration_ms": 339546
+    },
+    {
+      "played_at": "2026-11-09T22:57:25.382Z",
+      "name": "Mizerable",
+      "artists": [
+        "GACKT"
+      ],
+      "album": "Mizerable",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732119a8e012fb7acfa4668be2",
+      "uri": "spotify:track:75Frd3MMVwG2j3eMBdZVvl",
+      "duration_ms": 296266
+    },
+    {
+      "played_at": "2026-11-09T23:12:36.165Z",
+      "name": "KISS ME GOOD-BYE",
+      "artists": [
+        "BUCK-TICK"
+      ],
+      "album": "悪の華",
+      "image": "https://i.scdn.co/image/ab67616d0000b27322ada56086f830d92de0e344",
+      "uri": "spotify:track:45WYhspgjdm28xqZBiK2XL",
+      "duration_ms": 376885
+    },
+    {
+      "played_at": "2026-11-09T23:21:02.511Z",
+      "name": "蜉蝣‐かげろう‐",
+      "artists": [
+        "BUCK-TICK"
+      ],
+      "album": "蜉蝣‐かげろう‐",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9294257000d4aec37cff5f6",
+      "uri": "spotify:track:0fZPrlaHenXWYZdW5OX4dZ",
+      "duration_ms": 293240
+    },
+    {
+      "played_at": "2026-11-09T23:21:59.194Z",
+      "name": "SALOME",
+      "artists": [
+        "Kaya"
+      ],
+      "album": "GOTHIC(B-type)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27353ba7ac250106bb4693f6749",
+      "uri": "spotify:track:6ebm9SNCHJXnzQdMhClsGd",
+      "duration_ms": 244835
     }
   ]
 }
