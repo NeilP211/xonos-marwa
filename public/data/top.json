@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T05:09:18.804Z",
+  "generated_at": "2026-11-11T13:44:13.248Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1127,6 +1127,30 @@
         },
         {
           "rank": 26,
+          "name": "極東の恋人",
+          "artists": [
+            "LAREINE"
+          ],
+          "album": "Winter Romantic",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735f94208beab6ffce4d49fc0f",
+          "uri": "spotify:track:3hBXG8J66iEOvhcQeK6DXP",
+          "url": "https://open.spotify.com/track/3hBXG8J66iEOvhcQeK6DXP",
+          "duration_ms": 339546
+        },
+        {
+          "rank": 27,
+          "name": "Pourriture noble",
+          "artists": [
+            "Kaya"
+          ],
+          "album": "GLITTER",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b46c2deac5ff3ddb5a71788d",
+          "uri": "spotify:track:6mBcNhFJjc6c17C7QiLKgz",
+          "url": "https://open.spotify.com/track/6mBcNhFJjc6c17C7QiLKgz",
+          "duration_ms": 292031
+        },
+        {
+          "rank": 28,
           "name": "Pass The Nirvana",
           "artists": [
             "Pierce The Veil"
@@ -1138,7 +1162,7 @@
           "duration_ms": 197373
         },
         {
-          "rank": 27,
+          "rank": 29,
           "name": "Flor De Michoacán",
           "artists": [
             "Menny Flores"
@@ -1150,7 +1174,7 @@
           "duration_ms": 193853
         },
         {
-          "rank": 28,
+          "rank": 30,
           "name": "Forever",
           "artists": [
             "keshi"
@@ -1162,7 +1186,7 @@
           "duration_ms": 171415
         },
         {
-          "rank": 29,
+          "rank": 31,
           "name": "Nunca Más",
           "artists": [
             "La Isla Centeno"
@@ -1174,7 +1198,7 @@
           "duration_ms": 229214
         },
         {
-          "rank": 30,
+          "rank": 32,
           "name": "Después de ti",
           "artists": [
             "KAROL G",
@@ -1187,7 +1211,7 @@
           "duration_ms": 268996
         },
         {
-          "rank": 31,
+          "rank": 33,
           "name": "If Looks Could Kill",
           "artists": [
             "A Heartwell Ending"
@@ -1199,19 +1223,7 @@
           "duration_ms": 205560
         },
         {
-          "rank": 32,
-          "name": "極東の恋人",
-          "artists": [
-            "LAREINE"
-          ],
-          "album": "Winter Romantic",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735f94208beab6ffce4d49fc0f",
-          "uri": "spotify:track:3hBXG8J66iEOvhcQeK6DXP",
-          "url": "https://open.spotify.com/track/3hBXG8J66iEOvhcQeK6DXP",
-          "duration_ms": 339546
-        },
-        {
-          "rank": 33,
+          "rank": 34,
           "name": "Toronto",
           "artists": [
             "Nandé",
@@ -1225,7 +1237,7 @@
           "duration_ms": 198888
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Even When I’m Not With You",
           "artists": [
             "Pierce The Veil"
@@ -1237,7 +1249,7 @@
           "duration_ms": 174146
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Circles",
           "artists": [
             "Pierce The Veil"
@@ -1249,7 +1261,7 @@
           "duration_ms": 224306
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "The Jaws Of Life",
           "artists": [
             "Pierce The Veil"
@@ -1261,7 +1273,7 @@
           "duration_ms": 222666
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "stingray",
           "artists": [
             "Rehash"
@@ -1273,7 +1285,7 @@
           "duration_ms": 184041
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "흩어진나날들",
           "artists": [
             "Kang Soo Jee"
@@ -1285,7 +1297,7 @@
           "duration_ms": 262126
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Fangs",
           "artists": [
             "Loathe"
@@ -1295,18 +1307,6 @@
           "uri": "spotify:track:6amjt9z0UcPusbO9UQ7zlp",
           "url": "https://open.spotify.com/track/6amjt9z0UcPusbO9UQ7zlp",
           "duration_ms": 249293
-        },
-        {
-          "rank": 40,
-          "name": "Pourriture noble",
-          "artists": [
-            "Kaya"
-          ],
-          "album": "GLITTER",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b46c2deac5ff3ddb5a71788d",
-          "uri": "spotify:track:6mBcNhFJjc6c17C7QiLKgz",
-          "url": "https://open.spotify.com/track/6mBcNhFJjc6c17C7QiLKgz",
-          "duration_ms": 292031
         },
         {
           "rank": 41,
@@ -1481,19 +1481,19 @@
         },
         {
           "rank": 7,
-          "name": "Sleeping With Sirens",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb1e2ceb6044f42f7c6dde5433",
-          "genres": [],
-          "uri": "spotify:artist:3N8Hy6xQnQv1F1XCiyGQqA",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        },
-        {
-          "rank": 8,
           "name": "KAROL G",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3869e286c9043f85e8e4bc06",
           "genres": [],
           "uri": "spotify:artist:790FomKkXshlbRYZFtlgla",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "rank": 8,
+          "name": "Sleeping With Sirens",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb1e2ceb6044f42f7c6dde5433",
+          "genres": [],
+          "uri": "spotify:artist:3N8Hy6xQnQv1F1XCiyGQqA",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
         },
         {
           "rank": 9,
@@ -1625,19 +1625,19 @@
         },
         {
           "rank": 25,
-          "name": "The Marías",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
-          "genres": [],
-          "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        },
-        {
-          "rank": 26,
           "name": "TUL8TE",
           "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
           "genres": [],
           "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
           "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        },
+        {
+          "rank": 26,
+          "name": "The Marías",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
+          "genres": [],
+          "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         },
         {
           "rank": 27,
@@ -1665,19 +1665,19 @@
         },
         {
           "rank": 30,
-          "name": "Maluma",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb1b0d196ca84f4a0d076b4570",
-          "genres": [],
-          "uri": "spotify:artist:1r4hJ1h58CWwUQe3MxPuau",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "rank": 31,
           "name": "Don Toliver",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
           "genres": [],
           "uri": "spotify:artist:4Gso3d4CscCijv0lmajZWs",
           "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "rank": 31,
+          "name": "Maluma",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb1b0d196ca84f4a0d076b4570",
+          "genres": [],
+          "uri": "spotify:artist:1r4hJ1h58CWwUQe3MxPuau",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         },
         {
           "rank": 32,
@@ -1705,6 +1705,14 @@
         },
         {
           "rank": 35,
+          "name": "Saint Levant",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebf30d9b352c41c2cff90117af",
+          "genres": [],
+          "uri": "spotify:artist:5ZZsFnpO7frU8h5xH1wtjT",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "rank": 36,
           "name": "Manuel Lizarazo",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8dcc84acf5e98c1dbeed63e8",
           "genres": [],
@@ -1712,15 +1720,15 @@
           "url": "https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC"
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Rels B",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb85c6617e12de3109c04aaf1b",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebf56b9f1fd7bc8b1573a3c29f",
           "genres": [],
           "uri": "spotify:artist:2IMZYfNi21MGqxopj9fWx8",
           "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Luis Miguel",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6481401e529e475116702a29",
           "genres": [],
@@ -1728,7 +1736,7 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "The Weeknd",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
           "genres": [],
@@ -1736,7 +1744,7 @@
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "PRYVT",
           "image": "https://i.scdn.co/image/ab6761610000e5eb012e40962788790bb7b60f75",
           "genres": [],
@@ -1744,20 +1752,12 @@
           "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Bruno Romano",
           "image": "https://i.scdn.co/image/ab6761610000e5eb048c29f827a167107701699f",
           "genres": [],
           "uri": "spotify:artist:5X0LwOlzNqPulEOFm9hH1k",
           "url": "https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k"
-        },
-        {
-          "rank": 41,
-          "name": "Saint Levant",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebf30d9b352c41c2cff90117af",
-          "genres": [],
-          "uri": "spotify:artist:5ZZsFnpO7frU8h5xH1wtjT",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
         },
         {
           "rank": 42,
@@ -2790,7 +2790,7 @@
         {
           "rank": 43,
           "name": "Rels B",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb85c6617e12de3109c04aaf1b",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebf56b9f1fd7bc8b1573a3c29f",
           "genres": [],
           "uri": "spotify:artist:2IMZYfNi21MGqxopj9fWx8",
           "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
