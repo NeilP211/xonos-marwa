@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T13:44:13.248Z",
+  "generated_at": "2026-11-11T21:46:14.516Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2789,6 +2789,14 @@
         },
         {
           "rank": 43,
+          "name": "Nancy Ajram",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd4bd333fb48f25236478fa3e",
+          "genres": [],
+          "uri": "spotify:artist:0LnHdW6HMPoOlNdhG3DHjE",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        },
+        {
+          "rank": 44,
           "name": "Rels B",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf56b9f1fd7bc8b1573a3c29f",
           "genres": [],
@@ -2796,20 +2804,12 @@
           "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Eydie Gormé",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1c0da336a4cea059e7da771d",
           "genres": [],
           "uri": "spotify:artist:6HnHBbeScFiQKXt3sUQA3Z",
           "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
-        },
-        {
-          "rank": 45,
-          "name": "Nancy Ajram",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd4bd333fb48f25236478fa3e",
-          "genres": [],
-          "uri": "spotify:artist:0LnHdW6HMPoOlNdhG3DHjE",
-          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
         },
         {
           "rank": 46,
