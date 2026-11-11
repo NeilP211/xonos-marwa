@@ -1,183 +1,6 @@
 {
-  "updated_at": "2026-11-10T22:56:55.052Z",
+  "updated_at": "2026-11-11T05:09:18.934Z",
   "plays": [
-    {
-      "played_at": "2026-07-20T14:13:48.703Z",
-      "name": "Paradise",
-      "artists": [
-        "Sade"
-      ],
-      "album": "The Best of Sade",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-      "uri": "spotify:track:4tReFKumS5bcFahdXDiM1b",
-      "duration_ms": 217466
-    },
-    {
-      "played_at": "2026-07-20T14:19:59.242Z",
-      "name": "Nothing Compares - Bonus Track",
-      "artists": [
-        "The Weeknd"
-      ],
-      "album": "After Hours (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ef017e899c0547766997d874",
-      "uri": "spotify:track:6utQlfLooYsUkq5xUg3vxt",
-      "duration_ms": 222306
-    },
-    {
-      "played_at": "2026-07-20T15:24:56.903Z",
-      "name": "Nothing Compares - Bonus Track",
-      "artists": [
-        "The Weeknd"
-      ],
-      "album": "After Hours (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ef017e899c0547766997d874",
-      "uri": "spotify:track:6utQlfLooYsUkq5xUg3vxt",
-      "duration_ms": 222306
-    },
-    {
-      "played_at": "2026-07-20T15:30:47.463Z",
-      "name": "In Another Time",
-      "artists": [
-        "Sade"
-      ],
-      "album": "Soldier of Love",
-      "image": "https://i.scdn.co/image/ab67616d0000b27398da02db8bb9253c3367e41a",
-      "uri": "spotify:track:1DKYtHoBNbqjMLqvpw7o73",
-      "duration_ms": 304413
-    },
-    {
-      "played_at": "2026-07-20T16:26:37.073Z",
-      "name": "Selfish Waltz",
-      "artists": [
-        "ATEEZ"
-      ],
-      "album": "GOLDEN HOUR : Part.2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d2e09fa4f9a0285f8d2a9142",
-      "uri": "spotify:track:4sgvhAD07BiE8H0gGbmaCk",
-      "duration_ms": 203654
-    },
-    {
-      "played_at": "2026-07-20T16:32:54.330Z",
-      "name": "Love's Battery",
-      "artists": [
-        "HONG JIN YOUNG"
-      ],
-      "album": "Love's Battery",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640",
-      "uri": "spotify:track:3ODnfFXZP7hLp2fn2KpGGG",
-      "duration_ms": 206863
-    },
-    {
-      "played_at": "2026-07-20T16:38:32.566Z",
-      "name": "Your eyes tell",
-      "artists": [
-        "BTS"
-      ],
-      "album": "MAP OF THE SOUL : 7 ~ THE JOURNEY ~",
-      "image": "https://i.scdn.co/image/ab67616d0000b273da9c76ed020a7894443a3f97",
-      "uri": "spotify:track:3TZ7NHkMT82AhwuYsd00Hz",
-      "duration_ms": 245146
-    },
-    {
-      "played_at": "2026-07-20T16:41:45.111Z",
-      "name": "Playa Pantaleta",
-      "artists": [
-        "Rawayana"
-      ],
-      "album": "¿Dónde Es El After?",
-      "image": "https://i.scdn.co/image/ab67616d0000b273932fe6d260177091a0e115ba",
-      "uri": "spotify:track:3Eu6LVgWHm3iristXeOjWf",
-      "duration_ms": 192093
-    },
-    {
-      "played_at": "2026-07-20T16:45:24.396Z",
-      "name": "Desde mi habitación",
-      "artists": [
-        "Darviin",
-        "José y el Toro"
-      ],
-      "album": "Desde mi habitación",
-      "image": "https://i.scdn.co/image/ab67616d0000b273689a28122d2e8c9dfe0ecc5c",
-      "uri": "spotify:track:2DZ66IRklQUZ4SFLS18dym",
-      "duration_ms": 218814
-    },
-    {
-      "played_at": "2026-07-20T16:49:41.309Z",
-      "name": "Night",
-      "artists": [
-        "keshi"
-      ],
-      "album": "Requiem",
-      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
-      "uri": "spotify:track:4xlkIVboOY2plOALp9bqD8",
-      "duration_ms": 179906
-    },
-    {
-      "played_at": "2026-07-20T16:53:54.135Z",
-      "name": "Guide light",
-      "artists": [
-        "Wisp"
-      ],
-      "album": "If Not Winter",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c8b32380575d518f0639a123",
-      "uri": "spotify:track:4zULX2Zfq7ucz8cHlg6AhQ",
-      "duration_ms": 228146
-    },
-    {
-      "played_at": "2026-07-20T16:57:03.985Z",
-      "name": "crushcrushcrush",
-      "artists": [
-        "Paramore"
-      ],
-      "album": "Riot!",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb",
-      "uri": "spotify:track:3VA4sjTMSTTF02hFGmlpJh",
-      "duration_ms": 189373
-    },
-    {
-      "played_at": "2026-07-20T17:03:35.280Z",
-      "name": "Entombed",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Koi No Yokan",
-      "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
-      "uri": "spotify:track:4bLCPfBLKlqiONo6TALTh5",
-      "duration_ms": 299240
-    },
-    {
-      "played_at": "2026-07-20T17:06:02.700Z",
-      "name": "Sword",
-      "artists": [
-        "Wisp"
-      ],
-      "album": "If Not Winter",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c8b32380575d518f0639a123",
-      "uri": "spotify:track:2wxICse8QdKYbdBS6ofpxG",
-      "duration_ms": 146973
-    },
-    {
-      "played_at": "2026-07-20T17:17:28.322Z",
-      "name": "Lover, You Should've Come Over",
-      "artists": [
-        "Jeff Buckley"
-      ],
-      "album": "Grace",
-      "image": "https://i.scdn.co/image/ab67616d0000b273afc2d1d2c8703a10aeded0af",
-      "uri": "spotify:track:6Jv7kjGkhY2fT4yuBF3aTz",
-      "duration_ms": 404213
-    },
-    {
-      "played_at": "2026-07-20T17:22:05.034Z",
-      "name": "The One",
-      "artists": [
-        "Jorja Smith"
-      ],
-      "album": "Lost & Found",
-      "image": "https://i.scdn.co/image/ab67616d0000b27378378dcaccec9e965e0d6351",
-      "uri": "spotify:track:1Ahp4PZ1vzdbzBCedUrsqI",
-      "duration_ms": 197574
-    },
     {
       "played_at": "2026-07-20T17:25:44.917Z",
       "name": "Flatline",
@@ -22549,6 +22372,183 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f12f8e33e377ba119ecbd26b",
       "uri": "spotify:track:3pfbQmD5xGH9Tcc7GqGfSL",
       "duration_ms": 184466
+    },
+    {
+      "played_at": "2026-11-11T00:40:01.257Z",
+      "name": "Ain't Nobody Else Like You",
+      "artists": [
+        "Cass Elliot"
+      ],
+      "album": "Mama's Big Ones",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731441866921b337b26dd53cff",
+      "uri": "spotify:track:7l5BTHQXkTQxZjc9HyoN3h",
+      "duration_ms": 144160
+    },
+    {
+      "played_at": "2026-11-11T01:33:35.079Z",
+      "name": "Heseeny",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "Narein",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732e50096092c24bd9acb0749d",
+      "uri": "spotify:track:6AOmVuYPC8WJN0hzZ1ODIj",
+      "duration_ms": 213838
+    },
+    {
+      "played_at": "2026-11-11T01:34:34.141Z",
+      "name": "La Cheyenne",
+      "artists": [
+        "El De Las R's"
+      ],
+      "album": "Estilo R'S",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e289b293c83a40ca388a78a3",
+      "uri": "spotify:track:1aXLwQcE70KET9Qc0wdURd",
+      "duration_ms": 153923
+    },
+    {
+      "played_at": "2026-11-11T01:38:53.100Z",
+      "name": "HASESS BIK",
+      "artists": [
+        "Zaid Khaled",
+        "Nasser"
+      ],
+      "album": "HASESS BIK",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b3f9c066a806fc3bad063a26",
+      "uri": "spotify:track:6KqmdbNxbqcgbBdQJIkD76",
+      "duration_ms": 246250
+    },
+    {
+      "played_at": "2026-11-11T01:40:48.235Z",
+      "name": "حبيبي ليه",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي",
+      "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+      "uri": "spotify:track:2OSxxCfS81wcds5RbQ0Ztq",
+      "duration_ms": 120145
+    },
+    {
+      "played_at": "2026-11-11T01:46:46.108Z",
+      "name": "EXILE / معاكي",
+      "artists": [
+        "Saint Levant"
+      ],
+      "album": "Love Letters / رسائل حب",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a0fce4a818e7d680d6ab5c40",
+      "uri": "spotify:track:5upFhyMqL0oa4EwisXfL67",
+      "duration_ms": 248420
+    },
+    {
+      "played_at": "2026-11-11T01:49:31.790Z",
+      "name": "Mr. Do Something",
+      "artists": [
+        "Lil Baby"
+      ],
+      "album": "FRESH",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c965434565e419d6d8f7ef3a",
+      "uri": "spotify:track:76NXZbJq6nsXOHR4iJDbZY",
+      "duration_ms": 170666
+    },
+    {
+      "played_at": "2026-11-11T01:52:41.092Z",
+      "name": "What Did I Miss?",
+      "artists": [
+        "Drake"
+      ],
+      "album": "What Did I Miss?",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d22b70fe52340efb60ab681",
+      "uri": "spotify:track:57GsLpRtEtrzcPGPop20rS",
+      "duration_ms": 194324
+    },
+    {
+      "played_at": "2026-11-11T02:42:38.695Z",
+      "name": "Pourriture noble",
+      "artists": [
+        "Kaya"
+      ],
+      "album": "GLITTER",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b46c2deac5ff3ddb5a71788d",
+      "uri": "spotify:track:6mBcNhFJjc6c17C7QiLKgz",
+      "duration_ms": 292031
+    },
+    {
+      "played_at": "2026-11-11T02:45:55.158Z",
+      "name": "NEW DROP",
+      "artists": [
+        "Don Toliver"
+      ],
+      "album": "HARDSTONE PSYCHO",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b5050e0d58c704da6bb519e1",
+      "uri": "spotify:track:2c7z5oRcPBbqRaBY2mLWcf",
+      "duration_ms": 217333
+    },
+    {
+      "played_at": "2026-11-11T02:48:15.201Z",
+      "name": "極東の恋人",
+      "artists": [
+        "LAREINE"
+      ],
+      "album": "Winter Romantic",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735f94208beab6ffce4d49fc0f",
+      "uri": "spotify:track:3hBXG8J66iEOvhcQeK6DXP",
+      "duration_ms": 339546
+    },
+    {
+      "played_at": "2026-11-11T02:54:32.018Z",
+      "name": "Nineteen Ninety Four",
+      "artists": [
+        "✝✝✝ (Crosses)"
+      ],
+      "album": "††† (Crosses)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733eeef35bcdc747ca4506a473",
+      "uri": "spotify:track:4kXclqTkWCdeMzdycUxxxc",
+      "duration_ms": 257071
+    },
+    {
+      "played_at": "2026-11-11T02:59:12.102Z",
+      "name": "الوتر الحساس",
+      "artists": [
+        "Sherine"
+      ],
+      "album": "نساى",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+      "uri": "spotify:track:63Gl4Wqr98iJnWoNGFOQjr",
+      "duration_ms": 261224
+    },
+    {
+      "played_at": "2026-11-11T03:03:41.862Z",
+      "name": "Sabry Aalil",
+      "artists": [
+        "Sherine"
+      ],
+      "album": "Garh Tany",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736f5efd372331919ebd9d0fc9",
+      "uri": "spotify:track:7qLXBcYW78is9LygQBziAU",
+      "duration_ms": 274800
+    },
+    {
+      "played_at": "2026-11-11T03:12:26.497Z",
+      "name": "Nour El Ein",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "Nour El Ein",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d352e68d3f9ef21f6d167a96",
+      "uri": "spotify:track:3ZTuYuaV1fhdNnuIBuzTYy",
+      "duration_ms": 307762
+    },
+    {
+      "played_at": "2026-11-11T03:17:39.461Z",
+      "name": "Inta Eyh",
+      "artists": [
+        "Nancy Ajram"
+      ],
+      "album": "Ah W Noss",
+      "image": "https://i.scdn.co/image/ab67616d0000b273838b460e30d6a77512ffd00c",
+      "uri": "spotify:track:0NJyThbEN5v6vFWrsH5uPF",
+      "duration_ms": 304720
     }
   ]
 }
