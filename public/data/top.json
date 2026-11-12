@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T21:46:14.516Z",
+  "generated_at": "2026-11-12T06:14:09.451Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -102,18 +102,6 @@
         },
         {
           "rank": 9,
-          "name": "Is It Really You?",
-          "artists": [
-            "Loathe"
-          ],
-          "album": "I Let It in and It Took Everything",
-          "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
-          "uri": "spotify:track:4OmlsAT8r4q9vPFBvfYgyZ",
-          "url": "https://open.spotify.com/track/4OmlsAT8r4q9vPFBvfYgyZ",
-          "duration_ms": 287627
-        },
-        {
-          "rank": 10,
           "name": "Aslan",
           "artists": [
             "Shinichi Osawa Works"
@@ -125,7 +113,7 @@
           "duration_ms": 224840
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "I CAN’T LET GO",
           "artists": [
             "Lil Tecca",
@@ -138,7 +126,7 @@
           "duration_ms": 150204
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "VOGUE",
           "artists": [
             "Lil Tecca"
@@ -150,7 +138,7 @@
           "duration_ms": 153014
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Him and Hym",
           "artists": [
             "Shinichi Osawa Works"
@@ -162,7 +150,7 @@
           "duration_ms": 140200
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Oyasumi.",
           "artists": [
             "gulu gulu"
@@ -174,7 +162,7 @@
           "duration_ms": 194720
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "4U",
           "artists": [
             "Lil Tecca"
@@ -186,7 +174,7 @@
           "duration_ms": 142987
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "これを依存と呼ぶなら",
           "artists": [
             "MEJIBRAY"
@@ -196,6 +184,18 @@
           "uri": "spotify:track:1Oe45Ze9SwanHB2vL7gY9H",
           "url": "https://open.spotify.com/track/1Oe45Ze9SwanHB2vL7gY9H",
           "duration_ms": 340346
+        },
+        {
+          "rank": 16,
+          "name": "Is It Really You?",
+          "artists": [
+            "Loathe"
+          ],
+          "album": "I Let It in and It Took Everything",
+          "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+          "uri": "spotify:track:4OmlsAT8r4q9vPFBvfYgyZ",
+          "url": "https://open.spotify.com/track/4OmlsAT8r4q9vPFBvfYgyZ",
+          "duration_ms": 287627
         },
         {
           "rank": 17,
@@ -310,13 +310,14 @@
           "rank": 26,
           "name": "Sure Thing",
           "artists": [
+            "Montire",
             "Ramonisando"
           ],
           "album": "Sure Thing",
-          "image": "https://i.scdn.co/image/ab67616d0000b273388b2c7973e8db9472d6d8ab",
-          "uri": "spotify:track:5KU4a8rDfsoUVkoVYk0COg",
-          "url": "https://open.spotify.com/track/5KU4a8rDfsoUVkoVYk0COg",
-          "duration_ms": 63000
+          "image": "https://i.scdn.co/image/ab67616d0000b273219cf7b21a4cdac40a2635c0",
+          "uri": "spotify:track:2aQpeSZXZV8vqsKxdvaWSZ",
+          "url": "https://open.spotify.com/track/2aQpeSZXZV8vqsKxdvaWSZ",
+          "duration_ms": 63204
         },
         {
           "rank": 27,
@@ -528,6 +529,18 @@
         },
         {
           "rank": 44,
+          "name": "الوتر الحساس",
+          "artists": [
+            "Sherine"
+          ],
+          "album": "نساى",
+          "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+          "uri": "spotify:track:63Gl4Wqr98iJnWoNGFOQjr",
+          "url": "https://open.spotify.com/track/63Gl4Wqr98iJnWoNGFOQjr",
+          "duration_ms": 261224
+        },
+        {
+          "rank": 45,
           "name": "mademoiselle",
           "artists": [
             "KAMIJO"
@@ -539,7 +552,7 @@
           "duration_ms": 238666
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Bando",
           "artists": [
             "void",
@@ -553,7 +566,7 @@
           "duration_ms": 180062
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Resilience",
           "artists": [
             "Pierce The Veil"
@@ -565,7 +578,7 @@
           "duration_ms": 220360
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "in your head",
           "artists": [
             "cloudyfield"
@@ -577,7 +590,7 @@
           "duration_ms": 170000
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "How to Pretend",
           "artists": [
             "Lucy Bedroque"
@@ -587,18 +600,6 @@
           "uri": "spotify:track:0H0eIjcXruQpntK0LuNa5v",
           "url": "https://open.spotify.com/track/0H0eIjcXruQpntK0LuNa5v",
           "duration_ms": 224086
-        },
-        {
-          "rank": 49,
-          "name": "Shared Trauma",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:0ZHcRJMgSjQ3Gjf80ti943",
-          "url": "https://open.spotify.com/track/0ZHcRJMgSjQ3Gjf80ti943",
-          "duration_ms": 253000
         },
         {
           "rank": 50,

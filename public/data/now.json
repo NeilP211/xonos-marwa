@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-11T21:46:14.850Z",
+  "updated_at": "2026-11-12T06:14:09.780Z",
   "is_playing": false,
   "track": {
-    "name": "Inta Eyh",
+    "name": "Ya Ghayeb",
     "artists": [
-      "Nancy Ajram"
+      "Fadel Chaker"
     ],
-    "album": "Ah W Noss",
-    "image": "https://i.scdn.co/image/ab67616d0000b273838b460e30d6a77512ffd00c",
-    "uri": "spotify:track:0NJyThbEN5v6vFWrsH5uPF"
+    "album": "Ya Ghayeb",
+    "image": "https://i.scdn.co/image/ab67616d0000b273aa3525f92330a3d710c886ec",
+    "uri": "spotify:track:2j4O1Oz0AVTWNLHjhTzBbJ"
   },
-  "played_at": "2026-11-11T03:17:39.461Z"
+  "played_at": "2026-11-12T03:35:53.734Z"
 }

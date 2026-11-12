@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-11-11T21:46:14.613Z",
+  "updated_at": "2026-11-12T06:14:09.630Z",
   "plays": [
-    {
-      "played_at": "2026-07-20T17:25:44.917Z",
-      "name": "Flatline",
-      "artists": [
-        "Justin Bieber"
-      ],
-      "album": "Journals",
-      "image": "https://i.scdn.co/image/ab67616d0000b27358ae8fddecbd2630005409c9",
-      "uri": "spotify:track:2GBgiuXwY1KzJMA0gSAr9J",
-      "duration_ms": 219346
-    },
-    {
-      "played_at": "2026-07-20T17:32:23.538Z",
-      "name": "you know",
-      "artists": [
-        "bixby"
-      ],
-      "album": "you know",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739a5560d3119e45ac800654f1",
-      "uri": "spotify:track:2VV7rnPcfRKu4Hr4olJZcq",
-      "duration_ms": 127384
-    },
-    {
-      "played_at": "2026-07-20T17:35:23.891Z",
-      "name": "Bleeding",
-      "artists": [
-        "kasper"
-      ],
-      "album": "Bleeding",
-      "image": "https://i.scdn.co/image/ab67616d0000b273046a8df46b9e6b6b6e0fb9a9",
-      "uri": "spotify:track:1Y4ynRKJo3eOus88e7JHMG",
-      "duration_ms": 180000
-    },
     {
       "played_at": "2026-07-20T17:43:15.106Z",
       "name": "Tulips",
@@ -22549,6 +22516,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273838b460e30d6a77512ffd00c",
       "uri": "spotify:track:0NJyThbEN5v6vFWrsH5uPF",
       "duration_ms": 304720
+    },
+    {
+      "played_at": "2026-11-12T02:31:29.585Z",
+      "name": "Ya Ghayeb",
+      "artists": [
+        "Fadel Chaker"
+      ],
+      "album": "Ya Ghayeb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aa3525f92330a3d710c886ec",
+      "uri": "spotify:track:2j4O1Oz0AVTWNLHjhTzBbJ",
+      "duration_ms": 233232
+    },
+    {
+      "played_at": "2026-11-12T03:34:06.872Z",
+      "name": "الوتر الحساس",
+      "artists": [
+        "Sherine"
+      ],
+      "album": "نساى",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+      "uri": "spotify:track:63Gl4Wqr98iJnWoNGFOQjr",
+      "duration_ms": 261224
+    },
+    {
+      "played_at": "2026-11-12T03:35:53.734Z",
+      "name": "Ya Ghayeb",
+      "artists": [
+        "Fadel Chaker"
+      ],
+      "album": "Ya Ghayeb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aa3525f92330a3d710c886ec",
+      "uri": "spotify:track:2j4O1Oz0AVTWNLHjhTzBbJ",
+      "duration_ms": 233232
     }
   ]
 }
