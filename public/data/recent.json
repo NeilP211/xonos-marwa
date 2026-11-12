@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-12T06:14:09.630Z",
+  "updated_at": "2026-11-12T17:24:40.310Z",
   "plays": [
-    {
-      "played_at": "2026-07-20T17:43:15.106Z",
-      "name": "Tulips",
-      "artists": [
-        "kasper"
-      ],
-      "album": "Tulips",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d76b56703b0b0b2312a90018",
-      "uri": "spotify:track:358ebpX0j2KttZ9IxzEjKB",
-      "duration_ms": 254400
-    },
     {
       "played_at": "2026-07-20T18:12:06.264Z",
       "name": "Dile Que Tu Me Quieres",
@@ -22549,6 +22538,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273aa3525f92330a3d710c886ec",
       "uri": "spotify:track:2j4O1Oz0AVTWNLHjhTzBbJ",
       "duration_ms": 233232
+    },
+    {
+      "played_at": "2026-11-12T06:40:35.012Z",
+      "name": "Deseándote",
+      "artists": [
+        "Frankie Ruiz"
+      ],
+      "album": "Frankie Ruiz La Leyenda",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
+      "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
+      "duration_ms": 281333
     }
   ]
 }

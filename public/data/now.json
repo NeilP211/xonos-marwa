@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-12T06:14:09.780Z",
+  "updated_at": "2026-11-12T17:24:40.467Z",
   "is_playing": false,
   "track": {
-    "name": "Ya Ghayeb",
+    "name": "Deseándote",
     "artists": [
-      "Fadel Chaker"
+      "Frankie Ruiz"
     ],
-    "album": "Ya Ghayeb",
-    "image": "https://i.scdn.co/image/ab67616d0000b273aa3525f92330a3d710c886ec",
-    "uri": "spotify:track:2j4O1Oz0AVTWNLHjhTzBbJ"
+    "album": "Frankie Ruiz La Leyenda",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
+    "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp"
   },
-  "played_at": "2026-11-12T03:35:53.734Z"
+  "played_at": "2026-11-12T06:40:35.012Z"
 }

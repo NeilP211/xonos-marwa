@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T06:14:09.451Z",
+  "generated_at": "2026-11-12T17:24:40.088Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -651,14 +651,6 @@
         },
         {
           "rank": 5,
-          "name": "Don Toliver",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
-          "genres": [],
-          "uri": "spotify:artist:4Gso3d4CscCijv0lmajZWs",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "rank": 6,
           "name": "Shinichi Osawa Works",
           "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
           "genres": [],
@@ -666,12 +658,20 @@
           "url": "https://open.spotify.com/artist/4d3dSSG92Bywc1qwtKVOrb"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "TUL8TE",
           "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
           "genres": [],
           "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
           "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        },
+        {
+          "rank": 7,
+          "name": "Don Toliver",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
+          "genres": [],
+          "uri": "spotify:artist:4Gso3d4CscCijv0lmajZWs",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         },
         {
           "rank": 8,
@@ -2591,7 +2591,7 @@
         {
           "rank": 18,
           "name": "ENHYPEN",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebf28334d02274b673b8201299",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb0b5a6d547373f26ff161c522",
           "genres": [],
           "uri": "spotify:artist:5t5FqBwTcgKTaWmfEbwQY9",
           "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
