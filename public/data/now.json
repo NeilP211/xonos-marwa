@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-12T23:17:14.837Z",
+  "updated_at": "2026-11-13T05:35:13.590Z",
   "is_playing": false,
   "track": {
-    "name": "Garee2a Awy",
+    "name": "Deseándote",
     "artists": [
-      "TUL8TE"
+      "Frankie Ruiz"
     ],
-    "album": "Sadeek El Bernameg",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a18f4a190692590da7fdc898",
-    "uri": "spotify:track:5iViOn3MXUREQ9kmu8DfUo"
+    "album": "Frankie Ruiz La Leyenda",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
+    "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp"
   },
-  "played_at": "2026-11-12T21:03:24.331Z"
+  "played_at": "2026-11-13T05:30:47.967Z"
 }

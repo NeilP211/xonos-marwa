@@ -1,95 +1,6 @@
 {
-  "updated_at": "2026-11-12T23:17:14.722Z",
+  "updated_at": "2026-11-13T05:35:13.470Z",
   "plays": [
-    {
-      "played_at": "2026-07-20T19:56:11.577Z",
-      "name": "DO YOU LOVE ME? / سنيورة",
-      "artists": [
-        "Saint Levant",
-        "Fares Sokar"
-      ],
-      "album": "Love Letters / رسائل حب (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730d6839f150198f1c23fb40e6",
-      "uri": "spotify:track:4gR1Lpk0478t0M6wrft3y5",
-      "duration_ms": 158571
-    },
-    {
-      "played_at": "2026-07-20T20:00:24.244Z",
-      "name": "Taala Bas",
-      "artists": [
-        "Samo Zaen"
-      ],
-      "album": "Aref Eh",
-      "image": "https://i.scdn.co/image/ab67616d0000b27397fced05181286a4556284b9",
-      "uri": "spotify:track:24OOkAZ7gm1GK8TaFi3CEk",
-      "duration_ms": 186360
-    },
-    {
-      "played_at": "2026-07-20T20:17:41.727Z",
-      "name": "M.",
-      "artists": [
-        "Anıl Emre Daldal"
-      ],
-      "album": "M.",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d7ddae05b16e763bc82b69a5",
-      "uri": "spotify:track:6wfb4nI2Vih263JqC8WSoW",
-      "duration_ms": 223750
-    },
-    {
-      "played_at": "2026-07-20T20:23:02.215Z",
-      "name": "是你（电视剧《难哄》片尾曲）",
-      "artists": [
-        "Chris Lee"
-      ],
-      "album": "电视剧《难哄》影视原声带·只喜欢你Love Moments",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e315e968f364d79e460d8f62",
-      "uri": "spotify:track:4YOBZGhCmlSnE131nd4sSC",
-      "duration_ms": 320284
-    },
-    {
-      "played_at": "2026-07-20T20:25:29.981Z",
-      "name": "Comme C’est Beau",
-      "artists": [
-        "Saint Levant"
-      ],
-      "album": "DEIRA",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734fac6cba67ce4b8ca9489d95",
-      "uri": "spotify:track:329tE6ApIG0noddNORtGYC",
-      "duration_ms": 147319
-    },
-    {
-      "played_at": "2026-07-20T20:30:01.194Z",
-      "name": "Night Train",
-      "artists": [
-        "Milena"
-      ],
-      "album": "Night Train",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736d32064f182e09d4566def5a",
-      "uri": "spotify:track:7FT7a5DV7Mk6Mc9ZRJnX70",
-      "duration_ms": 196000
-    },
-    {
-      "played_at": "2026-07-20T20:33:03.893Z",
-      "name": "Milonga with Lover",
-      "artists": [
-        "김지수"
-      ],
-      "album": "The Trunk (Soundtrack from the Netflix Series)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ff65a3b9824c71944b4aa8a7",
-      "uri": "spotify:track:0jgeW704QYLHoLJdCx3ytA",
-      "duration_ms": 157522
-    },
-    {
-      "played_at": "2026-07-20T20:38:08.537Z",
-      "name": "Oh Qué Será?",
-      "artists": [
-        "Willie Colón"
-      ],
-      "album": "Greatest Hits",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f37950978573d045e79d886b",
-      "uri": "spotify:track:2n1MTLCis6qPSDKdr5XSDI",
-      "duration_ms": 304200
-    },
     {
       "played_at": "2026-07-20T20:42:54.018Z",
       "name": "Honest",
@@ -22550,6 +22461,96 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a18f4a190692590da7fdc898",
       "uri": "spotify:track:5iViOn3MXUREQ9kmu8DfUo",
       "duration_ms": 159622
+    },
+    {
+      "played_at": "2026-11-12T23:40:55.944Z",
+      "name": "Garee2a Awy",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "Sadeek El Bernameg",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a18f4a190692590da7fdc898",
+      "uri": "spotify:track:5iViOn3MXUREQ9kmu8DfUo",
+      "duration_ms": 159622
+    },
+    {
+      "played_at": "2026-11-12T23:45:17.170Z",
+      "name": "Fi Hagat",
+      "artists": [
+        "Nancy Ajram"
+      ],
+      "album": "Nancy 7",
+      "image": "https://i.scdn.co/image/ab67616d0000b273236c4288dfb37bbfdf159ed6",
+      "uri": "spotify:track:4rvgSBrTVQ2brjrCmSmAWp",
+      "duration_ms": 266200
+    },
+    {
+      "played_at": "2026-11-12T23:49:04.562Z",
+      "name": "خليك معايا",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "الليلادي",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373b72d2ce3d19fa428595c2c",
+      "uri": "spotify:track:4xjuBQBnXifS3554AAVtop",
+      "duration_ms": 232411
+    },
+    {
+      "played_at": "2026-11-13T04:26:36.334Z",
+      "name": "Ma Tegi Hena",
+      "artists": [
+        "Nancy Ajram"
+      ],
+      "album": "Nancy 8",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732df891038ddc76e6bf0806f3",
+      "uri": "spotify:track:7Jer8ddQAn1FPPCqrx87Ax",
+      "duration_ms": 253080
+    },
+    {
+      "played_at": "2026-11-13T04:30:03.348Z",
+      "name": "Haneish",
+      "artists": [
+        "TUL8TE",
+        "Elyanna"
+      ],
+      "album": "Sadeek El Bernameg",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a18f4a190692590da7fdc898",
+      "uri": "spotify:track:1QSCmmgw4FNQzaOFB9vaJI",
+      "duration_ms": 206804
+    },
+    {
+      "played_at": "2026-11-13T04:33:41.133Z",
+      "name": "LAYALINA",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "TESH SHABAB",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b35cbc46da738189984a5bf",
+      "uri": "spotify:track:3aoPbCVZPCKbiCDIBniyCr",
+      "duration_ms": 218833
+    },
+    {
+      "played_at": "2026-11-13T04:45:09.840Z",
+      "name": "HASESS BIK",
+      "artists": [
+        "Zaid Khaled",
+        "Nasser"
+      ],
+      "album": "HASESS BIK",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b3f9c066a806fc3bad063a26",
+      "uri": "spotify:track:6KqmdbNxbqcgbBdQJIkD76",
+      "duration_ms": 246250
+    },
+    {
+      "played_at": "2026-11-13T05:30:47.967Z",
+      "name": "Deseándote",
+      "artists": [
+        "Frankie Ruiz"
+      ],
+      "album": "Frankie Ruiz La Leyenda",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
+      "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
+      "duration_ms": 281333
     }
   ]
 }
