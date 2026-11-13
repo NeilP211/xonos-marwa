@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T05:35:13.310Z",
+  "generated_at": "2026-11-13T14:06:00.816Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -139,6 +139,18 @@
         },
         {
           "rank": 12,
+          "name": "Deseándote",
+          "artists": [
+            "Frankie Ruiz"
+          ],
+          "album": "Frankie Ruiz La Leyenda",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
+          "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
+          "url": "https://open.spotify.com/track/0FsXZAMf6NACvNJ2LI6ySp",
+          "duration_ms": 281333
+        },
+        {
+          "rank": 13,
           "name": "Oyasumi.",
           "artists": [
             "gulu gulu"
@@ -150,7 +162,7 @@
           "duration_ms": 194720
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "4U",
           "artists": [
             "Lil Tecca"
@@ -162,7 +174,7 @@
           "duration_ms": 142987
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "El Hob Gany",
           "artists": [
             "TUL8TE"
@@ -174,7 +186,7 @@
           "duration_ms": 241212
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "これを依存と呼ぶなら",
           "artists": [
             "MEJIBRAY"
@@ -186,7 +198,7 @@
           "duration_ms": 340346
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Nineteen Ninety Four",
           "artists": [
             "✝✝✝ (Crosses)"
@@ -198,7 +210,7 @@
           "duration_ms": 257071
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "No Pole",
           "artists": [
             "Don Toliver"
@@ -210,7 +222,7 @@
           "duration_ms": 187613
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Red Swan",
           "artists": [
             "YOSHIKI",
@@ -223,7 +235,7 @@
           "duration_ms": 263720
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Tamally Maak",
           "artists": [
             "Amr Diab"
@@ -235,7 +247,7 @@
           "duration_ms": 269232
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Eiji",
           "artists": [
             "Shinichi Osawa Works"
@@ -247,7 +259,7 @@
           "duration_ms": 201933
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "What More Can I Say",
           "artists": [
             "The Notations"
@@ -259,7 +271,7 @@
           "duration_ms": 200506
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Metamorphose",
           "artists": [
             "LAREINE"
@@ -271,7 +283,7 @@
           "duration_ms": 346186
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Perverted Martyr",
           "artists": [
             "Femme Fatale"
@@ -283,7 +295,7 @@
           "duration_ms": 232128
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "You Know That I Want To",
           "artists": [
             "George Michael"
@@ -295,7 +307,7 @@
           "duration_ms": 276418
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Sure Thing",
           "artists": [
             "Montire",
@@ -308,7 +320,7 @@
           "duration_ms": 63204
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Around Me",
           "artists": [
             "Noodah05"
@@ -320,7 +332,7 @@
           "duration_ms": 153835
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "bigassbearman",
           "artists": [
             "ericdoa"
@@ -332,7 +344,7 @@
           "duration_ms": 149468
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "SALOME",
           "artists": [
             "Kaya"
@@ -344,7 +356,7 @@
           "duration_ms": 244835
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "kaleidoscope",
           "artists": [
             "Exit Dream"
@@ -356,7 +368,7 @@
           "duration_ms": 228400
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Is It Really You?",
           "artists": [
             "Loathe"
@@ -368,7 +380,7 @@
           "duration_ms": 287627
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "DIE TRYING",
           "artists": [
             "PARTYNEXTDOOR",
@@ -382,7 +394,7 @@
           "duration_ms": 195431
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Tonight (Best You Ever Had) (feat. Ludacris)",
           "artists": [
             "John Legend",
@@ -395,7 +407,7 @@
           "duration_ms": 239453
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "BAD TIME",
           "artists": [
             "Lil Tecca"
@@ -407,7 +419,7 @@
           "duration_ms": 210803
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "KALAMANTINA / كلمنتينا",
           "artists": [
             "Saint Levant",
@@ -420,7 +432,7 @@
           "duration_ms": 206872
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "KISS ME GOOD-BYE",
           "artists": [
             "BUCK-TICK"
@@ -432,7 +444,7 @@
           "duration_ms": 376885
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Him and Hym",
           "artists": [
             "Shinichi Osawa Works"
@@ -442,18 +454,6 @@
           "uri": "spotify:track:4wEoijvnHdqavxmSPkiXcv",
           "url": "https://open.spotify.com/track/4wEoijvnHdqavxmSPkiXcv",
           "duration_ms": 140200
-        },
-        {
-          "rank": 37,
-          "name": "Deseándote",
-          "artists": [
-            "Frankie Ruiz"
-          ],
-          "album": "Frankie Ruiz La Leyenda",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
-          "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
-          "url": "https://open.spotify.com/track/0FsXZAMf6NACvNJ2LI6ySp",
-          "duration_ms": 281333
         },
         {
           "rank": 38,
@@ -656,7 +656,7 @@
         {
           "rank": 6,
           "name": "Don Toliver",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb95ef459a84c75fbdc20a070c",
           "genres": [],
           "uri": "spotify:artist:4Gso3d4CscCijv0lmajZWs",
           "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
@@ -1007,6 +1007,18 @@
         },
         {
           "rank": 15,
+          "name": "Deseándote",
+          "artists": [
+            "Frankie Ruiz"
+          ],
+          "album": "Frankie Ruiz La Leyenda",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
+          "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
+          "url": "https://open.spotify.com/track/0FsXZAMf6NACvNJ2LI6ySp",
+          "duration_ms": 281333
+        },
+        {
+          "rank": 16,
           "name": "Soft Spot",
           "artists": [
             "keshi"
@@ -1018,7 +1030,7 @@
           "duration_ms": 204223
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Descifrar",
           "artists": [
             "maye"
@@ -1030,7 +1042,7 @@
           "duration_ms": 178700
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Props & Mayhem",
           "artists": [
             "Pierce The Veil"
@@ -1042,7 +1054,7 @@
           "duration_ms": 217853
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Is It Really You?",
           "artists": [
             "Loathe"
@@ -1052,18 +1064,6 @@
           "uri": "spotify:track:4OmlsAT8r4q9vPFBvfYgyZ",
           "url": "https://open.spotify.com/track/4OmlsAT8r4q9vPFBvfYgyZ",
           "duration_ms": 287627
-        },
-        {
-          "rank": 19,
-          "name": "Deseándote",
-          "artists": [
-            "Frankie Ruiz"
-          ],
-          "album": "Frankie Ruiz La Leyenda",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
-          "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
-          "url": "https://open.spotify.com/track/0FsXZAMf6NACvNJ2LI6ySp",
-          "duration_ms": 281333
         },
         {
           "rank": 20,
@@ -1687,7 +1687,7 @@
         {
           "rank": 31,
           "name": "Don Toliver",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb95ef459a84c75fbdc20a070c",
           "genres": [],
           "uri": "spotify:artist:4Gso3d4CscCijv0lmajZWs",
           "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
