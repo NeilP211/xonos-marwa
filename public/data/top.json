@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T21:14:10.844Z",
+  "generated_at": "2026-11-14T05:25:50.558Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -589,18 +589,6 @@
         },
         {
           "rank": 49,
-          "name": "الوتر الحساس",
-          "artists": [
-            "Sherine"
-          ],
-          "album": "نساى",
-          "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
-          "uri": "spotify:track:63Gl4Wqr98iJnWoNGFOQjr",
-          "url": "https://open.spotify.com/track/63Gl4Wqr98iJnWoNGFOQjr",
-          "duration_ms": 261224
-        },
-        {
-          "rank": 50,
           "name": "mademoiselle",
           "artists": [
             "KAMIJO"
@@ -610,6 +598,20 @@
           "uri": "spotify:track:6L7ukgfjkoj8d11IjdB2hP",
           "url": "https://open.spotify.com/track/6L7ukgfjkoj8d11IjdB2hP",
           "duration_ms": 238666
+        },
+        {
+          "rank": 50,
+          "name": "Bando",
+          "artists": [
+            "void",
+            "ta2cute",
+            "empireofyu"
+          ],
+          "album": "Bando",
+          "image": "https://i.scdn.co/image/ab67616d0000b27350e4d8d4424add39eb0799f7",
+          "uri": "spotify:track:01u5h4DeZ2NMjyrR9oJtQh",
+          "url": "https://open.spotify.com/track/01u5h4DeZ2NMjyrR9oJtQh",
+          "duration_ms": 180062
         }
       ],
       "artists": [
@@ -1911,18 +1913,6 @@
         },
         {
           "rank": 6,
-          "name": "八方來財(Stacks from All Sides)",
-          "artists": [
-            "攬佬SKAI ISYOURGOD"
-          ],
-          "album": "八方來財(Stacks from All Sides)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739870c9519822a973411b6594",
-          "uri": "spotify:track:7jm2PueKmv4EOHfdbdXMKT",
-          "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT",
-          "duration_ms": 173037
-        },
-        {
-          "rank": 7,
           "name": "Yally Zaalan",
           "artists": [
             "Mohamed Hamaki"
@@ -1932,6 +1922,18 @@
           "uri": "spotify:track:1gJfRu9I7hadI70g3YEyt8",
           "url": "https://open.spotify.com/track/1gJfRu9I7hadI70g3YEyt8",
           "duration_ms": 292440
+        },
+        {
+          "rank": 7,
+          "name": "八方來財(Stacks from All Sides)",
+          "artists": [
+            "攬佬SKAI ISYOURGOD"
+          ],
+          "album": "八方來財(Stacks from All Sides)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739870c9519822a973411b6594",
+          "uri": "spotify:track:7jm2PueKmv4EOHfdbdXMKT",
+          "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT",
+          "duration_ms": 173037
         },
         {
           "rank": 8,
@@ -2110,6 +2112,18 @@
         },
         {
           "rank": 22,
+          "name": "Tamally Maak",
+          "artists": [
+            "Amr Diab"
+          ],
+          "album": "Tamally Maak",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+          "uri": "spotify:track:6TYFcqqQVQPb3YsgfRhvqs",
+          "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
+          "duration_ms": 269232
+        },
+        {
+          "rank": 23,
           "name": "Ego",
           "artists": [
             "Peach Luffe"
@@ -2121,7 +2135,7 @@
           "duration_ms": 180814
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Deseándote",
           "artists": [
             "Frankie Ruiz"
@@ -2133,7 +2147,7 @@
           "duration_ms": 283546
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "اخدني معك",
           "artists": [
             "Fadel Chaker"
@@ -2145,7 +2159,7 @@
           "duration_ms": 313939
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Dujem",
           "artists": [
             "Butrint Imeri"
@@ -2155,18 +2169,6 @@
           "uri": "spotify:track:5JO8LFf5K5QbD2GoCqtT2Q",
           "url": "https://open.spotify.com/track/5JO8LFf5K5QbD2GoCqtT2Q",
           "duration_ms": 157441
-        },
-        {
-          "rank": 26,
-          "name": "Tamally Maak",
-          "artists": [
-            "Amr Diab"
-          ],
-          "album": "Tamally Maak",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-          "uri": "spotify:track:6TYFcqqQVQPb3YsgfRhvqs",
-          "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
-          "duration_ms": 269232
         },
         {
           "rank": 27,
@@ -2602,6 +2604,14 @@
         },
         {
           "rank": 18,
+          "name": "TUL8TE",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
+          "genres": [],
+          "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        },
+        {
+          "rank": 19,
           "name": "ENHYPEN",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0b5a6d547373f26ff161c522",
           "genres": [],
@@ -2609,20 +2619,12 @@
           "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Prince Royce",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6ce83e3425a74cb9d6bdb1dc",
           "genres": [],
           "uri": "spotify:artist:3MHaV05u0io8fQbZ2XPtlC",
           "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "rank": 20,
-          "name": "TUL8TE",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
-          "genres": [],
-          "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
-          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
         },
         {
           "rank": 21,
@@ -2651,7 +2653,7 @@
         {
           "rank": 24,
           "name": "ATEEZ",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb630859e6682cfa878243bacc",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebf10ce314891cd1ea435cc102",
           "genres": [],
           "uri": "spotify:artist:68KmkJeZGfwe1OUaivBa2L",
           "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
@@ -2770,14 +2772,6 @@
         },
         {
           "rank": 39,
-          "name": "Nancy Ajram",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd4bd333fb48f25236478fa3e",
-          "genres": [],
-          "uri": "spotify:artist:0LnHdW6HMPoOlNdhG3DHjE",
-          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
-        },
-        {
-          "rank": 40,
           "name": "Sade",
           "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
           "genres": [],
@@ -2785,7 +2779,7 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "Pino",
           "image": "https://i.scdn.co/image/ab6761610000e5eb139386421e2917d2ea5a279d",
           "genres": [],
@@ -2793,7 +2787,7 @@
           "url": "https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu"
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "邹沛沛",
           "image": "https://i.scdn.co/image/ab67616d0000b2735e10693b2c3d38dd7ad4299a",
           "genres": [],
@@ -2801,12 +2795,20 @@
           "url": "https://open.spotify.com/artist/4ST2uUeBAbGgmskBWYRB8S"
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "Jung Kook",
           "image": "https://i.scdn.co/image/ab6761610000e5eb71089d18c93e3a51e70ff0dc",
           "genres": [],
           "uri": "spotify:artist:6HaGTQPmzraVmaVxvz6EUc",
           "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "rank": 43,
+          "name": "Nancy Ajram",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd4bd333fb48f25236478fa3e",
+          "genres": [],
+          "uri": "spotify:artist:0LnHdW6HMPoOlNdhG3DHjE",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
         },
         {
           "rank": 44,

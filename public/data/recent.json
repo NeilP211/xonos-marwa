@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-11-13T21:14:11.015Z",
+  "updated_at": "2026-11-14T05:25:50.647Z",
   "plays": [
-    {
-      "played_at": "2026-07-21T01:38:54.375Z",
-      "name": "No Ordinary Love",
-      "artists": [
-        "Sade"
-      ],
-      "album": "Love Deluxe",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
-      "uri": "spotify:track:1oaaSrDJimABpOdCEbw2DJ",
-      "duration_ms": 440466
-    },
-    {
-      "played_at": "2026-07-21T02:05:06.307Z",
-      "name": "No Ordinary Love",
-      "artists": [
-        "Sade"
-      ],
-      "album": "Love Deluxe",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
-      "uri": "spotify:track:1oaaSrDJimABpOdCEbw2DJ",
-      "duration_ms": 440466
-    },
     {
       "played_at": "2026-07-21T02:18:30.988Z",
       "name": "Lady",
@@ -22545,6 +22523,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732e50096092c24bd9acb0749d",
       "uri": "spotify:track:6AOmVuYPC8WJN0hzZ1ODIj",
       "duration_ms": 213838
+    },
+    {
+      "played_at": "2026-11-14T00:01:15.446Z",
+      "name": "وحشتيني",
+      "artists": [
+        "Rashed Al-Majed"
+      ],
+      "album": "المسافر",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735ecdd979626ca9c85f064216",
+      "uri": "spotify:track:43RAsvZjJ0Ugau59NJqoTL",
+      "duration_ms": 385906
+    },
+    {
+      "played_at": "2026-11-14T03:03:45.568Z",
+      "name": "Qalb Qalb",
+      "artists": [
+        "Mohamed AlSalim"
+      ],
+      "album": "Qalb Qalb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cab295820572df1588846aca",
+      "uri": "spotify:track:4M1mGLiVGtky8NHFaEgnfh",
+      "duration_ms": 352444
     }
   ]
 }
