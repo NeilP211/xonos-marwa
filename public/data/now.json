@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-11-15T00:49:24.843Z",
+  "updated_at": "2026-11-15T10:29:22.714Z",
   "is_playing": false,
   "track": {
-    "name": "Qalb Qalb",
+    "name": "FWU",
     "artists": [
-      "Mohamed AlSalim"
+      "Don Toliver",
+      "Mustard"
     ],
-    "album": "Qalb Qalb",
-    "image": "https://i.scdn.co/image/ab67616d0000b273cab295820572df1588846aca",
-    "uri": "spotify:track:4M1mGLiVGtky8NHFaEgnfh"
+    "album": "FWU",
+    "image": "https://i.scdn.co/image/ab67616d0000b273867fbde5755d14967df3e7d5",
+    "uri": "spotify:track:1NpHJ96ljWvqdbjlyc9GtT"
   },
-  "played_at": "2026-11-14T03:03:45.568Z"
+  "played_at": "2026-11-15T06:45:36.944Z"
 }
