@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T10:29:22.469Z",
+  "generated_at": "2026-11-15T18:35:18.358Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1007,18 +1007,6 @@
         },
         {
           "rank": 15,
-          "name": "Deseándote",
-          "artists": [
-            "Frankie Ruiz"
-          ],
-          "album": "Frankie Ruiz La Leyenda",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
-          "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
-          "url": "https://open.spotify.com/track/0FsXZAMf6NACvNJ2LI6ySp",
-          "duration_ms": 281333
-        },
-        {
-          "rank": 16,
           "name": "Soft Spot",
           "artists": [
             "keshi"
@@ -1030,7 +1018,7 @@
           "duration_ms": 204223
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Descifrar",
           "artists": [
             "maye"
@@ -1042,7 +1030,7 @@
           "duration_ms": 178700
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Props & Mayhem",
           "artists": [
             "Pierce The Veil"
@@ -1054,7 +1042,7 @@
           "duration_ms": 217853
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Is It Really You?",
           "artists": [
             "Loathe"
@@ -1064,6 +1052,18 @@
           "uri": "spotify:track:4OmlsAT8r4q9vPFBvfYgyZ",
           "url": "https://open.spotify.com/track/4OmlsAT8r4q9vPFBvfYgyZ",
           "duration_ms": 287627
+        },
+        {
+          "rank": 19,
+          "name": "Deseándote",
+          "artists": [
+            "Frankie Ruiz"
+          ],
+          "album": "Frankie Ruiz La Leyenda",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
+          "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
+          "url": "https://open.spotify.com/track/0FsXZAMf6NACvNJ2LI6ySp",
+          "duration_ms": 281333
         },
         {
           "rank": 20,
@@ -1542,14 +1542,6 @@
         },
         {
           "rank": 13,
-          "name": "TUL8TE",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
-          "genres": [],
-          "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
-          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
-        },
-        {
-          "rank": 14,
           "name": "Joey V Mendez",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd6dc4f7cffa58ee9d73be6cf",
           "genres": [],
@@ -1557,12 +1549,20 @@
           "url": "https://open.spotify.com/artist/24yO6ycVuKPoSHHB4Q0m7P"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "VIOLENT VIRA",
           "image": "https://i.scdn.co/image/ab6761610000e5eb14c07bcb4da9499543d1031d",
           "genres": [],
           "uri": "spotify:artist:298H8XdYsBHii98wfAZT1S",
           "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
+        },
+        {
+          "rank": 15,
+          "name": "TUL8TE",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
+          "genres": [],
+          "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
         },
         {
           "rank": 16,
