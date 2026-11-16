@@ -1,43 +1,6 @@
 {
-  "updated_at": "2026-11-16T10:44:52.643Z",
+  "updated_at": "2026-11-16T21:44:02.504Z",
   "plays": [
-    {
-      "played_at": "2026-07-21T15:58:18.339Z",
-      "name": "LA VILLA",
-      "artists": [
-        "Ryan Castro",
-        "Kapo",
-        "Gangsta"
-      ],
-      "album": "LA VILLA",
-      "image": "https://i.scdn.co/image/ab67616d0000b27326d18a5ac713d07e5ac3bb63",
-      "uri": "spotify:track:6YkGw5op7PeyP2gmMMMrfJ",
-      "duration_ms": 192111
-    },
-    {
-      "played_at": "2026-07-21T16:00:16.693Z",
-      "name": "LA VILLA",
-      "artists": [
-        "Ryan Castro",
-        "Kapo",
-        "Gangsta"
-      ],
-      "album": "LA VILLA",
-      "image": "https://i.scdn.co/image/ab67616d0000b27326d18a5ac713d07e5ac3bb63",
-      "uri": "spotify:track:6YkGw5op7PeyP2gmMMMrfJ",
-      "duration_ms": 192111
-    },
-    {
-      "played_at": "2026-07-21T16:04:41.794Z",
-      "name": "Ni Gucci Ni Prada",
-      "artists": [
-        "Kenny Man"
-      ],
-      "album": "New Beginning",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b1a4b3dc2a4e2fb3df85cb9",
-      "uri": "spotify:track:3eIs966ttOWhj9CPq8F9sh",
-      "duration_ms": 177200
-    },
     {
       "played_at": "2026-07-21T16:08:03.712Z",
       "name": "PERFuMITO NUEVO",
@@ -22549,6 +22512,40 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
       "uri": "spotify:track:4P5KoWXOxwuobLmHXLMobV",
       "duration_ms": 218920
+    },
+    {
+      "played_at": "2026-11-16T16:19:29.351Z",
+      "name": "Come As You Are",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+      "uri": "spotify:track:4P5KoWXOxwuobLmHXLMobV",
+      "duration_ms": 218920
+    },
+    {
+      "played_at": "2026-11-16T19:59:01.345Z",
+      "name": "Haneish",
+      "artists": [
+        "TUL8TE",
+        "Elyanna"
+      ],
+      "album": "Sadeek El Bernameg",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a18f4a190692590da7fdc898",
+      "uri": "spotify:track:1QSCmmgw4FNQzaOFB9vaJI",
+      "duration_ms": 206804
+    },
+    {
+      "played_at": "2026-11-16T20:02:05.447Z",
+      "name": "the perfect pair",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Beatopia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+      "uri": "spotify:track:41P6Tnd8KIHqON0QIydx6a",
+      "duration_ms": 177533
     }
   ]
 }
