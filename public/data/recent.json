@@ -1,107 +1,6 @@
 {
-  "updated_at": "2026-11-16T21:44:02.504Z",
+  "updated_at": "2026-11-17T06:59:36.175Z",
   "plays": [
-    {
-      "played_at": "2026-07-21T16:08:03.712Z",
-      "name": "PERFuMITO NUEVO",
-      "artists": [
-        "Bad Bunny",
-        "RaiNao"
-      ],
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-      "uri": "spotify:track:1Q9Efnm5csdCMFynISxL2x",
-      "duration_ms": 200680
-    },
-    {
-      "played_at": "2026-07-21T16:12:56.694Z",
-      "name": "Perlas Negras",
-      "artists": [
-        "Natanael Cano",
-        "Gabito Ballesteros"
-      ],
-      "album": "Perlas Negras",
-      "image": "https://i.scdn.co/image/ab67616d0000b27383a896ca012c3491147a5494",
-      "uri": "spotify:track:3piSbt4J3UElNC2d5jhjJr",
-      "duration_ms": 203357
-    },
-    {
-      "played_at": "2026-07-21T16:17:08.219Z",
-      "name": "Báilame",
-      "artists": [
-        "Danny Ocean"
-      ],
-      "album": "54+1",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d8243a13e6f41310a5fa7b96",
-      "uri": "spotify:track:5pOBhos8Z2v3FGjUPMgUgI",
-      "duration_ms": 251017
-    },
-    {
-      "played_at": "2026-07-21T16:22:57.668Z",
-      "name": "Si Antes Te Hubiera Conocido",
-      "artists": [
-        "KAROL G"
-      ],
-      "album": "Tropicoqueta",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
-      "uri": "spotify:track:73scB4Q4fcOmnsBVZPmk32",
-      "duration_ms": 195824
-    },
-    {
-      "played_at": "2026-07-21T16:25:33.375Z",
-      "name": "Tropicoqueta",
-      "artists": [
-        "KAROL G"
-      ],
-      "album": "Tropicoqueta",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
-      "uri": "spotify:track:3l8zyeHnG8u2q7H4FQyVtS",
-      "duration_ms": 155682
-    },
-    {
-      "played_at": "2026-07-21T16:26:03.496Z",
-      "name": "Crayola",
-      "artists": [
-        "Danny Ocean"
-      ],
-      "album": "Babylon Club",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734330d7d9762313dff66f1ca7",
-      "uri": "spotify:track:6cWhEExHUKZR3boz4yC2Mf",
-      "duration_ms": 197276
-    },
-    {
-      "played_at": "2026-07-21T16:29:10.025Z",
-      "name": "Crayola",
-      "artists": [
-        "Danny Ocean"
-      ],
-      "album": "Babylon Club",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734330d7d9762313dff66f1ca7",
-      "uri": "spotify:track:6cWhEExHUKZR3boz4yC2Mf",
-      "duration_ms": 197276
-    },
-    {
-      "played_at": "2026-07-21T16:33:35.276Z",
-      "name": "Neverita",
-      "artists": [
-        "Bad Bunny"
-      ],
-      "album": "Un Verano Sin Ti",
-      "image": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
-      "uri": "spotify:track:31i56LZnwE6uSu3exoHjtB",
-      "duration_ms": 173119
-    },
-    {
-      "played_at": "2026-07-21T16:37:59.246Z",
-      "name": "TU VAS SIN (fav)",
-      "artists": [
-        "Rels B"
-      ],
-      "album": "afroLOVA 25'",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730e409fad9527196e73e423ba",
-      "uri": "spotify:track:6uiQ0DqbXTBc8tl0AUKZkR",
-      "duration_ms": 110495
-    },
     {
       "played_at": "2026-07-21T16:49:55.065Z",
       "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
@@ -22546,6 +22445,105 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
       "uri": "spotify:track:41P6Tnd8KIHqON0QIydx6a",
       "duration_ms": 177533
+    },
+    {
+      "played_at": "2026-11-16T21:57:31.920Z",
+      "name": "Resilience",
+      "artists": [
+        "Pierce The Veil"
+      ],
+      "album": "The Jaws Of Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+      "uri": "spotify:track:08vqJRf0PuLF1YACmIG3o8",
+      "duration_ms": 220360
+    },
+    {
+      "played_at": "2026-11-16T22:02:34.545Z",
+      "name": "Silver Plate",
+      "artists": [
+        "Design19"
+      ],
+      "album": "Trigger",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735c4553174626a4ebb91c29e9",
+      "uri": "spotify:track:3LfM6BpzHmhiIjRyoe1GBs",
+      "duration_ms": 198800
+    },
+    {
+      "played_at": "2026-11-16T22:06:04.402Z",
+      "name": "Back To Me",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Back To Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a66ab2cbaebcc84ddd45a078",
+      "uri": "spotify:track:4E0P1xs3JNmsNr5c5nFTZJ",
+      "duration_ms": 214800
+    },
+    {
+      "played_at": "2026-11-16T22:07:44.085Z",
+      "name": "Sienna",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Submarine",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831",
+      "uri": "spotify:track:0InIeZW4P6VO7dUGRM4AKH",
+      "duration_ms": 224840
+    },
+    {
+      "played_at": "2026-11-16T22:20:48.683Z",
+      "name": "the perfect pair",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Beatopia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+      "uri": "spotify:track:41P6Tnd8KIHqON0QIydx6a",
+      "duration_ms": 177533
+    },
+    {
+      "played_at": "2026-11-16T22:23:29.586Z",
+      "name": "Glue Song",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Glue Song",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e3862aeefcb2f0860ef017e4",
+      "uri": "spotify:track:3iBgrkexCzVuPy4O9vx7Mf",
+      "duration_ms": 135066
+    },
+    {
+      "played_at": "2026-11-16T22:33:54.744Z",
+      "name": "the perfect pair",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Beatopia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+      "uri": "spotify:track:41P6Tnd8KIHqON0QIydx6a",
+      "duration_ms": 177533
+    },
+    {
+      "played_at": "2026-11-16T23:00:19.802Z",
+      "name": "Only in My Dreams",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Superclean, Vol. I",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730924b9c6232d2348d4efa0dc",
+      "uri": "spotify:track:190IqlryWu91WBKeDgZqZz",
+      "duration_ms": 170893
+    },
+    {
+      "played_at": "2026-11-16T23:04:25.904Z",
+      "name": "Paranoia",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Submarine",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831",
+      "uri": "spotify:track:4gtIYSYu8u2ItBqrhCaChL",
+      "duration_ms": 231786
     }
   ]
 }

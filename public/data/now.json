@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-16T21:44:02.557Z",
+  "updated_at": "2026-11-17T06:59:36.279Z",
   "is_playing": false,
   "track": {
-    "name": "the perfect pair",
+    "name": "Paranoia",
     "artists": [
-      "beabadoobee"
+      "The Marías"
     ],
-    "album": "Beatopia",
-    "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
-    "uri": "spotify:track:41P6Tnd8KIHqON0QIydx6a"
+    "album": "Submarine",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831",
+    "uri": "spotify:track:4gtIYSYu8u2ItBqrhCaChL"
   },
-  "played_at": "2026-11-16T20:02:05.447Z"
+  "played_at": "2026-11-16T23:04:25.904Z"
 }
