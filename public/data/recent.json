@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-11-17T06:59:36.175Z",
+  "updated_at": "2026-11-17T18:15:34.666Z",
   "plays": [
-    {
-      "played_at": "2026-07-21T16:49:55.065Z",
-      "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
-      "artists": [
-        "DJ Khaled",
-        "Rihanna",
-        "Bryson Tiller"
-      ],
-      "album": "Grateful",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737a993075e27042a11896b8fb",
-      "uri": "spotify:track:45XhKYRRkyeqoW3teSOkCM",
-      "duration_ms": 204664
-    },
     {
       "played_at": "2026-07-21T16:50:21.873Z",
       "name": "Kiss Me Now",
@@ -22544,6 +22531,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831",
       "uri": "spotify:track:4gtIYSYu8u2ItBqrhCaChL",
       "duration_ms": 231786
+    },
+    {
+      "played_at": "2026-11-17T07:56:43.813Z",
+      "name": "the perfect pair",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Beatopia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+      "uri": "spotify:track:41P6Tnd8KIHqON0QIydx6a",
+      "duration_ms": 177533
     }
   ]
 }
