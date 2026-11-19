@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-19T11:15:11.729Z",
-  "is_playing": false,
+  "updated_at": "2026-11-19T20:07:02.222Z",
+  "is_playing": true,
   "track": {
-    "name": "Billie Jean",
+    "name": "Back To Me",
     "artists": [
-      "Michael Jackson"
+      "Naïka"
     ],
-    "album": "Thriller",
-    "image": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-    "uri": "spotify:track:7J1uxwnxfQLu4APicE5Rnj"
+    "album": "Back To Me",
+    "image": "https://i.scdn.co/image/ab67616d0000b273991bceba86c322df55db2d0f",
+    "uri": "spotify:track:5uvjVYv3FKBNnGkR8mnHws"
   },
-  "played_at": "2026-11-18T23:51:29.732Z"
+  "played_at": "2026-11-19T20:07:02.222Z"
 }
