@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-18T20:06:53.565Z",
+  "updated_at": "2026-11-19T02:20:22.650Z",
   "is_playing": false,
   "track": {
-    "name": "the perfect pair",
+    "name": "Billie Jean",
     "artists": [
-      "beabadoobee"
+      "Michael Jackson"
     ],
-    "album": "Beatopia",
-    "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
-    "uri": "spotify:track:41P6Tnd8KIHqON0QIydx6a"
+    "album": "Thriller",
+    "image": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+    "uri": "spotify:track:7J1uxwnxfQLu4APicE5Rnj"
   },
-  "played_at": "2026-11-17T07:56:43.813Z"
+  "played_at": "2026-11-18T23:51:29.732Z"
 }

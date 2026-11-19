@@ -1,272 +1,6 @@
 {
-  "updated_at": "2026-11-18T20:06:53.337Z",
+  "updated_at": "2026-11-19T02:20:22.547Z",
   "plays": [
-    {
-      "played_at": "2026-07-21T16:50:21.873Z",
-      "name": "Kiss Me Now",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
-      "uri": "spotify:track:6yT9iNKt8fQoYpQkbWc7YR",
-      "duration_ms": 256268
-    },
-    {
-      "played_at": "2026-07-21T18:25:39.051Z",
-      "name": "Soft Spot",
-      "artists": [
-        "keshi"
-      ],
-      "album": "Requiem",
-      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
-      "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
-      "duration_ms": 204223
-    },
-    {
-      "played_at": "2026-07-21T18:30:45.585Z",
-      "name": "Soft Spot",
-      "artists": [
-        "keshi"
-      ],
-      "album": "Requiem",
-      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
-      "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
-      "duration_ms": 204223
-    },
-    {
-      "played_at": "2026-07-21T18:33:49.697Z",
-      "name": "Soft Spot",
-      "artists": [
-        "keshi"
-      ],
-      "album": "Requiem",
-      "image": "https://i.scdn.co/image/ab67616d0000b273617997bc09bb7fa23624eff5",
-      "uri": "spotify:track:2aL4lMGhWdPpyPL6COPou7",
-      "duration_ms": 204223
-    },
-    {
-      "played_at": "2026-07-21T18:45:51.048Z",
-      "name": "Por qué dudas de mi?",
-      "artists": [
-        "Danny Ocean"
-      ],
-      "album": "babylona blue",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
-      "uri": "spotify:track:6VEWNOA9aKe2ZtOfk7HeDA",
-      "duration_ms": 112694
-    },
-    {
-      "played_at": "2026-07-21T18:49:05.472Z",
-      "name": "Flor De Michoacán",
-      "artists": [
-        "Menny Flores"
-      ],
-      "album": "Flor De Michoacán",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f76c34e04bf2da5112f4bbdb",
-      "uri": "spotify:track:33vQCR90JDkXzcRvRVi0H3",
-      "duration_ms": 193853
-    },
-    {
-      "played_at": "2026-07-21T18:53:45.456Z",
-      "name": "All My Heart",
-      "artists": [
-        "Sleeping With Sirens"
-      ],
-      "album": "Let's Cheers To This",
-      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
-      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
-      "duration_ms": 279293
-    },
-    {
-      "played_at": "2026-07-21T19:45:58.234Z",
-      "name": "Real time love",
-      "artists": [
-        "Danny Ocean"
-      ],
-      "album": "babylona blue",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
-      "uri": "spotify:track:4zAzvr7CwU5En0McHy2H5B",
-      "duration_ms": 170670
-    },
-    {
-      "played_at": "2026-07-21T19:49:28.117Z",
-      "name": "Si tú supieras…",
-      "artists": [
-        "Danny Ocean"
-      ],
-      "album": "babylona blue",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
-      "uri": "spotify:track:6aPlrDbqDmON1KAkUn4D6U",
-      "duration_ms": 140952
-    },
-    {
-      "played_at": "2026-07-21T19:52:45.457Z",
-      "name": "quelomamen",
-      "artists": [
-        "Danny Ocean"
-      ],
-      "album": "babylona blue",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d5099474ab9e03b6add15712",
-      "uri": "spotify:track:2QPH4nsBCojHQSrM1AlKWn",
-      "duration_ms": 136331
-    },
-    {
-      "played_at": "2026-07-21T19:54:56.237Z",
-      "name": "Ojala",
-      "artists": [
-        "Danny Ocean"
-      ],
-      "album": "Babylon Club",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734330d7d9762313dff66f1ca7",
-      "uri": "spotify:track:6Boai8zLsZZG2AEHnlLXqj",
-      "duration_ms": 130588
-    },
-    {
-      "played_at": "2026-07-21T19:59:46.392Z",
-      "name": "El Replay",
-      "artists": [
-        "Joey V Mendez"
-      ],
-      "album": "El Replay",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c0c5d801f8c36413bea58094",
-      "uri": "spotify:track:2ZoXNmIe9xQPAJMh5UNtaP",
-      "duration_ms": 170400
-    },
-    {
-      "played_at": "2026-07-21T20:04:23.121Z",
-      "name": "Kiss Me Now",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "Kiss Me Now",
-      "image": "https://i.scdn.co/image/ab67616d0000b27352a7a9543acdb0aadc61f08a",
-      "uri": "spotify:track:40KgVtH6ANki7AN2Sj1rZD",
-      "duration_ms": 256268
-    },
-    {
-      "played_at": "2026-07-21T20:11:49.503Z",
-      "name": "雨蝶 - R&B微醺版",
-      "artists": [
-        "微醺卡带"
-      ],
-      "album": "雨蝶 (R&B微醺版)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27381bfa5296306a950e8b64aa0",
-      "uri": "spotify:track:4BdMTfgOY7zGwIGCqJpEnm",
-      "duration_ms": 234984
-    },
-    {
-      "played_at": "2026-07-21T22:01:10.027Z",
-      "name": "WHO DO U LUV",
-      "artists": [
-        "Avenoir"
-      ],
-      "album": "WHO DO U LUV",
-      "image": "https://i.scdn.co/image/ab67616d0000b27373dc757337bcdd30b76723c5",
-      "uri": "spotify:track:74KASQI7XvyWdsNyQcJuv9",
-      "duration_ms": 248760
-    },
-    {
-      "played_at": "2026-07-22T14:44:10.398Z",
-      "name": "Supernatural",
-      "artists": [
-        "NewJeans"
-      ],
-      "album": "Supernatural",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737e1eeb0d7cc374a168369c80",
-      "uri": "spotify:track:5ocSQW5sIUIOFojwXEz9Ki",
-      "duration_ms": 191000
-    },
-    {
-      "played_at": "2026-07-23T00:47:43.972Z",
-      "name": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
-      "artists": [
-        "K.Flay",
-        "Pierce The Veil"
-      ],
-      "album": "Irish Goodbye (feat. Vic Fuentes of Pierce The Veil)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27339631d9516ed0545f178c549",
-      "uri": "spotify:track:0GmaPoek8NaN0osVoz0DBG",
-      "duration_ms": 182706
-    },
-    {
-      "played_at": "2026-07-23T12:53:15.686Z",
-      "name": "Descifrar",
-      "artists": [
-        "maye"
-      ],
-      "album": "Descifrar",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730cb8633454fc50d91d3cf232",
-      "uri": "spotify:track:431vrxogdCt65ZSWfUrP1G",
-      "duration_ms": 178700
-    },
-    {
-      "played_at": "2026-07-23T12:57:55.877Z",
-      "name": "All My Heart",
-      "artists": [
-        "Sleeping With Sirens"
-      ],
-      "album": "Let's Cheers To This",
-      "image": "https://i.scdn.co/image/ab67616d0000b273800934f8144df91dae16b6e4",
-      "uri": "spotify:track:5ANZkftsPAO0yhynm9jwlU",
-      "duration_ms": 279293
-    },
-    {
-      "played_at": "2026-07-23T13:02:18.534Z",
-      "name": "흩어진나날들",
-      "artists": [
-        "강수지"
-      ],
-      "album": "강수지2집",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336baac318c4aac27ed3a54ea",
-      "uri": "spotify:track:3IuA2jGGOgZCGwQBiLhRuP",
-      "duration_ms": 262126
-    },
-    {
-      "played_at": "2026-07-23T13:13:33.015Z",
-      "name": "All That Matters",
-      "artists": [
-        "Justin Bieber"
-      ],
-      "album": "Journals",
-      "image": "https://i.scdn.co/image/ab67616d0000b27358ae8fddecbd2630005409c9",
-      "uri": "spotify:track:6CLVh9sekZ1p2G8Tfhhj8h",
-      "duration_ms": 191173
-    },
-    {
-      "played_at": "2026-07-23T13:17:46.896Z",
-      "name": "Could've Been (feat. Bryson Tiller)",
-      "artists": [
-        "H.E.R.",
-        "Bryson Tiller"
-      ],
-      "album": "I Used To Know Her",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a37d773f1a975bffb51f42fe",
-      "uri": "spotify:track:6oEVnWKgPqIEPc53OYDNqG",
-      "duration_ms": 252750
-    },
-    {
-      "played_at": "2026-07-23T13:23:32.342Z",
-      "name": "How Many Drinks?",
-      "artists": [
-        "Miguel"
-      ],
-      "album": "Kaleidoscope Dream",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fc67af03f71d54b3519a6dd5",
-      "uri": "spotify:track:6Q8nmDj0JIu0uxhugcIpBw",
-      "duration_ms": 273066
-    },
-    {
-      "played_at": "2026-07-23T13:27:48.977Z",
-      "name": "Kiss Me Now",
-      "artists": [
-        "Pierce The Veil"
-      ],
-      "album": "The Jaws Of Life (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736148fac84d9ea47184729763",
-      "uri": "spotify:track:6yT9iNKt8fQoYpQkbWc7YR",
-      "duration_ms": 256268
-    },
     {
       "played_at": "2026-07-23T13:33:43.459Z",
       "name": "Decode",
@@ -22542,6 +22276,270 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
       "uri": "spotify:track:41P6Tnd8KIHqON0QIydx6a",
       "duration_ms": 177533
+    },
+    {
+      "played_at": "2026-11-18T21:49:54.094Z",
+      "name": "the perfect pair",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Beatopia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+      "uri": "spotify:track:41P6Tnd8KIHqON0QIydx6a",
+      "duration_ms": 177533
+    },
+    {
+      "played_at": "2026-11-18T22:01:13.667Z",
+      "name": "You're All I Want",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "You're All I Want",
+      "image": "https://i.scdn.co/image/ab67616d0000b273963454e08e5e9def7e8cd204",
+      "uri": "spotify:track:2cTvZSCqzjkTMkIypLxUFH",
+      "duration_ms": 264453
+    },
+    {
+      "played_at": "2026-11-18T22:06:51.930Z",
+      "name": "Love You Anyway",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Submarine",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831",
+      "uri": "spotify:track:3vxvz0JoRDvnx2jG9oPljA",
+      "duration_ms": 237133
+    },
+    {
+      "played_at": "2026-11-18T22:10:18.631Z",
+      "name": "Heavy Heads",
+      "artists": [
+        "Orca"
+      ],
+      "album": "Heavy Heads",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e2b3ff2e0b0b8aa122b12410",
+      "uri": "spotify:track:5dNDBm3dVxo2Zemw9SC1TR",
+      "duration_ms": 211764
+    },
+    {
+      "played_at": "2026-11-18T22:15:51.382Z",
+      "name": "Not the Only One",
+      "artists": [
+        "Not For Radio"
+      ],
+      "album": "Melt",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b031f864e75e48cf3ee1c949",
+      "uri": "spotify:track:17AnW24hC6ZU6P8VQwElH9",
+      "duration_ms": 226553
+    },
+    {
+      "played_at": "2026-11-18T22:21:35.088Z",
+      "name": "Sugar! Honey! Love!",
+      "artists": [
+        "Kali Uchis"
+      ],
+      "album": "Sincerely,",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a7493f1985f820a9add223d2",
+      "uri": "spotify:track:0iIut6VJ8lIT5di5ejg78O",
+      "duration_ms": 184871
+    },
+    {
+      "played_at": "2026-11-18T22:25:57.189Z",
+      "name": "Hotline Bling",
+      "artists": [
+        "Drake"
+      ],
+      "album": "Views",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+      "uri": "spotify:track:0wwPcA6wtMf6HUMpIRdeP7",
+      "duration_ms": 267066
+    },
+    {
+      "played_at": "2026-11-18T22:30:31.687Z",
+      "name": "Y QUE TAL",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "Y QUE TAL",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f8757ba8312efb078476f8b",
+      "uri": "spotify:track:6oCNa6cDfknGLRotLSxlU5",
+      "duration_ms": 187898
+    },
+    {
+      "played_at": "2026-11-18T22:36:27.607Z",
+      "name": "Sediento",
+      "artists": [
+        "Joey V Mendez"
+      ],
+      "album": "Sediento",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dc95f8c7fc0b29e7635911e8",
+      "uri": "spotify:track:4z9WdW1u50o8mxcXsV0lKM",
+      "duration_ms": 176969
+    },
+    {
+      "played_at": "2026-11-18T22:40:55.143Z",
+      "name": "Ray'a",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "Ray'a",
+      "image": "https://i.scdn.co/image/ab67616d0000b27338725e9102ed17ea357f0202",
+      "uri": "spotify:track:0gSwBFfNxzCEmswl2iluW1",
+      "duration_ms": 246110
+    },
+    {
+      "played_at": "2026-11-18T22:44:38.235Z",
+      "name": "Boushret Kheir",
+      "artists": [
+        "Hussain Aljassmi"
+      ],
+      "album": "Boushret Kheir",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6cfb769954b7e0002441561",
+      "uri": "spotify:track:0OehILYtgc6zCEsUfHBMDH",
+      "duration_ms": 228076
+    },
+    {
+      "played_at": "2026-11-18T22:48:49.347Z",
+      "name": "ليه بنخبي و مش بنقول",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي",
+      "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+      "uri": "spotify:track:7ADt67nRewsfODDmCuhtQl",
+      "duration_ms": 189320
+    },
+    {
+      "played_at": "2026-11-18T22:52:36.791Z",
+      "name": "خليك معايا",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "الليلادي",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373b72d2ce3d19fa428595c2c",
+      "uri": "spotify:track:4xjuBQBnXifS3554AAVtop",
+      "duration_ms": 232411
+    },
+    {
+      "played_at": "2026-11-18T22:54:57.085Z",
+      "name": "ماتيجي اعدي عليكي",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي",
+      "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+      "uri": "spotify:track:5ks7fVLJY4QRlAALIqJfMR",
+      "duration_ms": 145454
+    },
+    {
+      "played_at": "2026-11-18T23:15:09.795Z",
+      "name": "الليلادي",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "الليلادي",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373b72d2ce3d19fa428595c2c",
+      "uri": "spotify:track:2gb49TkAX2nDgFDIZ3y3BW",
+      "duration_ms": 176640
+    },
+    {
+      "played_at": "2026-11-18T23:18:37.369Z",
+      "name": "Helwa Ya Baladi",
+      "artists": [
+        "Dalida"
+      ],
+      "album": "D'ici et d'ailleurs - Le meilleur de Dalida à travers le monde",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733e8a87ab81a8b68b023af122",
+      "uri": "spotify:track:0Kb5ixSU4OYSm5R0zXr0Xg",
+      "duration_ms": 212653
+    },
+    {
+      "played_at": "2026-11-18T23:23:11.724Z",
+      "name": "3la Bali",
+      "artists": [
+        "Sherine"
+      ],
+      "album": "Lazem A3eesh",
+      "image": "https://i.scdn.co/image/ab67616d0000b273815bc0d0382f154678eaa77f",
+      "uri": "spotify:track:05nDuLXu5ejNOM05LNbS8a",
+      "duration_ms": 279457
+    },
+    {
+      "played_at": "2026-11-18T23:27:26.054Z",
+      "name": "Al Hob Rajaei - From the Original TV Series Kabel Lel Kaser",
+      "artists": [
+        "Marwan Khoury"
+      ],
+      "album": "Al Hob Rajaei (From the Original TV Series Kabel Lel Kaser)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f2c0e37b968c36dec72d9865",
+      "uri": "spotify:track:1TmC5ECbCbD1bCDNr3zngZ",
+      "duration_ms": 235081
+    },
+    {
+      "played_at": "2026-11-18T23:31:45.275Z",
+      "name": "قصاد عينى",
+      "artists": [
+        "Amr Diab"
+      ],
+      "album": "ليلى نهارى",
+      "image": "https://i.scdn.co/image/ab67616d0000b273636b9c1f05f0a37e1baa4628",
+      "uri": "spotify:track:3bISYorQwMHFlDaAhNyWd8",
+      "duration_ms": 264228
+    },
+    {
+      "played_at": "2026-11-18T23:36:59.327Z",
+      "name": "Art of War",
+      "artists": [
+        "Avenoir"
+      ],
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a82c46b1b778f670609b88e2",
+      "uri": "spotify:track:1W5Du9CclU9myih1pu1eA5",
+      "duration_ms": 126973
+    },
+    {
+      "played_at": "2026-11-18T23:39:34.928Z",
+      "name": "All About Our Love",
+      "artists": [
+        "Sade"
+      ],
+      "album": "Lovers Rock",
+      "image": "https://i.scdn.co/image/ab67616d0000b27320fc6951e4d293707de2434c",
+      "uri": "spotify:track:0TZOdKFWNYfnwewAP8R4D8",
+      "duration_ms": 160626
+    },
+    {
+      "played_at": "2026-11-18T23:43:45.930Z",
+      "name": "seasons",
+      "artists": [
+        "wave to earth"
+      ],
+      "album": "summer flows 0.02",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b975ed7ccd57f3a00d570cf",
+      "uri": "spotify:track:0aVd7QiY8BstysHb62c5Fi",
+      "duration_ms": 256000
+    },
+    {
+      "played_at": "2026-11-18T23:46:40.933Z",
+      "name": "It's Just Us",
+      "artists": [
+        "Kali Uchis"
+      ],
+      "album": "Sincerely,",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a7493f1985f820a9add223d2",
+      "uri": "spotify:track:78oIDxTChs1EJrQwUc931r",
+      "duration_ms": 180015
+    },
+    {
+      "played_at": "2026-11-18T23:51:29.732Z",
+      "name": "Billie Jean",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Thriller",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+      "uri": "spotify:track:7J1uxwnxfQLu4APicE5Rnj",
+      "duration_ms": 293802
     }
   ]
 }
