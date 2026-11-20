@@ -1,118 +1,6 @@
 {
-  "updated_at": "2026-11-19T20:07:02.138Z",
+  "updated_at": "2026-11-20T02:03:17.789Z",
   "plays": [
-    {
-      "played_at": "2026-07-23T13:38:12.474Z",
-      "name": "heaven and hell",
-      "artists": [
-        "wave to earth"
-      ],
-      "album": "heaven and hell",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e86a62c80afd3d639ab2893c",
-      "uri": "spotify:track:5FZoGATKGIzrC7seHkZmfP",
-      "duration_ms": 268388
-    },
-    {
-      "played_at": "2026-07-23T13:41:18.677Z",
-      "name": "Pressure",
-      "artists": [
-        "Paramore"
-      ],
-      "album": "All We Know Is Falling",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735cab62839794c2cc3d6a135b",
-      "uri": "spotify:track:7mG2RbhyzGsjpQOz568d39",
-      "duration_ms": 185733
-    },
-    {
-      "played_at": "2026-07-23T14:49:46.340Z",
-      "name": "coming to you",
-      "artists": [
-        "BRAYTON"
-      ],
-      "album": "coming to you",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d7009d8e4d1b438469983126",
-      "uri": "spotify:track:7zOOfArWxkeqZMvnCKOKtC",
-      "duration_ms": 199016
-    },
-    {
-      "played_at": "2026-07-23T15:21:18.625Z",
-      "name": "ULTIMA VEZ",
-      "artists": [
-        "Becky G"
-      ],
-      "album": "ENCUENTROS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273dbfbee12776b67e143bf8bcf",
-      "uri": "spotify:track:6v1lkugKv62O74e8eABtQu",
-      "duration_ms": 194706
-    },
-    {
-      "played_at": "2026-07-23T15:24:59.691Z",
-      "name": "El Amor Se Ve",
-      "artists": [
-        "Rawayana",
-        "Servando & Florentino"
-      ],
-      "album": "El Amor Se Ve",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734045b5c51d4f48f9bfd3e756",
-      "uri": "spotify:track:2NFirAJZQwIO71ViP3fB9M",
-      "duration_ms": 220786
-    },
-    {
-      "played_at": "2026-07-23T15:26:30.389Z",
-      "name": "ALAKRAN",
-      "artists": [
-        "Feid"
-      ],
-      "album": "FERXXOCALIPSIS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242",
-      "uri": "spotify:track:2Yc3MHpZ9R5UCIz78E20AQ",
-      "duration_ms": 90613
-    },
-    {
-      "played_at": "2026-07-23T15:30:05.244Z",
-      "name": "TUS OJOS",
-      "artists": [
-        "Beto Cardenas"
-      ],
-      "album": "TUS OJOS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738ea08ca6266bdc4e994194fe",
-      "uri": "spotify:track:66iwTS1oZxQm31fBNMBUcb",
-      "duration_ms": 214333
-    },
-    {
-      "played_at": "2026-07-23T15:34:19.767Z",
-      "name": "50 PALOS",
-      "artists": [
-        "Feid"
-      ],
-      "album": "FERXXOCALIPSIS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242",
-      "uri": "spotify:track:2FhmPPAersOD9YcQ9v8upy",
-      "duration_ms": 167240
-    },
-    {
-      "played_at": "2026-07-23T15:41:13.029Z",
-      "name": "Fatal Trouble",
-      "artists": [
-        "ENHYPEN"
-      ],
-      "album": "DARK MOON SPECIAL ALBUM <MEMORABILIA>",
-      "image": "https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45",
-      "uri": "spotify:track:6i1PYoUEMHqxAsAUKHkqpe",
-      "duration_ms": 170197
-    },
-    {
-      "played_at": "2026-07-23T15:47:22.901Z",
-      "name": "Un Amor de los 90's",
-      "artists": [
-        "Jasiel Nuñez",
-        "Rawayana"
-      ],
-      "album": "Un Amor de los 90's",
-      "image": "https://i.scdn.co/image/ab67616d0000b27388be64b27fcfde64b5c780a0",
-      "uri": "spotify:track:0SWaRG0fH95VNsMLzLm6sy",
-      "duration_ms": 179886
-    },
     {
       "played_at": "2026-07-23T15:50:26.403Z",
       "name": "Binikini",
@@ -22544,6 +22432,119 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a959d221820e650bee1ca487",
       "uri": "spotify:track:1BJJbSX6muJVF2AK7uH1x4",
       "duration_ms": 177598
+    },
+    {
+      "played_at": "2026-11-19T20:08:41.274Z",
+      "name": "Back To Me",
+      "artists": [
+        "Naïka"
+      ],
+      "album": "Back To Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273991bceba86c322df55db2d0f",
+      "uri": "spotify:track:5uvjVYv3FKBNnGkR8mnHws",
+      "duration_ms": 185680
+    },
+    {
+      "played_at": "2026-11-19T20:09:13.484Z",
+      "name": "ONE TRACK MIND",
+      "artists": [
+        "Naïka"
+      ],
+      "album": "ECLESIA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c9e26bd0a6282711132bb27e",
+      "uri": "spotify:track:34BzcgDQc4mnP8A2umJiu9",
+      "duration_ms": 200640
+    },
+    {
+      "played_at": "2026-11-19T20:28:58.723Z",
+      "name": "All i need",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "If Not Winter",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8b32380575d518f0639a123",
+      "uri": "spotify:track:2mDZXy6jrGyyHeEHTd7sEm",
+      "duration_ms": 110693
+    },
+    {
+      "played_at": "2026-11-19T20:46:07.336Z",
+      "name": "the perfect pair",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Beatopia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+      "uri": "spotify:track:41P6Tnd8KIHqON0QIydx6a",
+      "duration_ms": 177533
+    },
+    {
+      "played_at": "2026-11-19T20:48:53.234Z",
+      "name": "my mind is a mountain",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "private music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+      "uri": "spotify:track:0DMU0QiSypeYxL6BYdxjcy",
+      "duration_ms": 170941
+    },
+    {
+      "played_at": "2026-11-19T20:51:50.232Z",
+      "name": "cut hands",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "private music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+      "uri": "spotify:track:4oONLfYN4mYYWnnQNW0tap",
+      "duration_ms": 181981
+    },
+    {
+      "played_at": "2026-11-19T20:55:12.030Z",
+      "name": "Haneish",
+      "artists": [
+        "TUL8TE",
+        "Elyanna"
+      ],
+      "album": "Sadeek El Bernameg",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a18f4a190692590da7fdc898",
+      "uri": "spotify:track:1QSCmmgw4FNQzaOFB9vaJI",
+      "duration_ms": 206804
+    },
+    {
+      "played_at": "2026-11-19T20:57:47.081Z",
+      "name": "NASY",
+      "artists": [
+        "Soulphonic",
+        "TUL8TE"
+      ],
+      "album": "NASY",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c847f2306f3d6ca5f2f641b5",
+      "uri": "spotify:track:1AV6LJgWJuwc1l3hucU37o",
+      "duration_ms": 160067
+    },
+    {
+      "played_at": "2026-11-19T21:01:49.729Z",
+      "name": "BAHIBEK / بحبك",
+      "artists": [
+        "Haifa Wehbe",
+        "Saint Levant"
+      ],
+      "album": "BAHIBEK / بحبك",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ae2c63e10fbea3b6dc20a186",
+      "uri": "spotify:track:19I2Yx5JSF5qdwQw39GIbk",
+      "duration_ms": 247659
+    },
+    {
+      "played_at": "2026-11-19T21:51:08.325Z",
+      "name": "Wala Ash Wala Kan",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "Sadeek El Bernameg",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a18f4a190692590da7fdc898",
+      "uri": "spotify:track:0Bcrb7ZOOxkVgcZEtPWxXy",
+      "duration_ms": 184354
     }
   ]
 }
