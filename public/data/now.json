@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-20T02:03:17.878Z",
+  "updated_at": "2026-11-20T10:59:48.955Z",
   "is_playing": false,
   "track": {
-    "name": "Wala Ash Wala Kan",
+    "name": "Romantic Season",
     "artists": [
-      "TUL8TE"
+      "LAREINE"
     ],
-    "album": "Sadeek El Bernameg",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a18f4a190692590da7fdc898",
-    "uri": "spotify:track:0Bcrb7ZOOxkVgcZEtPWxXy"
+    "album": "Winter Romantic",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735f94208beab6ffce4d49fc0f",
+    "uri": "spotify:track:1qBJGFqkXDIIBWAdr6dV1o"
   },
-  "played_at": "2026-11-19T21:51:08.325Z"
+  "played_at": "2026-11-20T08:25:49.455Z"
 }

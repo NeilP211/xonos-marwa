@@ -1,22 +1,10 @@
 {
-  "generated_at": "2026-11-20T02:03:17.668Z",
+  "generated_at": "2026-11-20T10:59:48.695Z",
   "ranges": {
     "short_term": {
       "tracks": [
         {
           "rank": 1,
-          "name": "Padmé",
-          "artists": [
-            "Goldy"
-          ],
-          "album": "Padmé",
-          "image": "https://i.scdn.co/image/ab67616d0000b273bef0d31b5501373ec48be33e",
-          "uri": "spotify:track:2UZuLJWDLi39m8jdONyhCk",
-          "url": "https://open.spotify.com/track/2UZuLJWDLi39m8jdONyhCk",
-          "duration_ms": 121109
-        },
-        {
-          "rank": 2,
           "name": "Falling In Love",
           "artists": [
             "Cigarettes After Sex"
@@ -28,7 +16,7 @@
           "duration_ms": 245840
         },
         {
-          "rank": 3,
+          "rank": 2,
           "name": "Ain't Nobody Else Like You",
           "artists": [
             "Cass Elliot"
@@ -40,7 +28,7 @@
           "duration_ms": 144160
         },
         {
-          "rank": 4,
+          "rank": 3,
           "name": "MAH BOI",
           "artists": [
             "DDG",
@@ -51,6 +39,18 @@
           "uri": "spotify:track:1KVWr5ayE3vJgEXIwfIj1k",
           "url": "https://open.spotify.com/track/1KVWr5ayE3vJgEXIwfIj1k",
           "duration_ms": 129110
+        },
+        {
+          "rank": 4,
+          "name": "Padmé",
+          "artists": [
+            "Goldy"
+          ],
+          "album": "Padmé",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bef0d31b5501373ec48be33e",
+          "uri": "spotify:track:2UZuLJWDLi39m8jdONyhCk",
+          "url": "https://open.spotify.com/track/2UZuLJWDLi39m8jdONyhCk",
+          "duration_ms": 121109
         },
         {
           "rank": 5,
@@ -66,54 +66,18 @@
         },
         {
           "rank": 6,
-          "name": "El Hob Gany",
+          "name": "VOGUE",
           "artists": [
-            "TUL8TE"
+            "Lil Tecca"
           ],
-          "album": "El Hob Gany",
-          "image": "https://i.scdn.co/image/ab67616d0000b27359a9b963a89b853fa98a4c06",
-          "uri": "spotify:track:67yheG887FPQXlPRNmoXqz",
-          "url": "https://open.spotify.com/track/67yheG887FPQXlPRNmoXqz",
-          "duration_ms": 241212
+          "album": "PLAN A",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+          "uri": "spotify:track:3xXDLFPydivY2cb5AUgWOv",
+          "url": "https://open.spotify.com/track/3xXDLFPydivY2cb5AUgWOv",
+          "duration_ms": 153014
         },
         {
           "rank": 7,
-          "name": "Death Of An Executioner",
-          "artists": [
-            "Pierce The Veil"
-          ],
-          "album": "The Jaws Of Life",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
-          "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
-          "url": "https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp",
-          "duration_ms": 267800
-        },
-        {
-          "rank": 8,
-          "name": "Tamally Maak",
-          "artists": [
-            "Amr Diab"
-          ],
-          "album": "Tamally Maak",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
-          "uri": "spotify:track:6TYFcqqQVQPb3YsgfRhvqs",
-          "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
-          "duration_ms": 269232
-        },
-        {
-          "rank": 9,
-          "name": "Pourriture noble",
-          "artists": [
-            "Kaya"
-          ],
-          "album": "GLITTER",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b46c2deac5ff3ddb5a71788d",
-          "uri": "spotify:track:6mBcNhFJjc6c17C7QiLKgz",
-          "url": "https://open.spotify.com/track/6mBcNhFJjc6c17C7QiLKgz",
-          "duration_ms": 292031
-        },
-        {
-          "rank": 10,
           "name": "I CAN’T LET GO",
           "artists": [
             "Lil Tecca",
@@ -126,19 +90,44 @@
           "duration_ms": 150204
         },
         {
-          "rank": 11,
-          "name": "VOGUE",
+          "rank": 8,
+          "name": "El Hob Gany",
           "artists": [
-            "Lil Tecca"
+            "TUL8TE"
           ],
-          "album": "PLAN A",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
-          "uri": "spotify:track:3xXDLFPydivY2cb5AUgWOv",
-          "url": "https://open.spotify.com/track/3xXDLFPydivY2cb5AUgWOv",
-          "duration_ms": 153014
+          "album": "El Hob Gany",
+          "image": "https://i.scdn.co/image/ab67616d0000b27359a9b963a89b853fa98a4c06",
+          "uri": "spotify:track:67yheG887FPQXlPRNmoXqz",
+          "url": "https://open.spotify.com/track/67yheG887FPQXlPRNmoXqz",
+          "duration_ms": 241212
         },
         {
-          "rank": 12,
+          "rank": 9,
+          "name": "Haneish",
+          "artists": [
+            "TUL8TE",
+            "Elyanna"
+          ],
+          "album": "Sadeek El Bernameg",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a18f4a190692590da7fdc898",
+          "uri": "spotify:track:1QSCmmgw4FNQzaOFB9vaJI",
+          "url": "https://open.spotify.com/track/1QSCmmgw4FNQzaOFB9vaJI",
+          "duration_ms": 206804
+        },
+        {
+          "rank": 10,
+          "name": "Death Of An Executioner",
+          "artists": [
+            "Pierce The Veil"
+          ],
+          "album": "The Jaws Of Life",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a",
+          "uri": "spotify:track:3x8NQJlgdzI5aWMVkB3BIp",
+          "url": "https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp",
+          "duration_ms": 267800
+        },
+        {
+          "rank": 11,
           "name": "Aslan",
           "artists": [
             "Shinichi Osawa Works"
@@ -150,7 +139,31 @@
           "duration_ms": 224840
         },
         {
+          "rank": 12,
+          "name": "Tamally Maak",
+          "artists": [
+            "Amr Diab"
+          ],
+          "album": "Tamally Maak",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+          "uri": "spotify:track:6TYFcqqQVQPb3YsgfRhvqs",
+          "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
+          "duration_ms": 269232
+        },
+        {
           "rank": 13,
+          "name": "Pourriture noble",
+          "artists": [
+            "Kaya"
+          ],
+          "album": "GLITTER",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b46c2deac5ff3ddb5a71788d",
+          "uri": "spotify:track:6mBcNhFJjc6c17C7QiLKgz",
+          "url": "https://open.spotify.com/track/6mBcNhFJjc6c17C7QiLKgz",
+          "duration_ms": 292031
+        },
+        {
+          "rank": 14,
           "name": "Mizerable",
           "artists": [
             "GACKT"
@@ -162,29 +175,16 @@
           "duration_ms": 296266
         },
         {
-          "rank": 14,
-          "name": "Deseándote",
-          "artists": [
-            "Frankie Ruiz"
-          ],
-          "album": "Frankie Ruiz La Leyenda",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
-          "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
-          "url": "https://open.spotify.com/track/0FsXZAMf6NACvNJ2LI6ySp",
-          "duration_ms": 281333
-        },
-        {
           "rank": 15,
-          "name": "KALAMANTINA / كلمنتينا",
+          "name": "LAYALINA",
           "artists": [
-            "Saint Levant",
-            "Marwan Moussa"
+            "TUL8TE"
           ],
-          "album": "Love Letters / رسائل حب",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a0fce4a818e7d680d6ab5c40",
-          "uri": "spotify:track:3vZ3ngEbunTiK4fOVKyzYD",
-          "url": "https://open.spotify.com/track/3vZ3ngEbunTiK4fOVKyzYD",
-          "duration_ms": 206872
+          "album": "TESH SHABAB",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730b35cbc46da738189984a5bf",
+          "uri": "spotify:track:3aoPbCVZPCKbiCDIBniyCr",
+          "url": "https://open.spotify.com/track/3aoPbCVZPCKbiCDIBniyCr",
+          "duration_ms": 218833
         },
         {
           "rank": 16,
@@ -200,30 +200,6 @@
         },
         {
           "rank": 17,
-          "name": "Heseeny",
-          "artists": [
-            "TUL8TE"
-          ],
-          "album": "Narein",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732e50096092c24bd9acb0749d",
-          "uri": "spotify:track:6AOmVuYPC8WJN0hzZ1ODIj",
-          "url": "https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj",
-          "duration_ms": 213838
-        },
-        {
-          "rank": 18,
-          "name": "Nineteen Ninety Four",
-          "artists": [
-            "✝✝✝ (Crosses)"
-          ],
-          "album": "††† (Crosses)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733eeef35bcdc747ca4506a473",
-          "uri": "spotify:track:4kXclqTkWCdeMzdycUxxxc",
-          "url": "https://open.spotify.com/track/4kXclqTkWCdeMzdycUxxxc",
-          "duration_ms": 257071
-        },
-        {
-          "rank": 19,
           "name": "Wala Ash Wala Kan",
           "artists": [
             "TUL8TE"
@@ -235,44 +211,7 @@
           "duration_ms": 184354
         },
         {
-          "rank": 20,
-          "name": "No Pole",
-          "artists": [
-            "Don Toliver"
-          ],
-          "album": "Love Sick (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273307323fa550564b0201b1d76",
-          "uri": "spotify:track:0eaVIYo2zeOaGJeqZ5TwYz",
-          "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz",
-          "duration_ms": 187613
-        },
-        {
-          "rank": 21,
-          "name": "MASLA7JIYA / مصلحجية",
-          "artists": [
-            "Saint Levant"
-          ],
-          "album": "AFANDI / افندي",
-          "image": "https://i.scdn.co/image/ab67616d0000b27349f4ace3aeeccdb73a87dffa",
-          "uri": "spotify:track:3Bd0B9sX86rph6EAqZreNw",
-          "url": "https://open.spotify.com/track/3Bd0B9sX86rph6EAqZreNw",
-          "duration_ms": 155000
-        },
-        {
-          "rank": 22,
-          "name": "Red Swan",
-          "artists": [
-            "YOSHIKI",
-            "HYDE"
-          ],
-          "album": "Red Swan",
-          "image": "https://i.scdn.co/image/ab67616d0000b27335260c6248aecd1bccb4ead9",
-          "uri": "spotify:track:4GNMgGyZcgnE4nEdYFWJGn",
-          "url": "https://open.spotify.com/track/4GNMgGyZcgnE4nEdYFWJGn",
-          "duration_ms": 263720
-        },
-        {
-          "rank": 23,
+          "rank": 18,
           "name": "What More Can I Say",
           "artists": [
             "The Notations"
@@ -284,31 +223,19 @@
           "duration_ms": 200506
         },
         {
-          "rank": 24,
-          "name": "LAYALINA",
+          "rank": 19,
+          "name": "Deseándote",
           "artists": [
-            "TUL8TE"
+            "Frankie Ruiz"
           ],
-          "album": "TESH SHABAB",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730b35cbc46da738189984a5bf",
-          "uri": "spotify:track:3aoPbCVZPCKbiCDIBniyCr",
-          "url": "https://open.spotify.com/track/3aoPbCVZPCKbiCDIBniyCr",
-          "duration_ms": 218833
+          "album": "Frankie Ruiz La Leyenda",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d",
+          "uri": "spotify:track:0FsXZAMf6NACvNJ2LI6ySp",
+          "url": "https://open.spotify.com/track/0FsXZAMf6NACvNJ2LI6ySp",
+          "duration_ms": 281333
         },
         {
-          "rank": 25,
-          "name": "Oyasumi.",
-          "artists": [
-            "gulu gulu"
-          ],
-          "album": "Gulu Gulu Ryuushutsu Ongen Shuu (Living Dead Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273cd357d35696d27096cbfef84",
-          "uri": "spotify:track:0I7SycHSHC43o4ceBeGYpN",
-          "url": "https://open.spotify.com/track/0I7SycHSHC43o4ceBeGYpN",
-          "duration_ms": 194720
-        },
-        {
-          "rank": 26,
+          "rank": 20,
           "name": "You Know That I Want To",
           "artists": [
             "George Michael"
@@ -320,7 +247,7 @@
           "duration_ms": 276418
         },
         {
-          "rank": 27,
+          "rank": 21,
           "name": "Sure Thing",
           "artists": [
             "Montire",
@@ -333,7 +260,20 @@
           "duration_ms": 63204
         },
         {
-          "rank": 28,
+          "rank": 22,
+          "name": "KALAMANTINA / كلمنتينا",
+          "artists": [
+            "Saint Levant",
+            "Marwan Moussa"
+          ],
+          "album": "Love Letters / رسائل حب",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a0fce4a818e7d680d6ab5c40",
+          "uri": "spotify:track:3vZ3ngEbunTiK4fOVKyzYD",
+          "url": "https://open.spotify.com/track/3vZ3ngEbunTiK4fOVKyzYD",
+          "duration_ms": 206872
+        },
+        {
+          "rank": 23,
           "name": "Around Me",
           "artists": [
             "Noodah05"
@@ -345,32 +285,141 @@
           "duration_ms": 153835
         },
         {
-          "rank": 29,
-          "name": "bigassbearman",
+          "rank": 24,
+          "name": "Heseeny",
           "artists": [
-            "ericdoa"
+            "TUL8TE"
           ],
-          "album": "DOA",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731c615ec4f5dd17806a802162",
-          "uri": "spotify:track:6L8C8fJ9ajR01ODnO5LHsB",
-          "url": "https://open.spotify.com/track/6L8C8fJ9ajR01ODnO5LHsB",
-          "duration_ms": 149468
+          "album": "Narein",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732e50096092c24bd9acb0749d",
+          "uri": "spotify:track:6AOmVuYPC8WJN0hzZ1ODIj",
+          "url": "https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj",
+          "duration_ms": 213838
+        },
+        {
+          "rank": 25,
+          "name": "Nineteen Ninety Four",
+          "artists": [
+            "✝✝✝ (Crosses)"
+          ],
+          "album": "††† (Crosses)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733eeef35bcdc747ca4506a473",
+          "uri": "spotify:track:4kXclqTkWCdeMzdycUxxxc",
+          "url": "https://open.spotify.com/track/4kXclqTkWCdeMzdycUxxxc",
+          "duration_ms": 257071
+        },
+        {
+          "rank": 26,
+          "name": "How to Pretend",
+          "artists": [
+            "Lucy Bedroque"
+          ],
+          "album": "Fête de la Vanille",
+          "image": "https://i.scdn.co/image/ab67616d0000b273367048530b1e018c30162d35",
+          "uri": "spotify:track:0H0eIjcXruQpntK0LuNa5v",
+          "url": "https://open.spotify.com/track/0H0eIjcXruQpntK0LuNa5v",
+          "duration_ms": 224086
+        },
+        {
+          "rank": 27,
+          "name": "No Pole",
+          "artists": [
+            "Don Toliver"
+          ],
+          "album": "Love Sick (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273307323fa550564b0201b1d76",
+          "uri": "spotify:track:0eaVIYo2zeOaGJeqZ5TwYz",
+          "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz",
+          "duration_ms": 187613
+        },
+        {
+          "rank": 28,
+          "name": "Tonight (Best You Ever Had) (feat. Ludacris)",
+          "artists": [
+            "John Legend",
+            "Ludacris"
+          ],
+          "album": "Think Like A Man - Music From & Inspired By The Film",
+          "image": "https://i.scdn.co/image/ab67616d0000b273515f30d295a72141006f5905",
+          "uri": "spotify:track:17zF2ISrDrQdaULA8cxReK",
+          "url": "https://open.spotify.com/track/17zF2ISrDrQdaULA8cxReK",
+          "duration_ms": 239453
+        },
+        {
+          "rank": 29,
+          "name": "BAD TIME",
+          "artists": [
+            "Lil Tecca"
+          ],
+          "album": "PLAN A",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+          "uri": "spotify:track:1D9XWqsoNWIfLEzjHcrgMx",
+          "url": "https://open.spotify.com/track/1D9XWqsoNWIfLEzjHcrgMx",
+          "duration_ms": 210803
         },
         {
           "rank": 30,
-          "name": "Haneish",
+          "name": "Metamorphose",
           "artists": [
-            "TUL8TE",
-            "Elyanna"
+            "LAREINE"
           ],
-          "album": "Sadeek El Bernameg",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a18f4a190692590da7fdc898",
-          "uri": "spotify:track:1QSCmmgw4FNQzaOFB9vaJI",
-          "url": "https://open.spotify.com/track/1QSCmmgw4FNQzaOFB9vaJI",
-          "duration_ms": 206804
+          "album": "LILLILLIE CHARLOTTE within MetamorphoseLIE CHARLOTTE",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731bf4be602ae37d924bba5f4c",
+          "uri": "spotify:track:1xXs1ge4evZ82rMVZGUrm6",
+          "url": "https://open.spotify.com/track/1xXs1ge4evZ82rMVZGUrm6",
+          "duration_ms": 346186
         },
         {
           "rank": 31,
+          "name": "MASLA7JIYA / مصلحجية",
+          "artists": [
+            "Saint Levant"
+          ],
+          "album": "AFANDI / افندي",
+          "image": "https://i.scdn.co/image/ab67616d0000b27349f4ace3aeeccdb73a87dffa",
+          "uri": "spotify:track:3Bd0B9sX86rph6EAqZreNw",
+          "url": "https://open.spotify.com/track/3Bd0B9sX86rph6EAqZreNw",
+          "duration_ms": 155000
+        },
+        {
+          "rank": 32,
+          "name": "Red Swan",
+          "artists": [
+            "YOSHIKI",
+            "HYDE"
+          ],
+          "album": "Red Swan",
+          "image": "https://i.scdn.co/image/ab67616d0000b27335260c6248aecd1bccb4ead9",
+          "uri": "spotify:track:4GNMgGyZcgnE4nEdYFWJGn",
+          "url": "https://open.spotify.com/track/4GNMgGyZcgnE4nEdYFWJGn",
+          "duration_ms": 263720
+        },
+        {
+          "rank": 33,
+          "name": "Him and Hym",
+          "artists": [
+            "Shinichi Osawa Works"
+          ],
+          "album": "BANANA FISH Original Soundtrack",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
+          "uri": "spotify:track:4wEoijvnHdqavxmSPkiXcv",
+          "url": "https://open.spotify.com/track/4wEoijvnHdqavxmSPkiXcv",
+          "duration_ms": 140200
+        },
+        {
+          "rank": 34,
+          "name": "Eiji",
+          "artists": [
+            "Shinichi Osawa Works"
+          ],
+          "album": "BANANA FISH Original Soundtrack",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
+          "uri": "spotify:track:7N2aXwJMrW54Lch4Urn3Ho",
+          "url": "https://open.spotify.com/track/7N2aXwJMrW54Lch4Urn3Ho",
+          "duration_ms": 201933
+        },
+        {
+          "rank": 35,
           "name": "kaleidoscope",
           "artists": [
             "Exit Dream"
@@ -382,7 +431,80 @@
           "duration_ms": 228400
         },
         {
-          "rank": 32,
+          "rank": 36,
+          "name": "Oyasumi.",
+          "artists": [
+            "gulu gulu"
+          ],
+          "album": "Gulu Gulu Ryuushutsu Ongen Shuu (Living Dead Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273cd357d35696d27096cbfef84",
+          "uri": "spotify:track:0I7SycHSHC43o4ceBeGYpN",
+          "url": "https://open.spotify.com/track/0I7SycHSHC43o4ceBeGYpN",
+          "duration_ms": 194720
+        },
+        {
+          "rank": 37,
+          "name": "FWU",
+          "artists": [
+            "Don Toliver",
+            "Mustard"
+          ],
+          "album": "FWU",
+          "image": "https://i.scdn.co/image/ab67616d0000b273867fbde5755d14967df3e7d5",
+          "uri": "spotify:track:1NpHJ96ljWvqdbjlyc9GtT",
+          "url": "https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT",
+          "duration_ms": 171000
+        },
+        {
+          "rank": 38,
+          "name": "NUMBER 2",
+          "artists": [
+            "Lil Tecca"
+          ],
+          "album": "PLAN A",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
+          "uri": "spotify:track:3p1coqZaHyGvFVLb7EmmeE",
+          "url": "https://open.spotify.com/track/3p1coqZaHyGvFVLb7EmmeE",
+          "duration_ms": 137904
+        },
+        {
+          "rank": 39,
+          "name": "the perfect pair",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Beatopia",
+          "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+          "uri": "spotify:track:41P6Tnd8KIHqON0QIydx6a",
+          "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a",
+          "duration_ms": 177533
+        },
+        {
+          "rank": 40,
+          "name": "خليك معايا",
+          "artists": [
+            "Amr Diab"
+          ],
+          "album": "الليلادي",
+          "image": "https://i.scdn.co/image/ab67616d0000b27373b72d2ce3d19fa428595c2c",
+          "uri": "spotify:track:4xjuBQBnXifS3554AAVtop",
+          "url": "https://open.spotify.com/track/4xjuBQBnXifS3554AAVtop",
+          "duration_ms": 232411
+        },
+        {
+          "rank": 41,
+          "name": "wish",
+          "artists": [
+            "Ailey Rain"
+          ],
+          "album": "wish",
+          "image": "https://i.scdn.co/image/ab67616d0000b27378c1ba700456ba2b41db23d5",
+          "uri": "spotify:track:0Tqls9lDjD3xV3RClpXsrd",
+          "url": "https://open.spotify.com/track/0Tqls9lDjD3xV3RClpXsrd",
+          "duration_ms": 168175
+        },
+        {
+          "rank": 42,
           "name": "Is It Really You?",
           "artists": [
             "Loathe"
@@ -394,7 +516,7 @@
           "duration_ms": 287627
         },
         {
-          "rank": 33,
+          "rank": 43,
           "name": "DIE TRYING",
           "artists": [
             "PARTYNEXTDOOR",
@@ -408,7 +530,7 @@
           "duration_ms": 195431
         },
         {
-          "rank": 34,
+          "rank": 44,
           "name": "Ray'a",
           "artists": [
             "Amr Diab"
@@ -420,44 +542,7 @@
           "duration_ms": 246110
         },
         {
-          "rank": 35,
-          "name": "Tonight (Best You Ever Had) (feat. Ludacris)",
-          "artists": [
-            "John Legend",
-            "Ludacris"
-          ],
-          "album": "Think Like A Man - Music From & Inspired By The Film",
-          "image": "https://i.scdn.co/image/ab67616d0000b273515f30d295a72141006f5905",
-          "uri": "spotify:track:17zF2ISrDrQdaULA8cxReK",
-          "url": "https://open.spotify.com/track/17zF2ISrDrQdaULA8cxReK",
-          "duration_ms": 239453
-        },
-        {
-          "rank": 36,
-          "name": "BAD TIME",
-          "artists": [
-            "Lil Tecca"
-          ],
-          "album": "PLAN A",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
-          "uri": "spotify:track:1D9XWqsoNWIfLEzjHcrgMx",
-          "url": "https://open.spotify.com/track/1D9XWqsoNWIfLEzjHcrgMx",
-          "duration_ms": 210803
-        },
-        {
-          "rank": 37,
-          "name": "Metamorphose",
-          "artists": [
-            "LAREINE"
-          ],
-          "album": "LILLILLIE CHARLOTTE within MetamorphoseLIE CHARLOTTE",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731bf4be602ae37d924bba5f4c",
-          "uri": "spotify:track:1xXs1ge4evZ82rMVZGUrm6",
-          "url": "https://open.spotify.com/track/1xXs1ge4evZ82rMVZGUrm6",
-          "duration_ms": 346186
-        },
-        {
-          "rank": 38,
+          "rank": 45,
           "name": "Tiramisu",
           "artists": [
             "Don Toliver"
@@ -469,7 +554,19 @@
           "duration_ms": 138947
         },
         {
-          "rank": 39,
+          "rank": 46,
+          "name": "Plein Soleil",
+          "artists": [
+            "Avenoir"
+          ],
+          "album": "Plein Soleil",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730ec8ba23870ec98ac63aa2ad",
+          "uri": "spotify:track:2jYoHERAJLmbPEzgEq3q81",
+          "url": "https://open.spotify.com/track/2jYoHERAJLmbPEzgEq3q81",
+          "duration_ms": 205746
+        },
+        {
+          "rank": 47,
           "name": "KISS ME GOOD-BYE",
           "artists": [
             "BUCK-TICK"
@@ -481,136 +578,40 @@
           "duration_ms": 376885
         },
         {
-          "rank": 40,
-          "name": "Him and Hym",
-          "artists": [
-            "Shinichi Osawa Works"
-          ],
-          "album": "BANANA FISH Original Soundtrack",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
-          "uri": "spotify:track:4wEoijvnHdqavxmSPkiXcv",
-          "url": "https://open.spotify.com/track/4wEoijvnHdqavxmSPkiXcv",
-          "duration_ms": 140200
-        },
-        {
-          "rank": 41,
-          "name": "Boushret Kheir",
-          "artists": [
-            "Hussain Aljassmi"
-          ],
-          "album": "Masri",
-          "image": "https://i.scdn.co/image/ab67616d0000b27349c6410f6e02636a581bdcc8",
-          "uri": "spotify:track:6DPqxlITNTjIMzcWHCUwCZ",
-          "url": "https://open.spotify.com/track/6DPqxlITNTjIMzcWHCUwCZ",
-          "duration_ms": 228076
-        },
-        {
-          "rank": 42,
-          "name": "Eiji",
-          "artists": [
-            "Shinichi Osawa Works"
-          ],
-          "album": "BANANA FISH Original Soundtrack",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a3fcc81db2950e9fb2ca5bc7",
-          "uri": "spotify:track:7N2aXwJMrW54Lch4Urn3Ho",
-          "url": "https://open.spotify.com/track/7N2aXwJMrW54Lch4Urn3Ho",
-          "duration_ms": 201933
-        },
-        {
-          "rank": 43,
-          "name": "蜉蝣‐かげろう‐",
-          "artists": [
-            "BUCK-TICK"
-          ],
-          "album": "蜉蝣‐かげろう‐",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f9294257000d4aec37cff5f6",
-          "uri": "spotify:track:0fZPrlaHenXWYZdW5OX4dZ",
-          "url": "https://open.spotify.com/track/0fZPrlaHenXWYZdW5OX4dZ",
-          "duration_ms": 293240
-        },
-        {
-          "rank": 44,
-          "name": "Marisol",
-          "artists": [
-            "Static Dress"
-          ],
-          "album": "Rouge Carpet Disaster",
-          "image": "https://i.scdn.co/image/ab67616d0000b27378f8b5df47c65e736dd3dcbd",
-          "uri": "spotify:track:0uWPUfo3Lymv9fuxgkm42j",
-          "url": "https://open.spotify.com/track/0uWPUfo3Lymv9fuxgkm42j",
-          "duration_ms": 292500
-        },
-        {
-          "rank": 45,
-          "name": "これを依存と呼ぶなら",
-          "artists": [
-            "MEJIBRAY"
-          ],
-          "album": "Slivers.exe",
-          "image": "https://i.scdn.co/image/ab67616d0000b273abf5c64f5c5a9a9bb204d5b9",
-          "uri": "spotify:track:1Oe45Ze9SwanHB2vL7gY9H",
-          "url": "https://open.spotify.com/track/1Oe45Ze9SwanHB2vL7gY9H",
-          "duration_ms": 340346
-        },
-        {
-          "rank": 46,
-          "name": "اخدني معك",
-          "artists": [
-            "Fadel Chaker"
-          ],
-          "album": "حبك علمني",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f2914a96f44f3cf4ffffab8b",
-          "uri": "spotify:track:2OG1u9eX4Zjsi7fGQB9T8t",
-          "url": "https://open.spotify.com/track/2OG1u9eX4Zjsi7fGQB9T8t",
-          "duration_ms": 313939
-        },
-        {
-          "rank": 47,
-          "name": "NUMBER 2",
-          "artists": [
-            "Lil Tecca"
-          ],
-          "album": "PLAN A",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e55a3924103c132fd3fdc480",
-          "uri": "spotify:track:3p1coqZaHyGvFVLb7EmmeE",
-          "url": "https://open.spotify.com/track/3p1coqZaHyGvFVLb7EmmeE",
-          "duration_ms": 137904
-        },
-        {
           "rank": 48,
-          "name": "Kubiwa Kyouiku no Susume - Radio Edit Ver.",
+          "name": "U+K",
           "artists": [
-            "gulu gulu"
+            "GACKT"
           ],
-          "album": "Kubiwa Kyouiku no Susume (Radio Edit Ver.)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d5792781890aa16ac8fb4d7e",
-          "uri": "spotify:track:46WTw7pIQXC32YNsOc5mG1",
-          "url": "https://open.spotify.com/track/46WTw7pIQXC32YNsOc5mG1",
-          "duration_ms": 205239
+          "album": "MARS",
+          "image": "https://i.scdn.co/image/ab67616d0000b273343018e2dfa4eaf098307849",
+          "uri": "spotify:track:4INmO6G3IgIwtavXcEIKLl",
+          "url": "https://open.spotify.com/track/4INmO6G3IgIwtavXcEIKLl",
+          "duration_ms": 260600
         },
         {
           "rank": 49,
-          "name": "Aquel Nap ZzZz",
+          "name": "美しい日々の欠片",
           "artists": [
-            "Rauw Alejandro"
+            "KAMIJO"
           ],
-          "album": "VICE VERSA",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f793c0c53727d8c5c950f809",
-          "uri": "spotify:track:5bQLsyTrUaMQRfr6whwGe5",
-          "url": "https://open.spotify.com/track/5bQLsyTrUaMQRfr6whwGe5",
-          "duration_ms": 295038
+          "album": "美しい日々の欠片",
+          "image": "https://i.scdn.co/image/ab67616d0000b27358539e9b0baea1f6d012373d",
+          "uri": "spotify:track:4sPFNZAp3bDCFL3BTrGmKb",
+          "url": "https://open.spotify.com/track/4sPFNZAp3bDCFL3BTrGmKb",
+          "duration_ms": 360415
         },
         {
           "rank": 50,
-          "name": "Oppa Oppa",
+          "name": "TEMPLE -Blood sucking for praying-",
           "artists": [
-            "Haifa Wehbe"
+            "KAMIJO"
           ],
-          "album": "Oppa Oppa",
-          "image": "https://i.scdn.co/image/ab67616d0000b273baffb37ec0534a390bed8fa5",
-          "uri": "spotify:track:5cebFKDVtNCYNnfNCZZ971",
-          "url": "https://open.spotify.com/track/5cebFKDVtNCYNnfNCZZ971",
-          "duration_ms": 288783
+          "album": "TEMPLE -Blood sucking for praying-",
+          "image": "https://i.scdn.co/image/ab67616d0000b273692a44dd2529f37f3009ff7e",
+          "uri": "spotify:track:5Ecd2dxtHqyaBrw0m0fbmc",
+          "url": "https://open.spotify.com/track/5Ecd2dxtHqyaBrw0m0fbmc",
+          "duration_ms": 282453
         }
       ],
       "artists": [
@@ -632,14 +633,6 @@
         },
         {
           "rank": 3,
-          "name": "Cigarettes After Sex",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
-          "genres": [],
-          "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        },
-        {
-          "rank": 4,
           "name": "Lil Tecca",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5433d9d8519ad0635d8bd869",
           "genres": [],
@@ -647,12 +640,20 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "Don Toliver",
           "image": "https://i.scdn.co/image/ab6761610000e5eb95ef459a84c75fbdc20a070c",
           "genres": [],
           "uri": "spotify:artist:4Gso3d4CscCijv0lmajZWs",
           "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "rank": 5,
+          "name": "Cigarettes After Sex",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
+          "genres": [],
+          "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
         {
           "rank": 6,
@@ -664,14 +665,6 @@
         },
         {
           "rank": 7,
-          "name": "Saint Levant",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebf30d9b352c41c2cff90117af",
-          "genres": [],
-          "uri": "spotify:artist:5ZZsFnpO7frU8h5xH1wtjT",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        },
-        {
-          "rank": 8,
           "name": "KAMIJO",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd619816883817163caae41c6",
           "genres": [],
@@ -679,12 +672,20 @@
           "url": "https://open.spotify.com/artist/0JwCbwaiMVKrIA6cH8fquT"
         },
         {
-          "rank": 9,
-          "name": "Kaya",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f25a166ed7ebcd049581f03e",
+          "rank": 8,
+          "name": "Saint Levant",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebf30d9b352c41c2cff90117af",
           "genres": [],
-          "uri": "spotify:artist:2QIdg099yylM16gsKCTrsg",
-          "url": "https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg"
+          "uri": "spotify:artist:5ZZsFnpO7frU8h5xH1wtjT",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "rank": 9,
+          "name": "BUCK-TICK",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebbef14ae6a0b704cc4b533e7a",
+          "genres": [],
+          "uri": "spotify:artist:2DiecQcRbDuSJuSPKtirrX",
+          "url": "https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX"
         },
         {
           "rank": 10,
@@ -696,38 +697,22 @@
         },
         {
           "rank": 11,
-          "name": "George Michael",
-          "image": "https://i.scdn.co/image/ab6761610000e5eba45d8843ba426dcecab75f7e",
+          "name": "Kaya",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f25a166ed7ebcd049581f03e",
           "genres": [],
-          "uri": "spotify:artist:19ra5tSw0tWufvUp8GotLo",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+          "uri": "spotify:artist:2QIdg099yylM16gsKCTrsg",
+          "url": "https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg"
         },
         {
           "rank": 12,
-          "name": "BUCK-TICK",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebbef14ae6a0b704cc4b533e7a",
+          "name": "LAREINE",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731bf4be602ae37d924bba5f4c",
           "genres": [],
-          "uri": "spotify:artist:2DiecQcRbDuSJuSPKtirrX",
-          "url": "https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX"
+          "uri": "spotify:artist:2w3S57NmAGnZwqC1ATXxDP",
+          "url": "https://open.spotify.com/artist/2w3S57NmAGnZwqC1ATXxDP"
         },
         {
           "rank": 13,
-          "name": "void",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb65cc3ebb79d98c6ac627b736",
-          "genres": [],
-          "uri": "spotify:artist:5ySK6tR70ZunnmPEHCrCwF",
-          "url": "https://open.spotify.com/artist/5ySK6tR70ZunnmPEHCrCwF"
-        },
-        {
-          "rank": 14,
-          "name": "Nancy Ajram",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd4bd333fb48f25236478fa3e",
-          "genres": [],
-          "uri": "spotify:artist:0LnHdW6HMPoOlNdhG3DHjE",
-          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
-        },
-        {
-          "rank": 15,
           "name": "GACKT",
           "image": "https://i.scdn.co/image/ab6761610000e5eb67ef40a2e9b5360a0b8e3c89",
           "genres": [],
@@ -735,20 +720,36 @@
           "url": "https://open.spotify.com/artist/0MebO9MFNvedjUBsPGo0YN"
         },
         {
+          "rank": 14,
+          "name": "George Michael",
+          "image": "https://i.scdn.co/image/ab6761610000e5eba45d8843ba426dcecab75f7e",
+          "genres": [],
+          "uri": "spotify:artist:19ra5tSw0tWufvUp8GotLo",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "rank": 15,
+          "name": "void",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb65cc3ebb79d98c6ac627b736",
+          "genres": [],
+          "uri": "spotify:artist:5ySK6tR70ZunnmPEHCrCwF",
+          "url": "https://open.spotify.com/artist/5ySK6tR70ZunnmPEHCrCwF"
+        },
+        {
           "rank": 16,
+          "name": "Nancy Ajram",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd4bd333fb48f25236478fa3e",
+          "genres": [],
+          "uri": "spotify:artist:0LnHdW6HMPoOlNdhG3DHjE",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        },
+        {
+          "rank": 17,
           "name": "Drake",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
           "genres": [],
           "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "rank": 17,
-          "name": "LAREINE",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731bf4be602ae37d924bba5f4c",
-          "genres": [],
-          "uri": "spotify:artist:2w3S57NmAGnZwqC1ATXxDP",
-          "url": "https://open.spotify.com/artist/2w3S57NmAGnZwqC1ATXxDP"
         },
         {
           "rank": 18,
@@ -840,14 +841,6 @@
         },
         {
           "rank": 29,
-          "name": "Elissa",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb1605159692db031d9be0ba70",
-          "genres": [],
-          "uri": "spotify:artist:68rvMwPL0yMbYR5cv0pzCR",
-          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
-        },
-        {
-          "rank": 30,
           "name": "beabadoobee",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8724b689605796e605b6b439",
           "genres": [],
@@ -1566,6 +1559,14 @@
         },
         {
           "rank": 13,
+          "name": "TUL8TE",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
+          "genres": [],
+          "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        },
+        {
+          "rank": 14,
           "name": "Rauw Alejandro",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6d72db3fd29576caa9cb821f",
           "genres": [],
@@ -1573,20 +1574,12 @@
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "VIOLENT VIRA",
           "image": "https://i.scdn.co/image/ab6761610000e5eb14c07bcb4da9499543d1031d",
           "genres": [],
           "uri": "spotify:artist:298H8XdYsBHii98wfAZT1S",
           "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
-        },
-        {
-          "rank": 15,
-          "name": "TUL8TE",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
-          "genres": [],
-          "uri": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
-          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
         },
         {
           "rank": 16,
