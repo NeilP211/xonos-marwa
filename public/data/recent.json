@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-11-23T23:39:42.721Z",
+  "updated_at": "2026-11-24T08:54:04.974Z",
   "plays": [
-    {
-      "played_at": "2026-07-24T17:26:50.192Z",
-      "name": "Dos Gardenias",
-      "artists": [
-        "Buena Vista Social Club"
-      ],
-      "album": "Buena Vista Social Club",
-      "image": "https://i.scdn.co/image/ab67616d0000b273dc784c3f0767e576a0848b81",
-      "uri": "spotify:track:3okCsBWWv7okRgaTnMQ2Fp",
-      "duration_ms": 184026
-    },
-    {
-      "played_at": "2026-07-24T17:33:19.559Z",
-      "name": "Aquél Viejo Motel",
-      "artists": [
-        "David Pabon"
-      ],
-      "album": "Oro Salsero",
-      "image": "https://i.scdn.co/image/ab67616d0000b273caa2dfca5176135b3bb1d829",
-      "uri": "spotify:track:286NP8kXWzx2uHb5tr7TGv",
-      "duration_ms": 308893
-    },
     {
       "played_at": "2026-07-24T17:36:24.070Z",
       "name": "Corazón (feat. Nego do Borel)",
@@ -22534,6 +22512,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735f94208beab6ffce4d49fc0f",
       "uri": "spotify:track:1qBJGFqkXDIIBWAdr6dV1o",
       "duration_ms": 260120
+    },
+    {
+      "played_at": "2026-11-20T08:30:25.876Z",
+      "name": "「Akunin」",
+      "artists": [
+        "gulu gulu"
+      ],
+      "album": "Gulu Gulu Ryuushutsu Ongen Shuu (Living Dead Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cd357d35696d27096cbfef84",
+      "uri": "spotify:track:0vaZCOY4wStHm59rJ8tERq",
+      "duration_ms": 285081
+    },
+    {
+      "played_at": "2026-11-24T03:19:06.928Z",
+      "name": "Heseeny",
+      "artists": [
+        "TUL8TE"
+      ],
+      "album": "Narein",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732e50096092c24bd9acb0749d",
+      "uri": "spotify:track:6AOmVuYPC8WJN0hzZ1ODIj",
+      "duration_ms": 213838
     }
   ]
 }
