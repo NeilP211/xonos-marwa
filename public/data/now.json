@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-26T21:23:04.391Z",
+  "updated_at": "2026-11-27T07:15:18.017Z",
   "is_playing": false,
   "track": {
-    "name": "Heseeny",
+    "name": "Hampstead",
     "artists": [
-      "TUL8TE"
+      "Ariana Grande"
     ],
-    "album": "Narein",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732e50096092c24bd9acb0749d",
-    "uri": "spotify:track:6AOmVuYPC8WJN0hzZ1ODIj"
+    "album": "eternal sunshine deluxe: brighter days ahead",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735ab3c842fde848df7a4ee6d9",
+    "uri": "spotify:track:4D2DFuqs2PwLiHbcf6CX47"
   },
-  "played_at": "2026-11-24T03:19:06.928Z"
+  "played_at": "2026-11-27T05:33:08.047Z"
 }
